@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T15:20:50.259Z",
+  "generated_at": "2026-03-04T15:26:24.834Z",
   "updates": [
     {
       "id": "60d2d1e17137",
@@ -137,18 +137,137 @@
       "url": "https://www.federalregister.gov/documents/2026/03/04/2026-04322/new-mexico-statewide-municipal-separate-storm-sewer-system-ms4-general-permit-proposal"
     },
     {
-      "id": "1a71e33927f9",
+      "id": "f5642ab49186",
       "category": "FDA",
-      "date": "2026-03-04",
-      "title": "FDA feed not yet configured",
-      "summary": "Your FDA_RSS_URL is not an RSS XML feed. Replace FDA_RSS_URL with a specific FDA RSS feed URL (e.g., Press Releases, Recalls, MedWatch).",
+      "date": "2026-02-25",
+      "title": "Infusion Pump Software Correction: Fresenius Kabi Issues Correction for Ivenix Large Volume Pump Software",
+      "summary": "Fresenius Kabi is correcting Ivenix LVP software due to anomalies that could cause serious patient harm or death",
       "tags": [
-        "FDA",
-        "Setup"
+        "FDA"
       ],
       "priority": "low",
       "source": "FDA",
-      "url": "https://www.fda.gov/about-fda/contact-fda/subscribe-podcasts-and-news-feeds"
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/infusion-pump-software-correction-fresenius-kabi-issues-correction-ivenix-large-volume-pump-software"
+    },
+    {
+      "id": "f9c574cdb772",
+      "category": "FDA",
+      "date": "2026-02-25",
+      "title": "Early Alert: Heart Pump Purge Cassette Issue from Abiomed",
+      "summary": "Impella Generation 1 Purge Cassettes have an increased risk of purge leaks. Purge leaks can lead to low pump pressure and pump stops",
+      "tags": [
+        "FDA"
+      ],
+      "priority": "low",
+      "source": "FDA",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-purge-cassette-issue-abiomed"
+    },
+    {
+      "id": "c786cd018f86",
+      "category": "FDA",
+      "date": "2026-02-25",
+      "title": "Stent Recall: Boston Scientific Removes Certain AXIOS Stents and Electrocautery-Enhanced Delivery Systems",
+      "summary": "Boston Scientific is removing certain stents and delivery systems due to issues with deployment and expansion.",
+      "tags": [
+        "FDA",
+        "AI/ML"
+      ],
+      "priority": "low",
+      "source": "FDA",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/stent-recall-boston-scientific-removes-certain-axios-stents-and-electrocautery-enhanced-delivery"
+    },
+    {
+      "id": "54cb177912a9",
+      "category": "FDA",
+      "date": "2026-02-23",
+      "title": "Insufflation Unit Recall: Olympus Removes High Flow Insufflation Units",
+      "summary": "Olympus is removing certain High Flow Insufflation Unit models due to software issues that may lead to overpressure events.",
+      "tags": [
+        "FDA"
+      ],
+      "priority": "low",
+      "source": "FDA",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/insufflation-unit-recall-olympus-removes-high-flow-insufflation-units"
+    },
+    {
+      "id": "ce888a24e43b",
+      "category": "FDA",
+      "date": "2026-02-17",
+      "title": "Early Alert: Trividia Health Issues Correction for TRUE METRIX Blood Glucose Monitoring Systems",
+      "summary": "Trividia recommends that device users who receive an E-5 error code and are experiencing symptoms of high glucose should seek medical care immediately",
+      "tags": [
+        "FDA"
+      ],
+      "priority": "low",
+      "source": "FDA",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-trividia-health-issues-correction-true-metrix-blood-glucose-monitoring-systems"
+    },
+    {
+      "id": "b18f8fd25ef8",
+      "category": "FDA",
+      "date": "2026-02-13",
+      "title": "Electronic Homecare Bed Correction: Medline Updates Use Instructions for Homecare Beds",
+      "summary": "Medline updates use instructions for Electronic Homecare Beds due to risk of electrical fires and entrapment.",
+      "tags": [
+        "FDA"
+      ],
+      "priority": "low",
+      "source": "FDA",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/electronic-homecare-bed-correction-medline-updates-use-instructions-homecare-beds"
+    },
+    {
+      "id": "dec34f62f5eb",
+      "category": "FDA",
+      "date": "2026-02-11",
+      "title": "Emergency Response Safety Kit Recall: Airlife Removes Certain Broselow Pediatric Emergency Rainbow Tapes and Broselow ALS Organizers",
+      "summary": "AirLife is removing Broselow Rainbow Tapes due to incorrectly printed medication dosing information.",
+      "tags": [
+        "FDA",
+        "AI/ML"
+      ],
+      "priority": "low",
+      "source": "FDA",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/emergency-response-safety-kit-recall-airlife-removes-certain-broselow-pediatric-emergency-rainbow"
+    },
+    {
+      "id": "ac6c1843960b",
+      "category": "FDA",
+      "date": "2026-02-06",
+      "title": "Trividia Health, Inc. Initiates Labeling Correction for all TRUE METRIX® Blood Glucose Monitoring Systems",
+      "summary": "FT. LAUDERDALE, FL) – February 6, 2026 – Trividia Health, Inc., announced today that it is initiating a labeling correction which requires a modification of the Owner’s Booklets/System Instructions for Use for all TRUE METRIX, TRUE METRIX AIR, TRUE METRIX GO, and TRUE METRIX PRO Blood Glucose Monit",
+      "tags": [
+        "FDA"
+      ],
+      "priority": "low",
+      "source": "FDA",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/trividia-health-inc-initiates-labeling-correction-all-true-metrixr-blood-glucose-monitoring-systems"
+    },
+    {
+      "id": "7ea1a6317b92",
+      "category": "FDA",
+      "date": "2026-02-05",
+      "title": "Glucose Monitor Sensor Recall: Abbott Diabetes Care Removes Certain FreeStyle Libre 3 and FreeStyle Libre 3 Plus Sensors",
+      "summary": "Certain Abbott Diabetes Care Continuous Glucose Monitor sensors may incorrect or lower than actual glucose readings",
+      "tags": [
+        "FDA",
+        "AI/ML"
+      ],
+      "priority": "low",
+      "source": "FDA",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/glucose-monitor-sensor-recall-abbott-diabetes-care-removes-certain-freestyle-libre-3-and-freestyle"
+    },
+    {
+      "id": "7898118100ca",
+      "category": "FDA",
+      "date": "2026-02-05",
+      "title": "Detachable Coil System Recall: J&amp;J MedTech/CERENOVUS Inc. Remove CEREPAK Detachable Coil System",
+      "summary": "MedTech/CERENOVUS is removing CEREPAK Detachable Coil Systems due to a higher than expected failure to detach rate",
+      "tags": [
+        "FDA"
+      ],
+      "priority": "low",
+      "source": "FDA",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/detachable-coil-system-recall-jj-medtechcerenovus-inc-remove-cerepak-detachable-coil-system"
     }
   ]
 }
