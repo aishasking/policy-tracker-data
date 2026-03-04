@@ -1,228 +1,210 @@
 // scripts/build_updates.mjs
-// Generates updates.json from live federal sources (Federal Register + CMS RSS + FDA RSS)
+// Reliable daily policy feed: CMS RSS + FDA RSS + (optional) Federal Register if not blocked.
+// Output format: { generated_at, updates: [...] }
 
 import fs from "node:fs";
 import crypto from "node:crypto";
 
-// ---- CONFIG (edit these if you want) ----
-const MAX_ITEMS_PER_SOURCE = 10;
+const MAX_PER_FEED = 20;         // how many from each source
+const MAX_TOTAL = 60;            // overall cap
+const LOOKBACK_DAYS = 21;        // keep only last N days
 
-// Federal Register: documents endpoint supports JSON filters. Docs: developer resources / REST API. :contentReference[oaicite:3]{index=3}
+// ✅ CMS RSS feeds are documented by CMS. Pick a stable feed URL from CMS RSS page if you want a different one. :contentReference[oaicite:2]{index=2}
+const CMS_RSS_URL = "https://www.cms.gov/about-cms/contact/newsroom/rss";
+
+// ✅ FDA RSS feeds: use a *specific* RSS XML feed URL (not the directory page). FDA publishes RSS feed list. :contentReference[oaicite:3]{index=3}
+const FDA_PRESS_RSS_URL = "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases.xml";
+const FDA_MEDWATCH_RSS_URL = "https://www.fda.gov/safety/medwatch-fda-safety-information-and-adverse-event-reporting-program/medwatch-rss-feed";
+
+// ⚠️ Federal Register often rate-limits / blocks automated access. If it works for you, great. If it’s blocked, we just skip it. :contentReference[oaicite:4]{index=4}
 const FEDREG_URL =
   "https://www.federalregister.gov/api/v1/documents.json?per_page=20&order=newest";
 
-// CMS: CMS provides multiple RSS feeds (you can swap to a specific feed later). :contentReference[oaicite:4]{index=4}
-// This feed link is a placeholder—replace with the specific CMS RSS URL you choose from the CMS RSS page.
-const CMS_RSS_URL = "https://www.cms.gov/about-cms/contact/newsroom/rss";
-
-// FDA: FDA provides many RSS feeds (press releases, recalls, etc.). :contentReference[oaicite:5]{index=5}
-// This is a commonly used Press Releases RSS. If it 404s, pick a feed URL from FDA’s RSS page.
-const FDA_RSS_URL = "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases.xml";
-
-// ---- HELPERS ----
 function sha1(s) {
   return crypto.createHash("sha1").update(s).digest("hex").slice(0, 12);
 }
 
+function stripHtml(s = "") {
+  return s.replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim();
+}
+
 function normalizeDate(dateStr) {
-  // Convert ISO date/time into YYYY-MM-DD when possible
-  if (!dateStr) return new Date().toISOString().slice(0, 10);
   const d = new Date(dateStr);
   if (Number.isNaN(d.getTime())) return new Date().toISOString().slice(0, 10);
   return d.toISOString().slice(0, 10);
+}
+
+function withinLookback(yyyy_mm_dd) {
+  const now = new Date();
+  const d = new Date(yyyy_mm_dd + "T00:00:00Z");
+  const diffDays = Math.floor((now - d) / 86400000);
+  return diffDays >= 0 && diffDays <= LOOKBACK_DAYS;
+}
+
+function categoryFromText(title = "", summary = "") {
+  const t = (title + " " + summary).toLowerCase();
+  if (t.includes("fda") || t.includes("medwatch") || t.includes("drug") || t.includes("device")) return "FDA";
+  if (t.includes("cms") || t.includes("medicare") || t.includes("medicaid") || t.includes("star ratings")) return "CMS";
+  if (t.includes("cdc") || t.includes("mmwr") || t.includes("immunization")) return "CDC";
+  return "LEGIS";
 }
 
 function priorityFromText(title = "", summary = "") {
   const t = (title + " " + summary).toLowerCase();
   if (
     t.includes("final rule") ||
-    t.includes("finalized") ||
+    t.includes("finalizes") ||
     t.includes("enforcement") ||
-    t.includes("civil monetary penalty") ||
+    t.includes("civil monetary") ||
     t.includes("penalt") ||
-    t.includes("termination") ||
-    t.includes("suspension")
-  )
-    return "high";
-  if (t.includes("proposed") || t.includes("draft") || t.includes("request for information") || t.includes("rfi"))
-    return "medium";
+    t.includes("suspend") ||
+    t.includes("terminate")
+  ) return "high";
+  if (t.includes("proposed") || t.includes("draft") || t.includes("request for information") || t.includes("rfi")) return "medium";
   return "low";
 }
 
-function tagsFromCategoryAndText(category, title = "") {
-  const tags = new Set();
-  if (category) tags.add(category);
-  const t = title.toLowerCase();
-  if (t.includes("medicare advantage") || t.includes("ma ")) tags.add("Medicare Advantage");
-  if (t.includes("medicaid")) tags.add("Medicaid");
-  if (t.includes("medicare")) tags.add("Medicare");
-  if (t.includes("telehealth")) tags.add("Telehealth");
-  if (t.includes("price transparency")) tags.add("Price Transparency");
-  if (t.includes("drug") || t.includes("pharma")) tags.add("Drugs");
-  if (t.includes("ai") || t.includes("machine learning")) tags.add("AI/ML");
-  return Array.from(tags).slice(0, 6);
-}
-
-// Extremely small RSS parser (good enough for most RSS feeds)
-function parseRssItems(xmlText) {
+// Minimal RSS parser (works for most standard RSS feeds)
+function parseRss(xml) {
   const items = [];
-  const itemBlocks = xmlText.split(/<item\b[^>]*>/i).slice(1);
-  for (const blk of itemBlocks) {
-    const itemXml = blk.split(/<\/item>/i)[0] || "";
-    const title = (itemXml.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>/i)?.[1] ||
-      itemXml.match(/<title>(.*?)<\/title>/i)?.[1] ||
-      "").trim();
+  const blocks = xml.split(/<item\b[^>]*>/i).slice(1);
+  for (const blk of blocks) {
+    const itemXml = (blk.split(/<\/item>/i)[0] || "").trim();
+    const title =
+      (itemXml.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>/i)?.[1] ||
+        itemXml.match(/<title>(.*?)<\/title>/i)?.[1] ||
+        "").trim();
     const link = (itemXml.match(/<link>(.*?)<\/link>/i)?.[1] || "").trim();
     const pubDate = (itemXml.match(/<pubDate>(.*?)<\/pubDate>/i)?.[1] || "").trim();
-    const description =
+    const desc =
       (itemXml.match(/<description><!\[CDATA\[(.*?)\]\]><\/description>/i)?.[1] ||
         itemXml.match(/<description>(.*?)<\/description>/i)?.[1] ||
         "").trim();
 
     if (!title || !link) continue;
-    items.push({ title, link, pubDate, description });
+    items.push({ title, link, pubDate, description: stripHtml(desc) });
   }
   return items;
 }
 
-async function fetchJson(url) {
-  const r = await fetch(url, { headers: { "user-agent": "policy-tracker-bot/1.0" } });
-  if (!r.ok) throw new Error(`Fetch failed ${r.status} for ${url}`);
-  return r.json();
-}
-
 async function fetchText(url) {
-  const r = await fetch(url, { headers: { "user-agent": "policy-tracker-bot/1.0" } });
+  const r = await fetch(url, {
+    headers: {
+      "user-agent": "policy-tracker-bot/1.0",
+      accept: "application/rss+xml, application/xml;q=0.9, */*;q=0.8",
+    },
+    redirect: "follow",
+  });
   if (!r.ok) throw new Error(`Fetch failed ${r.status} for ${url}`);
   return r.text();
 }
 
-// ---- SOURCE: Federal Register ----
-async function loadFederalRegister() {
-  const data = await fetchJson(FEDREG_URL);
-  const docs = Array.isArray(data?.results) ? data.results : [];
+async function fetchJson(url) {
+  const r = await fetch(url, {
+    headers: { "user-agent": "policy-tracker-bot/1.0", accept: "application/json" },
+    redirect: "follow",
+  });
+  if (!r.ok) throw new Error(`Fetch failed ${r.status} for ${url}`);
+  return r.json();
+}
 
-  return docs.slice(0, MAX_ITEMS_PER_SOURCE).map((d) => {
-    const title = d.title || "Federal Register document";
-    const link = d.html_url || d.pdf_url || "";
-    const date = normalizeDate(d.publication_date || d.public_inspection_date);
-    const summary = (d.abstract || d.excerpts || "").toString().slice(0, 400);
+async function loadRssFeed(url, sourceName, defaultCategory) {
+  const xml = await fetchText(url);
+  if (!xml.toLowerCase().includes("<item")) {
+    throw new Error(`${sourceName} did not return RSS items`);
+  }
+  const items = parseRss(xml).slice(0, MAX_PER_FEED);
 
-    // simple category mapping
-    const agencies = Array.isArray(d.agencies) ? d.agencies.map((a) => a.name).join(", ") : "";
-    let category = "LEGIS";
-    const agenciesLower = agencies.toLowerCase();
-    if (agenciesLower.includes("centers for medicare") || agenciesLower.includes("cms")) category = "CMS";
-    if (agenciesLower.includes("food and drug") || agenciesLower.includes("fda")) category = "FDA";
-    if (agenciesLower.includes("centers for disease") || agenciesLower.includes("cdc")) category = "CDC";
+  return items.map((it) => {
+    const date = normalizeDate(it.pubDate || new Date().toISOString());
+    const summary = (it.description || "").slice(0, 420);
+    const category = defaultCategory || categoryFromText(it.title, summary);
 
     return {
-      id: sha1(`fedreg:${d.document_number || link || title}`),
+      id: sha1(`${sourceName}:${it.link}`),
+      category,
+      date,
+      title: it.title,
+      summary: summary || `${sourceName} update.`,
+      tags: [sourceName],
+      priority: priorityFromText(it.title, summary),
+      source: sourceName,
+      url: it.link,
+    };
+  });
+}
+
+async function loadFederalRegister() {
+  const data = await fetchJson(FEDREG_URL);
+  const results = Array.isArray(data?.results) ? data.results : [];
+  return results.slice(0, MAX_PER_FEED).map((d) => {
+    const title = d.title || "Federal Register document";
+    const url = d.html_url || d.pdf_url || "";
+    const date = normalizeDate(d.publication_date || d.public_inspection_date || new Date().toISOString());
+    const summary = stripHtml(d.abstract || "").slice(0, 420);
+    const category = categoryFromText(title, summary);
+    return {
+      id: sha1(`FederalRegister:${d.document_number || url || title}`),
       category,
       date,
       title,
-      summary: summary || "Federal Register item (no abstract provided).",
-      tags: tagsFromCategoryAndText(category, title),
+      summary: summary || "Federal Register document (no abstract provided).",
+      tags: ["Federal Register"],
       priority: priorityFromText(title, summary),
       source: "Federal Register",
-      url: link
+      url,
     };
   });
 }
 
-// ---- SOURCE: CMS RSS ----
-async function loadCmsRss() {
-  const xml = await fetchText(CMS_RSS_URL);
-  const items = parseRssItems(xml);
-
-  return items.slice(0, MAX_ITEMS_PER_SOURCE).map((it) => {
-    const title = it.title;
-    const date = normalizeDate(it.pubDate);
-    const summary = (it.description || "").replace(/<[^>]+>/g, "").slice(0, 400);
-
-    return {
-      id: sha1(`cms:${it.link}`),
-      category: "CMS",
-      date,
-      title,
-      summary: summary || "CMS update.",
-      tags: tagsFromCategoryAndText("CMS", title),
-      priority: priorityFromText(title, summary),
-      source: "CMS",
-      url: it.link
-    };
-  });
-}
-
-// ---- SOURCE: FDA RSS ----
-async function loadFdaRss() {
-  // FDA has many feeds; this URL may be a landing page, not an RSS XML.
-  // If this doesn't return XML with <item>, replace FDA_RSS_URL with a specific RSS feed URL from FDA’s RSS page. :contentReference[oaicite:6]{index=6}
-  const txt = await fetchText(FDA_RSS_URL);
-  if (!txt.toLowerCase().includes("<rss") && !txt.toLowerCase().includes("<feed")) {
-    // Not XML feed; return empty with a note item
-    return [
-      {
-        id: sha1("fda:feed-not-configured"),
-        category: "FDA",
-        date: new Date().toISOString().slice(0, 10),
-        title: "FDA feed not yet configured",
-        summary:
-          "Your FDA_RSS_URL is not an RSS XML feed. Replace FDA_RSS_URL with a specific FDA RSS feed URL (e.g., Press Releases, Recalls, MedWatch).",
-        tags: ["FDA", "Setup"],
-        priority: "low",
-        source: "FDA",
-        url: "https://www.fda.gov/about-fda/contact-fda/subscribe-podcasts-and-news-feeds"
-      }
-    ];
-  }
-
-  const items = parseRssItems(txt);
-  return items.slice(0, MAX_ITEMS_PER_SOURCE).map((it) => {
-    const title = it.title;
-    const date = normalizeDate(it.pubDate);
-    const summary = (it.description || "").replace(/<[^>]+>/g, "").slice(0, 400);
-
-    return {
-      id: sha1(`fda:${it.link}`),
-      category: "FDA",
-      date,
-      title,
-      summary: summary || "FDA update.",
-      tags: tagsFromCategoryAndText("FDA", title),
-      priority: priorityFromText(title, summary),
-      source: "FDA",
-      url: it.link
-    };
-  });
-}
-
-// ---- MAIN ----
 async function main() {
   const now = new Date();
 
-  let fedreg = [];
-  let cms = [];
-  let fda = [];
+  const all = [];
 
-  // Fail “softly” per source so one bad feed doesn’t kill the whole build.
-  try { fedreg = await loadFederalRegister(); } catch (e) { console.error("FedReg error:", e.message); }
-  try { cms = await loadCmsRss(); } catch (e) { console.error("CMS RSS error:", e.message); }
-  try { fda = await loadFdaRss(); } catch (e) { console.error("FDA RSS error:", e.message); }
+  // CMS
+  try {
+    all.push(...(await loadRssFeed(CMS_RSS_URL, "CMS", "CMS")));
+  } catch (e) {
+    console.error("CMS feed error:", e.message);
+  }
 
-  // Merge + sort newest first
-  const merged = [...fedreg, ...cms, ...fda]
-    .filter(Boolean)
+  // FDA Press Releases
+  try {
+    all.push(...(await loadRssFeed(FDA_PRESS_RSS_URL, "FDA", "FDA")));
+  } catch (e) {
+    console.error("FDA Press feed error:", e.message);
+  }
+
+  // FDA MedWatch (this URL is an FDA page that displays RSS/XML per FDA; if it fails, skip) :contentReference[oaicite:5]{index=5}
+  try {
+    all.push(...(await loadRssFeed(FDA_MEDWATCH_RSS_URL, "FDA MedWatch", "FDA")));
+  } catch (e) {
+    console.error("FDA MedWatch feed error:", e.message);
+  }
+
+  // Federal Register (optional; may be blocked)
+  try {
+    all.push(...(await loadFederalRegister()));
+  } catch (e) {
+    console.error("Federal Register error (skipping):", e.message);
+  }
+
+  // Keep recent only, dedupe by url, sort newest first
+  const byUrl = new Map();
+  for (const u of all) {
+    if (!u?.url) continue;
+    if (!withinLookback(u.date)) continue;
+    if (!byUrl.has(u.url)) byUrl.set(u.url, u);
+  }
+
+  const updates = Array.from(byUrl.values())
     .sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : 0))
-    .slice(0, 50);
+    .slice(0, MAX_TOTAL);
 
-  const output = {
-    generated_at: now.toISOString(),
-    updates: merged
-  };
-
+  const output = { generated_at: now.toISOString(), updates };
   fs.writeFileSync("updates.json", JSON.stringify(output, null, 2));
-  console.log(`Wrote updates.json with ${merged.length} items`);
+  console.log(`Wrote updates.json with ${updates.length} items`);
 }
 
 main().catch((e) => {
