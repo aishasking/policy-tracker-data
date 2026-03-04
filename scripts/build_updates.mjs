@@ -17,8 +17,7 @@ const CMS_RSS_URL = "https://www.cms.gov/about-cms/contact/newsroom/rss";
 
 // FDA: FDA provides many RSS feeds (press releases, recalls, etc.). :contentReference[oaicite:5]{index=5}
 // This is a commonly used Press Releases RSS. If it 404s, pick a feed URL from FDA’s RSS page.
-const FDA_RSS_URL = "http://www.fda.gov/AboutFDA/ContactFDA/StayInformed/RSSFeeds/MedWatch/rss";
-
+const FDA_RSS_URL = "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/medwatch/rss.xml";
 // ---- HELPERS ----
 function sha1(s) {
   return crypto.createHash("sha1").update(s).digest("hex").slice(0, 12);
