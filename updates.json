@@ -1,140 +1,265 @@
 {
-  "generated_at": "2026-03-04T15:28:19.347Z",
+  "generated_at": "2026-03-05T13:35:17.558Z",
   "updates": [
     {
-      "id": "60d2d1e17137",
+      "id": "8b4f85ea8c71",
       "category": "LEGIS",
-      "date": "2026-03-04",
-      "title": "Air Plan Approval; Arizona; Attainment Plan for the Hayden SO2 Nonattainment Area for the 1971 and 2010 Sulfur Dioxide National Ambient Air Quality Standards",
-      "summary": "The Environmental Protection Agency (EPA) is proposing to approve revisions to the Arizona state implementation plan (SIP) for attaining the 1971 and 2010 sulfur dioxide (SO<INF>2</INF>) national ambient air quality standards (NAAQS or \"standards\") in the Hayden SO<INF>2</INF> nonattainment area. These SIP revisions, collectively referred to as the \"Hayden SO<INF>2</INF> Plan\" or \"Plan,\" include A",
+      "date": "2026-03-05",
+      "title": "Continuation of the National Emergency With Respect to Iran",
+      "summary": "Federal Register document (no abstract provided).",
       "tags": [
-        "LEGIS",
-        "AI/ML"
+        "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/04/2026-04339/air-plan-approval-arizona-attainment-plan-for-the-hayden-so2-nonattainment-area-for-the-1971-and"
+      "url": "https://www.federalregister.gov/documents/2026/03/05/2026-04450/continuation-of-the-national-emergency-with-respect-to-iran"
     },
     {
-      "id": "297832c22679",
+      "id": "8798f7f17c83",
       "category": "LEGIS",
-      "date": "2026-03-04",
-      "title": "Approval and Promulgation of State Air Quality Plans for Designated Facilities and Pollutants; Texas; Control of Emissions From Existing Municipal Solid Waste Landfills",
-      "summary": "Pursuant to the Federal Clean Air Act (CAA or the Act), the Environmental Protection Agency (EPA) is proposing to approve the CAA section 111(d) state plan submitted by the State of Texas for sources subject to the Municipal Solid Waste (MSW) Landfills Emission Guidelines (EG). The Texas MSW landfills plan was submitted to fulfill the state's obligations under CAA section 111(d) to implement and e",
+      "date": "2026-03-05",
+      "title": "Quarterly Status Report of Water Service, Repayment, and Other Water-Related Contract Actions",
+      "summary": "Notice is hereby given of contractual actions that have been proposed to the Bureau of Reclamation (Reclamation) and are new, discontinued, or completed since the last publication of this notice. This notice informs the public about proposed contractual actions for capital recovery and management of project resources and facilities consistent with section 9(f) of the Reclamation Project Act of 1939.",
       "tags": [
-        "LEGIS",
-        "AI/ML"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/04/2026-04338/approval-and-promulgation-of-state-air-quality-plans-for-designated-facilities-and-pollutants-texas"
-    },
-    {
-      "id": "0544cb7ee780",
-      "category": "LEGIS",
-      "date": "2026-03-04",
-      "title": "Procedures for Transportation Workplace Drug and Alcohol Testing Programs: Substance Abuse Professional and the Return-to-Duty Process",
-      "summary": "The Substance Abuse Professional (SAP) is the `gatekeeper' for the Department of Transportation's return-to-duty process (RTD). As the `gatekeeper', the SAP has a crucial role to play in recommending the level of treatment an employee may need in their path to returning to performing a safety-sensitive function after violating the DOT's drug and alcohol testing regulations. Given this critical rol",
-      "tags": [
-        "LEGIS",
-        "Drugs"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/04/2026-04337/procedures-for-transportation-workplace-drug-and-alcohol-testing-programs-substance-abuse"
-    },
-    {
-      "id": "00a556f892d5",
-      "category": "LEGIS",
-      "date": "2026-03-04",
-      "title": "Sunshine Act Meetings",
-      "summary": "Federal Register item (no abstract provided).",
-      "tags": [
-        "LEGIS"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/04/2026-04336/sunshine-act-meetings"
-    },
-    {
-      "id": "ccc0bc0e94f6",
-      "category": "LEGIS",
-      "date": "2026-03-04",
-      "title": "Air Plan Approval; OR; Klamath Falls PM2.5 Redesignation to Attainment and Maintenance Plan",
-      "summary": "The Environmental Protection Agency (EPA) proposes to approve an August 20, 2024 request by the Oregon Department of Environmental Quality (Oregon) to revise the attainment plan for the Klamath Falls, Oregon, nonattainment area; redesignate the Klamath Falls nonattainment area to attainment for the 2006 24-hour fine particulate matter (PM<INF>2.5</INF>) National Ambient Air Quality Standard (NAAQS",
-      "tags": [
-        "LEGIS",
-        "AI/ML"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/04/2026-04333/air-plan-approval-or-klamath-falls-pm25-redesignation-to-attainment-and-maintenance-plan"
-    },
-    {
-      "id": "7d9a811d9b34",
-      "category": "LEGIS",
-      "date": "2026-03-04",
-      "title": "Airworthiness Directives; Textron Aviation, Inc. (Type Certificate Previously Held by Cessna Aircraft Company) Airplanes",
-      "summary": "The FAA is correcting an airworthiness directive (AD) that was published in the Federal Register. That AD applies to all Textron Aviation, Inc., Model 525B airplanes. As published, there was an error in Table 1 to paragraph (g) of the AD. This document corrects that error. In all other respects, the original document remains the same.",
-      "tags": [
-        "LEGIS",
-        "AI/ML"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/04/2026-04331/airworthiness-directives-textron-aviation-inc-type-certificate-previously-held-by-cessna-aircraft"
-    },
-    {
-      "id": "7b5f5ce37a85",
-      "category": "LEGIS",
-      "date": "2026-03-04",
-      "title": "Farmer Bridge Assistance (FBA) Program; Approval of Information Collection Request",
-      "summary": "The final rule entitled Farmer Bridge Assistance (FBA) Program was published on February 23, 2026. The Office of Management and Budget cleared the associated information collection requirements (ICR) on February 26, 2026. This document announces approval of the ICR.",
-      "tags": [
-        "LEGIS"
-      ],
-      "priority": "high",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/04/2026-04329/farmer-bridge-assistance-fba-program-approval-of-information-collection-request"
-    },
-    {
-      "id": "5272c20520b4",
-      "category": "LEGIS",
-      "date": "2026-03-04",
-      "title": "Records Schedules; Notice of Withdrawal",
-      "summary": "When the records schedule notice was published on February 26, 2026, at 91 FR 9658, the link to the URL for the regulations.gov docket for the schedules was incorrect. Due to this clerical error, the notice will be withdrawn and the schedules will be reposted as soon as possible in a new notice, allowing the full 45-day comment period for the public to submit comments.",
-      "tags": [
-        "LEGIS"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/04/2026-04324/records-schedules-notice-of-withdrawal"
-    },
-    {
-      "id": "d636aaf8f22b",
-      "category": "LEGIS",
-      "date": "2026-03-04",
-      "title": "Glycine From the People's Republic of China: Notice of Final Results of Antidumping Duty Changed Circumstances Review",
-      "summary": "The U.S. Department of Commerce (Commerce) determines, in the context of this changed circumstances review (CCR) of the antidumping duty (AD) order on glycine from the People's Republic of China (China), that Salvi Chemical Industries Ltd. (Salvi) is ineligible to participate in the importer certification process because Salvi failed to demonstrate that it no longer uses Chinese-origin glycine in ",
-      "tags": [
-        "LEGIS"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/04/2026-04323/glycine-from-the-peoples-republic-of-china-notice-of-final-results-of-antidumping-duty-changed"
-    },
-    {
-      "id": "79909b5793c7",
-      "category": "LEGIS",
-      "date": "2026-03-04",
-      "title": "New Mexico Statewide Municipal Separate Storm Sewer System (MS4) General Permit Proposal",
-      "summary": "The Environmental Protection Agency (EPA) Region 6 is providing notice of a proposed National Pollutant Discharge Elimination System (NPDES) Statewide general permit for storm water discharges from municipal separate storm sewer systems (MS4s) located in urbanized areas in the State of New Mexico. This permit offers discharge authorization to regulated MS4s within the boundaries of the Bureau of t",
-      "tags": [
-        "LEGIS"
+        "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/04/2026-04322/new-mexico-statewide-municipal-separate-storm-sewer-system-ms4-general-permit-proposal"
+      "url": "https://www.federalregister.gov/documents/2026/03/05/2026-04398/quarterly-status-report-of-water-service-repayment-and-other-water-related-contract-actions"
+    },
+    {
+      "id": "1de363aaa66f",
+      "category": "LEGIS",
+      "date": "2026-03-05",
+      "title": "Reestablishment of the Taxpayer Advocacy Panel",
+      "summary": "The Treasury Department has determined that it is in the public interest to reestablish the Taxpayer Advocacy Panel (TAP) and the Internal Revenue Service's Chief Executive Officer approved the TAP Public Interest Determination statement. A Charter for the TAP has been prepared and will be filed no earlier than 7 days following the date of publication of this notice.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/05/2026-04397/reestablishment-of-the-taxpayer-advocacy-panel"
+    },
+    {
+      "id": "b0b1cb75622c",
+      "category": "LEGIS",
+      "date": "2026-03-05",
+      "title": "Miscellaneous and General Requirements",
+      "summary": "The Federal Labor Relations Authority (FLRA or Authority) is withdrawing its Notice of Proposed Rule and Proposed Rescission of General Statement of Policy or Guidance (the proposal notice) published in the Federal Register on December 21, 2022. The Authority has determined not to revise or rescind its existing regulation concerning the intervals at which federal employees may revoke their written assignments of payr",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/05/2026-04396/miscellaneous-and-general-requirements"
+    },
+    {
+      "id": "c53292e995a0",
+      "category": "LEGIS",
+      "date": "2026-03-05",
+      "title": "Agency Information Collection Activities: Notice of Intent To Renew Collection 3038-0119: Qualification Information for Candidates to Advisory Committees and Subcommittees",
+      "summary": "The Commodity Futures Trading Commission (\"Commission\" or \"CFTC\") is announcing an opportunity for public comment on the proposed collection of qualification information for advisory committee and subcommittee candidates by the agency. Under the Paperwork Reduction Act (\"PRA\"), Federal agencies are required to publish notice in the Federal Register concerning each proposed collection of information, including each pr",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/05/2026-04395/agency-information-collection-activities-notice-of-intent-to-renew-collection-3038-0119"
+    },
+    {
+      "id": "02e069edce41",
+      "category": "LEGIS",
+      "date": "2026-03-05",
+      "title": "Center for Scientific Review; Notice of Closed Meeting",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/05/2026-04394/center-for-scientific-review-notice-of-closed-meeting"
+    },
+    {
+      "id": "c661b8d373e6",
+      "category": "LEGIS",
+      "date": "2026-03-05",
+      "title": "Proposed Collection; 60-Day Comment Request; Early Career Reviewer Program Online Application and Vetting System-Center for Scientific Review (CSR)",
+      "summary": "In compliance with the requirement of the Paperwork Reduction Act of 1995 to provide opportunity for public comment on proposed data collection projects, the Center for Scientific Review (CSR) National Institutes of Health will publish periodic summaries of proposed projects to be submitted to the Office of Management and Budget (OMB) for review and approval.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/05/2026-04393/proposed-collection-60-day-comment-request-early-career-reviewer-program-online-application-and"
+    },
+    {
+      "id": "46d78fa63fc4",
+      "category": "LEGIS",
+      "date": "2026-03-05",
+      "title": "Center for Scientific Review; Amended Notice of Meeting",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/05/2026-04392/center-for-scientific-review-amended-notice-of-meeting"
+    },
+    {
+      "id": "d9fe7d74d656",
+      "category": "LEGIS",
+      "date": "2026-03-05",
+      "title": "Office of the Assistant Secretary for Research and Technology; Request for Information-Research To Support Establishing a National Strategy for Transportation Digital Infrastructure",
+      "summary": "On February 4, 2026, the U.S. Department of Transportation (U.S. DOT), Office of the Assistant Secretary for Research and Technology (OST-R), published in the Federal Register a request for information seeking comments on the research and development activities needed to modernize the nation's transportation system through the application of digital infrastructure at scale. Responses will inform a coordinated nationa",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/05/2026-04391/office-of-the-assistant-secretary-for-research-and-technology-request-for-information-research-to"
+    },
+    {
+      "id": "f029aa23cef2",
+      "category": "LEGIS",
+      "date": "2026-03-05",
+      "title": "Review of State Bar Complaints and Allegations Against Department of Justice Attorneys",
+      "summary": "The Department of Justice (\"Department\") proposes to establish a process for reviewing bar complaints and allegations against its attorneys. Under the proposed rule, before a current or former Department lawyer may participate in any investigative steps initiated by the bar disciplinary authority of a State, Territory, or the District of Columbia in response to allegations that a current or former Department attorney",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/05/2026-04390/review-of-state-bar-complaints-and-allegations-against-department-of-justice-attorneys"
+    },
+    {
+      "id": "fcd0e153d161",
+      "category": "LEGIS",
+      "date": "2026-03-05",
+      "title": "[Graycliff Mezzanine II, LP] License No. 02020659; Surrender of License of Small Business Investment Company",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/05/2026-04389/graycliff-mezzanine-ii-lp-license-no-02020659-surrender-of-license-of-small-business-investment"
+    },
+    {
+      "id": "418c342249f6",
+      "category": "LEGIS",
+      "date": "2026-03-05",
+      "title": "Clean Water Act Hazardous Substance Facility Response Plans: Compliance Date Delay and Changes To Reflect Administration Policy",
+      "summary": "The Environmental Protection Agency (EPA) is proposing to delay the compliance date for Facility Response Plan (FRP) requirements as well as to make language modifications to align with the Administration's climate change and environmental justice policies in Executive Order 14148 of January 20, 2025. These requirements are for onshore non-transportation-related facilities that could reasonably be expected to cause s",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/05/2026-04388/clean-water-act-hazardous-substance-facility-response-plans-compliance-date-delay-and-changes-to"
+    },
+    {
+      "id": "afe83e9d5e95",
+      "category": "LEGIS",
+      "date": "2026-03-05",
+      "title": "Tribal Advisory Committee; Notice of Solicitation for Nominations",
+      "summary": "Through this notice, the U.S. Department of Agriculture (USDA) is soliciting nominations for three (3) vacancies on the USDA Tribal Advisory Committee (\"the Committee\"). The Committee consists of eleven (11) members serving staggered terms. Three members will be appointed by the Secretary of Agriculture for a three-year term. This notice reopens the notice to solicit nominations for membership published in the Federa",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/05/2026-04387/tribal-advisory-committee-notice-of-solicitation-for-nominations"
+    },
+    {
+      "id": "906fa2f9a643",
+      "category": "LEGIS",
+      "date": "2026-03-05",
+      "title": "Financial Assurance Guidance for the Good Samaritan Remediation of Abandoned Hardrock Mines Act of 2024",
+      "summary": "The Environmental Protection Agency (EPA or Agency) is announcing the availability of the final guidance titled \"Guidance on Financial Assurance Requirements in the Good Samaritan Remediation of Abandoned Hardrock Mines Act of 2024.\" The Good Samaritan Remediation of Abandoned Hardrock Mines Act of 2024 (the Act) establishes a pilot program authorizing the Administrator of the EPA, among other things, to grant up to ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/05/2026-04386/financial-assurance-guidance-for-the-good-samaritan-remediation-of-abandoned-hardrock-mines-act-of"
+    },
+    {
+      "id": "1c5e5fa23733",
+      "category": "LEGIS",
+      "date": "2026-03-05",
+      "title": "Notice of Public Meeting of the Virginia Advisory Committee to the U.S. Commission on Civil Rights",
+      "summary": "Notice is hereby given, pursuant to the provisions of the rules and regulations of the U.S. Commission on Civil Rights (Commission) and the Federal Advisory Committee Act, that the Virginia Advisory Committee (Committee) to the U.S. Commission on Civil Rights will hold a public meeting via Zoom. The purpose of the meeting is to discuss and potentially vote on the Committee's project proposal.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/05/2026-04385/notice-of-public-meeting-of-the-virginia-advisory-committee-to-the-us-commission-on-civil-rights"
+    },
+    {
+      "id": "82536fff9b78",
+      "category": "LEGIS",
+      "date": "2026-03-05",
+      "title": "Agency Information Collection Activities: Proposed Collection Renewal; Comment Request",
+      "summary": "The FDIC, as part of its obligations under the Paperwork Reduction Act of 1995, invites the general public and other Federal agencies to take this opportunity to comment on the request to renew the existing information collections described below (OMB Control No. 3064-0079, and -0122). The notices of proposed renewal for these information collections were previously published in the Federal Register on December 15, 2",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/05/2026-04384/agency-information-collection-activities-proposed-collection-renewal-comment-request"
+    },
+    {
+      "id": "3ba6010c1beb",
+      "category": "LEGIS",
+      "date": "2026-03-05",
+      "title": "Agency Information Collection Activities: Comment Request",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995 (PRA), the Consumer Financial Protection Bureau (CFPB or Bureau) requests the Office of Management and Budget's (OMB's) reinstatement of an information collection titled \"Privacy of Consumer Financial Information (Regulation P)\" approved under OMB Control Number 3170- 0010.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/05/2026-04383/agency-information-collection-activities-comment-request"
+    },
+    {
+      "id": "c46cbccec216",
+      "category": "LEGIS",
+      "date": "2026-03-05",
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Current Population Survey (CPS) 2026 Field Test",
+      "summary": "The Department of Commerce, in accordance with the Paperwork Reduction Act (PRA) of 1995, invites the general public and other Federal agencies to comment on proposed, and continuing information collections, which helps us assess the impact of our information collection requirements and minimize the public's reporting burden. The purpose of this notice is to allow for 60 days of public comment on the proposed reinsta",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/05/2026-04382/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+    },
+    {
+      "id": "a217db266723",
+      "category": "FDA",
+      "date": "2026-03-05",
+      "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
+      "summary": "Notice is hereby given that the U.S. International Trade Commission has received a complaint entitled Certain Display Devices, Streaming Players, and Components Thereof, DN 3891; the Commission is soliciting comments on any public interest issues raised by the complaint or complainant's filing pursuant to the Commission's Rules of Practice and Procedure.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/05/2026-04381/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest"
+    },
+    {
+      "id": "c3864811180b",
+      "category": "LEGIS",
+      "date": "2026-03-05",
+      "title": "Reporting and Recordkeeping Requirements Under Office of Management and Budget Review",
+      "summary": "The Small Business Administration (SBA) will submit the information collection described below to the Office of Management and Budget (OMB) for review and clearance in accordance with the Paperwork Reduction Act of 1995, as amended, on or after the date of publication of this notice. SBA is publishing this notice to allow all interested members of the public an additional 30 days to provide comments on the collection",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/05/2026-04380/reporting-and-recordkeeping-requirements-under-office-of-management-and-budget-review"
     }
   ]
 }
