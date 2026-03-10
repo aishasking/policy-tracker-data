@@ -1,23 +1,49 @@
 {
-  "generated_at": "2026-03-09T13:38:46.242Z",
+  "generated_at": "2026-03-10T13:36:47.559Z",
   "updates": [
     {
-      "id": "eee4e886839d",
+      "id": "2641a72b3aa6",
       "category": "LEGIS",
-      "date": "2026-03-09",
-      "title": "Ratepayer Protection Pledge",
+      "date": "2026-03-10",
+      "title": "Determination of Regulatory Review Period for Purposes of Patent Extension; AURORA EV-ICD",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/09/2026-04645/ratepayer-protection-pledge"
+      "url": "https://www.federalregister.gov/documents/2026/03/10/C1-2026-02383/determination-of-regulatory-review-period-for-purposes-of-patent-extension-aurora-ev-icd"
     },
     {
-      "id": "d3a69e7df0d2",
+      "id": "28c626082266",
       "category": "LEGIS",
-      "date": "2026-03-09",
+      "date": "2026-03-10",
+      "title": "Airworthiness Directives; Airbus SAS Airplanes",
+      "summary": "The FAA proposes to adopt a new airworthiness directive (AD) for certain Airbus SAS Model A318 series airplanes; Model A319-111, - 112, -113, -114, -115, -131, -132, and -133 airplanes; Model A320-211, -212, -214, -216, -231, -232, and -233 airplanes; and Model A321-111, - 112, -131, -211, -212, -213, -231, and -232 airplanes. This proposed AD was prompted by reports of broken bolts in seat rail connections of certai",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/10/2026-04713/airworthiness-directives-airbus-sas-airplanes"
+    },
+    {
+      "id": "17ff53e2d5d6",
+      "category": "LEGIS",
+      "date": "2026-03-10",
+      "title": "Airworthiness Directives; Dassault Aviation Airplanes",
+      "summary": "The FAA proposes to adopt a new airworthiness directive (AD) for certain Dassault Aviation Model FALCON 7X airplanes. This proposed AD was prompted by a report of a failed extension of the inboard slats during the landing phase, which the crew alerting system (CAS) did not indicate to the flightcrew. This proposed AD would require modifying the maintenance and avionics interface computer (MAIC) software and revising ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/10/2026-04712/airworthiness-directives-dassault-aviation-airplanes"
+    },
+    {
+      "id": "26ff2435fee8",
+      "category": "LEGIS",
+      "date": "2026-03-10",
       "title": "Sunshine Act Meetings",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
@@ -25,241 +51,215 @@
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/09/2026-04601/sunshine-act-meetings"
+      "url": "https://www.federalregister.gov/documents/2026/03/10/2026-04705/sunshine-act-meetings"
     },
     {
-      "id": "716572ef63ba",
+      "id": "1d992f17cbc7",
       "category": "LEGIS",
-      "date": "2026-03-09",
-      "title": "Dairy Tariff-Rate Quota Import Licensing Program",
-      "summary": "This proposed rule would amend the regulation that provides for the issuance of annual licenses to import certain dairy articles under tariff-rate quotas (TRQs) as set forth in the Harmonized Tariff Schedule of the United States. FAS proposes changes to make the regulation more user friendly through updated language and clarification of some provisions. Among other changes, the proposed rule would replace the section",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/09/2026-04599/dairy-tariff-rate-quota-import-licensing-program"
-    },
-    {
-      "id": "7fe8ee11284a",
-      "category": "LEGIS",
-      "date": "2026-03-09",
-      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request on Information Collection Requirements Related to Practice Before the Internal Revenue Service",
-      "summary": "The Department of the Treasury will submit the following information collection requests to the Office of Management and Budget (OMB) for review and clearance in accordance with the Paperwork Reduction Act of 1995, on or after the date of publication of this notice. The public is invited to submit comments on these requests.",
+      "date": "2026-03-10",
+      "title": "The National Railroad Passenger Corporation's (Amtrak) Request To Amend Its Positive Train Control System",
+      "summary": "This document provides the public with notice that, on February 27, 2026, Amtrak submitted a request for amendment (RFA) to one of its FRA-certified positive train control (PTC) systems. FRA is publishing this notice and inviting public comment on the railroad's RFA to its PTC system.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/09/2026-04591/agency-information-collection-activities-submission-for-omb-review-comment-request-on-information"
+      "url": "https://www.federalregister.gov/documents/2026/03/10/2026-04701/the-national-railroad-passenger-corporations-amtrak-request-to-amend-its-positive-train-control"
     },
     {
-      "id": "81a3551c28c9",
+      "id": "80dba2ba624e",
       "category": "LEGIS",
-      "date": "2026-03-09",
-      "title": "National Drinking Water Advisory Council: Request for Nominations",
-      "summary": "The U.S. Environmental Protection Agency (EPA) invites nominations of qualified candidates to be considered for three-year appointments to the National Drinking Water Advisory Council (NDWAC or Council). The 15-member Council was established by the Safe Drinking Water Act (SDWA) to provide independent advice, consultation, and recommendations to the EPA Administrator on matters relating to activities, functions, poli",
+      "date": "2026-03-10",
+      "title": "Mid-Atlantic Fishery Management Council (MAFMC); Public Meeting",
+      "summary": "The Mid-Atlantic Fishery Management Council (MAFMC) will hold a public workshop to collect input on the commercial Scup Gear Restricted Areas (GRAs). This public workshop will be facilitated by the Cornell Cooperative Extension of Suffolk County-Marine Program to incorporate commercial fishing industry involvement in the MAFMC funded project, \"Utilizing Collaborative Strategies to Assess and Adapt Scup Gear Restricte",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/09/2026-04590/national-drinking-water-advisory-council-request-for-nominations"
+      "url": "https://www.federalregister.gov/documents/2026/03/10/2026-04700/mid-atlantic-fishery-management-council-mafmc-public-meeting"
     },
     {
-      "id": "e659623ed631",
+      "id": "98ddfdce351d",
       "category": "LEGIS",
-      "date": "2026-03-09",
-      "title": "Agency Information Collection Activities: Comment Request; Grantee Reporting Requirements for the Emerging Frontiers in Research and Innovation Program",
-      "summary": "The National Science Foundation (NSF) is announcing plans to renew this collection. In accordance with the requirements of the Paperwork Reduction Act of 1995, we are providing opportunity for public comment on this action. After obtaining and considering public comment, NSF will prepare the submission requesting Office of Management and Budget (OMB) clearance of this collection for no longer than 3 years.",
+      "date": "2026-03-10",
+      "title": "Gulf Fishery Management Council; Public Meeting",
+      "summary": "The Gulf Fishery Management Council (Council) will hold a 3- day meeting to consider actions affecting the Gulf of America fisheries in the exclusive economic zone (EEZ).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/09/2026-04588/agency-information-collection-activities-comment-request-grantee-reporting-requirements-for-the"
+      "url": "https://www.federalregister.gov/documents/2026/03/10/2026-04699/gulf-fishery-management-council-public-meeting"
     },
     {
-      "id": "5bbc7e5c03cd",
+      "id": "051405f4e517",
       "category": "LEGIS",
-      "date": "2026-03-09",
-      "title": "Agency Information Collection Activities: Information Collection Renewal; Submission for OMB Review; General Reporting and Recordkeeping Requirements by Savings Associations",
-      "summary": "The OCC, as part of its continuing effort to reduce paperwork and respondent burden, invites comment on a continuing information collection, as required by the Paperwork Reduction Act of 1995 (PRA). In accordance with the requirements of the PRA, the OCC may not conduct or sponsor, and the respondent is not required to respond to, an information collection unless it displays a currently valid Office of Management and",
+      "date": "2026-03-10",
+      "title": "New England Fishery Management Council; Public Meeting",
+      "summary": "The New England Fishery Management Council (Council) is scheduling a public webinar of its Herring Advisory Panel to consider actions affecting New England fisheries in the exclusive economic zone (EEZ). Recommendations from this group will be brought to the full Council for formal consideration and action, if appropriate.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/09/2026-04587/agency-information-collection-activities-information-collection-renewal-submission-for-omb-review"
+      "url": "https://www.federalregister.gov/documents/2026/03/10/2026-04698/new-england-fishery-management-council-public-meeting"
     },
     {
-      "id": "aa49d9839e44",
+      "id": "c1a481898f98",
       "category": "LEGIS",
-      "date": "2026-03-09",
-      "title": "Christmas Tree Promotion, Research, and Information Order",
-      "summary": "This final rule implements changes to the Christmas Tree Promotion, Research, and Information Order (Order). These changes include amending the Board's name from \"Christmas Tree Promotion Board\" to \"Real Christmas Tree Board\", increasing the administrative expenses cap from 10 to 15 percent, allowing importers to request refunds of assessments paid on trees that were shipped to the United States but not sold, and inc",
+      "date": "2026-03-10",
+      "title": "Fresh Garlic From the People's Republic of China: Notice of Court Decision Not in Harmony With Final Scope Ruling and Notice of Amended Final Scope Ruling Pursuant to Court Decision",
+      "summary": "On February 23, 2026, the U.S. Court of International Trade (the Court) issued its final judgment in Export Packers Company Limited v. United States, Court No. 24-00061, sustaining the U.S. Department of Commerce (Commerce)'s remand redetermination pertaining to the final scope ruling of the antidumping duty order on fresh garlic from the People's Republic of China (China). In the underlying scope ruling, Commerce de",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/10/2026-04697/fresh-garlic-from-the-peoples-republic-of-china-notice-of-court-decision-not-in-harmony-with-final"
+    },
+    {
+      "id": "378d0d3d2021",
+      "category": "LEGIS",
+      "date": "2026-03-10",
+      "title": "Heavy Walled Rectangular Pipes and Tubes From Mexico: Preliminary Results and Rescission, in Part, of the Antidumping Duty Administrative Review; 2023-2024",
+      "summary": "The U.S. Department of Commerce (Commerce) preliminarily finds that heavy walled rectangular pipes and tubes (HWR) from Mexico was sold in the United States at below normal value (NV) during the period of review (POR), September 1, 2023, through August 31, 2024. Additionally, we are rescinding this review, in part, with respect to twelve companies which had no suspended entries of subject merchandise during the POR. ",
       "tags": [
         "Federal Register"
       ],
       "priority": "high",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/09/2026-04586/christmas-tree-promotion-research-and-information-order"
+      "url": "https://www.federalregister.gov/documents/2026/03/10/2026-04696/heavy-walled-rectangular-pipes-and-tubes-from-mexico-preliminary-results-and-rescission-in-part-of"
     },
     {
-      "id": "c7bfcb429c1c",
+      "id": "833405b8b66c",
       "category": "LEGIS",
-      "date": "2026-03-09",
-      "title": "Magnuson-Stevens Fishery Conservation and Management Act Provisions; Fisheries of the Northeastern United States; Northeast Multispecies Fishery; Framework Adjustment 69",
-      "summary": "NMFS approves regulations to implement specifications and management measures in Framework Adjustment 69 to the Northeast Multispecies Fishery Management Plan, as proposed, with one adjustment to Georges Bank haddock; approves Northeast multispecies (groundfish) sectors and allocations; sets recreational measures and common pool possession limits; and clarifies and corrects existing regulations. This action is necess",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/09/2026-04585/magnuson-stevens-fishery-conservation-and-management-act-provisions-fisheries-of-the-northeastern"
-    },
-    {
-      "id": "08d8acc56346",
-      "category": "LEGIS",
-      "date": "2026-03-09",
-      "title": "Avocados Grown in South Florida and Imported Avocados; Change in Maturity Requirements",
-      "summary": "This final rule implements a recommendation from the Avocado Administrative Committee (Committee) to change the maturity requirements under the marketing order for avocados grown in South Florida. This action updates the avocado maturity shipping schedule to allow certain sizes and weights of the Beta avocado variety to be shipped earlier than is currently allowed. This action also makes a corresponding change to the",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "high",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/09/2026-04584/avocados-grown-in-south-florida-and-imported-avocados-change-in-maturity-requirements"
-    },
-    {
-      "id": "2768e8dfb06a",
-      "category": "LEGIS",
-      "date": "2026-03-09",
-      "title": "Notice of Meeting",
+      "date": "2026-03-10",
+      "title": "Notice of Agreement Filed",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/09/2026-04583/notice-of-meeting"
+      "url": "https://www.federalregister.gov/documents/2026/03/10/2026-04695/notice-of-agreement-filed"
     },
     {
-      "id": "4b4e02f799fd",
+      "id": "a547e4e3804d",
       "category": "LEGIS",
-      "date": "2026-03-09",
-      "title": "Notice of Deadline for Submitting Completed Requests To Begin Participation in the Tribal Self-Governance Program in Fiscal Year 2027 or Calendar Year 2027",
-      "summary": "In this notice, the Office of Self-Governance (OSG) establishes deadlines for Indian Tribes/Consortia to submit completed requests to begin participation in the Tribal self-governance program in fiscal year 2027 or calendar year 2027.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/09/2026-04582/notice-of-deadline-for-submitting-completed-requests-to-begin-participation-in-the-tribal"
-    },
-    {
-      "id": "e3040fee063d",
-      "category": "LEGIS",
-      "date": "2026-03-09",
-      "title": "OneRD Annual Notice of Guarantee Fee Rates, Periodic Retention Fee Rates, Loan Guarantee Percentage and Fee for Issuance of the Loan Note Guarantee Prior to Construction Completion for Fiscal Year 2026",
-      "summary": "The Rural Business-Cooperative Service (RBCS), Rural Housing Service (RHS), and the Rural Utilities Service (RUS), agencies of the Rural Development mission area within the U.S. Department of Agriculture (USDA), hereinafter collectively referred to as the Agency, offer loan guarantees through four programs: Community Facilities (CF) administered by the RHS; Water and Waste Disposal (WWD) administered by the RUS; and ",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/09/2026-04581/onerd-annual-notice-of-guarantee-fee-rates-periodic-retention-fee-rates-loan-guarantee-percentage"
-    },
-    {
-      "id": "508f224eddaa",
-      "category": "LEGIS",
-      "date": "2026-03-09",
-      "title": "Olives Grown in California; Decreased Assessment Rate",
-      "summary": "This proposed rule would implement a recommendation from the California Olive Committee (Committee) to decrease the assessment rate established for the 2025 fiscal year and subsequent fiscal years from $28.00 to $24.00 per ton of assessable olives grown in California. The proposed assessment rate would remain in effect indefinitely until modified, suspended, or terminated.",
+      "date": "2026-03-10",
+      "title": "Updates to the Popcorn Promotion, Research, and Consumer Information Order",
+      "summary": "This final rule implements updates to the Popcorn Promotion, Research, and Consumer Information Order (Order). The updates increase the mandatory assessment rate from 5 cents per hundredweight of popcorn to 6 cents to reflect the present rate, which was administratively increased in 2001 and has been charged of processors ever since. Additionally, subpart C is added to the Order, which prescribes late payment and int",
       "tags": [
         "Federal Register"
       ],
       "priority": "high",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/09/2026-04580/olives-grown-in-california-decreased-assessment-rate"
+      "url": "https://www.federalregister.gov/documents/2026/03/10/2026-04694/updates-to-the-popcorn-promotion-research-and-consumer-information-order"
     },
     {
-      "id": "697af88d1721",
+      "id": "700ce0cb2e8c",
       "category": "LEGIS",
-      "date": "2026-03-09",
-      "title": "Agency Information Collection Activities: Comment Request; Survey of Graduate Students and Postdoctorates in Science and Engineering",
-      "summary": "The National Center for Science and Engineering Statistics (NCSES) within the U.S. National Science Foundation (NSF) is announcing plans to request renewal of the Survey of Graduate Students and Postdoctorates in Science and Engineering (OMB Control Number 3145- 0062). In accordance with the requirements of the Paperwork Reduction Act of 1995, NSF is providing opportunity for public comment on this action. After obta",
+      "date": "2026-03-10",
+      "title": "Reestablishment of the Federal Advisory Committee on Insurance",
+      "summary": "The Treasury Department has determined that it is in the public interest to reestablish the FACI. A Charter for the FACI has been prepared and will be filed with Congress no earlier than seven (7) days following the date of publication of this notice.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/09/2026-04579/agency-information-collection-activities-comment-request-survey-of-graduate-students-and"
+      "url": "https://www.federalregister.gov/documents/2026/03/10/2026-04693/reestablishment-of-the-federal-advisory-committee-on-insurance"
     },
     {
-      "id": "2147fbf68758",
-      "category": "FDA",
-      "date": "2026-03-09",
-      "title": "Responding to FDA Form 483 Observations at the Conclusion of a Drug CGMP Inspection: Draft Guidance for Industry; Availability",
-      "summary": "The Food and Drug Administration (FDA, Agency, or we) is announcing the availability of a draft guidance for industry entitled \"Responding to FDA Form 483 Observations at the Conclusion of a Drug CGMP Inspection.\" This guidance is intended for foreign and domestic human and animal drug manufacturing establishments inspected by FDA whose drugs are regulated by the Center for Drug Evaluation and Research (CDER), the Ce",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/09/2026-04578/responding-to-fda-form-483-observations-at-the-conclusion-of-a-drug-cgmp-inspection-draft-guidance"
-    },
-    {
-      "id": "3fb95608cf24",
+      "id": "a12d2b008138",
       "category": "LEGIS",
-      "date": "2026-03-09",
-      "title": "Agency Information Collection Activities: Comment Request; Grantee Reporting Requirements for Materials Research Science and Engineering Centers (MRSECs)",
-      "summary": "The U.S. National Science Foundation (NSF) is announcing plans to renew this collection. In accordance with the requirements of the Paperwork Reduction Act of 1995, we are providing opportunity for public comments on this action. After obtaining and considering public comment, NSF will prepare the submission requesting Office of Management and Budget (OMB) clearance of this collection for no longer than 3 years.",
+      "date": "2026-03-10",
+      "title": "Agency Information Collection Activities: Requests for Comments; Clearance of New Approval of Information Collection: Basic Survival Skills for General Aviation Training Record",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, FAA invites public comments about our intention to request the Office of Management and Budget (OMB) approval for a new information collection. The Federal Register Notice with a 60-day comment period soliciting comments on the following collection of information was published on May 14, 2025. The information collected on the Basic Survival Skills for General Av",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/09/2026-04577/agency-information-collection-activities-comment-request-grantee-reporting-requirements-for"
+      "url": "https://www.federalregister.gov/documents/2026/03/10/2026-04692/agency-information-collection-activities-requests-for-comments-clearance-of-new-approval-of"
     },
     {
-      "id": "cd0718ba7de1",
+      "id": "f2c000a1944e",
       "category": "LEGIS",
-      "date": "2026-03-09",
-      "title": "Administrative Declaration of a Disaster for the Commonwealth of Pennsylvania",
-      "summary": "This is notice of an Administrative declaration of a disaster for the Commonwealth of Pennsylvania dated March 4. 2026. Incident: Hotel Hampton Fire.",
+      "date": "2026-03-10",
+      "title": "Agency Information Collection Activities: Requests for Comments; Clearance of New Approval of Information Collection: Physiology Training Record",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, FAA invites public comments about our intention to request the Office of Management and Budget (OMB) approval of new information collection. The information collected on the Physiology Training Record is required by students attending aviation physiology training that wish to participate in hypoxia training. Information collected is reviewed by the training inst",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/09/2026-04576/administrative-declaration-of-a-disaster-for-the-commonwealth-of-pennsylvania"
+      "url": "https://www.federalregister.gov/documents/2026/03/10/2026-04691/agency-information-collection-activities-requests-for-comments-clearance-of-new-approval-of"
     },
     {
-      "id": "fe45b38efd83",
+      "id": "aa08ac8a56b8",
       "category": "LEGIS",
-      "date": "2026-03-09",
-      "title": "Notice of Closed Meetings To Implement Voluntary Agreements and Related Plans of Action Under the Defense Production Act",
-      "summary": "The notice announces a series of closed meetings held pursuant to the Defense Production Act to discuss the implementation of its Voluntary Agreement and potential accompanying Plans of Action with entities involved in the nuclear fuel industry.",
+      "date": "2026-03-10",
+      "title": "Center for Scientific Review; Amended Notice of Meeting",
+      "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/09/2026-04575/notice-of-closed-meetings-to-implement-voluntary-agreements-and-related-plans-of-action-under-the"
+      "url": "https://www.federalregister.gov/documents/2026/03/10/2026-04690/center-for-scientific-review-amended-notice-of-meeting"
     },
     {
-      "id": "80f1566c2ade",
+      "id": "c14d8a5b9268",
       "category": "LEGIS",
-      "date": "2026-03-09",
-      "title": "Records Schedules; Availability and Request for Comments",
-      "summary": "The National Archives and Records Administration (NARA) publishes notice of certain Federal agency requests for records disposition authority (records schedules). We publish notice in the Federal Register and on regulations.gov for records schedules in which agencies propose to dispose of records they no longer need to conduct agency business. We invite public comments on such records schedules.",
+      "date": "2026-03-10",
+      "title": "Notice of Publication of Housing Price Inflation Adjustment",
+      "summary": "The Department of War is publishing this notice to announce the 2026 Rent Threshold under the Servicemembers Civil Relief Act (SCRA). Applying the housing price inflation adjustment, the maximum monthly rental amount calculated as of January 1, 2026, is $10,542.60.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/09/2026-04574/records-schedules-availability-and-request-for-comments"
+      "url": "https://www.federalregister.gov/documents/2026/03/10/2026-04689/notice-of-publication-of-housing-price-inflation-adjustment"
+    },
+    {
+      "id": "480d0dc6a054",
+      "category": "LEGIS",
+      "date": "2026-03-10",
+      "title": "Environmental Management Site-Specific Advisory Board, Paducah",
+      "summary": "This notice announces an in-person/livestreamed meeting of the Environmental Management Site-Specific Advisory Board (EM SSAB), Paducah. The Federal Advisory Committee Act requires that public notice of this meeting be announced in the Federal Register.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/10/2026-04688/environmental-management-site-specific-advisory-board-paducah"
+    },
+    {
+      "id": "2adfb8e0da13",
+      "category": "LEGIS",
+      "date": "2026-03-10",
+      "title": "Notification of Petition for Rulemaking; America First Legal Foundation",
+      "summary": "This document announces receipt of a petition for rulemaking received by the Department of Energy (DOE) on January 7, 2026, from the America First Legal Foundation (AFL) requesting that DOE update its regulations concerning procedures requiring that management and operating contractors (M&Os) who enter into agreements with DOE submit and implement a written Diversity, Equity, Inclusion, and Accessibility (DEIA) Plan.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/10/2026-04687/notification-of-petition-for-rulemaking-america-first-legal-foundation"
+    },
+    {
+      "id": "d70b4fd7b3ee",
+      "category": "LEGIS",
+      "date": "2026-03-10",
+      "title": "Environmental Management Site-Specific Advisory Board, Oak Ridge",
+      "summary": "This notice announces an in-person/virtual meeting of the Environmental Management Site-Specific Advisory Board (EM SSAB), Oak Ridge. The Federal Advisory Committee Act requires that public notice of this meeting be announced in the Federal Register.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/10/2026-04686/environmental-management-site-specific-advisory-board-oak-ridge"
     }
   ]
 }
