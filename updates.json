@@ -1,23 +1,153 @@
 {
-  "generated_at": "2026-03-12T13:35:38.242Z",
+  "generated_at": "2026-03-13T13:33:15.961Z",
   "updates": [
     {
-      "id": "61d11bbdc897",
+      "id": "1965417eec5b",
       "category": "LEGIS",
-      "date": "2026-03-12",
-      "title": "Commitment to Countering Cartel Criminal Activity",
+      "date": "2026-03-13",
+      "title": "U.S. Hostage and Wrongful Detainee Day, 2026",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/12/2026-04924/commitment-to-countering-cartel-criminal-activity"
+      "url": "https://www.federalregister.gov/documents/2026/03/13/2026-05053/us-hostage-and-wrongful-detainee-day-2026"
     },
     {
-      "id": "bead8b36450f",
+      "id": "3a86067ed887",
       "category": "LEGIS",
-      "date": "2026-03-12",
+      "date": "2026-03-13",
+      "title": "Airworthiness Directives; The Boeing Company Airplanes",
+      "summary": "The FAA proposes to adopt a new airworthiness directive (AD) for certain The Boeing Company Model 787-8, 787-9, and 787-10 airplanes. This proposed AD was prompted by a Boeing investigation for manufacturing errors and excessive preload forces at the lower side of body (SOB) splice plates common to the lower outboard wing skins. That investigation concluded that shim gaps may have exceeded engineering allowances, and",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/13/2026-05007/airworthiness-directives-the-boeing-company-airplanes"
+    },
+    {
+      "id": "f2b59bdb1fe3",
+      "category": "LEGIS",
+      "date": "2026-03-13",
+      "title": "Air Plan Approval; Connecticut; Revision to the State Implementation Plan for Inclusion of Consent Order No. 8383-Algonquin Gas Transmission, LLC and Negative Declaration for Rubber Tire Manufacturing Sources",
+      "summary": "The Environmental Protection Agency (EPA) is proposing to approve a State Implementation Plan (SIP) revision submitted by Connecticut (CT) to address certain Federal requirements for the 2008 and 2015 8-hour ozone National Ambient Air Quality Standard (NAAQS) under the Clean Air Act (CAA). Specifically, the EPA is proposing to approve a source-specific SIP revision for Algonquin Gas Transmission, LLC's compressor sta",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/13/2026-04991/air-plan-approval-connecticut-revision-to-the-state-implementation-plan-for-inclusion-of-consent"
+    },
+    {
+      "id": "7a24c733e2b1",
+      "category": "LEGIS",
+      "date": "2026-03-13",
+      "title": "Revocation of the 30-Day Notification Requirement Prior to Termination of Lease for Nonpayment of Rent; Indefinite Delay of Effective Date",
+      "summary": "In this document, HUD delays the effective date of the interim final rule published on February 26, 2026, which set an effective date of March 30, 2026, until after HUD issues a final rule in response to received comments. HUD will now treat the interim final rule as a proposed rule.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/13/2026-04990/revocation-of-the-30-day-notification-requirement-prior-to-termination-of-lease-for-nonpayment-of"
+    },
+    {
+      "id": "42944ca88985",
+      "category": "LEGIS",
+      "date": "2026-03-13",
+      "title": "Supplemental Guidance for Examination of Design Patent Applications Related to Computer-Generated Interfaces and Icons",
+      "summary": "The United States Patent and Trademark Office (USPTO) has recently received feedback that previously-issued guidance may unnecessarily limit flexibility for design applicants in the field of computer-generated interfaces and icons. Upon review, the USPTO has decided to update its guidance for determining whether a design claim including a computer-generated electronic image constitutes statutory subject matter. The U",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/13/2026-04987/supplemental-guidance-for-examination-of-design-patent-applications-related-to-computer-generated"
+    },
+    {
+      "id": "c716d779b0bf",
+      "category": "LEGIS",
+      "date": "2026-03-13",
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Federal Student Aid User Experience Design Research Generic Clearance",
+      "summary": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing a reinstatement without change of a previously approved information collection request (ICR).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/13/2026-04986/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for"
+    },
+    {
+      "id": "c0e5281bdbb0",
+      "category": "LEGIS",
+      "date": "2026-03-13",
+      "title": "Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/13/2026-04985/change-in-bank-control-notices-acquisitions-of-shares-of-a-bank-or-bank-holding-company"
+    },
+    {
+      "id": "84ea0b319a32",
+      "category": "LEGIS",
+      "date": "2026-03-13",
+      "title": "Findings of Research Misconduct",
+      "summary": "Findings of research misconduct have been made against Chen- Yeh \"George\" Ke, Ph.D. (Respondent), former postdoctoral fellow, Department of Cell, Development and Regenerative Biology, Icahn School of Medicine at Mount Sinai. Dr. Ke engaged in research misconduct under 42 CFR part 93 in research included in one (1) draft manuscript and two (2) National Institutes of Health (NIH) Research Performance Progress Reports, ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/13/2026-04984/findings-of-research-misconduct"
+    },
+    {
+      "id": "e3b48508b43b",
+      "category": "LEGIS",
+      "date": "2026-03-13",
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Student Assistance General Provisions-Subpart K-Cash Management",
+      "summary": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing a reinstatement without change of a previously approved information collection request (ICR).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/13/2026-04983/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for"
+    },
+    {
+      "id": "c36f6dce98ce",
+      "category": "LEGIS",
+      "date": "2026-03-13",
+      "title": "Agency Information Collection Activities: Proposed Collection; Comment Request",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/13/2026-04982/agency-information-collection-activities-proposed-collection-comment-request"
+    },
+    {
+      "id": "bb7006e81afa",
+      "category": "FDA",
+      "date": "2026-03-13",
+      "title": "Mandatory Guidelines for Federal Workplace Drug Testing Programs-Authorized Testing Panels",
+      "summary": "HHS herein publishes the panels of Schedule I and II drugs and biomarkers authorized for testing in federal workplace drug testing programs. The Department has made no revisions to the current drug testing panels for both urine and oral fluid and current required nomenclature for laboratory and Medical Review Officer Reports, effective July 7, 2025.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/13/2026-04981/mandatory-guidelines-for-federal-workplace-drug-testing-programs-authorized-testing-panels"
+    },
+    {
+      "id": "18fb032bba51",
+      "category": "LEGIS",
+      "date": "2026-03-13",
       "title": "Sunshine Act Meetings",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
@@ -25,12 +155,77 @@
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/12/2026-04890/sunshine-act-meetings"
+      "url": "https://www.federalregister.gov/documents/2026/03/13/2026-04980/sunshine-act-meetings"
     },
     {
-      "id": "ad4653bd2630",
+      "id": "41ad5648d987",
       "category": "LEGIS",
-      "date": "2026-03-12",
+      "date": "2026-03-13",
+      "title": "Proposed Collection: 30-Day Comment Request; Generic Clearance for the Collection of Qualitative Feedback on Agency Service Delivery (NCI)",
+      "summary": "In compliance with the requirement of the Paperwork Reduction Act of 1995 to provide an opportunity for public comment on proposed data collection projects, the National Institutes of Health, National Cancer Institute (NCI) will publish periodic summaries of proposed projects to be submitted to the Office of Management and Budget (OMB) for review and approval.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/13/2026-04979/proposed-collection-30-day-comment-request-generic-clearance-for-the-collection-of-qualitative"
+    },
+    {
+      "id": "15ee1f59188f",
+      "category": "LEGIS",
+      "date": "2026-03-13",
+      "title": "William D. Ford Federal Direct Loan (Direct Loan) Program; Correction",
+      "summary": "The Department of Education (Department) is correcting a final rule that appeared in the Federal Register on October 31, 2025 (90 FR 19729). The final rule established regulations governing the Public Service Loan Forgiveness (PSLF) program in the William D. Ford Federal Direct Loan (Direct Loan) program under 34 CFR 685.219.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/13/2026-04978/william-d-ford-federal-direct-loan-direct-loan-program-correction"
+    },
+    {
+      "id": "5c813b17310f",
+      "category": "LEGIS",
+      "date": "2026-03-13",
+      "title": "Environmental Management Site-Specific Advisory Board, Hanford",
+      "summary": "This notice announces an in-person/virtual meeting of the Environmental Management Site-Specific Advisory Board (EM SSAB), Hanford. The Federal Advisory Committee Act requires that public notice of this meeting be announced in the Federal Register.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/13/2026-04977/environmental-management-site-specific-advisory-board-hanford"
+    },
+    {
+      "id": "07ff624c7585",
+      "category": "LEGIS",
+      "date": "2026-03-13",
+      "title": "Atlantic Highly Migratory Species; Pelagic Longline Monitoring Areas; Electronic Monitoring Vendor Certification",
+      "summary": "NMFS is in the process of establishing two monitoring areas off the east coast of the United States within areas that are currently closed to pelagic longline fishing. Once effective, pelagic longline fishermen could fish in the monitoring areas, subject to, among other things, enhanced electronic monitoring (EM). In this notice, NMFS requests applications from EM vendors interested in providing EM services to any pe",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/13/2026-04976/atlantic-highly-migratory-species-pelagic-longline-monitoring-areas-electronic-monitoring-vendor"
+    },
+    {
+      "id": "9d5b165c4657",
+      "category": "LEGIS",
+      "date": "2026-03-13",
+      "title": "Receipt of One Incidental Take Permit Application for Participation in the General Conservation Plan for the Alabama Beach Mouse; Categorical Exclusion; Baldwin County, AL",
+      "summary": "We, the U.S. Fish and Wildlife Service (Service), announce receipt of one application from Ethan Bishop (applicant) for an incidental take permit (ITP), pursuant to the Endangered Species Act, under the Service's approved General Conservation Plan (GCP) and final environmental impact statement (FEIS) for the Alabama beach mouse. The applicant requests the ITP to take the federally listed Alabama beach mouse (ABM) inc",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/13/2026-04975/receipt-of-one-incidental-take-permit-application-for-participation-in-the-general-conservation-plan"
+    },
+    {
+      "id": "70e29fd2f018",
+      "category": "LEGIS",
+      "date": "2026-03-13",
       "title": "Sunshine Act Meetings",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
@@ -38,228 +233,33 @@
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/12/2026-04889/sunshine-act-meetings"
+      "url": "https://www.federalregister.gov/documents/2026/03/13/2026-04974/sunshine-act-meetings"
     },
     {
-      "id": "ffd01ad8e03e",
-      "category": "LEGIS",
-      "date": "2026-03-12",
-      "title": "Certain Kitchen Appliance Shelving and Racks From the People's Republic of China: Final Results of the Expedited Third Sunset Reviews of the Antidumping Duty Order",
-      "summary": "The U.S. Department of Commerce (Commerce) finds that revocation of the antidumping duty (AD) order on kitchen appliance shelving and racks (kitchen racks) from the People's Republic of China (China) would be likely to lead to continuation or recurrence of dumping at the levels indicated in the \"Final Results of Sunset Reviews\" section of this notice.",
+      "id": "28c591a9a74e",
+      "category": "FDA",
+      "date": "2026-03-13",
+      "title": "Bulk Manufacturer of Controlled Substances Application: Patheon API Services Inc",
+      "summary": "Patheon API Services Inc. has applied to be registered as a bulk manufacturer of basic class(es) of controlled substance(s). Refer to SUPPLEMENTARY INFORMATION listed below for further drug information.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/12/2026-04884/certain-kitchen-appliance-shelving-and-racks-from-the-peoples-republic-of-china-final-results-of-the"
+      "url": "https://www.federalregister.gov/documents/2026/03/13/2026-04973/bulk-manufacturer-of-controlled-substances-application-patheon-api-services-inc"
     },
     {
-      "id": "78472397b182",
-      "category": "LEGIS",
-      "date": "2026-03-12",
-      "title": "Steel Concrete Reinforcing Bar From Mexico: Final Results of the Expedited Second Sunset Review of the Antidumping Duty Order",
-      "summary": "The U.S. Department of Commerce (Commerce) finds that revocation of the antidumping duty (AD) order on steel concrete reinforcing bar (rebar) from Mexico would be likely to lead to continuation or recurrence of dumping at the levels indicated in the \"Final Results of Sunset Review\" section of this notice.",
+      "id": "c17ba3734212",
+      "category": "FDA",
+      "date": "2026-03-13",
+      "title": "Importer of Controlled Substances Application: Lonza Tampa, LLC",
+      "summary": "Lonza Tampa, LLC has applied to be registered as an importer of basic class(es) of controlled substance(s). Refer to Supplementary Information listed below for further drug information.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/12/2026-04883/steel-concrete-reinforcing-bar-from-mexico-final-results-of-the-expedited-second-sunset-review-of"
-    },
-    {
-      "id": "d4e3f8309a40",
-      "category": "LEGIS",
-      "date": "2026-03-12",
-      "title": "1,1,1,2-Tetrafluorothane (R-134a) From the People's Republic of China: Preliminary Results and Partial Rescission of Antidumping Duty Administrative Review; 2024-2025",
-      "summary": "The U.S. Department of Commerce (Commerce) preliminarily finds that the single entity comprising Zhejiang Sanmei Chemical Industry Co., Ltd. Jiangsu Sanmei Chemicals Co., Ltd.; and Fujian Qingliu Dongying Chemical Ind. Co. Ltd (collectively, Sanmei), the only mandatory respondent in this administrative review of the antidumping duty (AD) order on 1,1,1,2-Tetrafluoroethane (R-134a) from the People's Republic of China ",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/12/2026-04882/1112-tetrafluorothane-r-134a-from-the-peoples-republic-of-china-preliminary-results-and-partial"
-    },
-    {
-      "id": "79918cdab077",
-      "category": "LEGIS",
-      "date": "2026-03-12",
-      "title": "Passenger Vehicle and Light Truck Tires From Taiwan: Notice of Court Decision Not in Harmony With Final Scope Ruling; Notice of Amended Final Scope Ruling Pursuant to Court Decision",
-      "summary": "On February 20, 2026, the U.S. Court of International Trade (CIT) issued its final judgment in United Steel, Paper and Forestry, Rubber, Manufacturing, Energy, Allied Industrial and Service Workers International Union, AFL-CIO, CLC., v. United States, Court No. 24- 00165, sustaining the U.S. Department of Commerce (Commerce)'s first remand redetermination pertaining to the scope ruling for the antidumping duty order ",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/12/2026-04881/passenger-vehicle-and-light-truck-tires-from-taiwan-notice-of-court-decision-not-in-harmony-with"
-    },
-    {
-      "id": "964dc5222404",
-      "category": "LEGIS",
-      "date": "2026-03-12",
-      "title": "Hardwood and Decorative Plywood From the People's Republic of China: Postponement of Final Determination of Sales at Less-Than-Fair-Value Investigation and Extension of Provisional Measures",
-      "summary": "The U.S. Department of Commerce (Commerce) is postponing the deadline for issuing the final determination in the less-than-fair- value (LTFV) investigation of hardwood and decorative plywood (plywood) from the People's Republic of China (China) until July 15, 2026, and is extending the provisional measures from a four-month period to a period of not more than six months.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/12/2026-04880/hardwood-and-decorative-plywood-from-the-peoples-republic-of-china-postponement-of-final"
-    },
-    {
-      "id": "6a11c17c4d37",
-      "category": "LEGIS",
-      "date": "2026-03-12",
-      "title": "Methionine From Spain: Preliminary Results of Antidumping Duty Administrative Review; 2023-2024",
-      "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that the sole mandatory respondent under review, Adisseo Espa[ntilde]a S.A. (Adisseo Espa[ntilde]a), sold subject merchandise at less than normal value during the period of review (POR) September 1, 2023, through August 31, 2024. We invite interested parties to comment on these preliminary results.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/12/2026-04879/methionine-from-spain-preliminary-results-of-antidumping-duty-administrative-review-2023-2024"
-    },
-    {
-      "id": "7831faba01a6",
-      "category": "LEGIS",
-      "date": "2026-03-12",
-      "title": "Certain Kitchen Appliance Shelving and Racks From the People's Republic of China: Final Results of the Expedited Third Sunset Review of the Countervailing Duty Order",
-      "summary": "The U.S. Department of Commerce (Commerce) finds that revocation of the countervailing duty (CVD) order on certain kitchen appliance shelving and racks (kitchen racks) from the People's Republic of China (China) would be likely to lead to continuation or recurrence of countervailable subsidies at the levels indicated in the \"Final Results of Sunset Review\" section of this notice.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/12/2026-04878/certain-kitchen-appliance-shelving-and-racks-from-the-peoples-republic-of-china-final-results-of-the"
-    },
-    {
-      "id": "38249d63d938",
-      "category": "LEGIS",
-      "date": "2026-03-12",
-      "title": "Certain Corrosion Inhibitors From the People's Republic of China: Final Results of Countervailing Duty Administrative Review; 2023",
-      "summary": "The U.S. Department of Commerce (Commerce) determines that certain producers/exporters of certain corrosion inhibitors (corrosion inhibitors) from the People's Republic of China (China) received countervailable subsidies during the period of review (POR) January 1, 2023, through December 31, 2023.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/12/2026-04877/certain-corrosion-inhibitors-from-the-peoples-republic-of-china-final-results-of-countervailing-duty"
-    },
-    {
-      "id": "0bb52ab39e5a",
-      "category": "LEGIS",
-      "date": "2026-03-12",
-      "title": "Proposed Collection; Comment Request",
-      "summary": "In compliance with the Paperwork Reduction Act of 1995, the Department of the Air Force announces a proposed public information collection and seeks public comment on the provisions thereof. Comments are invited on: whether the proposed collection of information is necessary for the proper performance of the functions of the agency, including whether the information shall have practical utility; the accuracy of the a",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/12/2026-04876/proposed-collection-comment-request"
-    },
-    {
-      "id": "02a55322d080",
-      "category": "LEGIS",
-      "date": "2026-03-12",
-      "title": "Forza Pipeline, LLC, Bull Run Pipeline, LLC; Notice of Schedule for the Preparation of an Environmental Assessment for the Forza Pipeline Project",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/12/2026-04874/forza-pipeline-llc-bull-run-pipeline-llc-notice-of-schedule-for-the-preparation-of-an-environmental"
-    },
-    {
-      "id": "814bc957e75f",
-      "category": "LEGIS",
-      "date": "2026-03-12",
-      "title": "Egan Hub Storage, LLC; Notice of Schedule for the Preparation of an Environmental Assessment for the Proposed Egan Cavern Expansion Project",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/12/2026-04873/egan-hub-storage-llc-notice-of-schedule-for-the-preparation-of-an-environmental-assessment-for-the"
-    },
-    {
-      "id": "64e1a777d4a9",
-      "category": "LEGIS",
-      "date": "2026-03-12",
-      "title": "Natural Gas Pipeline Company of America LLC; Notice of Schedule for the Preparation of an Environmental Assessment for the Texas-Arkansas Power Project",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/12/2026-04872/natural-gas-pipeline-company-of-america-llc-notice-of-schedule-for-the-preparation-of-an"
-    },
-    {
-      "id": "cbd25e69b398",
-      "category": "LEGIS",
-      "date": "2026-03-12",
-      "title": "Venture Global Gator Express, LLC; Notice of Request Under Blanket Authorization and Establishing Intervention and Protest Deadline",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/12/2026-04871/venture-global-gator-express-llc-notice-of-request-under-blanket-authorization-and-establishing"
-    },
-    {
-      "id": "8cdbb9df51a7",
-      "category": "LEGIS",
-      "date": "2026-03-12",
-      "title": "South Sutter Water District; Notice of Availability of Environmental Assessment",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/12/2026-04870/south-sutter-water-district-notice-of-availability-of-environmental-assessment"
-    },
-    {
-      "id": "abd1c52cc595",
-      "category": "LEGIS",
-      "date": "2026-03-12",
-      "title": "Commission Information Collection Activities (FERC-551) Comment Request; Extension",
-      "summary": "In compliance with the requirements of the Paperwork Reduction Act of 1995, the Federal Energy Regulatory Commission (Commission or FERC) is soliciting public comment on a renewal of currently approved information collection FERC-551: Reporting of Flow Volume and Capacity by Interstate Natural Gas Pipelines which will be submitted to the Office of Management and Budget (OMB) for review. There are no proposed changes ",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/12/2026-04869/commission-information-collection-activities-ferc-551-comment-request-extension"
-    },
-    {
-      "id": "4002774dc8b1",
-      "category": "LEGIS",
-      "date": "2026-03-12",
-      "title": "Commission Information Collection Activities (FERC-549B); Comment Request",
-      "summary": "In compliance with the requirements of the Paperwork Reduction Act of 1995, 44 U.S.C. 3506(c)(2)(A), the Federal Energy Regulatory Commission (Commission or FERC) is soliciting public comments on the currently approved information collection, FERC-549B (Gas Pipeline Rates: Annual Capacity Reports and Index of Customers). No Comments were received on the 60-day notice.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/12/2026-04868/commission-information-collection-activities-ferc-549b-comment-request"
-    },
-    {
-      "id": "36fb18aec0c4",
-      "category": "LEGIS",
-      "date": "2026-03-12",
-      "title": "Albany Engineering Corporation, Albany Electric Corporation; Notice of Application of Transfer of License and Soliciting Comments, Motions To Intervene, and Protests",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/12/2026-04867/albany-engineering-corporation-albany-electric-corporation-notice-of-application-of-transfer-of"
+      "url": "https://www.federalregister.gov/documents/2026/03/13/2026-04972/importer-of-controlled-substances-application-lonza-tampa-llc"
     }
   ]
 }
