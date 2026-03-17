@@ -1,265 +1,265 @@
 {
-  "generated_at": "2026-03-16T13:52:29.501Z",
+  "generated_at": "2026-03-17T13:49:58.665Z",
   "updates": [
     {
-      "id": "e3ea8a320127",
+      "id": "b20960ca0c03",
       "category": "LEGIS",
-      "date": "2026-03-16",
-      "title": "Endangered Species Committee Meeting Announcement",
-      "summary": "The Endangered Species Committee will meet regarding an Endangered Species Act exemption for Gulf of America Oil and Gas Activities.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/16/2026-05242/endangered-species-committee-meeting-announcement"
-    },
-    {
-      "id": "ff79556b08c8",
-      "category": "LEGIS",
-      "date": "2026-03-16",
-      "title": "Certification Process for State Capital Counsel Systems",
-      "summary": "Chapter 154 of title 28, United States Code, provides special procedures for federal habeas corpus review of cases brought by prisoners in state custody who are under a sentence of death. The special procedures are available to States that the Attorney General has certified as having established mechanisms for the appointment, compensation, and payment of reasonable litigation expenses of competent counsel in state p",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/16/2026-05134/certification-process-for-state-capital-counsel-systems"
-    },
-    {
-      "id": "8ffc622f84f7",
-      "category": "LEGIS",
-      "date": "2026-03-16",
-      "title": "Airworthiness Directives; The Boeing Company Airplanes",
-      "summary": "The FAA is adopting a new airworthiness directive (AD) for certain The Boeing Company Model 777-200LR and -300ER series airplanes. This AD was prompted by reports of chafing and arcing damage on the light emitting diode (LED) sidewall wire bundles. This AD requires a general visual inspection (GVI) of the sidewall light for chafing damage and applicable on-condition actions. The FAA is issuing this AD to address the ",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/16/2026-05117/airworthiness-directives-the-boeing-company-airplanes"
-    },
-    {
-      "id": "82021ad85383",
-      "category": "LEGIS",
-      "date": "2026-03-16",
-      "title": "Sunshine Act Meetings",
+      "date": "2026-03-17",
+      "title": "Women's History Month, 2026",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/16/2026-05116/sunshine-act-meetings"
+      "url": "https://www.federalregister.gov/documents/2026/03/17/2026-05262/womens-history-month-2026"
     },
     {
-      "id": "db53170e79ef",
+      "id": "8976fd30978d",
       "category": "LEGIS",
-      "date": "2026-03-16",
-      "title": "Notification of Comparability Findings for New Caledonia, Grenada, and Ireland Under the Import Provisions of the Marine Mammal Protection Act",
+      "date": "2026-03-17",
+      "title": "Streamlining the Requirements for Approved Projects for Public Works and Economic Development Investments",
+      "summary": "By this rule, EDA amends its regulations governing public works and economic development investments by removing certain unnecessary language. Specifically, this action removes unnecessary language related to bid overrun, project signs, and occupancy prior to final acceptance. This action is intended to streamline EDA's regulations without diminishing any substantive rights or obligations in connection with public wo",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/17/2026-05229/streamlining-the-requirements-for-approved-projects-for-public-works-and-economic-development"
+    },
+    {
+      "id": "3856c4308057",
+      "category": "LEGIS",
+      "date": "2026-03-17",
+      "title": "Removing Certain Redundant Language From Regulations Governing Planning Investments and Comprehensive Economic Development Strategies",
+      "summary": "By this rule, EDA amends its regulations governing planning investments and comprehensive economic development strategies by removing certain redundant language. Specifically, this rule removes a section pertaining to eligible administrative expenses on the basis that it is redundant with the government-wide cost principles set forth elsewhere in the Code of Federal Regulations. This action is intended to streamline ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/17/2026-05228/removing-certain-redundant-language-from-regulations-governing-planning-investments-and"
+    },
+    {
+      "id": "72d8086d50ce",
+      "category": "LEGIS",
+      "date": "2026-03-17",
+      "title": "Streamlining the Regulations Establishing General Terms and Conditions for the Economic Development Administration's Investment Assistance",
+      "summary": "By this rule, EDA amends its regulations establishing general terms and conditions for investment assistance by removing three unnecessary sections. This action is intended to streamline the described body of regulations, eliminate redundant and otherwise unwarranted regulatory text, and to promote administrative efficiency without diminishing any substantive obligations or entitlements related to EDA's investment as",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/17/2026-05227/streamlining-the-regulations-establishing-general-terms-and-conditions-for-the-economic-development"
+    },
+    {
+      "id": "1513134c2777",
+      "category": "LEGIS",
+      "date": "2026-03-17",
+      "title": "Airworthiness Directives; MHI RJ Aviation ULC (Type Certificate Previously Held by Bombardier, Inc.) Airplanes",
+      "summary": "The FAA proposes to adopt a new airworthiness directive (AD) for all MHI RJ Aviation ULC Model CL-600-2C10 (Regional Jet Series 700, 701 & 702), CL-600-2C11 (Regional Jet Series 550), CL-600-2D15 (Regional Jet Series 705), and CL-600-2D24 (Regional Jet Series 900) airplanes. This proposed AD was prompted by a determination that new or more restrictive airworthiness limitations are necessary. This proposed AD would re",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/17/2026-05224/airworthiness-directives-mhi-rj-aviation-ulc-type-certificate-previously-held-by-bombardier-inc"
+    },
+    {
+      "id": "f7702d623a68",
+      "category": "LEGIS",
+      "date": "2026-03-17",
+      "title": "Airworthiness Directives; Airbus SAS Airplanes",
+      "summary": "The FAA proposes to adopt a new airworthiness directive (AD) for certain Airbus SAS Model A350-941 and -1041 airplanes. This proposed AD was prompted by reports of fractured lower attachment studs on certain galleys. This proposed AD would require a detailed inspection of all affected lower attachment studs on affected galleys installed forward of door 4 and applicable corrective actions, replacement of all affected ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/17/2026-05223/airworthiness-directives-airbus-sas-airplanes"
+    },
+    {
+      "id": "c8c6ad03aa95",
+      "category": "LEGIS",
+      "date": "2026-03-17",
+      "title": "Revocation of Class E Airspace; Zuni, NM",
+      "summary": "This action revokes Class E airspace at Zuni, NM. This action supports the closure of Black Rock Airport at Zuni Pueblo, NM.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/17/2026-05219/revocation-of-class-e-airspace-zuni-nm"
+    },
+    {
+      "id": "90198649b56d",
+      "category": "LEGIS",
+      "date": "2026-03-17",
+      "title": "Safety Zone; San Pedro Channel and San Pedro Bay, CA",
+      "summary": "The Coast Guard is establishing a temporary safety zone for navigable waters in San Pedro Channel and San Pedro Bay, CA. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards associated with the presence and removal of damaged containers and cargo onboard the vessel OOCL SUNFLOWER. Entry of vessels or persons into this zone is prohibited unless specifically authori",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/17/2026-05216/safety-zone-san-pedro-channel-and-san-pedro-bay-ca"
+    },
+    {
+      "id": "88d119eddac9",
+      "category": "LEGIS",
+      "date": "2026-03-17",
+      "title": "Initiation of Section 301 Investigations: Acts, Policies, and Practices of Certain Economies Relating to Structural Excess Capacity and Production in Manufacturing Sectors",
+      "summary": "The United States Trade Representative (Trade Representative) has initiated investigations under Section 301 of the Trade Act of 1974 regarding the acts, policies, and practices of certain economies relating to structural excess capacity and production in certain manufacturing sectors. Key trading partners have developed production capacity untethered from the incentives of domestic and global demand. This excess cap",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/17/2026-05214/initiation-of-section-301-investigations-acts-policies-and-practices-of-certain-economies-relating"
+    },
+    {
+      "id": "ef994ed216a9",
+      "category": "LEGIS",
+      "date": "2026-03-17",
+      "title": "Internet-Based Telecommunications Relay Service Modernization",
+      "summary": "The Federal Communications Commission (Commission) proposes to modernize its telecommunications relay services (TRS) rules and seeks comment on the use of automatic speech recognition (ASR) for speech-to- text conversion and advanced text-to-speech technologies for Internet Protocol (IP) Relay Service; the need for metrics for IP Relay quality; the compatibility of IP Relay with Real-Time Text (RTT) technology; addin",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/17/2026-05213/internet-based-telecommunications-relay-service-modernization"
+    },
+    {
+      "id": "b8ba06856528",
+      "category": "LEGIS",
+      "date": "2026-03-17",
+      "title": "Notice of Agreements Filed",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/16/2026-05115/notification-of-comparability-findings-for-new-caledonia-grenada-and-ireland-under-the-import"
+      "url": "https://www.federalregister.gov/documents/2026/03/17/2026-05212/notice-of-agreements-filed"
     },
     {
-      "id": "bbda48859c64",
+      "id": "235872c7b90a",
       "category": "LEGIS",
-      "date": "2026-03-16",
-      "title": "Amendments to HAVANA Act of 2021 Implementation Rules",
-      "summary": "This rule provides a change in the dates for allowable claims under the HAVANA Act of 2021. The change, mandated by the 2026 National Defense Authorization Act, changes the dates for allowable claims from \"on or after January 1, 2016\" to \"on or after September 11, 2001.\" This rule also provides a deadline for applicants to submit appeals of adverse decisions on their applications, plus administrative changes.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/16/2026-05113/amendments-to-havana-act-of-2021-implementation-rules"
-    },
-    {
-      "id": "bdd3b79380b7",
-      "category": "LEGIS",
-      "date": "2026-03-16",
-      "title": "Sunshine Act Meeting",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/16/2026-05112/sunshine-act-meeting"
-    },
-    {
-      "id": "2e37783f60a2",
-      "category": "LEGIS",
-      "date": "2026-03-16",
-      "title": "Veterans Rural Health Advisory Committee",
-      "summary": "We are giving notice that the Secretary of Veterans Affairs intends to renew the Department of Veterans Affairs Veterans Rural Health Advisory Committee for a 2-year period. The Secretary has determined that the Committee is necessary and in the public interest.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/16/2026-05111/veterans-rural-health-advisory-committee"
-    },
-    {
-      "id": "c296f9ebc06b",
-      "category": "LEGIS",
-      "date": "2026-03-16",
-      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Western Alaska Community Development Quota (CDQ) Program",
+      "date": "2026-03-17",
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Pribilof Islands, Taking for Subsistence Purposes",
       "summary": "The Department of Commerce, in accordance with the Paperwork Reduction Act of 1995 (PRA), invites the general public and other Federal agencies to comment on proposed, and continuing information collections, which helps us assess the impact of our information collection requirements and minimize the public's reporting burden. The purpose of this notice is to allow for 60 days of public comment preceding submission of",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/16/2026-05110/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+      "url": "https://www.federalregister.gov/documents/2026/03/17/2026-05211/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
     },
     {
-      "id": "67dda1814ce9",
+      "id": "cbfd740e5a56",
       "category": "LEGIS",
-      "date": "2026-03-16",
-      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Required Information for Annual Improper Payment Estimation",
-      "summary": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing a new information collection request (ICR).",
+      "date": "2026-03-17",
+      "title": "Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments",
+      "summary": "This rule establishes, amends, suspends, or removes Standard Instrument Approach Procedures (SIAPS) and associated Takeoff Minimums and Obstacle Departure procedures (ODPs) for operations at certain airports. These regulatory actions are needed because of the adoption of new or revised criteria, or because of changes occurring in the National Airspace System, such as the commissioning of new navigational facilities, ",
       "tags": [
         "Federal Register"
       ],
-      "priority": "low",
+      "priority": "high",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/16/2026-05109/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for"
+      "url": "https://www.federalregister.gov/documents/2026/03/17/2026-05210/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures"
     },
     {
-      "id": "4a3d02122467",
+      "id": "feacb5046425",
       "category": "LEGIS",
-      "date": "2026-03-16",
-      "title": "Regulatory Issue Summary: Process for Scheduling and Allocating Resources for Fiscal Years 2026-2028 for the Review of New Licensing Applications and Oversight of Construction for Light Water Reactors and Non-Light Water Reactors",
-      "summary": "Process for Scheduling and Allocating Resources for Fiscal Years 2026-2028 for the Review of New Licensing Applications and Oversight of Construction for Light Water Reactors and Non-Light Water Reactors",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/16/2026-05108/regulatory-issue-summary-process-for-scheduling-and-allocating-resources-for-fiscal-years-2026-2028"
-    },
-    {
-      "id": "28e2be9a7e50",
-      "category": "LEGIS",
-      "date": "2026-03-16",
-      "title": "Utility Scale Wind Towers From Canada, Indonesia, South Korea, and Vietnam; Determinations",
+      "date": "2026-03-17",
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/16/2026-05107/utility-scale-wind-towers-from-canada-indonesia-south-korea-and-vietnam-determinations"
+      "url": "https://www.federalregister.gov/documents/2026/03/17/2026-05209/center-for-scientific-review-notice-of-closed-meetings"
     },
     {
-      "id": "bf16990890a7",
+      "id": "7ea01b188deb",
       "category": "LEGIS",
-      "date": "2026-03-16",
-      "title": "Center For Scientific Review; Notice of Closed Meetings",
-      "summary": "Federal Register document (no abstract provided).",
+      "date": "2026-03-17",
+      "title": "New England Fishery Management Council; Public Meeting",
+      "summary": "The New England Fishery Management Council (Council) is scheduling a public meeting of its Joint Groundfish Committee and Advisory Panel meeting via webinar to consider actions affecting New England fisheries in the exclusive economic zone (EEZ). Recommendations from this group will be brought to the full Council for formal consideration and action, if appropriate.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/16/2026-05106/center-for-scientific-review-notice-of-closed-meetings"
+      "url": "https://www.federalregister.gov/documents/2026/03/17/2026-05208/new-england-fishery-management-council-public-meeting"
     },
     {
-      "id": "e61aae9ded4b",
+      "id": "0f9bdcb148dc",
       "category": "LEGIS",
-      "date": "2026-03-16",
-      "title": "Prediction Markets",
-      "summary": "The Commodity Futures Trading Commission (Commission or CFTC) is issuing this Advance Notice of Proposed Rulemaking and seeking public comment regarding event contract derivatives traded on markets commonly referred to as \"prediction markets.\" In particular, the Commission is seeking information and public comment on statutory core principles and Commission regulations that apply to prediction markets, the types of e",
+      "date": "2026-03-17",
+      "title": "Special Conditions: Airbus Helicopters Model EC175B Helicopters; Search and Rescue (SAR) Modes",
+      "summary": "These special conditions are issued for the Airbus Helicopters (Airbus) Model EC175B helicopter. This helicopter will have a novel or unusual design feature when compared to the state of technology envisioned in the airworthiness standards for transport category helicopters. This design feature is associated with the installation of an optional search and rescue (SAR) automatic flight control system (AFCS). The appli",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/17/2026-05207/special-conditions-airbus-helicopters-model-ec175b-helicopters-search-and-rescue-sar-modes"
+    },
+    {
+      "id": "e360d523bed0",
+      "category": "LEGIS",
+      "date": "2026-03-17",
+      "title": "Certain Passenger Vehicle and Light Truck Tires From the People's Republic of China: Notice of Court Decision Not in Harmony With the Results of Antidumping Administrative Review; Notice of Amended Final Results",
+      "summary": "On March 4, 2026, the U.S. Court of International Trade (CIT) issued its final judgment in YC Rubber v. United States, CIT Court no. 19-00069, sustaining the U.S. Department of Commerce (Commerce)'s third remand results pertaining to the administrative review of the antidumping duty (AD) order on Certain Passenger Vehicle and Light Truck Tires from the People's Republic of China (China) covering the period August 1, ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/17/2026-05206/certain-passenger-vehicle-and-light-truck-tires-from-the-peoples-republic-of-china-notice-of-court"
+    },
+    {
+      "id": "ac1c89ad0cc3",
+      "category": "LEGIS",
+      "date": "2026-03-17",
+      "title": "Agency Information Collection Activities: Comment Request",
+      "summary": "The National Science Foundation (NSF) has submitted the following information collection requirement to OMB for review and clearance under the Paperwork Reduction Act of 1995. This is the second notice for public comment; the first was published in the Federal Register and no comments were received. NSF is forwarding the proposed renewal submission to the Office of Management and Budget (OMB) for clearance simultaneo",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/16/2026-05105/prediction-markets"
+      "url": "https://www.federalregister.gov/documents/2026/03/17/2026-05205/agency-information-collection-activities-comment-request"
     },
     {
-      "id": "904cad3f8604",
+      "id": "0f1223ba79c0",
       "category": "LEGIS",
-      "date": "2026-03-16",
-      "title": "Agency Information Collection Activities: Submission to OMB for Review and Approval; Public Comment Request; Health Workforce Connector, OMB No. 0906-0031 Revision",
-      "summary": "In compliance with the Paperwork Reduction Act of 1995, HRSA submitted an Information Collection Request (ICR) to the Office of Management and Budget (OMB) for review and approval. Comments submitted during the first public review of this ICR will be provided to OMB. OMB will accept further comments from the public during the review and approval period. OMB may act on HRSA's ICR only after the 30-day comment period f",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/16/2026-05104/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment"
-    },
-    {
-      "id": "9a5b15fade59",
-      "category": "FDA",
-      "date": "2026-03-16",
-      "title": "General and Plastic Surgery Devices: Restricted Sale, Distribution, and Use of Sunlamp Products; Withdrawal of Proposed Rule",
-      "summary": "The Food and Drug Administration (FDA) is announcing the withdrawal of the proposed rule titled \"General and Plastic Surgery Devices: Restricted Sale, Distribution, and Use of Sunlamp Products,\" which published in the Federal Register of December 22, 2015. FDA is taking this action because it no longer intends to finalize the proposed rule.",
+      "date": "2026-03-17",
+      "title": "Agency Information Collection Activities for H-2B Foreign Labor Certification Program; Comment Request",
+      "summary": "The Department of Labor's (DOL) Employment and Training Administration (ETA) is soliciting comments concerning a proposed revision to the information collection request (ICR) titled \"H-2B Foreign Labor Certification Program,\" and related information collection and retention requirements (OMB Control Number 1205-0509), which covers Forms ETA-9142B, Appendices A, B, C, and D, ETA-9142B, Final Determination, H-2B Seafoo",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/16/2026-05103/general-and-plastic-surgery-devices-restricted-sale-distribution-and-use-of-sunlamp-products"
+      "url": "https://www.federalregister.gov/documents/2026/03/17/2026-05204/agency-information-collection-activities-for-h-2b-foreign-labor-certification-program-comment"
     },
     {
-      "id": "3df364de1f37",
-      "category": "LEGIS",
-      "date": "2026-03-16",
-      "title": "30-Day Notice of Proposed Information Collection: Maintenance Wage Rate Recommendation",
-      "summary": "HUD is seeking approval from the Office of Management and Budget (OMB) for the information collection described below. In accordance with the Paperwork Reduction Act, HUD is requesting comments from all interested parties on the proposed collection of information. The purpose of this notice is to allow for 30 days of public comment.",
+      "id": "4415ee53cdac",
+      "category": "CMS",
+      "date": "2026-03-17",
+      "title": "Agency Information Collection Activities: Submission for OMB Review; Comment Request",
+      "summary": "The Centers for Medicare & Medicaid Services (CMS) is announcing an opportunity for the public to comment on CMS' intention to collect information from the public. Under the Paperwork Reduction Act of 1995 (PRA), federal agencies are required to publish notice in the Federal Register concerning each proposed collection of information, including each proposed extension or reinstatement of an existing collection of inf",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/16/2026-05102/30-day-notice-of-proposed-information-collection-maintenance-wage-rate-recommendation"
-    },
-    {
-      "id": "9e8aa7ac9f5b",
-      "category": "LEGIS",
-      "date": "2026-03-16",
-      "title": "Steel Concrete Reinforcing Bar From the Republic of Türkiye: Final Results of the Expedited Second Sunset Review of the Countervailing Duty Order",
-      "summary": "The U.S. Department of Commerce (Commerce) finds that revocation of the countervailing duty (CVD) order on steel concrete reinforcing bar (rebar) from the Republic of T[uuml]rkiye (T[uuml]rkiye) would be likely to lead to continuation or recurrence of countervailable subsidies at the levels indicated in the \"Final Results of Sunset Review\" section of this notice.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/16/2026-05101/steel-concrete-reinforcing-bar-from-the-republic-of-trkiye-final-results-of-the-expedited-second"
-    },
-    {
-      "id": "e174f7768e07",
-      "category": "LEGIS",
-      "date": "2026-03-16",
-      "title": "Airworthiness Directives; Airbus Helicopters",
-      "summary": "The FAA is adopting a new airworthiness directive (AD) for all Airbus Helicopters Model H160-B helicopters. This AD was prompted by a report of a tail rotor drive rear shaft that came into contact with its rear damper during a flight test. This AD requires repetitive visual inspections of the rear damper and, depending on the results, corrective actions. The FAA is issuing this AD to address the unsafe condition on t",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/16/2026-05100/airworthiness-directives-airbus-helicopters"
-    },
-    {
-      "id": "f798e8a03755",
-      "category": "LEGIS",
-      "date": "2026-03-16",
-      "title": "Certain Pasta From Italy: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-      "summary": "The U.S. Department of Commerce (Commerce) determines that certain pasta (pasta) from Italy was sold in the United States at less than normal value during the period of review (POR), July 1, 2023, through June 30, 2024.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/16/2026-05099/certain-pasta-from-italy-final-results-of-antidumping-duty-administrative-review-2023-2024"
+      "url": "https://www.federalregister.gov/documents/2026/03/17/2026-05203/agency-information-collection-activities-submission-for-omb-review-comment-request"
     }
   ]
 }
