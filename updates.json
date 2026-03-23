@@ -1,4 +1,265 @@
 {
-  "generated_at": "2026-03-22T13:13:28.517Z",
-  "updates": []
+  "generated_at": "2026-03-23T13:46:55.028Z",
+  "updates": [
+    {
+      "id": "46aeeda92451",
+      "category": "LEGIS",
+      "date": "2026-03-23",
+      "title": "Agency Information Collection Activities: Requests for Comments; Clearance of Renewed Approval of Information Collection: Application for Employment With the Federal Aviation Administration",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, FAA invites public to make public comments about our intention to request the Office of Management and Budget (OMB) approval to renew an information collection. The collection involves an automated application process for employment with the Federal Aviation Administration by way of the Office of Personnel Management's (OPM) USAJOBS website: www.usajobs.gov. The",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/23/2026-05656/agency-information-collection-activities-requests-for-comments-clearance-of-renewed-approval-of"
+    },
+    {
+      "id": "af9aa8025690",
+      "category": "LEGIS",
+      "date": "2026-03-23",
+      "title": "Notice Announcing Talent Search Program",
+      "summary": "The Employment and Training Administration at the U.S. Department of Labor (DOL), is soliciting applications in support of the administration of the Talent Search Program on behalf of the U.S. Department of Education (ED).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/23/2026-05655/notice-announcing-talent-search-program"
+    },
+    {
+      "id": "7783df9b5cb3",
+      "category": "LEGIS",
+      "date": "2026-03-23",
+      "title": "Presidential Declaration Amendment of a Major Disaster for Public Assistance Only for the State of MISSISSIPPI and the MISSISSIPPI BAND OF CHOCTAW INDIANS",
+      "summary": "This is an amendment of the Presidential declaration of a major disaster for Public Assistance Only for the State of MISSISSIPPI and the MISSISSIPPI BAND OF CHOCTAW INDIANS (FEMA-4899-DR), dated February 6, 2026. Incident: Severe Winter Storm.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/23/2026-05654/presidential-declaration-amendment-of-a-major-disaster-for-public-assistance-only-for-the-state-of"
+    },
+    {
+      "id": "6602f93ba127",
+      "category": "LEGIS",
+      "date": "2026-03-23",
+      "title": "Request for Extension of a Currently Approved Information Collection",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, this notice announces the U.S. Department of Agriculture (USDA) Agricultural Marketing Service's (AMS) intent to request approval from the Office of Management and Budget (OMB) for an extension of the currently approved information collection used in support of the Regulations Governing the Inspection of Eggs (as authorized by the Egg Products Inspection Act (EP",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/23/2026-05653/request-for-extension-of-a-currently-approved-information-collection"
+    },
+    {
+      "id": "d7a1e4cbc238",
+      "category": "LEGIS",
+      "date": "2026-03-23",
+      "title": "Clarification of Deposit Insurance Coverage for Branches of U.S. Banks in the Federated States of Micronesia, the Marshall Islands, and Palau",
+      "summary": "The Federal Deposit Insurance Corporation (FDIC) is adopting a final rule to provide that the FDIC will insure deposits of all branches of U.S.-insured depository institutions (IDIs) in the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau, whether operating presently or in the future. This final rule follows an interim final rule with request for comment issued by the FD",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/23/2026-05652/clarification-of-deposit-insurance-coverage-for-branches-of-us-banks-in-the-federated-states-of"
+    },
+    {
+      "id": "77e523fac309",
+      "category": "LEGIS",
+      "date": "2026-03-23",
+      "title": "City of Chignik; Notice of Application for Surrender of License Accepted for Filing, Soliciting Comments, Motions To Intervene, and Protests",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/23/2026-05651/city-of-chignik-notice-of-application-for-surrender-of-license-accepted-for-filing-soliciting"
+    },
+    {
+      "id": "44763b9d4a6f",
+      "category": "LEGIS",
+      "date": "2026-03-23",
+      "title": "Idaho Power Company; Notice of Intent To File License Application, Filing of Pre-Application Document, and Approving Use of the Traditional Licensing Process",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/23/2026-05650/idaho-power-company-notice-of-intent-to-file-license-application-filing-of-pre-application-document"
+    },
+    {
+      "id": "ff87b7b8f306",
+      "category": "LEGIS",
+      "date": "2026-03-23",
+      "title": "Ampersand Olcott Harbor Hydro, LLC; Notice of Effectiveness of Withdrawal of Application for Amendment of Exemption",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/23/2026-05649/ampersand-olcott-harbor-hydro-llc-notice-of-effectiveness-of-withdrawal-of-application-for-amendment"
+    },
+    {
+      "id": "8c5613df41b0",
+      "category": "LEGIS",
+      "date": "2026-03-23",
+      "title": "Correction of Public Land Order No. 7963; National Defense Operating Area Withdrawal, Doña Ana, Luna, and Hidalgo Counties, NM",
+      "summary": "The Bureau of Land Management (BLM) published Public Land Order (PLO) No. 7963 in the Federal Register on April 21, 2025, for the emergency withdrawal and transfer of the administrative jurisdiction of 109,651 acres of Federal land to the Department of the Army (Army) for border security purposes. This Notice corrects the legal descriptions and the acreage identified in PLO No. 7963 and provides a more complete descr",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/23/2026-05648/correction-of-public-land-order-no-7963-national-defense-operating-area-withdrawal-doa-ana-luna-and"
+    },
+    {
+      "id": "77c6a247c4d7",
+      "category": "LEGIS",
+      "date": "2026-03-23",
+      "title": "Orleans International, Inc., Complainant v. Hapag Lloyd AG, Respondent; Notice of Filing of Complaint and Assignment",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/23/2026-05647/orleans-international-inc-complainant-v-hapag-lloyd-ag-respondent-notice-of-filing-of-complaint-and"
+    },
+    {
+      "id": "93f9254b4a42",
+      "category": "LEGIS",
+      "date": "2026-03-23",
+      "title": "Recission of the Statement of Policy on Qualifications for Failed Bank Acquisitions",
+      "summary": "The Federal Deposit Insurance Corporation (FDIC) is taking final action to rescind the Statement of Policy on Qualifications for Failed Bank Acquisitions issued in 2009 and related questions and answers posted on its website in 2010.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/23/2026-05646/recission-of-the-statement-of-policy-on-qualifications-for-failed-bank-acquisitions"
+    },
+    {
+      "id": "54a288ccc83c",
+      "category": "LEGIS",
+      "date": "2026-03-23",
+      "title": "Sunshine Act Meetings; Notice of Meeting Held With Less Than Seven Days' Advance Notice",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/23/2026-05645/sunshine-act-meetings-notice-of-meeting-held-with-less-than-seven-days-advance-notice"
+    },
+    {
+      "id": "4a6d0b1f665a",
+      "category": "LEGIS",
+      "date": "2026-03-23",
+      "title": "Sunshine Act Meetings",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/23/2026-05644/sunshine-act-meetings"
+    },
+    {
+      "id": "45a76b880a09",
+      "category": "LEGIS",
+      "date": "2026-03-23",
+      "title": "Agency Information Collection Extension",
+      "summary": "EIA submitted an information collection request for extension as required by the Paperwork Reduction Act of 1995. The information collection requests a three-year extension with changes to the Electric Power Surveys (EPS), OMB Control Number; 1905-0129. EPS consists of ten surveys, including annual, monthly and one daily survey. These surveys collect data from entities involved in the production, transmission, delive",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/23/2026-05643/agency-information-collection-extension"
+    },
+    {
+      "id": "b1b02040ae24",
+      "category": "LEGIS",
+      "date": "2026-03-23",
+      "title": "Notice of Proposed Administrative Settlement Agreement for Recovery of Past Response Costs at Refrigerant Exchange Corporation Site, Irwindale, CA",
+      "summary": "In accordance with the Comprehensive Environmental Response, Compensation and Liability Act of 1980, as amended (\"CERCLA\"), notice is hereby given that the Environmental Protection Agency (\"EPA\"), has entered into a proposed settlement, embodied in an Administrative Settlement Agreement for Recovery of Past Response Costs for Response Action (\"Settlement Agreement\") with Refrigerant Exchange Corporation (WY) and Refr",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/23/2026-05642/notice-of-proposed-administrative-settlement-agreement-for-recovery-of-past-response-costs-at"
+    },
+    {
+      "id": "baafaa7ef126",
+      "category": "LEGIS",
+      "date": "2026-03-23",
+      "title": "Clean Air Act Operating Permit Program; Order on Petition for Objection to State Operating Permit for Holly Energy Partners, L.P.-Denver Products Terminal",
+      "summary": "The Environmental Protection Agency (EPA) Administrator signed an order dated January 6, 2026, denying a petition dated September 2, 2025, from the Center for Biological Diversity (CBD). The petition requested that the EPA object to a Clean Air Act (CAA) operating permit issued by the Colorado Department of Public Health and Environment (CDPHE) to Holly Energy Partners, L.P. for its Denver Products Terminal located i",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/23/2026-05641/clean-air-act-operating-permit-program-order-on-petition-for-objection-to-state-operating-permit-for"
+    },
+    {
+      "id": "13a65a6b74a8",
+      "category": "LEGIS",
+      "date": "2026-03-23",
+      "title": "Privacy Act of 1974; System of Records",
+      "summary": "The U.S. Environmental Protection Agency's (EPA), Office of Finance and Administration is giving notice that it proposes to rescind a system of records pursuant to the provisions of the Privacy Act of 1974. The Integrated Grants Management System (IGMS)/Next Generation Grants System (NGGS) system of record (EPA-53) is being rescinded because the Office of Finance and Administration is no longer using the IGMS/NGGS as",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/23/2026-05640/privacy-act-of-1974-system-of-records"
+    },
+    {
+      "id": "9d198eb426c0",
+      "category": "LEGIS",
+      "date": "2026-03-23",
+      "title": "Request for Public Comment on Settlement Agreement for Battery and Electronics Recycling Inc. Site, Dane County, Wisconsin",
+      "summary": "In accordance with the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, as amended (\"CERCLA\"), the U.S. Environmental Protection Agency (\"EPA\"), Region 5, hereby gives notice of a proposed De Minimis administrative settlement for recovery of past response costs concerning the Battery and Electronics Recycling Site (Site) in Dane County, Wisconsin with the following Settling Parties and R",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/23/2026-05639/request-for-public-comment-on-settlement-agreement-for-battery-and-electronics-recycling-inc-site"
+    },
+    {
+      "id": "30d17c1d1e97",
+      "category": "LEGIS",
+      "date": "2026-03-23",
+      "title": "Agency Information Collection Activities: Requests for Comments; Clearance of Renewed Approval of Information Collection: Human Space Flight Requirements for Crew/Space Flight Participants",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, FAA invites public to make public comments about our intention to request the Office of Management and Budget (OMB) approval to renew an information collection. The information for this collection is mandatory. The collection involves information demonstrating that a launch or reentry operation involving human participants will meet the risk criteria and require",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/23/2026-05638/agency-information-collection-activities-requests-for-comments-clearance-of-renewed-approval-of"
+    },
+    {
+      "id": "ff343354c55d",
+      "category": "LEGIS",
+      "date": "2026-03-23",
+      "title": "Approval and Promulgation of State Plans for Designated Facilities and Pollutants; West Virginia; Control of Emissions From Existing Municipal Solid Waste Landfills",
+      "summary": "The Environmental Protection Agency (EPA) proposes to approve a revision to a Clean Air Act (CAA) section 111(d) plan (plan) submitted by the West Virginia Department of Environmental Protection (WVDEP). This revision updates the plan to include changes made to Emissions Guidelines and Compliance Times for municipal solid waste (MSW) landfills. This action is being taken under the Clean Air Act (CAA).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/23/2026-05637/approval-and-promulgation-of-state-plans-for-designated-facilities-and-pollutants-west-virginia"
+    }
+  ]
 }
