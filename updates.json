@@ -1,265 +1,265 @@
 {
-  "generated_at": "2026-03-30T14:01:06.661Z",
+  "generated_at": "2026-03-31T14:00:49.284Z",
   "updates": [
     {
-      "id": "04067f7c8153",
+      "id": "38bca98ec4bb",
       "category": "LEGIS",
-      "date": "2026-03-30",
-      "title": "Streamlining the Census Bureau's Foreign Trade Regulations",
-      "summary": "By this rule, the Census Bureau is amending its foreign trade regulations by consolidating and streamlining certain cross-references to, and restatements of, other regulations and authorities. This action is intended to simplify and streamline the foreign trade regulations, and thereby promote efficiency, without affecting any substantive obligations or entitlements.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06133/streamlining-the-census-bureaus-foreign-trade-regulations"
-    },
-    {
-      "id": "1486b2e964fd",
-      "category": "LEGIS",
-      "date": "2026-03-30",
-      "title": "Sunshine Act Meetings",
+      "date": "2026-03-31",
+      "title": "Addressing DEI Discrimination by Federal Contractors",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06132/sunshine-act-meetings"
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06286/addressing-dei-discrimination-by-federal-contractors"
     },
     {
-      "id": "0c8bf20e5662",
+      "id": "80dd582c04e1",
       "category": "LEGIS",
-      "date": "2026-03-30",
-      "title": "Certain In-Vehicle Infotainment Systems, Components Thereof, and Products Containing the Same; Notice of Institution of Investigation",
-      "summary": "Notice is hereby given that a complaint was filed with the U.S. International Trade Commission on February 24, 2026, under section 337 of the Tariff Act of 1930, as amended, on behalf of Zync Inc. of San Francisco, California. A supplement to the complaint was filed on March 3, 2026. The complaint, as supplemented, alleges violations of section 337 based upon the importation and the sale of certain in- vehicle infota",
+      "date": "2026-03-31",
+      "title": "Review of the Commission's Rules Governing the 896-901/935-940 MHz Band",
+      "summary": "In this document, the Federal Communications Commission (Commission or FCC) continues its efforts to expand broadband access in the 896-901/935-940 MHz band. This Report and Order now makes broadband available across all ten megahertz of this band. This Report and Order creates three options for 900 MHz licenses: a narrowband license; paired three-megahertz channels, called 3/3 broadband licenses: and paired five-meg",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06126/certain-in-vehicle-infotainment-systems-components-thereof-and-products-containing-the-same-notice"
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06239/review-of-the-commissions-rules-governing-the-896-901935-940-mhz-band"
     },
     {
-      "id": "b942539cb8dd",
+      "id": "75462cadbae0",
       "category": "LEGIS",
-      "date": "2026-03-30",
-      "title": "Certain Electrolyte Containing Beverages and Labeling and Packaging Thereof (II); Notice of a Commission Determination Finding a Violation of Section 337; Issuance of a General Exclusion Order; Termination of the Investigation",
-      "summary": "Notice is hereby given that the U.S. International Trade Commission (\"Commission\") has determined to affirm, with supplemental findings and modified reasoning, an initial determination (\"ID\") (Order No. 18) of the presiding administrative law judge (\"ALJ\") granting a motion for summary determination of violation. The Commission has determined to issue a general exclusion order (\"GEO\") prohibiting the importation of e",
+      "date": "2026-03-31",
+      "title": "Sunshine Act Meetings; Deletion of Item From March 26, 2026 Open Meeting",
+      "summary": "The Commission will consider a Report and Order to update rules for broadcast radio and television stations to reflect current application processing requirements, clarify and harmonize provisions, and remove references to outdated procedures and legacy filing systems. ------------------------------------------------------------------------",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06125/certain-electrolyte-containing-beverages-and-labeling-and-packaging-thereof-ii-notice-of-a"
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06230/sunshine-act-meetings-deletion-of-item-from-march-26-2026-open-meeting"
     },
     {
-      "id": "9ac5cfc65952",
+      "id": "5383b566d7cd",
       "category": "LEGIS",
-      "date": "2026-03-30",
-      "title": "Sunshine Act Meetings",
+      "date": "2026-03-31",
+      "title": "Performance-Based Investment Advisory Fees",
+      "summary": "The Securities and Exchange Commission (the \"Commission\") intends to issue an order that would adjust for inflation dollar amount thresholds in the rule under the Investment Advisers Act of 1940 that permits investment advisers to charge performance-based fees to \"qualified clients.\" Under that rule, an investment adviser may charge performance-based fees if a \"qualified client\" has a certain minimum net worth or min",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06229/performance-based-investment-advisory-fees"
+    },
+    {
+      "id": "a4a50860eb35",
+      "category": "LEGIS",
+      "date": "2026-03-31",
+      "title": "Notice of Open Public Hearing",
+      "summary": "Notice is hereby given of the following hearing of the U.S.- China Economic and Security Review Commission. The Commission is mandated by Congress to investigate, assess, and report to Congress annually on \"the national security implications of the economic relationship between the United States and the People's Republic of China.\" Pursuant to this mandate, the Commission will hold a public hearing in Washington, DC ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06228/notice-of-open-public-hearing"
+    },
+    {
+      "id": "ec23af040528",
+      "category": "LEGIS",
+      "date": "2026-03-31",
+      "title": "Information Collection Being Reviewed by the Federal Communications Commission Under Delegated Authority",
+      "summary": "As part of its continuing effort to reduce paperwork burdens, and as required by the Paperwork Reduction Act (PRA), the Federal Communications Commission (FCC or Commission) invites the general public and other Federal agencies to take this opportunity to comment on the following information collections. Comments are requested concerning: whether the proposed collection of information is necessary for the proper perf",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06227/information-collection-being-reviewed-by-the-federal-communications-commission-under-delegated"
+    },
+    {
+      "id": "4b3508f93298",
+      "category": "LEGIS",
+      "date": "2026-03-31",
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06124/sunshine-act-meetings"
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06226/center-for-scientific-review-notice-of-closed-meetings"
     },
     {
-      "id": "e27025dec7bf",
+      "id": "38d5558ed167",
       "category": "LEGIS",
-      "date": "2026-03-30",
-      "title": "Board of Directors Meeting",
-      "summary": "Notice of the forthcoming regular meeting of the Board of Directors of the Farm Credit System Insurance Corporation (FCSIC), is hereby given in accordance with the provisions of the Bylaws of the FCSIC.",
+      "date": "2026-03-31",
+      "title": "Notice of Realty Action: Direct Sale of Public Lands in La Paz County, AZ",
+      "summary": "The Bureau of Land Management (BLM) proposes a non-competitive (direct) sale of a parcel of BLM-managed public lands in Arizona to permanently resolve management challenges of an isolated tract without public access, to resolve its split-estate status, and to facilitate orderly economic development in a way that would benefit local communities. The parcel, located in La Paz County, contains 640 acres and, if approved",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06123/board-of-directors-meeting"
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06225/notice-of-realty-action-direct-sale-of-public-lands-in-la-paz-county-az"
     },
     {
-      "id": "6148203a1d69",
+      "id": "0818cef259bd",
       "category": "LEGIS",
-      "date": "2026-03-30",
-      "title": "Notice of Intent To Request Revision and Extension of a Currently Approved Information Collection",
-      "summary": "In accordance with the Paperwork Reduction Act of 1995, this notice announces the intent of the National Agricultural Statistics Service (NASS) to request revision and extension of a currently approved information collection, the Livestock Slaughter Survey. Revision to burden hours may be needed due to changes in the size of the target population, sampling design, and/or questionnaire length.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06122/notice-of-intent-to-request-revision-and-extension-of-a-currently-approved-information-collection"
-    },
-    {
-      "id": "1ef360184483",
-      "category": "LEGIS",
-      "date": "2026-03-30",
-      "title": "Certain TOPCon Solar Cells, Modules, Panels, Components Thereof, and Products Containing Same; Institution of Investigation",
-      "summary": "Notice is hereby given that a complaint was filed with the U.S. International Trade Commission on February 24, 2026, under section 337 of the Tariff Act of 1930, as amended, on behalf of First Solar, Inc. of Phoenix, Arizona. The complaint was supplemented on March 10, 2026. The complaint, as supplemented, alleges violations of section 337 based upon the importation into the United States, the sale for importation, a",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06121/certain-topcon-solar-cells-modules-panels-components-thereof-and-products-containing-same"
-    },
-    {
-      "id": "b238cb210a6a",
-      "category": "LEGIS",
-      "date": "2026-03-30",
-      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Technology Letter of Explanation",
-      "summary": "The Department of Commerce, in accordance with the Paperwork Reduction Act of 1995 (PRA), invites the general public and other Federal agencies to comment on proposed, and continuing information collections, which helps us assess the impact of our information collection requirements and minimize the public's reporting burden. The purpose of this notice is to allow for 60 days of public comment preceding submission of",
+      "date": "2026-03-31",
+      "title": "Information Collection Being Reviewed by the Federal Communications Commission",
+      "summary": "As part of its continuing effort to reduce paperwork burdens, and as required by the Paperwork Reduction Act (PRA), the Federal Communications Commission (FCC or Commission) invites the general public and other Federal agencies to take this opportunity to comment on the following information collections. Comments are requested concerning: whether the proposed collection of information is necessary for the proper perf",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06120/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06224/information-collection-being-reviewed-by-the-federal-communications-commission"
     },
     {
-      "id": "1dc009965985",
+      "id": "2c921f400f58",
       "category": "LEGIS",
-      "date": "2026-03-30",
-      "title": "Submission for OMB Review; Comments Request",
-      "summary": "Under the provisions of the Paperwork Reduction Act, agencies are required to publish a Notice in the Federal Register notifying the public that the agency is renewing an existing information collection for OMB review and approval and requests public review and comment on the submission. The agencies received no comments in response to the sixty (60) day notice. The purpose of this notice is to allow an additional th",
+      "date": "2026-03-31",
+      "title": "Parcel Dimension Compliance",
+      "summary": "The Postal Service is amending Mailing Standards of the United States Postal Service, Domestic Mail Manual (DMM[supreg]) in various sections to expand the current requirement to include accurate parcel dimensions in a manifest.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06119/submission-for-omb-review-comments-request"
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06223/parcel-dimension-compliance"
     },
     {
-      "id": "4db915acf59b",
+      "id": "85a72b2154cf",
       "category": "LEGIS",
-      "date": "2026-03-30",
-      "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Reinstatement, With Change, of a Previously Approved Collection for Which Approval Has Expired: Census of Prosecutor Offices",
-      "summary": "The Department of Justice (DOJ), Bureau of Justice Statistics, will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995.",
+      "date": "2026-03-31",
+      "title": "Proposed Collection; Comment Request",
+      "summary": "In compliance with the Paperwork Reduction Act of 1995, the WHS announces a proposed public information collection and seeks public comment on the provisions thereof. Comments are invited on: whether the proposed collection of information is necessary for the proper performance of the functions of the agency, including whether the information shall have practical utility; the accuracy of the agency's estimate of the ",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06118/agency-information-collection-activities-proposed-ecollection-ecomments-requested-reinstatement-with"
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06222/proposed-collection-comment-request"
     },
     {
-      "id": "8678ab1012d1",
+      "id": "20fc39ff7b25",
       "category": "LEGIS",
-      "date": "2026-03-30",
-      "title": "Application for Final Commitment for a Long-Term Loan or Financial Guarantee in Excess of $100 Million: AP768324",
-      "summary": "This Notice is to inform the public that the Export-Import Bank of the United States (\"EXIM\") has received an application for final commitment for a long-term loan or financial guarantee in excess of $100 million. Consistent with EXIM's mandate to strengthen U.S. economic competitiveness and national security, the proposed transaction supports the development of critical mineral resources essential to resilient domes",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06117/application-for-final-commitment-for-a-long-term-loan-or-financial-guarantee-in-excess-of-100"
-    },
-    {
-      "id": "da7e5587a15e",
-      "category": "LEGIS",
-      "date": "2026-03-30",
-      "title": "Information Collection Being Reviewed by the Federal Communications Commission Under Delegated",
-      "summary": "As part of its continuing effort to reduce paperwork burdens, and as required by the Paperwork Reduction Act (PRA) of 1995, the Federal Communications Commission (FCC or Commission) invites the general public and other Federal agencies to take this opportunity to comment on the following information collections. Comments are requested concerning: whether the proposed collection of information is necessary for the pro",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06116/information-collection-being-reviewed-by-the-federal-communications-commission-under-delegated"
-    },
-    {
-      "id": "4d0b39682637",
-      "category": "LEGIS",
-      "date": "2026-03-30",
-      "title": "Information Collection Being Submitted for Review and Approval to Office of Management and Budget",
-      "summary": "As part of its continuing effort to reduce paperwork burdens, as required by the Paperwork Reduction Act (PRA) of 1995, the Federal Communications Commission (FCC or the Commission) invites the general public and other Federal Agencies to take this opportunity to comment on the following information collection. Pursuant to the Small Business Paperwork Relief Act of 2002, the FCC seeks specific comment on how it might",
+      "date": "2026-03-31",
+      "title": "Submission for OMB Review; Comment Request",
+      "summary": "The DoD has submitted to OMB for clearance the following proposal for collection of information under the provisions of the Paperwork Reduction Act.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06115/information-collection-being-submitted-for-review-and-approval-to-office-of-management-and-budget"
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06221/submission-for-omb-review-comment-request"
     },
     {
-      "id": "85959f3773a2",
+      "id": "32df0d85e12b",
       "category": "LEGIS",
-      "date": "2026-03-30",
-      "title": "Authority To Require Supervision and Regulation of Certain Nonbank Financial Companies",
-      "summary": "This proposed interpretive guidance, which would replace the Financial Stability Oversight Council's existing interpretive guidance on nonbank financial company determinations and its analytic framework for financial stability risks, describes the approach the Council intends to take in prioritizing its work to identify and address potential risks to U.S. financial stability using an activities-based approach, and en",
+      "date": "2026-03-31",
+      "title": "Proposed Collection; Comment Request",
+      "summary": "In compliance with the Paperwork Reduction Act of 1995, the United States (U.S.) Army Installation Management Command, G1 Passport Services Division/DoD Passport and Visa announces a proposed public information collection and seeks public comment on the provisions thereof. Comments are invited on: whether the proposed collection of information is necessary for the proper performance of the functions of the agency, in",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06114/authority-to-require-supervision-and-regulation-of-certain-nonbank-financial-companies"
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06220/proposed-collection-comment-request"
     },
     {
-      "id": "0cd849b7955e",
+      "id": "a01e2a3b3999",
       "category": "LEGIS",
-      "date": "2026-03-30",
-      "title": "Certain NAND and DRAM Memory Chips; Institution of Investigation",
-      "summary": "Notice is hereby given that a complaint was filed with the U.S. International Trade Commission on February 17, 2026, under section 337 of the Tariff Act of 1930, as amended, on behalf of MonolithIC 3D Inc. of Allen, Texas. Supplements to the complaint were filed on February 25, 2026, and March 16, 2026. The complaint, as supplemented, alleges violations of section 337 based upon the importation into the United States",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06113/certain-nand-and-dram-memory-chips-institution-of-investigation"
-    },
-    {
-      "id": "cf0a9f543743",
-      "category": "LEGIS",
-      "date": "2026-03-30",
-      "title": "Request for Comments on the Renewal of a Previously Approved Information Collection: Eligibility of US-Flag Vessels of 100 Feet or Greater in Registered Length To Obtain a Fishery Endorsement",
-      "summary": "MARAD invites public comments on its intention to request Office of Management and Budget (OMB) approval to renew an information collection in accordance with the Paperwork Reduction Act of 1995. The proposed collection OMB 2133-0530 (Eligibility of US-flag Vessels of 100 Feet or Greater in Registered Length to Obtain a Fishery Endorsement), is necessary for MARAD to determine if a particular vessel is owned and cont",
+      "date": "2026-03-31",
+      "title": "Proposed Collection; Comment Request",
+      "summary": "In compliance with the Paperwork Reduction Act of 1995, the Naval Sea Systems Command announces a proposed public information collection and seeks public comment on the provisions thereof. Comments are invited on: whether the proposed collection of information is necessary for the proper performance of the functions of the agency, including whether the information shall have practical utility; the accuracy of the age",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06110/request-for-comments-on-the-renewal-of-a-previously-approved-information-collection-eligibility-of"
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06219/proposed-collection-comment-request"
     },
     {
-      "id": "f3bb6f831a11",
+      "id": "986fc86396b2",
       "category": "LEGIS",
-      "date": "2026-03-30",
-      "title": "Request for Comments on the Renewal of a Previously Approved Information Collection: Capital Construction Fund and Exhibits",
-      "summary": "MARAD invites public comments on its intention to request Office of Management and Budget (OMB) approval to renew an information collection in accordance with the Paperwork Reduction Act of 1995. The proposed collection OMB 2133-0027 (Capital Construction Fund and Exhibits) is necessary for MARAD to determine an applicant's eligibility to enter a Capital Construction Fund (CCF) Agreement, and their compliance with th",
+      "date": "2026-03-31",
+      "title": "Submission for OMB Review; Comment Request",
+      "summary": "The DoD has submitted to OMB for clearance the following proposal for collection of information under the provisions of the Paperwork Reduction Act.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06218/submission-for-omb-review-comment-request"
+    },
+    {
+      "id": "b4c892e680c8",
+      "category": "LEGIS",
+      "date": "2026-03-31",
+      "title": "Revised Non-Foreign Overseas Per Diem Rates",
+      "summary": "DHRA publishes this Civilian Personnel Per Diem Bulletin Number 331. Bulletin Number 331 lists current per diem rates prescribed for reimbursement of subsistence expenses while on official Government travel to Alaska, Hawaii, the Commonwealth of Puerto Rico, and the possessions of the U.S. The Calendar Year (CY) 2026 lodging rate review for Puerto Rico resulted in rate changes for multiple locations.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06217/revised-non-foreign-overseas-per-diem-rates"
+    },
+    {
+      "id": "399525d67a66",
+      "category": "LEGIS",
+      "date": "2026-03-31",
+      "title": "Proposed Collection; Comment Request",
+      "summary": "In compliance with the Paperwork Reduction Act of 1995, the United States (U.S.) Army Claims Service announces a proposed public information collection and seeks public comment on the provisions thereof. Comments are invited on: whether the proposed collection of information is necessary for the proper performance of the functions of the agency, including whether the information shall have practical utility; the accu",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06109/request-for-comments-on-the-renewal-of-a-previously-approved-information-collection-capital"
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06216/proposed-collection-comment-request"
     },
     {
-      "id": "10d779f26a0d",
+      "id": "ab1babcf2b21",
       "category": "LEGIS",
-      "date": "2026-03-30",
-      "title": "Sunshine Act Meetings",
-      "summary": "Federal Register document (no abstract provided).",
+      "date": "2026-03-31",
+      "title": "Proposed Collection; Comment Request",
+      "summary": "In compliance with the Paperwork Reduction Act of 1995, the United States Military Academy (USMA) announces a proposed public information collection and seeks public comment on the provisions thereof. Comments are invited on: whether the proposed collection of information is necessary for the proper performance of the functions of the agency, including whether the information shall have practical utility; the accurac",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06215/proposed-collection-comment-request"
+    },
+    {
+      "id": "42542da94634",
+      "category": "LEGIS",
+      "date": "2026-03-31",
+      "title": "Modification of Class E Airspace; Denver International Airport, Denver, CO",
+      "summary": "This action modifies the Class E airspace extending upward from 700 feet above the surface and removes the Class E airspace extending upward from 1,200 feet above the surface at Denver International Airport, Denver, CO. Additionally, this action makes an administrative modification to the airport's Class E airspace legal description. These actions support the safety and management of instrument flight rules (IFR) ope",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06108/sunshine-act-meetings"
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06214/modification-of-class-e-airspace-denver-international-airport-denver-co"
     },
     {
-      "id": "4477193f59ed",
+      "id": "4dc7ba0fd439",
       "category": "LEGIS",
-      "date": "2026-03-30",
-      "title": "Filing of Plats of Survey and Supplemental Plat; New Mexico; Oklahoma",
-      "summary": "The plats of survey and the supplemental plat of the following described lands are scheduled to be officially filed in the Bureau of Land Management (BLM) New Mexico State Office, Santa Fe, New Mexico. The surveys and plat announced in this notice are necessary for the management of these lands.",
+      "date": "2026-03-31",
+      "title": "Submission for OMB Review; Comment Request",
+      "summary": "The DoD has submitted to OMB for clearance the following proposal for collection of information under the provisions of the Paperwork Reduction Act.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06107/filing-of-plats-of-survey-and-supplemental-plat-new-mexico-oklahoma"
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06213/submission-for-omb-review-comment-request"
     }
   ]
 }
