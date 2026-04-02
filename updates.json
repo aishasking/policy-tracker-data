@@ -1,265 +1,265 @@
 {
-  "generated_at": "2026-04-01T14:02:53.621Z",
+  "generated_at": "2026-04-02T13:54:50.324Z",
   "updates": [
     {
-      "id": "a09d4575f56c",
+      "id": "e1076ea42662",
       "category": "LEGIS",
-      "date": "2026-04-01",
-      "title": "Registering Emergency Medical Services Agencies Under the Protecting Patient Access to Emergency Medications Act of 2017",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/01/C1-2026-02288/registering-emergency-medical-services-agencies-under-the-protecting-patient-access-to-emergency"
-    },
-    {
-      "id": "2f414cf8c153",
-      "category": "LEGIS",
-      "date": "2026-04-01",
-      "title": "Airworthiness Directives; Bell Textron Canada Limited Helicopters",
-      "summary": "The FAA is adopting a new airworthiness directive (AD) for certain Bell Textron Canada Limited (Bell) Model 505 helicopters. The FAA previously sent this AD as an emergency AD to all known U.S. owners and operators of these helicopters. This AD was prompted by a failure of the hinge assembly on the aft movable ballast box assembly, which could allow the ballast weights to escape the ballast box and strike the tail ro",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06369/airworthiness-directives-bell-textron-canada-limited-helicopters"
-    },
-    {
-      "id": "6db625c36123",
-      "category": "LEGIS",
-      "date": "2026-04-01",
-      "title": "Notice of Scope Ruling Applications Filed in Antidumping and Countervailing Duty Proceedings",
-      "summary": "The U.S. Department of Commerce (Commerce) received scope ruling applications, requesting that scope inquiries be conducted to determine whether identified products are covered by the scope of antidumping duty (AD) and/or countervailing duty (CVD) orders and that Commerce issue scope rulings pursuant to those inquiries. In accordance with Commerce's regulations, we are notifying the public of the filing of the scope ",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06327/notice-of-scope-ruling-applications-filed-in-antidumping-and-countervailing-duty-proceedings"
-    },
-    {
-      "id": "37da6f716e10",
-      "category": "LEGIS",
-      "date": "2026-04-01",
-      "title": "Initiation of Five-Year (Sunset) Reviews",
-      "summary": "In accordance with the Tariff Act of 1930, as amended (the Act), the U.S. Department of Commerce (Commerce) is automatically initiating the five-year reviews (Sunset Reviews) of the antidumping duty (AD) and countervailing duty (CVD) orders and suspended investigations listed below. The U.S. International Trade Commission (ITC) is publishing concurrently with this notice its notice of Institution of Five-Year Reviews",
+      "date": "2026-04-02",
+      "title": "Fisheries of the Exclusive Economic Zone off Alaska; Gulf of Alaska; Final 2026 and 2027 Harvest Specifications for Groundfish; 2026 Rockfish Program Cooperative Allocations",
+      "summary": "NMFS is providing notification for the Rockfish Program cooperative allocations as described in the final rule that published on March 11, 2026, implementing the final 2026 and 2027 harvest specifications and prohibited species catch limits for the groundfish fishery of the Gulf of Alaska (GOA). These allocations are necessary to provide the Rockfish Program cooperative amounts for 2026, thus allowing commercial fish",
       "tags": [
         "Federal Register"
       ],
       "priority": "high",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06326/initiation-of-five-year-sunset-reviews"
+      "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06472/fisheries-of-the-exclusive-economic-zone-off-alaska-gulf-of-alaska-final-2026-and-2027-harvest"
     },
     {
-      "id": "66ba4082354c",
+      "id": "28e08f288e00",
       "category": "LEGIS",
-      "date": "2026-04-01",
-      "title": "Antidumping or Countervailing Duty Order, Finding, or Suspended Investigation; Advance Notification of Sunset Review",
-      "summary": "Federal Register document (no abstract provided).",
+      "date": "2026-04-02",
+      "title": "Airworthiness Directives; The Boeing Company Airplanes",
+      "summary": "The FAA proposes to adopt a new airworthiness directive (AD) for certain The Boeing Company Model 757-200 series airplanes. This proposed AD was prompted by a report of a crack found in the frame during a structural inspection of an airplane equipped with an Air Cargo Equipment (ACE) cargo loading system in the forward cargo bay. This proposed AD would require an inspection or maintenance records check of certain fra",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06471/airworthiness-directives-the-boeing-company-airplanes"
+    },
+    {
+      "id": "d8e38fb5ba4c",
+      "category": "LEGIS",
+      "date": "2026-04-02",
+      "title": "Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes",
+      "summary": "The FAA is adopting a new airworthiness directive (AD) for all Airbus Canada Limited Partnership Model BD-500-1A10 and BD-500-1A11 airplanes. This AD was prompted by the discovery that the outflow valve (OFV) direct current (DC) motor could potentially be inoperative when used in high differential pressure conditions. This AD prohibits dispatching an airplane under certain master minimum equipment list (MMEL) items a",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06465/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c"
+    },
+    {
+      "id": "9c79be7828bf",
+      "category": "LEGIS",
+      "date": "2026-04-02",
+      "title": "Airworthiness Directives; Ontic Engineering and Manufacturing, Inc. Airplanes (Type Certificate Previously Held by M7 Aerospace LLC)",
+      "summary": "The FAA proposes to adopt a new airworthiness directive (AD) for certain Ontic Engineering and Manufacturing, Inc. Model SA226-T, SA226-AT, SA226-T(B), SA226-TC, SA227-AC (C-26A), SA227-AT, SA227-BC (C-26A), SA227-CC, SA227-DC (C-26B), and SA-227-TT (300) airplanes. This proposed AD was prompted by reports of in-flight pitch trim actuator failures. This proposed AD would require repetitively inspecting the pitch trim",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06459/airworthiness-directives-ontic-engineering-and-manufacturing-inc-airplanes-type-certificate"
+    },
+    {
+      "id": "94b05cf40c3a",
+      "category": "LEGIS",
+      "date": "2026-04-02",
+      "title": "Incorrect Terminology in Regulatory Text; Technical Amendments",
+      "summary": "This final rule makes limited nomenclature changes to the Code of Federal Regulations (CFR) to conform with Executive Order (E.O.) 14168, Defending Women from Gender Ideology Extremism and Restoring Biological Truth to the Federal Government. This change will remove and replace the term \"gender\" with the term \"sex\" in the regulatory text of the Listing of Impairments that we use to evaluate disability claims under ti",
       "tags": [
         "Federal Register"
       ],
       "priority": "high",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06325/antidumping-or-countervailing-duty-order-finding-or-suspended-investigation-advance-notification-of"
+      "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06454/incorrect-terminology-in-regulatory-text-technical-amendments"
     },
     {
-      "id": "8411bf9b9dd4",
+      "id": "06cba14a66eb",
       "category": "LEGIS",
-      "date": "2026-04-01",
-      "title": "Agency Information Collection Activities; Comment Request; Student Experience Assessment (SEA) of Job Corps Centers",
-      "summary": "The Department of Labor's (DOL or Department) Employment and Training Administration (ETA) is soliciting comments concerning a proposed extension for the authority to conduct the information collection request (ICR) titled, \"Student Experience Assessment (SEA) of Job Corps Centers.\" This comment request is part of continuing Departmental efforts to reduce paperwork and respondent burden in accordance with the Paperwo",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06324/agency-information-collection-activities-comment-request-student-experience-assessment-sea-of-job"
-    },
-    {
-      "id": "733501dd0f66",
-      "category": "LEGIS",
-      "date": "2026-04-01",
-      "title": "Pipeline Safety: Class Location Change Requirements; Response to Petition for Reconsideration",
-      "summary": "PHMSA alerts the public to a petition for reconsideration and PHMSA's response.",
+      "date": "2026-04-02",
+      "title": "Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to Homer Harbor System Four Float Replacement Project",
+      "summary": "NMFS has received a request from the City of Homer (Homer) for authorization to take marine mammals incidental to the Homer Harbor System Four Float Replacement Project in Homer, AK. Pursuant to the Marine Mammal Protection Act (MMPA), NMFS is requesting comments on its proposal to issue an incidental harassment authorization (IHA) to incidentally take marine mammals during the specified activities. NMFS is also requ",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06323/pipeline-safety-class-location-change-requirements-response-to-petition-for-reconsideration"
+      "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06453/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-homer"
     },
     {
-      "id": "93c1de80ea77",
+      "id": "7fdd8ffc3722",
       "category": "LEGIS",
-      "date": "2026-04-01",
-      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Survey of State Government Research and Development",
+      "date": "2026-04-02",
+      "title": "Agency Information Collection Activity: Verification of Eligibility for Burial in a National Cemetery",
+      "summary": "National Cemetery Administration, Department of Veterans Affairs (VA), is announcing an opportunity for public comment on the proposed collection of certain information by the agency. Under the Paperwork Reduction Act (PRA) of 1995, Federal agencies are required to publish notice in the Federal Register concerning each proposed collection of information, including each proposed extension of a currently approved colle",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06452/agency-information-collection-activity-verification-of-eligibility-for-burial-in-a-national-cemetery"
+    },
+    {
+      "id": "4f38c8ae319f",
+      "category": "LEGIS",
+      "date": "2026-04-02",
+      "title": "Agency Information Collection Activity: Presidential Memorial Certificate (PMC)",
+      "summary": "The National Cemetery Administration, Department of Veterans Affairs (VA), is announcing an opportunity for public comment on the proposed collection of certain information by the agency. Under the Paperwork Reduction Act (PRA) of 1995, Federal agencies are required to publish notice in the Federal Register concerning each proposed collection of information, including each proposed extension of a currently approved c",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06451/agency-information-collection-activity-presidential-memorial-certificate-pmc"
+    },
+    {
+      "id": "600f5e6f11f1",
+      "category": "LEGIS",
+      "date": "2026-04-02",
+      "title": "Oleoresin Paprika From India: Preliminary Affirmative Determination of Sales at Less Than Fair Value, Preliminary Negative Determination of Critical Circumstances, Postponement of Final Determination, and Extension of Provisional Measures",
+      "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that oleoresin paprika from India is being, or is likely to be, sold in the United States at less than fair value (LTFV). The period of investigation (POI) is April 1, 2024, through March 31, 2025. Interested parties are invited to comment on this preliminary determination.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06450/oleoresin-paprika-from-india-preliminary-affirmative-determination-of-sales-at-less-than-fair-value"
+    },
+    {
+      "id": "97af8363d7ed",
+      "category": "LEGIS",
+      "date": "2026-04-02",
+      "title": "Certain Corrosion-Resistant Steel Products from the Republic of Korea: Initiation of Circumvention Inquiry on the Antidumping and Countervailing Duty Orders",
+      "summary": "In response to requests from Nucor Corporation and Steel Dynamics, Inc. (collectively, the requesters), the U.S. Department of Commerce (Commerce) is initiating a country-wide circumvention inquiry to determine whether Certain Corrosion-Resistant Steel Products (CORE) from the Republic of Korea (Korea), completed in Thailand using components produced in Korea, are circumventing the antidumping (AD) and countervailing",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06449/certain-corrosion-resistant-steel-products-from-the-republic-of-korea-initiation-of-circumvention"
+    },
+    {
+      "id": "afc43253c76a",
+      "category": "LEGIS",
+      "date": "2026-04-02",
+      "title": "1,1,1,2-Tetrafluoroethane (R-134a) From the People's Republic of China: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+      "summary": "The U.S. Department of Commerce (Commerce) determines that 1,1,1,2-Tetrafluoroethane (R-134a) from the People's Republic of China (China) was sold in the United States at less than normal value during the period of review (POR), April 1, 2023, through March 31, 2024.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06448/1112-tetrafluoroethane-r-134a-from-the-peoples-republic-of-china-final-results-of-antidumping-duty"
+    },
+    {
+      "id": "1ac85015d040",
+      "category": "LEGIS",
+      "date": "2026-04-02",
+      "title": "Granular Polytetrafluoroethylene Resin From India: Amended Final Results of Antidumping Duty Administrative Review; 2023-2024",
+      "summary": "The U.S. Department of Commerce (Commerce) is amending the final results of the administrative review of the antidumping duty (AD) order on Granular Polytetrafluoroethylene Resin (Granular PTFE) from India to correct a ministerial error. The period of review (POR) is March 1, 2023, through February 29, 2024.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06447/granular-polytetrafluoroethylene-resin-from-india-amended-final-results-of-antidumping-duty"
+    },
+    {
+      "id": "408b77e2de9a",
+      "category": "LEGIS",
+      "date": "2026-04-02",
+      "title": "Notification of Citizens Coinage Advisory Committee Public Meeting-April 21, 2026",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06322/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+      "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06446/notification-of-citizens-coinage-advisory-committee-public-meeting-april-21-2026"
     },
     {
-      "id": "350cbd793c27",
+      "id": "de4d9764e988",
       "category": "LEGIS",
-      "date": "2026-04-01",
-      "title": "Agency Information Collection Activities: Submission to the Office of Management and Budget for Review and Approval; Comment Request; EIB 92-51, Application for Special Buyer Credit Limit (SBCL) Under Multi-Buyer Export Credit Insurance Policies",
-      "summary": "The Export-Import Bank of the United States (EXIM Bank), as a part of its continuing effort to reduce paperwork and respondent burden, invites the public and other Federal Agencies to comment on the proposed information collection, as required by the Paperwork Reduction Act of 1995.",
+      "date": "2026-04-02",
+      "title": "Administrative Law Judges; Withdrawal",
+      "summary": "The Office of Personnel Management is clarifying its withdrawal of a proposed rule published on September 21, 2020. The notice of proposed rulemaking, among other things, proposed revising OPM's regulations governing the appointment and employment of administrative law judges (ALJs). OPM is withdrawing the proposed rule.",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06321/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for"
+      "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06445/administrative-law-judges-withdrawal"
     },
     {
-      "id": "495548bbf7d8",
+      "id": "5bddde2c1de1",
       "category": "LEGIS",
-      "date": "2026-04-01",
-      "title": "Intent To Prepare an Environmental Impact Statement for the Proposed Bridger Pipeline Expansion Project, Montana",
-      "summary": "In compliance with the National Environmental Policy Act of 1969, as amended (NEPA), and the Mineral Leasing Act of 1920, as amended (MLA), the Bureau of Land Management (BLM) intends to prepare an Environmental Impact Statement (EIS) to consider the effects of constructing and operating a 36-inch buried crude oil pipeline and by this notice is announcing the beginning of the scoping process to solicit public comment",
+      "date": "2026-04-02",
+      "title": "Accidental Release Prevention Requirements: Risk Management Programs Under the Clean Air Act; Common Sense Approach to Chemical Accident Prevention; Extension of Comment Period",
+      "summary": "The U.S. Environmental Protection Agency (EPA or Agency) is extending the comment period for the proposed rule entitled \"Accidental Release Prevention Requirements: Risk Management Programs Under the Clean Air Act; Common Sense Approach to Chemical Accident Prevention.\" EPA is extending the comment period until May 11, 2026 in response to stakeholders' requests for a comment period extension.",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06320/intent-to-prepare-an-environmental-impact-statement-for-the-proposed-bridger-pipeline-expansion"
+      "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06444/accidental-release-prevention-requirements-risk-management-programs-under-the-clean-air-act-common"
     },
     {
-      "id": "5c31ac3c4506",
+      "id": "003135466a9c",
       "category": "LEGIS",
-      "date": "2026-04-01",
-      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Pacific Islands Logbook Family of Forms",
-      "summary": "Federal Register document (no abstract provided).",
+      "date": "2026-04-02",
+      "title": "Clean Air Act Operating Permit Program Revision; California; Monterey Bay Air Resources District",
+      "summary": "The Environmental Protection Agency (EPA) is proposing to approve revisions to the Monterey Bay Air Resources District's (MBARD or \"District\") Title V Operating Permits Program. These revisions remove emergency affirmative defense provisions; align the rule with current title V requirements by removing permitting requirements for greenhouse gases; create procedures for electronic public noticing of permits in additio",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06319/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+      "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06443/clean-air-act-operating-permit-program-revision-california-monterey-bay-air-resources-district"
     },
     {
-      "id": "baa1f6af01b9",
+      "id": "3bd774597dfc",
       "category": "LEGIS",
-      "date": "2026-04-01",
-      "title": "Proposed Collection: 30-Day Comment Request; NCI Genomic Data Commons (GDC) Data Submission Request Form (National Cancer Institute)",
-      "summary": "In compliance with the requirement of the Paperwork Reduction Act of 1995 to provide an opportunity for public comment on proposed data collection projects, the National Institutes of Health, National Cancer Institute (NCI) will publish periodic summaries of proposed projects to be submitted to the Office of Management and Budget (OMB) for review and approval.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06317/proposed-collection-30-day-comment-request-nci-genomic-data-commons-gdc-data-submission-request-form"
-    },
-    {
-      "id": "93a523a5479b",
-      "category": "FDA",
-      "date": "2026-04-01",
-      "title": "Issuance of Priority Review Voucher; Rare Pediatric Disease Product; YUVIWEL (navepegritide)",
-      "summary": "The Food and Drug Administration (FDA) is announcing the issuance of a priority review voucher to the sponsor of a rare pediatric disease product application. The Federal Food, Drug, and Cosmetic Act (FD&C Act) authorizes FDA to award priority review vouchers to sponsors of approved rare pediatric disease product applications that meet certain criteria. FDA is required to publish notice of the award of the priority r",
+      "date": "2026-04-02",
+      "title": "Air Plan Approval; Wisconsin; Moderate Attainment Plan Elements for Wisconsin's 2015 Ozone Standard Areas",
+      "summary": "The Environmental Protection Agency (EPA) is proposing to approve portions of Wisconsin's 2015 ozone National Ambient Air Quality Standard (NAAQS or standard) Moderate nonattainment area State Implementation Plan (SIP) submission for the Wisconsin portion of the Chicago, Illinois-Indiana-Wisconsin area (Kenosha County), the Milwaukee, Wisconsin area, and the Sheboygan County, Wisconsin area. The elements of the Moder",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06316/issuance-of-priority-review-voucher-rare-pediatric-disease-product-yuviwel-navepegritide"
+      "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06442/air-plan-approval-wisconsin-moderate-attainment-plan-elements-for-wisconsins-2015-ozone-standard"
     },
     {
-      "id": "4cebba621578",
+      "id": "571cf9d7d32d",
       "category": "LEGIS",
-      "date": "2026-04-01",
-      "title": "Notice of Proposed Reinstatement of BLM New Mexico Terminated Oil and Gas Lease: NMNM141519",
-      "summary": "In accordance with the Mineral Leasing Act of 1920, as amended, the Bureau of Land Management (BLM) received a petition for reinstatement of terminated competitive oil and gas lease NMNM141519 from Enrique A. Cantu (lessee). The lessee timely filed a petition for reinstatement of the competitive oil and gas lease located in Chaves County, New Mexico. The lessee paid the required rental accruing from the date of termi",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "high",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06315/notice-of-proposed-reinstatement-of-blm-new-mexico-terminated-oil-and-gas-lease-nmnm141519"
-    },
-    {
-      "id": "f634a8cef5ae",
-      "category": "FDA",
-      "date": "2026-04-01",
-      "title": "Determination That INAPSINE (Droperidol) Injection, 2.5 Milligrams/Milliliter, Was Not Withdrawn From Sale for Reasons of Safety or Effectiveness",
-      "summary": "The Food and Drug Administration (FDA or Agency) has determined that INAPSINE (droperidol) injection, 2.5 mg/mL, was not withdrawn from sale for reasons of safety or effectiveness. This determination means that FDA will not begin procedures to withdraw approval of abbreviated new drug applications (ANDAs) that refer to this drug product, and it will allow FDA to continue to approve ANDAs that refer to the product as ",
+      "date": "2026-04-02",
+      "title": "Finding of Failure To Attain the 2006 24-Hour PM2.5 Standards; California; San Joaquin Valley; Error Correction",
+      "summary": "In response to a court decision, the Environmental Protection Agency (EPA) is proposing to correct our July 22, 2020 final action erroneously granting a Clean Air Act (CAA or \"Act\") section 188(e) attainment date extension for the 2006 24-hour fine particulate matter (PM 2.5 ) national ambient air quality standards (NAAQS or \"standards\") in the San Joaquin Valley from December 31, 2019, to December 31, 2024, and is n",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06314/determination-that-inapsine-droperidol-injection-25-milligramsmilliliter-was-not-withdrawn-from-sale"
+      "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06441/finding-of-failure-to-attain-the-2006-24-hour-pm25-standards-california-san-joaquin-valley-error"
     },
     {
-      "id": "27cb79cd6eef",
+      "id": "415a25bcf9ba",
       "category": "LEGIS",
-      "date": "2026-04-01",
-      "title": "Kitchen Appliance Shelving and Racks From China",
-      "summary": "Federal Register document (no abstract provided).",
+      "date": "2026-04-02",
+      "title": "Magnuson-Stevens Act Provisions; General Provisions for Domestic Fisheries; Application for Exempted Fishing Permits",
+      "summary": "The Assistant Regional Administrator for Sustainable Fisheries, Greater Atlantic Region, NMFS, has made a preliminary determination that an Exempted Fishing Permit (EFP) to facilitate the use of fishing year (FY) 2026 and 2027 monkfish research set-aside (RSA) days-at-sea (DAS) warrants further consideration. The EFP would allow federally permitted fishing vessels to fish outside fishery regulations in support of exe",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06313/kitchen-appliance-shelving-and-racks-from-china"
+      "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06440/magnuson-stevens-act-provisions-general-provisions-for-domestic-fisheries-application-for-exempted"
     },
     {
-      "id": "bc49e86fc97a",
+      "id": "596fcdcc4f23",
       "category": "LEGIS",
-      "date": "2026-04-01",
-      "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Title-Voice of Customer Survey",
-      "summary": "The Federal Bureau of Investigation, Office of Private Sector, Department of Justice (DOJ), will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06312/agency-information-collection-activities-proposed-ecollection-ecomments-requested-title-voice-of"
-    },
-    {
-      "id": "df384bb529fa",
-      "category": "FDA",
-      "date": "2026-04-01",
-      "title": "Importer of Controlled Substances Application: Research Triangle Institute",
-      "summary": "Research Triangle Institute has applied to be registered as an importer of basic class(es) of controlled substance(s). Refer to SUPPLEMENTARY INFORMATION listed below for further drug information.",
+      "date": "2026-04-02",
+      "title": "Magnuson-Stevens Act Provisions; General Provisions for Domestic Fisheries; Application for Exempted Fishing Permits",
+      "summary": "The Assistant Regional Administrator for Sustainable Fisheries, Greater Atlantic Region, NMFS, has made a preliminary determination that an Exempted Fishing Permit (EFP) to facilitate the use of fishing year (FY) 2026 and 2027 monkfish research set-aside (RSA) days-at-sea (DAS) warrants further consideration. The EFP would allow federally permitted fishing vessels to fish outside fishery regulations in support of exe",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06311/importer-of-controlled-substances-application-research-triangle-institute"
-    },
-    {
-      "id": "631b3f669222",
-      "category": "LEGIS",
-      "date": "2026-04-01",
-      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 8c-1",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06310/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-8c-1"
-    },
-    {
-      "id": "92bd67d2e5f6",
-      "category": "LEGIS",
-      "date": "2026-04-01",
-      "title": "Data Collection Available for Public Comments",
-      "summary": "The Small Business Administration (SBA) will submit the information collection described below to the Office of Management and Budget (OMB) for review and clearance in accordance with the Paperwork Reduction Act of 1995, as amended, on or after the date of publication of this notice. SBA is publishing this notice to allow all interested members of the public an additional 30 days to provide comments on the collection",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/01/2026-06309/data-collection-available-for-public-comments"
+      "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06439/magnuson-stevens-act-provisions-general-provisions-for-domestic-fisheries-application-for-exempted"
     }
   ]
 }
