@@ -1,4 +1,265 @@
 {
-  "generated_at": "2026-04-05T13:20:25.314Z",
-  "updates": []
+  "generated_at": "2026-04-06T13:44:36.156Z",
+  "updates": [
+    {
+      "id": "363591c83614",
+      "category": "LEGIS",
+      "date": "2026-04-06",
+      "title": "Determination of Attainment by the Attainment Date But for International Emissions for the 2015 Ozone National Ambient Air Quality Standards; Phoenix-Mesa Nonattainment Area, Arizona",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/C1-2026-05601/determination-of-attainment-by-the-attainment-date-but-for-international-emissions-for-the-2015"
+    },
+    {
+      "id": "d4bf57627650",
+      "category": "LEGIS",
+      "date": "2026-04-06",
+      "title": "Submission for OMB Review; 30-Day Comment Request; Hazardous Waste Worker Training-42 CFR Part 65, National Institute of Environmental Health Sciences (NIEHS)",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/C1-2026-05238/submission-for-omb-review-30-day-comment-request-hazardous-waste-worker-training-42-cfr-part-65"
+    },
+    {
+      "id": "29d96d7ef940",
+      "category": "LEGIS",
+      "date": "2026-04-06",
+      "title": "Protection of Stratospheric Ozone: Listing of Substitutes Under the Significant New Alternatives Policy Program in Refrigeration and Air Conditioning and Fire Suppression; Supplemental Notice of Proposed Rulemaking",
+      "summary": "Pursuant to the U.S. Environmental Protection Agency's Significant New Alternatives Policy program, this action proposes to list the refrigerant 2,3,3,3-tetrafluoropropene, also known as HFO- 1234yf, as acceptable, subject to use conditions, in the motor vehicle air conditioning end-use for retrofit of heavy-duty pickup trucks and complete heavy-duty vans. This action supplements the Agency's November 10, 2025, propo",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06665/protection-of-stratospheric-ozone-listing-of-substitutes-under-the-significant-new-alternatives"
+    },
+    {
+      "id": "6209f56c625f",
+      "category": "LEGIS",
+      "date": "2026-04-06",
+      "title": "Magnuson-Stevens Fishery Conservation and Management Act Provisions; Modifications To Conform U.S. Fishery Regulations With the Presidential Proclamation Unleashing Commercial Fishing in the Atlantic",
+      "summary": "This action rescinds regulations issued under the Magnuson- Stevens Fishery Conservation and Management Act (Magnuson-Stevens Act) that restrict commercial fishing within the Northeast Canyons and Seamounts Marine National Monument (Monument). This action is necessary to conform U.S. fishing regulations with the February 6, 2026, Presidential Proclamation Unleashing Commercial Fishing in the Atlantic.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06663/magnuson-stevens-fishery-conservation-and-management-act-provisions-modifications-to-conform-us"
+    },
+    {
+      "id": "0cebfb66127a",
+      "category": "LEGIS",
+      "date": "2026-04-06",
+      "title": "Drinking Water Contaminant Candidate List 6-Draft",
+      "summary": "The U.S. Environmental Protection Agency (EPA) is publishing a draft list of contaminants that are currently not subject to any proposed or promulgated national primary drinking water regulations for public review and comment. These contaminants are known or anticipated to occur in public water systems and may require regulation under the Safe Drinking Water Act (SDWA) in the future. The draft list provided in this d",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06662/drinking-water-contaminant-candidate-list-6-draft"
+    },
+    {
+      "id": "829102fd6c4f",
+      "category": "FDA",
+      "date": "2026-04-06",
+      "title": "Determination That STRATTERA (Atomoxetine Hydrochloride) Capsules 5 Milligrams, 10 Milligrams, 18 Milligrams, 25 Milligrams, 40 Milligrams, 60 Milligrams, 80 Milligrams, and 100 Milligrams, Were Not Withdrawn From Sale for Reasons of Safety or Effectiveness",
+      "summary": "The Food and Drug Administration (FDA or Agency) has determined that STRATTERA (atomoxetine hydrochloride) capsules 5 milligrams, 10 milligrams, 18 Milligrams, 25 Milligrams, 40 Milligrams, 60 Milligrams, 80 Milligrams, and 100 Milligrams, were not withdrawn from sale for reasons of safety or effectiveness. This determination means that FDA will not begin procedures to withdraw approval of abbreviated new drug applic",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06661/determination-that-strattera-atomoxetine-hydrochloride-capsules-5-milligrams-10-milligrams-18"
+    },
+    {
+      "id": "24682eaf4155",
+      "category": "FDA",
+      "date": "2026-04-06",
+      "title": "Electronic Submission of Postmarketing Individual Case Safety Reports to the Food and Drug Administration Adverse Event Monitoring System Using International Council of Harmonisation E2B(R3) Data Standards; Regional Data Elements and Implementation Schedule",
+      "summary": "The Food and Drug Administration (FDA or we) is announcing an updated data standard requirement for the submission of postmarketing individual case safety report (ICSR) submissions for human drug products, biological products, and drug- or biologic-led combination products to the FDA Adverse Event Monitoring System (AEMS) database (formerly FDA Adverse Event Reporting System (FAERS)) via the Electronic Submissions Ga",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06660/electronic-submission-of-postmarketing-individual-case-safety-reports-to-the-food-and-drug"
+    },
+    {
+      "id": "ad66ed85399e",
+      "category": "LEGIS",
+      "date": "2026-04-06",
+      "title": "Notice of Public Meetings of the New Jersey Advisory Committee to the U.S. Commission on Civil Rights",
+      "summary": "Notice is hereby given, pursuant to the provisions of the rules and regulations of the U.S. Commission on Civil Rights (Commission) and the Federal Advisory Committee Act, that the New Jersey Advisory Committee (Committee) to the U.S. Commission on Civil Rights will hold public meetings via Zoom. The purpose is for the committee to begin the implementation stage on the committee's chosen topic of antisemitism and civ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06659/notice-of-public-meetings-of-the-new-jersey-advisory-committee-to-the-us-commission-on-civil-rights"
+    },
+    {
+      "id": "8884dc8110a4",
+      "category": "LEGIS",
+      "date": "2026-04-06",
+      "title": "Notice of Cancellation of Withdrawal Application for the Upper Pecos River Watershed Protection Area, New Mexico",
+      "summary": "The Bureau of Land Management (BLM) and the U.S. Department of Agriculture, Forest Service (USFS) announce the cancellation of their joint Upper Pecos River Watershed Area withdrawal application for 163,483 acres of National Forest System lands and 1,327.16 acres of public lands in northern New Mexico. The segregation initiated by publication of notice of the withdrawal application will terminate by operation of law ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06658/notice-of-cancellation-of-withdrawal-application-for-the-upper-pecos-river-watershed-protection-area"
+    },
+    {
+      "id": "846665a71d41",
+      "category": "LEGIS",
+      "date": "2026-04-06",
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06657/center-for-scientific-review-notice-of-closed-meetings"
+    },
+    {
+      "id": "32cfa4f581de",
+      "category": "LEGIS",
+      "date": "2026-04-06",
+      "title": "Information Collection Being Reviewed by the Federal Communications Commission",
+      "summary": "As part of its continuing effort to reduce paperwork burdens, and as required by the Paperwork Reduction Act (PRA) of 1995, the Federal Communications Commission (FCC or the Commission) invites the general public and other Federal agencies to take this opportunity to comment on the following information collection. Comments are requested concerning: whether the proposed collection of information is necessary for the ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06656/information-collection-being-reviewed-by-the-federal-communications-commission"
+    },
+    {
+      "id": "ba44a7158022",
+      "category": "LEGIS",
+      "date": "2026-04-06",
+      "title": "Information Collection Being Submitted for Review and Approval to Office of Management and Budget",
+      "summary": "As part of its continuing effort to reduce paperwork burdens, as required by the Paperwork Reduction Act (PRA) of 1995, the Federal Communications Commission (FCC or the Commission) invites the general public and other Federal Agencies to take this opportunity to comment on the following information collection. Pursuant to the Small Business Paperwork Relief Act of 2002, the FCC seeks specific comment on how it might",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06655/information-collection-being-submitted-for-review-and-approval-to-office-of-management-and-budget"
+    },
+    {
+      "id": "5cc74d102448",
+      "category": "LEGIS",
+      "date": "2026-04-06",
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06654/center-for-scientific-review-notice-of-closed-meetings"
+    },
+    {
+      "id": "9500caf87852",
+      "category": "LEGIS",
+      "date": "2026-04-06",
+      "title": "Seeking Comment on Prohibiting Importation and Marketing of Previously Authorized Covered Communications Equipment Added to the Covered List in 2024 or Earlier",
+      "summary": "In this document, the Public Safety and Homeland Security Bureau (PSHSB) and the Office of Engineering and Technology (OET) seek comment on proposing to prohibit the continued importation and marketing of certain previously authorized equipment that has been determined to pose an unacceptable risk to the national security of the United States or the security and safety of United States persons. Through Public Notice,",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06653/seeking-comment-on-prohibiting-importation-and-marketing-of-previously-authorized-covered"
+    },
+    {
+      "id": "a8f61479eb46",
+      "category": "LEGIS",
+      "date": "2026-04-06",
+      "title": "Call for Applications for Secretary Appointment to Treasury Tribal Advisory Committee",
+      "summary": "This notice announces that the U.S. Department of the Treasury (Treasury), pursuant to the Tribal General Welfare Exclusion Act of 2014 (TGWEA), seeks applications on behalf of the Secretary of the Treasury (Secretary) for the appointment of three members to the Treasury Tribal Advisory Committee (TTAC). Under section 3 of the TGWEA, the TTAC was established to advise the Secretary on matters related to the taxation ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06652/call-for-applications-for-secretary-appointment-to-treasury-tribal-advisory-committee"
+    },
+    {
+      "id": "e2ee5751e66c",
+      "category": "LEGIS",
+      "date": "2026-04-06",
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06651/center-for-scientific-review-notice-of-closed-meetings"
+    },
+    {
+      "id": "1bb2f5aed1c3",
+      "category": "LEGIS",
+      "date": "2026-04-06",
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06650/center-for-scientific-review-notice-of-closed-meetings"
+    },
+    {
+      "id": "405da49b784e",
+      "category": "LEGIS",
+      "date": "2026-04-06",
+      "title": "Float Glass Products From the People's Republic of China and Malaysia: Countervailing Duty Orders",
+      "summary": "Based on affirmative final determinations by the U.S. Department of Commerce (Commerce) and U.S. International Trade Commission (ITC), Commerce is issuing countervailing duty (CVD) orders on float glass products (float glass) from the People's Republic of China (China) and Malaysia.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06649/float-glass-products-from-the-peoples-republic-of-china-and-malaysia-countervailing-duty-orders"
+    },
+    {
+      "id": "b87c9a4d39b6",
+      "category": "LEGIS",
+      "date": "2026-04-06",
+      "title": "Request for Information: Icebreaker Collaboration Effort (ICE) Pact",
+      "summary": "This notice requests information from the public to assist MARAD in determining which shipyards in the U.S. have the capacity to construct ships capable of operating in ice conditions and to identify what factors would be necessary to further develop and construct icebreaker ships in the U.S. Information gathered in response to the request could be used to increase the capacity of the U.S. to design, produce, and mai",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06648/request-for-information-icebreaker-collaboration-effort-ice-pact"
+    },
+    {
+      "id": "b85efbf6966e",
+      "category": "LEGIS",
+      "date": "2026-04-06",
+      "title": "Float Glass Products From the People's Republic of China: Antidumping Duty Order",
+      "summary": "Based on affirmative final determination by the U.S. Department of Commerce (Commerce) and the U.S. International Trade Commission (ITC), Commerce is issuing the antidumping duty (AD) order on float glass products from the People's Republic of China (China).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06647/float-glass-products-from-the-peoples-republic-of-china-antidumping-duty-order"
+    }
+  ]
 }
