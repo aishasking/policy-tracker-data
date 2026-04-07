@@ -1,265 +1,265 @@
 {
-  "generated_at": "2026-04-06T13:44:36.156Z",
+  "generated_at": "2026-04-07T13:59:06.890Z",
   "updates": [
     {
-      "id": "363591c83614",
+      "id": "0d7e89ef9ef1",
       "category": "LEGIS",
-      "date": "2026-04-06",
-      "title": "Determination of Attainment by the Attainment Date But for International Emissions for the 2015 Ozone National Ambient Air Quality Standards; Phoenix-Mesa Nonattainment Area, Arizona",
+      "date": "2026-04-07",
+      "title": "Agency Information Collection Activities; Comment Request on Carrier Summary Report, Terminal Operator Report, and Request for Extension of Time to File an ExSTARS Information Return",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/07/2026-06729/agency-information-collection-activities-comment-request-on-carrier-summary-report-terminal-operator"
+    },
+    {
+      "id": "93633e7b4544",
+      "category": "LEGIS",
+      "date": "2026-04-07",
+      "title": "World Trade Center Health Program; Petitions 029, 034, 035, and 062-Hepatic Steatosis; Finding of Insufficient Evidence",
+      "summary": "The Administrator of the World Trade Center (WTC) Health Program has received several petitions (Petitions 029, 034, 035, and 062) to add \"hepatic steatosis\" or \"fatty liver disease\" to the List of WTC-Related Health Conditions. Upon reviewing the scientific and medical literature, including information provided by the petitioners, the Administrator has determined that there is insufficient evidence available to supp",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/07/2026-06728/world-trade-center-health-program-petitions-029-034-035-and-062-hepatic-steatosis-finding-of"
+    },
+    {
+      "id": "8b98e47081ed",
+      "category": "LEGIS",
+      "date": "2026-04-07",
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Law School Clinic Certification Program",
+      "summary": "The United States Patent and Trademark Office (hereafter \"USPTO\" or \"Agency\") will submit the following information collection request to the Office of Management and Budget (OMB) for review and clearance in accordance with the Paperwork Reduction Act of 1995, on or after the date of publication of this notice. The USPTO invites comments on the information collection renewal of 0651-0081, which helps the USPTO assess",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/07/2026-06727/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for"
+    },
+    {
+      "id": "17e70eed9d51",
+      "category": "LEGIS",
+      "date": "2026-04-07",
+      "title": "Fees for the Unified Carrier Registration Plan and Agreement",
+      "summary": "FMCSA proposes amendments to its regulations governing the annual Unified Carrier Registration (UCR) Plan and Agreement registration fees that participating States collect from motor carriers, motor private carriers of property, brokers, freight forwarders, and leasing companies. The UCR Board of Directors (Board) did not recommend any change in fees for the 2026 registration year, therefore the fees remained the sam",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/07/2026-06726/fees-for-the-unified-carrier-registration-plan-and-agreement"
+    },
+    {
+      "id": "a3ed0dfbe07f",
+      "category": "CMS",
+      "date": "2026-04-07",
+      "title": "Agency Information Collection Activities: Submission for OMB Review; Comment Request",
+      "summary": "The Centers for Medicare & Medicaid Services (CMS) is announcing an opportunity for the public to comment on CMS' intention to collect information from the public. Under the Paperwork Reduction Act of 1995 (PRA), federal agencies are required to publish notice in the Federal Register concerning each proposed collection of information, including each proposed extension or reinstatement of an existing collection of inf",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/07/2026-06725/agency-information-collection-activities-submission-for-omb-review-comment-request"
+    },
+    {
+      "id": "87aeafed9ba7",
+      "category": "LEGIS",
+      "date": "2026-04-07",
+      "title": "Administrative Declaration of an Economic Injury Disaster for the State of HAWAII",
+      "summary": "This is notice of an Economic Injury Disaster Loan (EIDL) declaration for the state of Hawaii dated April 3, 2026. Incident: Downtown Hilo Fire.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/07/2026-06724/administrative-declaration-of-an-economic-injury-disaster-for-the-state-of-hawaii"
+    },
+    {
+      "id": "a44e53537261",
+      "category": "LEGIS",
+      "date": "2026-04-07",
+      "title": "Notice of OFAC Sanctions Actions",
+      "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing updates to the identifying information of one or more persons currently included in OFAC's Specially Designated Nationals and Blocked Persons List (SDN List). OFAC is also publishing the names of one or more persons whose property and interests in property have been unblocked and who have been removed from the SDN List.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/07/2026-06723/notice-of-ofac-sanctions-actions"
+    },
+    {
+      "id": "0da8ab697ffe",
+      "category": "FDA",
+      "date": "2026-04-07",
+      "title": "Issuance of Priority Review Voucher; Rare Pediatric Disease Product; LOARGYS (pegzilarginase-nbln)",
+      "summary": "The Food and Drug Administration (FDA) is announcing the issuance of a priority review voucher to the sponsor of a rare pediatric disease product application. The Federal Food, Drug, and Cosmetic Act (FD&C Act) authorizes FDA to award priority review vouchers to sponsors of approved rare pediatric disease product applications that meet certain criteria. FDA is required to publish notice of the award of the priority r",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/07/2026-06722/issuance-of-priority-review-voucher-rare-pediatric-disease-product-loargys-pegzilarginase-nbln"
+    },
+    {
+      "id": "4cc375c68aff",
+      "category": "LEGIS",
+      "date": "2026-04-07",
+      "title": "Caribbean Fishery Management Council 189th Public Hybrid Meeting",
+      "summary": "The Caribbean Fishery Management Council (CFMC) will hold the 189th public hybrid meeting to address the items contained in the tentative agenda included in the SUPPLEMENTARY INFORMATION.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/07/2026-06721/caribbean-fishery-management-council-189th-public-hybrid-meeting"
+    },
+    {
+      "id": "b3d06e11e256",
+      "category": "LEGIS",
+      "date": "2026-04-07",
+      "title": "Gulf Fishery Management Council; Public Meeting",
+      "summary": "The Gulf Fishery Management Council (Gulf Council) will hold a 1 day in-person meeting of its Ad Hoc Red Snapper Grouper/Tilefish Individual Fishing Quota (IFQ) Programs Advisory Panel (AP).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/07/2026-06720/gulf-fishery-management-council-public-meeting"
+    },
+    {
+      "id": "2f031afceb27",
+      "category": "FDA",
+      "date": "2026-04-07",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Administrative Practices and Procedures; Formal Hearings",
+      "summary": "The Food and Drug Administration (FDA or Agency) is announcing an opportunity for public comment on the proposed collection of certain information by the Agency. Under the Paperwork Reduction Act of 1995 (PRA), Federal Agencies are required to publish notice in the Federal Register concerning each proposed collection of information, including each proposed extension of an existing collection of information, and to al",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/07/2026-06719/agency-information-collection-activities-proposed-collection-comment-request-administrative"
+    },
+    {
+      "id": "8b872f38e1eb",
+      "category": "LEGIS",
+      "date": "2026-04-07",
+      "title": "Formations of, Acquisitions by, and Mergers of Bank Holding Companies",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/06/C1-2026-05601/determination-of-attainment-by-the-attainment-date-but-for-international-emissions-for-the-2015"
+      "url": "https://www.federalregister.gov/documents/2026/04/07/2026-06718/formations-of-acquisitions-by-and-mergers-of-bank-holding-companies"
     },
     {
-      "id": "d4bf57627650",
+      "id": "cbd963891ff5",
       "category": "LEGIS",
-      "date": "2026-04-06",
-      "title": "Submission for OMB Review; 30-Day Comment Request; Hazardous Waste Worker Training-42 CFR Part 65, National Institute of Environmental Health Sciences (NIEHS)",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/06/C1-2026-05238/submission-for-omb-review-30-day-comment-request-hazardous-waste-worker-training-42-cfr-part-65"
-    },
-    {
-      "id": "29d96d7ef940",
-      "category": "LEGIS",
-      "date": "2026-04-06",
-      "title": "Protection of Stratospheric Ozone: Listing of Substitutes Under the Significant New Alternatives Policy Program in Refrigeration and Air Conditioning and Fire Suppression; Supplemental Notice of Proposed Rulemaking",
-      "summary": "Pursuant to the U.S. Environmental Protection Agency's Significant New Alternatives Policy program, this action proposes to list the refrigerant 2,3,3,3-tetrafluoropropene, also known as HFO- 1234yf, as acceptable, subject to use conditions, in the motor vehicle air conditioning end-use for retrofit of heavy-duty pickup trucks and complete heavy-duty vans. This action supplements the Agency's November 10, 2025, propo",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06665/protection-of-stratospheric-ozone-listing-of-substitutes-under-the-significant-new-alternatives"
-    },
-    {
-      "id": "6209f56c625f",
-      "category": "LEGIS",
-      "date": "2026-04-06",
-      "title": "Magnuson-Stevens Fishery Conservation and Management Act Provisions; Modifications To Conform U.S. Fishery Regulations With the Presidential Proclamation Unleashing Commercial Fishing in the Atlantic",
-      "summary": "This action rescinds regulations issued under the Magnuson- Stevens Fishery Conservation and Management Act (Magnuson-Stevens Act) that restrict commercial fishing within the Northeast Canyons and Seamounts Marine National Monument (Monument). This action is necessary to conform U.S. fishing regulations with the February 6, 2026, Presidential Proclamation Unleashing Commercial Fishing in the Atlantic.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06663/magnuson-stevens-fishery-conservation-and-management-act-provisions-modifications-to-conform-us"
-    },
-    {
-      "id": "0cebfb66127a",
-      "category": "LEGIS",
-      "date": "2026-04-06",
-      "title": "Drinking Water Contaminant Candidate List 6-Draft",
-      "summary": "The U.S. Environmental Protection Agency (EPA) is publishing a draft list of contaminants that are currently not subject to any proposed or promulgated national primary drinking water regulations for public review and comment. These contaminants are known or anticipated to occur in public water systems and may require regulation under the Safe Drinking Water Act (SDWA) in the future. The draft list provided in this d",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06662/drinking-water-contaminant-candidate-list-6-draft"
-    },
-    {
-      "id": "829102fd6c4f",
-      "category": "FDA",
-      "date": "2026-04-06",
-      "title": "Determination That STRATTERA (Atomoxetine Hydrochloride) Capsules 5 Milligrams, 10 Milligrams, 18 Milligrams, 25 Milligrams, 40 Milligrams, 60 Milligrams, 80 Milligrams, and 100 Milligrams, Were Not Withdrawn From Sale for Reasons of Safety or Effectiveness",
-      "summary": "The Food and Drug Administration (FDA or Agency) has determined that STRATTERA (atomoxetine hydrochloride) capsules 5 milligrams, 10 milligrams, 18 Milligrams, 25 Milligrams, 40 Milligrams, 60 Milligrams, 80 Milligrams, and 100 Milligrams, were not withdrawn from sale for reasons of safety or effectiveness. This determination means that FDA will not begin procedures to withdraw approval of abbreviated new drug applic",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06661/determination-that-strattera-atomoxetine-hydrochloride-capsules-5-milligrams-10-milligrams-18"
-    },
-    {
-      "id": "24682eaf4155",
-      "category": "FDA",
-      "date": "2026-04-06",
-      "title": "Electronic Submission of Postmarketing Individual Case Safety Reports to the Food and Drug Administration Adverse Event Monitoring System Using International Council of Harmonisation E2B(R3) Data Standards; Regional Data Elements and Implementation Schedule",
-      "summary": "The Food and Drug Administration (FDA or we) is announcing an updated data standard requirement for the submission of postmarketing individual case safety report (ICSR) submissions for human drug products, biological products, and drug- or biologic-led combination products to the FDA Adverse Event Monitoring System (AEMS) database (formerly FDA Adverse Event Reporting System (FAERS)) via the Electronic Submissions Ga",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06660/electronic-submission-of-postmarketing-individual-case-safety-reports-to-the-food-and-drug"
-    },
-    {
-      "id": "ad66ed85399e",
-      "category": "LEGIS",
-      "date": "2026-04-06",
-      "title": "Notice of Public Meetings of the New Jersey Advisory Committee to the U.S. Commission on Civil Rights",
-      "summary": "Notice is hereby given, pursuant to the provisions of the rules and regulations of the U.S. Commission on Civil Rights (Commission) and the Federal Advisory Committee Act, that the New Jersey Advisory Committee (Committee) to the U.S. Commission on Civil Rights will hold public meetings via Zoom. The purpose is for the committee to begin the implementation stage on the committee's chosen topic of antisemitism and civ",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06659/notice-of-public-meetings-of-the-new-jersey-advisory-committee-to-the-us-commission-on-civil-rights"
-    },
-    {
-      "id": "8884dc8110a4",
-      "category": "LEGIS",
-      "date": "2026-04-06",
-      "title": "Notice of Cancellation of Withdrawal Application for the Upper Pecos River Watershed Protection Area, New Mexico",
-      "summary": "The Bureau of Land Management (BLM) and the U.S. Department of Agriculture, Forest Service (USFS) announce the cancellation of their joint Upper Pecos River Watershed Area withdrawal application for 163,483 acres of National Forest System lands and 1,327.16 acres of public lands in northern New Mexico. The segregation initiated by publication of notice of the withdrawal application will terminate by operation of law ",
+      "date": "2026-04-07",
+      "title": "Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments",
+      "summary": "This rule amends, suspends, or removes Standard Instrument Approach Procedures (SIAPs) and associated Takeoff Minimums and Obstacle Departure Procedures for operations at certain airports. These regulatory actions are needed because of the adoption of new or revised criteria, or because of changes occurring in the National Airspace System, such as the commissioning of new navigational facilities, adding new obstacles",
       "tags": [
         "Federal Register"
       ],
       "priority": "high",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06658/notice-of-cancellation-of-withdrawal-application-for-the-upper-pecos-river-watershed-protection-area"
+      "url": "https://www.federalregister.gov/documents/2026/04/07/2026-06717/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures"
     },
     {
-      "id": "846665a71d41",
+      "id": "d6c6579b083b",
       "category": "LEGIS",
-      "date": "2026-04-06",
-      "title": "Center for Scientific Review; Notice of Closed Meetings",
-      "summary": "Federal Register document (no abstract provided).",
+      "date": "2026-04-07",
+      "title": "Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments",
+      "summary": "This rule establishes, amends, suspends, or removes Standard Instrument Approach Procedures (SIAPS) and associated Takeoff Minimums and Obstacle Departure procedures (ODPs) for operations at certain airports. These regulatory actions are needed because of the adoption of new or revised criteria, or because of changes occurring in the National Airspace System, such as the commissioning of new navigational facilities, ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/07/2026-06716/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures"
+    },
+    {
+      "id": "8450fdbbe275",
+      "category": "LEGIS",
+      "date": "2026-04-07",
+      "title": "Notice of 2026 FASAB Meetings",
+      "summary": "Notice is hereby given that the Federal Accounting Standards Advisory Board (FASAB) will hold its meetings on the following dates throughout 2026, unless otherwise noted.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06657/center-for-scientific-review-notice-of-closed-meetings"
+      "url": "https://www.federalregister.gov/documents/2026/04/07/2026-06715/notice-of-2026-fasab-meetings"
     },
     {
-      "id": "32cfa4f581de",
+      "id": "4d70f110fa56",
       "category": "LEGIS",
-      "date": "2026-04-06",
-      "title": "Information Collection Being Reviewed by the Federal Communications Commission",
-      "summary": "As part of its continuing effort to reduce paperwork burdens, and as required by the Paperwork Reduction Act (PRA) of 1995, the Federal Communications Commission (FCC or the Commission) invites the general public and other Federal agencies to take this opportunity to comment on the following information collection. Comments are requested concerning: whether the proposed collection of information is necessary for the ",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06656/information-collection-being-reviewed-by-the-federal-communications-commission"
-    },
-    {
-      "id": "ba44a7158022",
-      "category": "LEGIS",
-      "date": "2026-04-06",
-      "title": "Information Collection Being Submitted for Review and Approval to Office of Management and Budget",
-      "summary": "As part of its continuing effort to reduce paperwork burdens, as required by the Paperwork Reduction Act (PRA) of 1995, the Federal Communications Commission (FCC or the Commission) invites the general public and other Federal Agencies to take this opportunity to comment on the following information collection. Pursuant to the Small Business Paperwork Relief Act of 2002, the FCC seeks specific comment on how it might",
+      "date": "2026-04-07",
+      "title": "Spring Meeting of the Advisory Committee to the U.S. Section to the International Commission for the Conservation of Atlantic Tunas",
+      "summary": "The Advisory Committee to the U.S. Section to the International Commission for the Conservation of Atlantic Tunas (ICCAT) announces its annual spring meeting, to be held in person April 27-28, 2026.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06655/information-collection-being-submitted-for-review-and-approval-to-office-of-management-and-budget"
+      "url": "https://www.federalregister.gov/documents/2026/04/07/2026-06714/spring-meeting-of-the-advisory-committee-to-the-us-section-to-the-international-commission-for-the"
     },
     {
-      "id": "5cc74d102448",
+      "id": "bc579abd9f4a",
       "category": "LEGIS",
-      "date": "2026-04-06",
-      "title": "Center for Scientific Review; Notice of Closed Meetings",
-      "summary": "Federal Register document (no abstract provided).",
+      "date": "2026-04-07",
+      "title": "Extension of Public Comment Period; Deep Seabed Mining: Notice of Receipt of Applications for Deep Seabed Mining Exploration Licenses and Announcement of Public Comment Period and Virtual Public Hearings",
+      "summary": "On March 23, 2026, National Oceanic and Atmospheric Administration (NOAA) published a notice in the Federal Register announcing receipt of two applications for deep seabed mining exploration licenses, one each from American Metal Resources, LLC (AMR) and SeaX, Inc. (SeaX); a public comment period; and virtual public hearings. The notice established a deadline of May 22, 2026 for public comments. NOAA is extending the",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06654/center-for-scientific-review-notice-of-closed-meetings"
+      "url": "https://www.federalregister.gov/documents/2026/04/07/2026-06713/extension-of-public-comment-period-deep-seabed-mining-notice-of-receipt-of-applications-for-deep"
     },
     {
-      "id": "9500caf87852",
+      "id": "f41537701fea",
       "category": "LEGIS",
-      "date": "2026-04-06",
-      "title": "Seeking Comment on Prohibiting Importation and Marketing of Previously Authorized Covered Communications Equipment Added to the Covered List in 2024 or Earlier",
-      "summary": "In this document, the Public Safety and Homeland Security Bureau (PSHSB) and the Office of Engineering and Technology (OET) seek comment on proposing to prohibit the continued importation and marketing of certain previously authorized equipment that has been determined to pose an unacceptable risk to the national security of the United States or the security and safety of United States persons. Through Public Notice,",
+      "date": "2026-04-07",
+      "title": "Notice of Public Meeting of the Virginia Advisory Committee to the U.S. Commission on Civil Rights",
+      "summary": "Notice is hereby given, pursuant to the provisions of the rules and regulations of the U.S. Commission on Civil Rights (Commission) and the Federal Advisory Committee Act, that the Virginia Advisory Committee (Committee) to the U.S. Commission on Civil Rights will hold a public meeting via Zoom. The purpose of the meeting is to begin briefing planning on their topic of study, Compliance with Students for Fair Admissi",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06653/seeking-comment-on-prohibiting-importation-and-marketing-of-previously-authorized-covered"
+      "url": "https://www.federalregister.gov/documents/2026/04/07/2026-06712/notice-of-public-meeting-of-the-virginia-advisory-committee-to-the-us-commission-on-civil-rights"
     },
     {
-      "id": "a8f61479eb46",
+      "id": "6f04b7c43dba",
       "category": "LEGIS",
-      "date": "2026-04-06",
-      "title": "Call for Applications for Secretary Appointment to Treasury Tribal Advisory Committee",
-      "summary": "This notice announces that the U.S. Department of the Treasury (Treasury), pursuant to the Tribal General Welfare Exclusion Act of 2014 (TGWEA), seeks applications on behalf of the Secretary of the Treasury (Secretary) for the appointment of three members to the Treasury Tribal Advisory Committee (TTAC). Under section 3 of the TGWEA, the TTAC was established to advise the Secretary on matters related to the taxation ",
+      "date": "2026-04-07",
+      "title": "Notice of Public Meeting of the Georgia Advisory Committee to the U.S. Commission on Civil Rights",
+      "summary": "Notice is hereby given, pursuant to the provisions of the rules and regulations of the U.S. Commission on Civil Rights (Commission) and the Federal Advisory Committee Act, that the Georgia Advisory Committee (Committee) to the U.S. Commission on Civil Rights will hold a public business meeting via Zoom. The purpose of the meeting is to begin briefing planning on the Committee's selected civil rights topic and vote to",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06652/call-for-applications-for-secretary-appointment-to-treasury-tribal-advisory-committee"
+      "url": "https://www.federalregister.gov/documents/2026/04/07/2026-06711/notice-of-public-meeting-of-the-georgia-advisory-committee-to-the-us-commission-on-civil-rights"
     },
     {
-      "id": "e2ee5751e66c",
+      "id": "a8676dc00b06",
       "category": "LEGIS",
-      "date": "2026-04-06",
-      "title": "Center for Scientific Review; Notice of Closed Meetings",
-      "summary": "Federal Register document (no abstract provided).",
+      "date": "2026-04-07",
+      "title": "Notice of Public Meeting of the Michigan Advisory Committee to the U.S. Commission on Civil Rights",
+      "summary": "Notice is hereby given, pursuant to the provisions of the rules and regulations of the U.S. Commission on Civil Rights (Commission) and the Federal Advisory Committee Act, that the Michigan Advisory Committee (Committee) to the U.S. Commission on Civil Rights will hold a public meeting via Zoom. The purpose of the meeting is to discuss and potentially vote on its proposal related to the Committee's study of civil rig",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06651/center-for-scientific-review-notice-of-closed-meetings"
-    },
-    {
-      "id": "1bb2f5aed1c3",
-      "category": "LEGIS",
-      "date": "2026-04-06",
-      "title": "Center for Scientific Review; Notice of Closed Meetings",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06650/center-for-scientific-review-notice-of-closed-meetings"
-    },
-    {
-      "id": "405da49b784e",
-      "category": "LEGIS",
-      "date": "2026-04-06",
-      "title": "Float Glass Products From the People's Republic of China and Malaysia: Countervailing Duty Orders",
-      "summary": "Based on affirmative final determinations by the U.S. Department of Commerce (Commerce) and U.S. International Trade Commission (ITC), Commerce is issuing countervailing duty (CVD) orders on float glass products (float glass) from the People's Republic of China (China) and Malaysia.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06649/float-glass-products-from-the-peoples-republic-of-china-and-malaysia-countervailing-duty-orders"
-    },
-    {
-      "id": "b87c9a4d39b6",
-      "category": "LEGIS",
-      "date": "2026-04-06",
-      "title": "Request for Information: Icebreaker Collaboration Effort (ICE) Pact",
-      "summary": "This notice requests information from the public to assist MARAD in determining which shipyards in the U.S. have the capacity to construct ships capable of operating in ice conditions and to identify what factors would be necessary to further develop and construct icebreaker ships in the U.S. Information gathered in response to the request could be used to increase the capacity of the U.S. to design, produce, and mai",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06648/request-for-information-icebreaker-collaboration-effort-ice-pact"
-    },
-    {
-      "id": "b85efbf6966e",
-      "category": "LEGIS",
-      "date": "2026-04-06",
-      "title": "Float Glass Products From the People's Republic of China: Antidumping Duty Order",
-      "summary": "Based on affirmative final determination by the U.S. Department of Commerce (Commerce) and the U.S. International Trade Commission (ITC), Commerce is issuing the antidumping duty (AD) order on float glass products from the People's Republic of China (China).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06647/float-glass-products-from-the-peoples-republic-of-china-antidumping-duty-order"
+      "url": "https://www.federalregister.gov/documents/2026/04/07/2026-06710/notice-of-public-meeting-of-the-michigan-advisory-committee-to-the-us-commission-on-civil-rights"
     }
   ]
 }
