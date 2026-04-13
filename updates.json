@@ -1,4 +1,265 @@
 {
-  "generated_at": "2026-04-12T13:33:21.978Z",
-  "updates": []
+  "generated_at": "2026-04-13T14:05:38.977Z",
+  "updates": [
+    {
+      "id": "17e25b494ea4",
+      "category": "LEGIS",
+      "date": "2026-04-13",
+      "title": "Sunshine Act Meetings",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/13/2026-07143/sunshine-act-meetings"
+    },
+    {
+      "id": "fa6be0df7e1f",
+      "category": "FDA",
+      "date": "2026-04-13",
+      "title": "Agency Information Collection Activities; Proposed eCollection; eComments Requested; Revision of a Previously Approved Collection; Title-Registration for Controlled Substances Act Data-Use Request",
+      "summary": "The Department of Justice (DOJ), Drug Enforcement Administration (DEA), will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/13/2026-07129/agency-information-collection-activities-proposed-ecollection-ecomments-requested-revision-of-a"
+    },
+    {
+      "id": "9aef6a9351b4",
+      "category": "LEGIS",
+      "date": "2026-04-13",
+      "title": "Saguaro Connector Pipeline, LLC; Notice of Request for Extension of Time",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/13/2026-07128/saguaro-connector-pipeline-llc-notice-of-request-for-extension-of-time"
+    },
+    {
+      "id": "0259a539bcc4",
+      "category": "LEGIS",
+      "date": "2026-04-13",
+      "title": "California Department of Water Resources & Los Angeles Department of Water and Power; Notice of Revised Procedural Schedule for an Environmental Impact Statement for the Proposed Project Relicense",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/13/2026-07126/california-department-of-water-resources-and-los-angeles-department-of-water-and-power-notice-of"
+    },
+    {
+      "id": "c04fbec00165",
+      "category": "LEGIS",
+      "date": "2026-04-13",
+      "title": "Consumers Energy Company; Notice of Informal Settlement Conference",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/13/2026-07125/consumers-energy-company-notice-of-informal-settlement-conference"
+    },
+    {
+      "id": "030ae81e066c",
+      "category": "LEGIS",
+      "date": "2026-04-13",
+      "title": "Virginia Electric and Power Company d/b/a Dominion Energy Virginia, Allegheny Generating Company, and Bath County Energy, LLC: Notice of Intent To Prepare an Environmental Assessment",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/13/2026-07124/virginia-electric-and-power-company-dba-dominion-energy-virginia-allegheny-generating-company-and"
+    },
+    {
+      "id": "4b6387622e03",
+      "category": "LEGIS",
+      "date": "2026-04-13",
+      "title": "MountainWest Overthrust Pipeline, LLC; Notice of Motion To Vacate Certificate in Part",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/13/2026-07123/mountainwest-overthrust-pipeline-llc-notice-of-motion-to-vacate-certificate-in-part"
+    },
+    {
+      "id": "0c2d323d31f3",
+      "category": "LEGIS",
+      "date": "2026-04-13",
+      "title": "Southern Star Central Gas Pipeline, Inc.; Notice of Schedule for the Preparation of an Environmental Assessment for the Viola Project",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/13/2026-07122/southern-star-central-gas-pipeline-inc-notice-of-schedule-for-the-preparation-of-an-environmental"
+    },
+    {
+      "id": "6ab5a93db215",
+      "category": "LEGIS",
+      "date": "2026-04-13",
+      "title": "Petition for Authorization To Exceed Mach 1",
+      "summary": "This notice summarizes the petition Hermeus Corporation submitted to FAA requesting a special flight authorization as provided for in FAA regulations. The notice also provides for public awareness of FAA's decision to grant Hermeus Corporation's request. FAA is not requesting comments on the petition or FAA's decision regarding the petition because a special flight authorization petition to exceed Mach 1 follows a se",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/13/2026-07121/petition-for-authorization-to-exceed-mach-1"
+    },
+    {
+      "id": "a68a3a79bf9b",
+      "category": "LEGIS",
+      "date": "2026-04-13",
+      "title": "Science, Technology and Innovation Board; Notice of Federal Advisory Committee Meeting",
+      "summary": "The Department of War (DoW) is publishing this notice to announce that the following Federal Advisory Committee meeting of the Science, Technology, and Innovation Board (STIB) will take place.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/13/2026-07120/science-technology-and-innovation-board-notice-of-federal-advisory-committee-meeting"
+    },
+    {
+      "id": "d48e7cdf2baf",
+      "category": "LEGIS",
+      "date": "2026-04-13",
+      "title": "Science, Technology and Innovation Board: Notice of Federal Advisory Committee Meeting",
+      "summary": "The Department of War (DoW) is publishing this notice to announce that the following Federal Advisory Committee meeting of the Science, Technology, and Innovation Board (STIB) will take place.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/13/2026-07119/science-technology-and-innovation-board-notice-of-federal-advisory-committee-meeting"
+    },
+    {
+      "id": "9aae086207cf",
+      "category": "LEGIS",
+      "date": "2026-04-13",
+      "title": "Science, Technology and Innovation Board; Notice of Federal Advisory Committee Meeting",
+      "summary": "The Department of War (DoW) is publishing this notice to announce that the following Federal Advisory Committee meeting of the Science, Technology, and Innovation Board (STIB) will take place.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/13/2026-07118/science-technology-and-innovation-board-notice-of-federal-advisory-committee-meeting"
+    },
+    {
+      "id": "642659148364",
+      "category": "LEGIS",
+      "date": "2026-04-13",
+      "title": "Realty Action: Direct Sale of Public Lands in Converse County, WY",
+      "summary": "The Bureau of Land Management (BLM) proposes a non-competitive (direct) sale of nine parcels of BLM-managed public lands in Wyoming to resolve some of the land jurisdiction patterns found in the Casper Field Office as well as the uneconomic management of these public lands due to private property surrounding the isolated parcels and lack of public access. The parcels, located in Converse County, contain an aggregate ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/13/2026-07117/realty-action-direct-sale-of-public-lands-in-converse-county-wy"
+    },
+    {
+      "id": "5f5df11b4c15",
+      "category": "LEGIS",
+      "date": "2026-04-13",
+      "title": "Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/13/2026-07116/change-in-bank-control-notices-acquisitions-of-shares-of-a-bank-or-bank-holding-company"
+    },
+    {
+      "id": "5097e73db8c1",
+      "category": "LEGIS",
+      "date": "2026-04-13",
+      "title": "Implementation of the National Environmental Policy Act Guidance",
+      "summary": "On April 9, 2026, the Council on Environmental Quality (CEQ) issued a memorandum to the heads of Federal departments and agencies (agencies) on establishing, revising, adopting, and applying categorical exclusions under the National Environmental Policy Act (NEPA). This guidance replaces initial guidance on the same subject issued on December 6, 2010.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/13/2026-07115/implementation-of-the-national-environmental-policy-act-guidance"
+    },
+    {
+      "id": "5ea40fc6bb20",
+      "category": "LEGIS",
+      "date": "2026-04-13",
+      "title": "Wooden Bedroom Furniture From the People's Republic of China: Preliminary Results and Partial Rescission of the Antidumping Duty Administrative Review; 2024",
+      "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that 11 companies under review did not establish their entitlement to a separate rate and are part of the People's Republic of China (China)-wide entity. Commerce is also rescinding this review with respect to 18 companies/company groupings under review. The POR is January 1, 2024, through December 31, 2024. Interested parties are invited to comment ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/13/2026-07114/wooden-bedroom-furniture-from-the-peoples-republic-of-china-preliminary-results-and-partial"
+    },
+    {
+      "id": "7fa76c9b69f1",
+      "category": "LEGIS",
+      "date": "2026-04-13",
+      "title": "Reporting and Recordkeeping Requirements Under OMB Review",
+      "summary": "The Small Business Administration (SBA) is seeking approval from the Office of Management and Budget (OMB) for the information collection described below. In accordance with the Paperwork Reduction Act and OMB procedures, SBA is publishing this notice to allow all interested member of the public an additional 30 days to provide comments on the proposed collection of information.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/13/2026-07113/reporting-and-recordkeeping-requirements-under-omb-review"
+    },
+    {
+      "id": "a38cf2a50bf8",
+      "category": "LEGIS",
+      "date": "2026-04-13",
+      "title": "Combined Notice of Filings #1",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/13/2026-07112/combined-notice-of-filings-1"
+    },
+    {
+      "id": "a60d85011400",
+      "category": "LEGIS",
+      "date": "2026-04-13",
+      "title": "Western Area Power Administration: Notice of Filing",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/13/2026-07111/western-area-power-administration-notice-of-filing"
+    },
+    {
+      "id": "456d1c6b6aa0",
+      "category": "LEGIS",
+      "date": "2026-04-13",
+      "title": "New England Fishery Management Council; Public Meeting",
+      "summary": "The New England Fishery Management Council (Council) is conducting five scoping meetings to solicit comments on ideas for fishery improvements in the monkfish and skate fisheries. The scoping is designed to identify the challenges the monkfish and skate fishing sectors are grappling with and to identify possible management measures for the Council to address those challenges in the future. In June of 2026, the Counci",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/13/2026-07110/new-england-fishery-management-council-public-meeting"
+    }
+  ]
 }
