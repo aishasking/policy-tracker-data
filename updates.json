@@ -1,4 +1,265 @@
 {
-  "generated_at": "2026-04-19T13:33:16.247Z",
-  "updates": []
+  "generated_at": "2026-04-20T14:09:10.329Z",
+  "updates": [
+    {
+      "id": "bf8c0bf36e01",
+      "category": "LEGIS",
+      "date": "2026-04-20",
+      "title": "Authorizing Enbridge Pipelines (Southern Lights) L.L.C. To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07731/authorizing-enbridge-pipelines-southern-lights-llc-to-operate-and-maintain-existing-pipeline"
+    },
+    {
+      "id": "faab6780217a",
+      "category": "LEGIS",
+      "date": "2026-04-20",
+      "title": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the United States and Canada",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07730/authorizing-enbridge-energy-limited-partnership-to-operate-and-maintain-existing-pipeline-facilities"
+    },
+    {
+      "id": "c7c03f67853c",
+      "category": "LEGIS",
+      "date": "2026-04-20",
+      "title": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Three Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07729/authorizing-enbridge-energy-limited-partnership-to-operate-and-maintain-three-existing-pipeline"
+    },
+    {
+      "id": "66ba92dfef4a",
+      "category": "LEGIS",
+      "date": "2026-04-20",
+      "title": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07725/authorizing-enbridge-energy-limited-partnership-to-operate-and-maintain-existing-pipeline-facilities"
+    },
+    {
+      "id": "3a0b747f32c4",
+      "category": "LEGIS",
+      "date": "2026-04-20",
+      "title": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07724/authorizing-enbridge-energy-limited-partnership-to-operate-and-maintain-existing-pipeline-facilities"
+    },
+    {
+      "id": "4b19e1efe842",
+      "category": "LEGIS",
+      "date": "2026-04-20",
+      "title": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07719/authorizing-enbridge-energy-limited-partnership-to-operate-and-maintain-existing-pipeline-facilities"
+    },
+    {
+      "id": "b48ab63c44a6",
+      "category": "LEGIS",
+      "date": "2026-04-20",
+      "title": "Authorizing Enbridge Energy Company, Inc. To Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the United States and Canada",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07718/authorizing-enbridge-energy-company-inc-to-operate-and-maintain-existing-pipeline-facilities-at-st"
+    },
+    {
+      "id": "98da232fb582",
+      "category": "LEGIS",
+      "date": "2026-04-20",
+      "title": "Authorizing Bakken Pipeline Company LP To Operate and Maintain Existing Pipeline Facilities at Burke County, North Dakota, at the International Boundary Between the United States and Canada",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07717/authorizing-bakken-pipeline-company-lp-to-operate-and-maintain-existing-pipeline-facilities-at-burke"
+    },
+    {
+      "id": "527f067c177b",
+      "category": "LEGIS",
+      "date": "2026-04-20",
+      "title": "Authorizing Bakken Pipeline Company LP To Construct, Connect, Operate, and Maintain Pipeline Facilities at Burke County, North Dakota, at the International Boundary Between the United States and Canada",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07716/authorizing-bakken-pipeline-company-lp-to-construct-connect-operate-and-maintain-pipeline-facilities"
+    },
+    {
+      "id": "c31326e31207",
+      "category": "LEGIS",
+      "date": "2026-04-20",
+      "title": "Enrolled Agent Special Enrollment Examination User Fee Update",
+      "summary": "In the Rules and Regulations section of this issue of the Federal Register, the Department of the Treasury (Treasury Department) and the IRS are issuing interim final regulations that amend the current regulations to reduce the user fee for each part of the special enrollment examinations for enrolled agents (EA SEE) from $99 per part to $66 per part.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07682/enrolled-agent-special-enrollment-examination-user-fee-update"
+    },
+    {
+      "id": "d80d8a887d67",
+      "category": "LEGIS",
+      "date": "2026-04-20",
+      "title": "Enrolled Agent Special Enrollment Examination User Fee Update",
+      "summary": "This document contains interim final regulations relating to the imposition of user fees for the special enrollment examination for enrolled agents (EA SEE). These regulations reduce the user fee for each part of the EA SEE from $99 per part to $66 per part. The Independent Offices Appropriation Act of 1952 authorizes the charging of user fees. The text of these interim final regulations also serves as the text of th",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07681/enrolled-agent-special-enrollment-examination-user-fee-update"
+    },
+    {
+      "id": "68e08245a3b9",
+      "category": "LEGIS",
+      "date": "2026-04-20",
+      "title": "Sunshine Act Meetings",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07673/sunshine-act-meetings"
+    },
+    {
+      "id": "7b584e76a623",
+      "category": "LEGIS",
+      "date": "2026-04-20",
+      "title": "Notice Announcing Supporting Effective Educator Development Program Competition",
+      "summary": "The Employment and Training Administration at the U.S. Department of Labor (DOL) is soliciting applications in support of the administration of the Fiscal Year (FY) 2026 Supporting Effective Educator Development (SEED) program, Assistance Listing Number 84.423A, on behalf of the U.S. Department of Education (ED).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07672/notice-announcing-supporting-effective-educator-development-program-competition"
+    },
+    {
+      "id": "f1fd4dfdf727",
+      "category": "LEGIS",
+      "date": "2026-04-20",
+      "title": "Notice Announcing Expanding Opportunity Through Quality Charter Schools Program-Grants to State Entities Competition",
+      "summary": "The Employment and Training Administration at the U.S. Department of Labor (DOL), is soliciting applications in support of the administration of the Expanding Opportunity Through Quality Charter Schools Program (CSP)--Grants to State Entities Program on behalf of the U.S. Department of Education (ED). Assistance Listing Number (ALN) 84.282A.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07671/notice-announcing-expanding-opportunity-through-quality-charter-schools-program-grants-to-state"
+    },
+    {
+      "id": "251d85099d11",
+      "category": "LEGIS",
+      "date": "2026-04-20",
+      "title": "United States Passports Moving to Single-Sized Passport Book",
+      "summary": "The U.S. Department of State currently issues two passport book sizes--a 26-page book and a 50-page book. A determination was made to shift the U.S. passport book to a single-sized, 38-page passport book, with the release of the next redesign.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07670/united-states-passports-moving-to-single-sized-passport-book"
+    },
+    {
+      "id": "e058c92c3a54",
+      "category": "LEGIS",
+      "date": "2026-04-20",
+      "title": "Agency Information Collection Activities: Extension, Without Change, of a Currently Approved Collection: Application for Civil Surgeon Designation",
+      "summary": "The Department of Homeland Security (DHS), U.S. Citizenship and Immigration Services (USCIS) invites the general public and other Federal agencies to comment upon this proposed extension of a currently approved collection of information. In accordance with the Paperwork Reduction Act (PRA) of 1995, the information collection notice is published in the Federal Register to obtain comments regarding the nature of the in",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07669/agency-information-collection-activities-extension-without-change-of-a-currently-approved-collection"
+    },
+    {
+      "id": "86d07b01f712",
+      "category": "LEGIS",
+      "date": "2026-04-20",
+      "title": "Agency Information Collection Activities; Comment Request; Grant Application Form for Project Objectives and Performance Measures Information",
+      "summary": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing an extension without change of a currently approved information collection request (ICR).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07668/agency-information-collection-activities-comment-request-grant-application-form-for-project"
+    },
+    {
+      "id": "e32e94de49aa",
+      "category": "LEGIS",
+      "date": "2026-04-20",
+      "title": "Notice of 2026 Coastal Plain Oil and Gas Lease Sale",
+      "summary": "The Bureau of Land Management's (BLM) Alaska State Office will hold an oil and gas lease sale bid opening for tracts in the Coastal Plain of the Arctic National Wildlife Refuge.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07667/notice-of-2026-coastal-plain-oil-and-gas-lease-sale"
+    },
+    {
+      "id": "acb3181b9c03",
+      "category": "LEGIS",
+      "date": "2026-04-20",
+      "title": "Accountability in Higher Education and Access Through Demand-Driven Workforce Pell: Student Tuition and Transparency System (STATS) and Earnings Accountability",
+      "summary": "The Secretary of Education (Secretary) proposes to amend the regulations governing institutional eligibility, general provisions regulations, and the William D. Ford Direct Loan (Direct Loan) Program under title IV of the Higher Education Act (HEA) of 1965, as amended (the title IV, HEA programs). The proposed regulations would implement statutory changes to the title IV, HEA programs included in the One Big Beautifu",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07666/accountability-in-higher-education-and-access-through-demand-driven-workforce-pell-student-tuition"
+    },
+    {
+      "id": "88992a1ba12e",
+      "category": "LEGIS",
+      "date": "2026-04-20",
+      "title": "Operating Limitations at Chicago O'Hare International Airport, Order Establishing Scheduling Limits",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07665/operating-limitations-at-chicago-ohare-international-airport-order-establishing-scheduling-limits"
+    }
+  ]
 }
