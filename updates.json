@@ -1,265 +1,265 @@
 {
-  "generated_at": "2026-04-20T14:09:10.329Z",
+  "generated_at": "2026-04-21T14:06:36.084Z",
   "updates": [
     {
-      "id": "bf8c0bf36e01",
+      "id": "d6a19030f40d",
       "category": "LEGIS",
-      "date": "2026-04-20",
-      "title": "Authorizing Enbridge Pipelines (Southern Lights) L.L.C. To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada",
+      "date": "2026-04-21",
+      "title": "Annual Update to Fee Schedule for the Use of Government Lands by Hydropower Licensees",
+      "summary": "In accordance with the Commission's regulations, the Commission, by its designee, the Executive Director, issues this annual update to the fee schedule in the appendix to the part, which lists per-acre rental fees by county (or other geographic area) for use of government lands by hydropower licensees.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07773/annual-update-to-fee-schedule-for-the-use-of-government-lands-by-hydropower-licensees"
+    },
+    {
+      "id": "fbd9a74808e1",
+      "category": "LEGIS",
+      "date": "2026-04-21",
+      "title": "Petition for Rulemaking of Andrew Gonzalez",
+      "summary": "Please take notice that the Federal Trade Commission (\"Commission\") received a petition for rulemaking from Andrew Gonzalez and has published that petition online at https:// www.regulations.gov. The Commission invites written comments concerning the petition. Publication of this petition is pursuant to the Commission's Rules of Practice and Procedure and does not affect the legal status of the petition or its final ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07772/petition-for-rulemaking-of-andrew-gonzalez"
+    },
+    {
+      "id": "b44798c3d970",
+      "category": "LEGIS",
+      "date": "2026-04-21",
+      "title": "Establishment of Restricted Areas R-5305A, R-5305B, and R-5305C; Camp Lejeune, NC; and Restricted Areas R-5307A, R-5307B, and R-5307C; Cherry Point, NC",
+      "summary": "This action establishes restricted areas R-5305A, R-5305B, and R-5305C, Camp Lejeune, NC; and restricted areas R-5307A, R-5307B, and R-5307C, Cherry Point, NC. The purpose of this action is to create additional restricted area airspace to connect restricted area R-5003, R-5004, and R-5306 complexes to contain hazardous activities such as weapon deployment and use of lasers and artillery within larger contiguous restr",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07766/establishment-of-restricted-areas-r-5305a-r-5305b-and-r-5305c-camp-lejeune-nc-and-restricted-areas"
+    },
+    {
+      "id": "440aee0759d8",
+      "category": "LEGIS",
+      "date": "2026-04-21",
+      "title": "Alger Next Gen Growth Fund, et al.",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07731/authorizing-enbridge-pipelines-southern-lights-llc-to-operate-and-maintain-existing-pipeline"
+      "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07763/alger-next-gen-growth-fund-et-al"
     },
     {
-      "id": "faab6780217a",
-      "category": "LEGIS",
-      "date": "2026-04-20",
-      "title": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the United States and Canada",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07730/authorizing-enbridge-energy-limited-partnership-to-operate-and-maintain-existing-pipeline-facilities"
-    },
-    {
-      "id": "c7c03f67853c",
-      "category": "LEGIS",
-      "date": "2026-04-20",
-      "title": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Three Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07729/authorizing-enbridge-energy-limited-partnership-to-operate-and-maintain-three-existing-pipeline"
-    },
-    {
-      "id": "66ba92dfef4a",
-      "category": "LEGIS",
-      "date": "2026-04-20",
-      "title": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07725/authorizing-enbridge-energy-limited-partnership-to-operate-and-maintain-existing-pipeline-facilities"
-    },
-    {
-      "id": "3a0b747f32c4",
-      "category": "LEGIS",
-      "date": "2026-04-20",
-      "title": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07724/authorizing-enbridge-energy-limited-partnership-to-operate-and-maintain-existing-pipeline-facilities"
-    },
-    {
-      "id": "4b19e1efe842",
-      "category": "LEGIS",
-      "date": "2026-04-20",
-      "title": "Authorizing Enbridge Energy, Limited Partnership To Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07719/authorizing-enbridge-energy-limited-partnership-to-operate-and-maintain-existing-pipeline-facilities"
-    },
-    {
-      "id": "b48ab63c44a6",
-      "category": "LEGIS",
-      "date": "2026-04-20",
-      "title": "Authorizing Enbridge Energy Company, Inc. To Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the United States and Canada",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07718/authorizing-enbridge-energy-company-inc-to-operate-and-maintain-existing-pipeline-facilities-at-st"
-    },
-    {
-      "id": "98da232fb582",
-      "category": "LEGIS",
-      "date": "2026-04-20",
-      "title": "Authorizing Bakken Pipeline Company LP To Operate and Maintain Existing Pipeline Facilities at Burke County, North Dakota, at the International Boundary Between the United States and Canada",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07717/authorizing-bakken-pipeline-company-lp-to-operate-and-maintain-existing-pipeline-facilities-at-burke"
-    },
-    {
-      "id": "527f067c177b",
-      "category": "LEGIS",
-      "date": "2026-04-20",
-      "title": "Authorizing Bakken Pipeline Company LP To Construct, Connect, Operate, and Maintain Pipeline Facilities at Burke County, North Dakota, at the International Boundary Between the United States and Canada",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07716/authorizing-bakken-pipeline-company-lp-to-construct-connect-operate-and-maintain-pipeline-facilities"
-    },
-    {
-      "id": "c31326e31207",
-      "category": "LEGIS",
-      "date": "2026-04-20",
-      "title": "Enrolled Agent Special Enrollment Examination User Fee Update",
-      "summary": "In the Rules and Regulations section of this issue of the Federal Register, the Department of the Treasury (Treasury Department) and the IRS are issuing interim final regulations that amend the current regulations to reduce the user fee for each part of the special enrollment examinations for enrolled agents (EA SEE) from $99 per part to $66 per part.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07682/enrolled-agent-special-enrollment-examination-user-fee-update"
-    },
-    {
-      "id": "d80d8a887d67",
-      "category": "LEGIS",
-      "date": "2026-04-20",
-      "title": "Enrolled Agent Special Enrollment Examination User Fee Update",
-      "summary": "This document contains interim final regulations relating to the imposition of user fees for the special enrollment examination for enrolled agents (EA SEE). These regulations reduce the user fee for each part of the EA SEE from $99 per part to $66 per part. The Independent Offices Appropriation Act of 1952 authorizes the charging of user fees. The text of these interim final regulations also serves as the text of th",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07681/enrolled-agent-special-enrollment-examination-user-fee-update"
-    },
-    {
-      "id": "68e08245a3b9",
-      "category": "LEGIS",
-      "date": "2026-04-20",
-      "title": "Sunshine Act Meetings",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07673/sunshine-act-meetings"
-    },
-    {
-      "id": "7b584e76a623",
-      "category": "LEGIS",
-      "date": "2026-04-20",
-      "title": "Notice Announcing Supporting Effective Educator Development Program Competition",
-      "summary": "The Employment and Training Administration at the U.S. Department of Labor (DOL) is soliciting applications in support of the administration of the Fiscal Year (FY) 2026 Supporting Effective Educator Development (SEED) program, Assistance Listing Number 84.423A, on behalf of the U.S. Department of Education (ED).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07672/notice-announcing-supporting-effective-educator-development-program-competition"
-    },
-    {
-      "id": "f1fd4dfdf727",
-      "category": "LEGIS",
-      "date": "2026-04-20",
-      "title": "Notice Announcing Expanding Opportunity Through Quality Charter Schools Program-Grants to State Entities Competition",
-      "summary": "The Employment and Training Administration at the U.S. Department of Labor (DOL), is soliciting applications in support of the administration of the Expanding Opportunity Through Quality Charter Schools Program (CSP)--Grants to State Entities Program on behalf of the U.S. Department of Education (ED). Assistance Listing Number (ALN) 84.282A.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07671/notice-announcing-expanding-opportunity-through-quality-charter-schools-program-grants-to-state"
-    },
-    {
-      "id": "251d85099d11",
-      "category": "LEGIS",
-      "date": "2026-04-20",
-      "title": "United States Passports Moving to Single-Sized Passport Book",
-      "summary": "The U.S. Department of State currently issues two passport book sizes--a 26-page book and a 50-page book. A determination was made to shift the U.S. passport book to a single-sized, 38-page passport book, with the release of the next redesign.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07670/united-states-passports-moving-to-single-sized-passport-book"
-    },
-    {
-      "id": "e058c92c3a54",
-      "category": "LEGIS",
-      "date": "2026-04-20",
-      "title": "Agency Information Collection Activities: Extension, Without Change, of a Currently Approved Collection: Application for Civil Surgeon Designation",
-      "summary": "The Department of Homeland Security (DHS), U.S. Citizenship and Immigration Services (USCIS) invites the general public and other Federal agencies to comment upon this proposed extension of a currently approved collection of information. In accordance with the Paperwork Reduction Act (PRA) of 1995, the information collection notice is published in the Federal Register to obtain comments regarding the nature of the in",
+      "id": "befac7657be5",
+      "category": "CDC",
+      "date": "2026-04-21",
+      "title": "Proposed Data Collection Submitted for Public Comment and Recommendations",
+      "summary": "The Centers for Disease Control and Prevention (CDC), as part of its continuing effort to reduce public burden and maximize the utility of government information, invites the general public and other federal agencies the opportunity to comment on a continuing information collection, as required by the Paperwork Reduction Act of 1995. This notice invites comment on a proposed information collection project titled Envi",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07669/agency-information-collection-activities-extension-without-change-of-a-currently-approved-collection"
+      "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07762/proposed-data-collection-submitted-for-public-comment-and-recommendations"
     },
     {
-      "id": "86d07b01f712",
-      "category": "LEGIS",
-      "date": "2026-04-20",
-      "title": "Agency Information Collection Activities; Comment Request; Grant Application Form for Project Objectives and Performance Measures Information",
-      "summary": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing an extension without change of a currently approved information collection request (ICR).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07668/agency-information-collection-activities-comment-request-grant-application-form-for-project"
-    },
-    {
-      "id": "e32e94de49aa",
-      "category": "LEGIS",
-      "date": "2026-04-20",
-      "title": "Notice of 2026 Coastal Plain Oil and Gas Lease Sale",
-      "summary": "The Bureau of Land Management's (BLM) Alaska State Office will hold an oil and gas lease sale bid opening for tracts in the Coastal Plain of the Arctic National Wildlife Refuge.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07667/notice-of-2026-coastal-plain-oil-and-gas-lease-sale"
-    },
-    {
-      "id": "acb3181b9c03",
-      "category": "LEGIS",
-      "date": "2026-04-20",
-      "title": "Accountability in Higher Education and Access Through Demand-Driven Workforce Pell: Student Tuition and Transparency System (STATS) and Earnings Accountability",
-      "summary": "The Secretary of Education (Secretary) proposes to amend the regulations governing institutional eligibility, general provisions regulations, and the William D. Ford Direct Loan (Direct Loan) Program under title IV of the Higher Education Act (HEA) of 1965, as amended (the title IV, HEA programs). The proposed regulations would implement statutory changes to the title IV, HEA programs included in the One Big Beautifu",
+      "id": "82ca30822fa6",
+      "category": "CDC",
+      "date": "2026-04-21",
+      "title": "Proposed Data Collection Submitted for Public Comment and Recommendations",
+      "summary": "The Centers for Disease Control and Prevention (CDC), as part of its continuing effort to reduce public burden and maximize the utility of government information, invites the general public and other federal agencies the opportunity to comment on a continuing information collection, as required by the Paperwork Reduction Act of 1995. This notice invites comment on an existing information collection project titled Ext",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07666/accountability-in-higher-education-and-access-through-demand-driven-workforce-pell-student-tuition"
+      "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07761/proposed-data-collection-submitted-for-public-comment-and-recommendations"
     },
     {
-      "id": "88992a1ba12e",
+      "id": "148fadacd796",
+      "category": "CDC",
+      "date": "2026-04-21",
+      "title": "Proposed Data Collection Submitted for Public Comment and Recommendations",
+      "summary": "The Centers for Disease Control and Prevention (CDC), as part of its continuing effort to reduce public burden and maximize the utility of government information, invites the general public and other federal agencies the opportunity to comment on a continuing information collection, as required by the Paperwork Reduction Act of 1995. This notice invites comment on an information collection project titled National Qui",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07760/proposed-data-collection-submitted-for-public-comment-and-recommendations"
+    },
+    {
+      "id": "f7f8c19065b9",
+      "category": "CDC",
+      "date": "2026-04-21",
+      "title": "Proposed Data Collection Submitted for Public Comment and Recommendations",
+      "summary": "The Centers for Disease Control and Prevention (CDC), as part of its continuing effort to reduce public burden and maximize the utility of government information, invites the general public and other federal agencies the opportunity to comment on a continuing information collection, as required by the Paperwork Reduction Act of 1995. This notice invites comment on a proposed information collection project titled The ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07759/proposed-data-collection-submitted-for-public-comment-and-recommendations"
+    },
+    {
+      "id": "262311299622",
       "category": "LEGIS",
-      "date": "2026-04-20",
-      "title": "Operating Limitations at Chicago O'Hare International Airport, Order Establishing Scheduling Limits",
+      "date": "2026-04-21",
+      "title": "Notice of Agreements Filed",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07665/operating-limitations-at-chicago-ohare-international-airport-order-establishing-scheduling-limits"
+      "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07758/notice-of-agreements-filed"
+    },
+    {
+      "id": "54b862b46cc2",
+      "category": "LEGIS",
+      "date": "2026-04-21",
+      "title": "Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07757/change-in-bank-control-notices-acquisitions-of-shares-of-a-bank-or-bank-holding-company"
+    },
+    {
+      "id": "4c6ad8441942",
+      "category": "LEGIS",
+      "date": "2026-04-21",
+      "title": "Modification of Class E Airspace; Florence Municipal Airport, Florence, OR",
+      "summary": "This action modifies the Class E airspace area extending upward from 700 feet above the surface of the earth at Florence Municipal Airport, Florence, OR. This action supports the safety and management of instrument flight rules (IFR) operations at the airport.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07756/modification-of-class-e-airspace-florence-municipal-airport-florence-or"
+    },
+    {
+      "id": "f2786e4e92c1",
+      "category": "LEGIS",
+      "date": "2026-04-21",
+      "title": "Re-Establishment of the Hunting and Shooting Sports Conservation and Access Council; Request for Nominations",
+      "summary": "The U.S. Department of the Interior (DOI) is re-establishing and seeking member nominations to the Hunting and Shooting Sports Conservation and Access Council (Council). The Council replaces and changes the name of the previous Hunting and Wildlife Conservation Council. The Secretary of the Interior (Secretary), after consultation with the General Services Administration, is re-establishing the Council charter for 2 ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07755/re-establishment-of-the-hunting-and-shooting-sports-conservation-and-access-council-request-for"
+    },
+    {
+      "id": "4464fef83c4e",
+      "category": "LEGIS",
+      "date": "2026-04-21",
+      "title": "Security Zone; National Football League Draft, Ohio River, Allegheny River, Monongahela River, Pittsburgh PA",
+      "summary": "The Coast Guard is establishing a temporary security zone for navigable waters near the confluence of the Ohio, Allegheny, and Monongahela Rivers. The security zone is needed to protect the public from potential threats related to the National Football League Draft, in Pittsburgh, PA. Entry of vessels or persons into this zone is prohibited unless specifically authorized by the Captain of the Port, Marine Safety Unit",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07754/security-zone-national-football-league-draft-ohio-river-allegheny-river-monongahela-river-pittsburgh"
+    },
+    {
+      "id": "3e8fd8f23e75",
+      "category": "LEGIS",
+      "date": "2026-04-21",
+      "title": "Recommended Modifications in the Harmonized Tariff Schedule",
+      "summary": "The Commission is seeking comments from interested Federal agencies and the public regarding proposed Commission recommendations to the President with respect to modifications to the U.S. Harmonized Tariff Schedule (HTS). The modifications would conform the HTS to recommended amendments adopted by the World Customs Organization (WCO) and that are scheduled to enter into force on January 1, 2028.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07753/recommended-modifications-in-the-harmonized-tariff-schedule"
+    },
+    {
+      "id": "1e06b71e1f6a",
+      "category": "LEGIS",
+      "date": "2026-04-21",
+      "title": "Pipeline Safety: Advisory Bulletin on Preventing Excavation Damage During National Safe Digging Month and Beyond",
+      "summary": "PHMSA is issuing this advisory bulletin to all owners and operators of gas and hazardous liquid pipeline facilities to highlight the critical importance of excavation damage prevention during periods of significant infrastructure growth. This bulletin emphasizes the need for adherence to the Common Ground Alliance best practices, accurate and timely locating, and proactive coordination with excavators to prevent pipe",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07752/pipeline-safety-advisory-bulletin-on-preventing-excavation-damage-during-national-safe-digging-month"
+    },
+    {
+      "id": "0dfb0ec0b98f",
+      "category": "LEGIS",
+      "date": "2026-04-21",
+      "title": "Man ETF Series Trust and Man Solutions LLC",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07751/man-etf-series-trust-and-man-solutions-llc"
+    },
+    {
+      "id": "864fa9389556",
+      "category": "LEGIS",
+      "date": "2026-04-21",
+      "title": "Agency Information Collection Activities; Suspensions Pending Appeal and Bonding",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995 (PRA), ONRR is proposing to renew an information collection. Through this Information Collection Request renewal (ICR), ONRR seeks renewed authority to collect information related to the paperwork requirements necessary to post a surety or bond or demonstrate financial solvency.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07750/agency-information-collection-activities-suspensions-pending-appeal-and-bonding"
+    },
+    {
+      "id": "87aee76bd07c",
+      "category": "LEGIS",
+      "date": "2026-04-21",
+      "title": "Agency Information Collection Activities: Proposed Collection Renewal; Comment Request",
+      "summary": "The FDIC, as part of its obligations under the Paperwork Reduction Act of 1995 (PRA), invites the general public and other Federal agencies to take this opportunity to comment on the renewal of the existing information collection described below (OMB Control No. 3064-0029 and -0177).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07749/agency-information-collection-activities-proposed-collection-renewal-comment-request"
+    },
+    {
+      "id": "043a3db2f5ac",
+      "category": "LEGIS",
+      "date": "2026-04-21",
+      "title": "Importation of Fresh Leaves and Stems of Glasswort From Israel Into the United States",
+      "summary": "We are advising the public of our decision to authorize the importation of fresh leaves and stems of glasswort (Salicornia europaea L.) for consumption from Israel into the United States. Based on the findings of a pest risk analysis, which we made available to the public for review and comment through a previous notice, we have determined that the application of one or more designated phytosanitary measures will be ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07748/importation-of-fresh-leaves-and-stems-of-glasswort-from-israel-into-the-united-states"
+    },
+    {
+      "id": "8857fb30714d",
+      "category": "LEGIS",
+      "date": "2026-04-21",
+      "title": "Center for Scientific Review; Notice of Closed Meeting",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/21/2026-07747/center-for-scientific-review-notice-of-closed-meeting"
     }
   ]
 }
