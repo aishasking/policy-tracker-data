@@ -1,4 +1,265 @@
 {
-  "generated_at": "2026-04-26T13:39:39.986Z",
-  "updates": []
+  "generated_at": "2026-04-27T14:24:39.130Z",
+  "updates": [
+    {
+      "id": "4fe9c9284b49",
+      "category": "LEGIS",
+      "date": "2026-04-27",
+      "title": "Magnuson-Stevens Act Provisions; Fisheries of the Northeastern United States; Northeast Multispecies Fishery; Allocation of 2026 Northeast Multispecies Annual Catch Entitlements and Notice of Default Specifications",
+      "summary": "This final rule allocates Northeast multispecies annual catch entitlements (ACE) to approved groundfish sectors and permit banks for fishing year 2026 based on 2026 annual catch limits (ACL) set in Framework Adjustment 69 to the Northeast Multispecies Fishery Management Plan (FMP) or default specifications and provides notice of specifications for 11 stocks that are set by default in accordance with existing regulati",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08172/magnuson-stevens-act-provisions-fisheries-of-the-northeastern-united-states-northeast-multispecies"
+    },
+    {
+      "id": "6ec2f4735971",
+      "category": "LEGIS",
+      "date": "2026-04-27",
+      "title": "Combined Notice of Filings #1",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08171/combined-notice-of-filings-1"
+    },
+    {
+      "id": "99d01ed7af30",
+      "category": "LEGIS",
+      "date": "2026-04-27",
+      "title": "Transcontinental Gas Pipe Line Company, LLC; Notice of Availability of the Environmental Assessment for the Proposed North Padre Island Lateral Abandonment Project",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08170/transcontinental-gas-pipe-line-company-llc-notice-of-availability-of-the-environmental-assessment"
+    },
+    {
+      "id": "15b40e79afab",
+      "category": "LEGIS",
+      "date": "2026-04-27",
+      "title": "Commission Information Collection Activities (FERC-73) Comment Request; Extension",
+      "summary": "In compliance with the requirements of the Paperwork Reduction Act of 1995, 44 U.S.C. 3507(a)(1)(D), the Federal Energy Regulatory Commission (Commission or FERC) is submitting its information collection FERC Form No. 73: Oil Pipeline Service Life Data to the Office of Management and Budget (OMB) for review of the information collection requirements. No comments were received on the 60-day notice that was published o",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08169/commission-information-collection-activities-ferc-73-comment-request-extension"
+    },
+    {
+      "id": "d9a1e0ca11b5",
+      "category": "LEGIS",
+      "date": "2026-04-27",
+      "title": "Commission Information Collection Activities (FERC-725B). Comment Request; Extension",
+      "summary": "In compliance with the requirements of the Paperwork Reduction Act of 1995, the Federal Energy Regulatory Commission (Commission or FERC) is soliciting public comment on the currently approved information collection, FERC-725B, (Mandatory Reliability Standards, Critical Infrastructure Protection (CIP). There are no changes to the reporting requirements with this information collection. No comments were received on th",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08168/commission-information-collection-activities-ferc-725b-comment-request-extension"
+    },
+    {
+      "id": "7d80af68ea6e",
+      "category": "LEGIS",
+      "date": "2026-04-27",
+      "title": "Ampersand Gilman Hydro LP; Notice of Availability of Environmental Assessment",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08167/ampersand-gilman-hydro-lp-notice-of-availability-of-environmental-assessment"
+    },
+    {
+      "id": "2630ad326860",
+      "category": "LEGIS",
+      "date": "2026-04-27",
+      "title": "Agency Information Collection Activity: VA Loan Electronic Reporting Interface (VALERI) System and Title Requirements for Conveyance of Real Property to the Secretary",
+      "summary": "In compliance with the Paperwork Reduction Act (PRA) of 1995, this notice announces that the Veterans Benefits Administration, Department of Veterans Affairs, will submit the collection of information abstracted below to the Office of Management and Budget (OMB) for review and comment. The PRA submission describes the nature of the information collection and its expected cost and burden and it includes the actual dat",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08166/agency-information-collection-activity-va-loan-electronic-reporting-interface-valeri-system-and"
+    },
+    {
+      "id": "1e9012e9250d",
+      "category": "LEGIS",
+      "date": "2026-04-27",
+      "title": "North Pacific Fishery Management Council; Public Meeting",
+      "summary": "The North Pacific Fishery Management Council (Council) Fishery Monitoring Advisory Committee (FMAC) will meet May 18, 2026.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08165/north-pacific-fishery-management-council-public-meeting"
+    },
+    {
+      "id": "a497a95b617b",
+      "category": "LEGIS",
+      "date": "2026-04-27",
+      "title": "North Pacific Fishery Management Council; Notice of Public Meeting",
+      "summary": "North Pacific Fishery Management Council will host a meeting of the Council Coordination Committee (CCC), consisting of the Regional Fishery Management Council chairs, vice chairs, and executive directors on May 19 through May 21, 2026.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08164/north-pacific-fishery-management-council-notice-of-public-meeting"
+    },
+    {
+      "id": "87b2602d78ec",
+      "category": "LEGIS",
+      "date": "2026-04-27",
+      "title": "Operating Limitations at Chicago O'Hare International Airport, Order Establishing Scheduling Limits",
+      "summary": "This action amends the effective date for the Order Establishing Scheduling Limits at Chicago O'Hare International Airport (ORD) published on April 20, 2026. The Order was issued with an effective date of May 17, 2026, and an expiration date of October 24, 2026.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08163/operating-limitations-at-chicago-ohare-international-airport-order-establishing-scheduling-limits"
+    },
+    {
+      "id": "8fc409db0220",
+      "category": "LEGIS",
+      "date": "2026-04-27",
+      "title": "Formations of, Acquisitions by, and Mergers of Bank Holding Companies",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08162/formations-of-acquisitions-by-and-mergers-of-bank-holding-companies"
+    },
+    {
+      "id": "4e7d2cc755e9",
+      "category": "LEGIS",
+      "date": "2026-04-27",
+      "title": "Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08161/change-in-bank-control-notices-acquisitions-of-shares-of-a-bank-or-bank-holding-company"
+    },
+    {
+      "id": "f2d42bd65b20",
+      "category": "CMS",
+      "date": "2026-04-27",
+      "title": "Agency Information Collection Activities: Proposed Collection; Comment Request",
+      "summary": "The Centers for Medicare & Medicaid Services (CMS) is announcing an opportunity for the public to comment on CMS' intention to collect information from the public. Under the Paperwork Reduction Act of 1995 (PRA), federal agencies are required to publish notice in the Federal Register concerning each proposed collection of information (including each proposed extension or reinstatement of an existing collection of inf",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08160/agency-information-collection-activities-proposed-collection-comment-request"
+    },
+    {
+      "id": "10cf633c1875",
+      "category": "LEGIS",
+      "date": "2026-04-27",
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Regulation S-Rules Governing Offers and Sales Made Outside the United States Without Registration Under the Securities Act of 1933",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08159/agency-information-collection-activities-submission-for-omb-review-comment-request-extension"
+    },
+    {
+      "id": "deb7d123e375",
+      "category": "LEGIS",
+      "date": "2026-04-27",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 147(f)(1)(iii) Written Representation as to Purchaser Residency",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08158/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-147f1iii"
+    },
+    {
+      "id": "443002248cfb",
+      "category": "LEGIS",
+      "date": "2026-04-27",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 147A(f)(1)(iii) Written Representation as to Purchaser Residency",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08157/agency-information-collection-activities-proposed-collection-comment-request-extension-rule"
+    },
+    {
+      "id": "aba7e93d28f6",
+      "category": "CMS",
+      "date": "2026-04-27",
+      "title": "Agency Information Collection Activities: Submission for OMB Review; Comment Request",
+      "summary": "The Centers for Medicare & Medicaid Services (CMS) is announcing an opportunity for the public to comment on CMS' intention to collect information from the public. Under the Paperwork Reduction Act of 1995 (PRA), federal agencies are required to publish notice in the Federal Register concerning each proposed collection of information, including each proposed extension or reinstatement of an existing collection of inf",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08156/agency-information-collection-activities-submission-for-omb-review-comment-request"
+    },
+    {
+      "id": "052fc6f2b836",
+      "category": "LEGIS",
+      "date": "2026-04-27",
+      "title": "Duke Energy Carolinas, LLC; Belews Creek, North Carolina Site, Early Site Permit, Notice of Intent To Conduct Scoping Process and Prepare Environmental Impact Statement",
+      "summary": "Pursuant to the National Environmental Policy Act (NEPA) of 1969, the U.S. Nuclear Regulatory Commission (NRC) announces its intent to prepare an environmental impact statement (EIS) to evaluate the potential environmental impacts associated with Duke Energy Carolinas, LLC (DEC) application for an Early Site Permit (ESP) for the Belews Creek, NC, site in Sauratown Township, Stokes County, North Carolina, and Belews C",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08155/duke-energy-carolinas-llc-belews-creek-north-carolina-site-early-site-permit-notice-of-intent-to"
+    },
+    {
+      "id": "f0649cc52e33",
+      "category": "LEGIS",
+      "date": "2026-04-27",
+      "title": "Airworthiness Directives; The Boeing Company Airplanes",
+      "summary": "The FAA proposes to adopt a new airworthiness directive (AD) for all The Boeing Company Model 737-600, -700, -700C, -800, -900, and -900ER series airplanes. This proposed AD was prompted by reports of fuselage skin cracks found near the aft drain mast. This proposed AD would require inspection of the aft drain mast area and surrounding fuselage skin for any repair, repetitive inspections of the fuselage skin and stru",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08154/airworthiness-directives-the-boeing-company-airplanes"
+    },
+    {
+      "id": "ba1b72488cce",
+      "category": "LEGIS",
+      "date": "2026-04-27",
+      "title": "Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to U.S. Army Corps of Engineers Miller Sands Island, Rice Island, and Cottonwood Island Pile Dike Repairs Projects on the Lower Columbia River in Oregon and Washington",
+      "summary": "NMFS has received a request from U.S. Army Corps of Engineers (USACE) for authorization to take marine mammals incidental to the Miller Sands-Rice Island Pile Dike Repairs Project (MSRI Project) and Cottonwood Island Pile Dike Replacement Project (CI Project) on the lower Columbia River (LCR) in Oregon and Washington. Pursuant to the Marine Mammal Protection Act (MMPA), NMFS is requesting comments on its proposal to ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/04/27/2026-08153/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-us"
+    }
+  ]
 }
