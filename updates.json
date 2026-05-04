@@ -1,4 +1,265 @@
 {
-  "generated_at": "2026-05-03T13:46:55.866Z",
-  "updates": []
+  "generated_at": "2026-05-04T14:28:36.591Z",
+  "updates": [
+    {
+      "id": "0c6a3c244df8",
+      "category": "LEGIS",
+      "date": "2026-05-04",
+      "title": "Endangered and Threatened Wildlife and Plants; 12-Month Not-Warranted Finding for the Temblor Legless Lizard",
+      "summary": "We, the U.S. Fish and Wildlife Service (Service), announce a 12-month finding on a petition to list the Temblor legless lizard (Anniella alexanderae) as an endangered or threatened species under the Endangered Species Act of 1973, as amended (Act). The Temblor legless lizard inhabits the eastern foothills of the Temblor and Diablo ranges of California, along with adjacent portions of the San Joaquin Valley floor. Aft",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08665/endangered-and-threatened-wildlife-and-plants-12-month-not-warranted-finding-for-the-temblor-legless"
+    },
+    {
+      "id": "a9e97f1346cb",
+      "category": "LEGIS",
+      "date": "2026-05-04",
+      "title": "Virginia: Approval of State Coal Combustion Residuals Permit Program",
+      "summary": "The Environmental Protection Agency (EPA or the Agency) is proposing to approve Virginia's Coal Combustion Residuals (CCR) partial permit program under the Resource Conservation and Recovery Act (RCRA). After reviewing the CCR permit program application submitted by the Virginia Department of Environmental Quality (VADEQ), EPA has preliminarily determined that Virginia's partial CCR permit program meets the standard ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08662/virginia-approval-of-state-coal-combustion-residuals-permit-program"
+    },
+    {
+      "id": "4c942e217102",
+      "category": "LEGIS",
+      "date": "2026-05-04",
+      "title": "Sentencing Guidelines for United States Courts",
+      "summary": "The United States Sentencing Commission hereby gives notice that the Commission has promulgated amendments to the sentencing guidelines, policy statements, and commentary. This notice sets forth the text of the amendments and the reason for each amendment.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08647/sentencing-guidelines-for-united-states-courts"
+    },
+    {
+      "id": "d8f28966c5e1",
+      "category": "LEGIS",
+      "date": "2026-05-04",
+      "title": "Updating and Improving the Methodology for Assessing Affordability and Cost-Effectiveness of Building Energy Codes",
+      "summary": "Building energy codes have significantly increased the costs of building a home and extended average consumer payback periods. The U.S. Department of Energy (DOE) has prioritized affordability in housing and new construction across the U.S., including taking swift action via building codes to lower construction costs and deliver greater value to American households and businesses. As part of this effort, DOE is seeki",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08646/updating-and-improving-the-methodology-for-assessing-affordability-and-cost-effectiveness-of"
+    },
+    {
+      "id": "7eaae86e7781",
+      "category": "LEGIS",
+      "date": "2026-05-04",
+      "title": "Establishment of Class D and Class E Airspace; Ceiba, PR",
+      "summary": "This action establishes Class D and Class E airspace at the Jose Aponte de la Torre (RVR) airport, Ceiba, PR. The FAA is taking this action due to the United States Marine Corps (USMC) operating an airport traffic control tower (ATCT) at the RVR airport.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08645/establishment-of-class-d-and-class-e-airspace-ceiba-pr"
+    },
+    {
+      "id": "d43b8dd1feae",
+      "category": "LEGIS",
+      "date": "2026-05-04",
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Antarctic Marine Living Resources Conservation and Management Measures",
+      "summary": "The Department of Commerce, in accordance with the Paperwork Reduction Act of 1995 (PRA), invites the general public and other Federal agencies to comment on proposed, and continuing information collections, which helps us assess the impact of our information collection requirements and minimize the public's reporting burden. The purpose of this notice is to allow for 60 days of public comment preceding submission of",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08644/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+    },
+    {
+      "id": "b99061570e69",
+      "category": "LEGIS",
+      "date": "2026-05-04",
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Permit and Reporting Requirements for Non-Commercial Fishing in the Rose Atoll, Marianas Trench, and Pacific Remote Islands Marine National Monuments",
+      "summary": "The Department of Commerce, in accordance with the Paperwork Reduction Act of 1995 (PRA), invites the general public and other Federal agencies to comment on proposed, and continuing information collections, which helps us assess the impact of our information collection requirements and minimize the public's reporting burden. The purpose of this notice is to allow for 60 days of public comment preceding submission of",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08643/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+    },
+    {
+      "id": "97c711cbdd0e",
+      "category": "LEGIS",
+      "date": "2026-05-04",
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Reporting Requirements for Commercial Fisheries Authorization Under Section 118 of the Marine Mammal Protection Act",
+      "summary": "The Department of Commerce, in accordance with the Paperwork Reduction Act of 1995 (PRA), invites the general public and other Federal agencies to comment on proposed, and continuing information collections, which helps us assess the impact of our information collection requirements and minimize the public's reporting burden. The purpose of this notice is to allow for 60 days of public comment preceding submission of",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08642/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+    },
+    {
+      "id": "738b5d5f5395",
+      "category": "LEGIS",
+      "date": "2026-05-04",
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Green Sturgeon 4(d) Rule Take Exceptions and Exemptions",
+      "summary": "The Department of Commerce, in accordance with the Paperwork Reduction Act of 1995 (PRA), invites the general public and other Federal agencies to comment on proposed, and continuing information collections, which helps us assess the impact of our information collection requirements and minimize the public's reporting burden. The purpose of this notice is to allow for 60 days of public comment preceding submission of",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08641/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+    },
+    {
+      "id": "2aa38726c71e",
+      "category": "LEGIS",
+      "date": "2026-05-04",
+      "title": "Common Alloy Aluminum Sheet From the Republic of Türkiye: Final Results of Countervailing Duty Administrative Review; 2023; Correction",
+      "summary": "The U.S. Department of Commerce (Commerce) published a notice in the Federal Register on April 9, 2026, in which Commerce announced the final results of the 2023 administrative review of the countervailing duty (CVD) order on common alloy aluminum sheet (aluminum sheet) from the Republic of T[uuml]rkiye (T[uuml]rkiye). This notice incorrectly listed a cross-owned company in the section rate table and inadvertently om",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08640/common-alloy-aluminum-sheet-from-the-republic-of-trkiye-final-results-of-countervailing-duty"
+    },
+    {
+      "id": "51408c5e190d",
+      "category": "LEGIS",
+      "date": "2026-05-04",
+      "title": "Initiation of Antidumping and Countervailing Duty Administrative Reviews",
+      "summary": "The U.S. Department of Commerce (Commerce) has received requests to conduct administrative reviews of various antidumping duty (AD) and countervailing duty (CVD) orders with March anniversary dates. In accordance with Commerce's regulations, we are initiating those administrative reviews.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08639/initiation-of-antidumping-and-countervailing-duty-administrative-reviews"
+    },
+    {
+      "id": "d91f832b74d5",
+      "category": "LEGIS",
+      "date": "2026-05-04",
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08638/center-for-scientific-review-notice-of-closed-meetings"
+    },
+    {
+      "id": "b27e8b327a85",
+      "category": "LEGIS",
+      "date": "2026-05-04",
+      "title": "Prestressed Concrete Steel Wire Strand From the Republic of Türkiye: Final Results of the Expedited First Sunset Review of the Countervailing Duty Order",
+      "summary": "The U.S. Department of Commerce (Commerce) finds that revocation of the countervailing duty (CVD) order on prestressed concrete steel wire strand (PC strand) from the Republic of T[uuml]rkiye (T[uuml]rkiye) would be likely to lead to continuation or recurrence of countervailable subsidies at the levels indicated in the \"Final Results of Sunset Review\" section of this notice.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08637/prestressed-concrete-steel-wire-strand-from-the-republic-of-trkiye-final-results-of-the-expedited"
+    },
+    {
+      "id": "61d49dbffc2f",
+      "category": "LEGIS",
+      "date": "2026-05-04",
+      "title": "Prestressed Concrete Steel Wire Strand From Argentina, Colombia, Egypt, Indonesia, Italy, Malaysia, the Netherlands, Saudi Arabia, the Republic of South Africa, Spain, Taiwan, Tunisia, the Republic of Türkiye, Ukraine, and the United Arab Emirates: Final Results of the Expedited First Sunset Reviews of the Antidumping Duty Orders",
+      "summary": "The U.S. Department of Commerce (Commerce) finds that revocation of the antidumping duty (AD) orders on prestressed concrete steel wire strand (PC strand) from Argentina, Colombia, Egypt, Indonesia, Italy, Malaysia, the Netherlands, Saudi Arabia, the Republic of South Africa (South Africa), Spain, Taiwan, Tunisia, the Republic of T[uuml]rkiye (T[uuml]rkiye), Ukraine, and the United Arab Emirates (UAE) would be likely",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08636/prestressed-concrete-steel-wire-strand-from-argentina-colombia-egypt-indonesia-italy-malaysia-the"
+    },
+    {
+      "id": "a2fe1f423796",
+      "category": "LEGIS",
+      "date": "2026-05-04",
+      "title": "Certain Passenger Vehicle and Light Truck Tires From the People's Republic of China: Final Results of the Expedited Second Sunset Review of the Antidumping Duty Order",
+      "summary": "The U.S. Department of Commerce (Commerce) finds that revocation of the antidumping duty (AD) order on certain passenger vehicle and light truck tires (passenger tires) from the People's Republic of China (China) would be likely to lead to continuation or recurrence of dumping, at the levels indicated in the \"Final Results of Sunset Review\" section of this notice.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08635/certain-passenger-vehicle-and-light-truck-tires-from-the-peoples-republic-of-china-final-results-of"
+    },
+    {
+      "id": "5cb045bca489",
+      "category": "LEGIS",
+      "date": "2026-05-04",
+      "title": "Certain Passenger Vehicle and Light Truck Tires From the People's Republic of China: Final Results of the Expedited Second Sunset Review of the Countervailing Duty Order",
+      "summary": "The U.S. Department of Commerce (Commerce) finds that revocation of the countervailing duty (CVD) order on certain passenger vehicle and light truck tires (passenger tires) from the People's Republic of China (China) would be likely to lead to continuation or recurrence of countervailable subsidies at the levels indicated in the \"Final Results of Sunset Review\" section of this notice.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08634/certain-passenger-vehicle-and-light-truck-tires-from-the-peoples-republic-of-china-final-results-of"
+    },
+    {
+      "id": "3ea4aefb1edd",
+      "category": "LEGIS",
+      "date": "2026-05-04",
+      "title": "Certain Frozen Warmwater Shrimp From India: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025",
+      "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that producers and/or exporters subject to this review made sales of subject merchandise at less than normal value (NV) during the period of review (POR), February 1, 2024, through January 31, 2025. Interested parties are invited to comment on these preliminary results of review.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08633/certain-frozen-warmwater-shrimp-from-india-preliminary-results-of-antidumping-duty-administrative"
+    },
+    {
+      "id": "5548095be1c6",
+      "category": "LEGIS",
+      "date": "2026-05-04",
+      "title": "Safety Standard for Full-Size Baby Cribs",
+      "summary": "In 2010, the U.S. Consumer Product Safety Commission (Commission or CPSC) published a consumer product safety standard for full-size baby cribs under section 104 of the Consumer Product Safety Improvement Act of 2008 (CPSIA). The standard incorporated by reference ASTM F1169-10, Standard Consumer Safety Specification for Full-Size Baby Cribs, with modifications. In 2019, the standard was updated to incorporate by ref",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08632/safety-standard-for-full-size-baby-cribs"
+    },
+    {
+      "id": "33a3680da8e8",
+      "category": "LEGIS",
+      "date": "2026-05-04",
+      "title": "Combined Notice of Filings #1",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08631/combined-notice-of-filings-1"
+    },
+    {
+      "id": "1e39d35312f7",
+      "category": "LEGIS",
+      "date": "2026-05-04",
+      "title": "Fresh Mushrooms From Canada: Postponement of Preliminary Determination in the Less-Than-Fair-Value Investigation",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08630/fresh-mushrooms-from-canada-postponement-of-preliminary-determination-in-the-less-than-fair-value"
+    }
+  ]
 }
