@@ -1,265 +1,265 @@
 {
-  "generated_at": "2026-05-05T14:21:19.143Z",
+  "generated_at": "2026-05-06T14:44:09.563Z",
   "updates": [
     {
-      "id": "805a806d5113",
+      "id": "7eab0a8c6978",
       "category": "LEGIS",
-      "date": "2026-05-05",
-      "title": "Authorizing Bridger Pipeline Expansion LLC To Construct, Connect, Operate, and Maintain Pipeline Facilities at the International Boundary at Phillips County, Montana, Between the United States and Canada",
+      "date": "2026-05-06",
+      "title": "Fisheries of the Caribbean, Gulf of America, and South Atlantic; Reef Fish Fishery of the Gulf of America; Accountability Measure for Recreational Harvest of Red Snapper in Federal Waters off Louisiana",
+      "summary": "Recreational landings of red snapper in Louisiana during 2025 exceeded the annual catch limit (ACL) apportioned to the state for the private angling component of the recreational sector. According to the accountability measure (AM), NMFS reduces Louisiana's 2026 ACL for red snapper in the Gulf of America (Gulf) by the amount of the overage in 2025. NMFS implements this AM for the 2026 fishing year to protect the red ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08984/fisheries-of-the-caribbean-gulf-of-america-and-south-atlantic-reef-fish-fishery-of-the-gulf-of"
+    },
+    {
+      "id": "f72c160809c7",
+      "category": "LEGIS",
+      "date": "2026-05-06",
+      "title": "Public Meeting of the Glen Canyon Dam Adaptive Management Work Group",
+      "summary": "In accordance with the Federal Advisory Committee Act of 1972, the Bureau of Reclamation (Reclamation) is publishing this notice to announce that a Federal Advisory Committee meeting of the Glen Canyon Dam Adaptive Management Work Group (AMWG) will take place. The meeting is open to the public.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08982/public-meeting-of-the-glen-canyon-dam-adaptive-management-work-group"
+    },
+    {
+      "id": "fd9746edcf41",
+      "category": "LEGIS",
+      "date": "2026-05-06",
+      "title": "Intent To Request Extension From OMB of One Current Public Collection of Information: Security Threat Assessment for Individuals Applying for a Hazardous Materials Endorsement for a Commercial Driver's License",
+      "summary": "The Transportation Security Administration (TSA) invites public comment on one currently approved Information Collection Request (ICR), Office of Management and Budget (OMB) control number 1652-0027, abstracted below, which we will submit to OMB for an extension in compliance with the Paperwork Reduction Act (PRA). The ICR describes the nature of the information collection and its expected burden. The collection invo",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08981/intent-to-request-extension-from-omb-of-one-current-public-collection-of-information-security-threat"
+    },
+    {
+      "id": "c657857a100d",
+      "category": "LEGIS",
+      "date": "2026-05-06",
+      "title": "Revision of Agency Information Collection Activity Under OMB Review: Critical Facility Information From the Top 100 Most Critical Pipeline Operators",
+      "summary": "This notice announces that the Transportation Security Administration (TSA) has forwarded the Information Collection Request (ICR), Office of Management and Budget (OMB) control number 1652-0050, abstracted below, to OMB for a revision of the currently approved collection under the Paperwork Reduction Act (PRA). The ICR describes the nature of the information collection and its expected burden. TSA developed and impl",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08980/revision-of-agency-information-collection-activity-under-omb-review-critical-facility-information"
+    },
+    {
+      "id": "7b04fd3862ed",
+      "category": "LEGIS",
+      "date": "2026-05-06",
+      "title": "Privacy Act Regulations",
+      "summary": "The Commodity Futures Trading Commission (CFTC or Commission) is establishing a new Insider Risk Program, the records of which are included in a new Privacy Act system of records, CFTC-59, Insider Risk Program Records (CFTC-59), published concurrently in this Federal Register. The Commission proposes here to update its regulations to exempt CFTC-59 from certain provisions of the Privacy Act in accordance with the req",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08979/privacy-act-regulations"
+    },
+    {
+      "id": "d6d641b7acee",
+      "category": "LEGIS",
+      "date": "2026-05-06",
+      "title": "Privacy Act of 1974; System of Records",
+      "summary": "In accordance with the Privacy Act of 1974, the Commodity Futures Trading Commission (CFTC or Commission) is establishing a new Privacy Act system of records titled \"CFTC-59, Insider Risk Program Records.\" This system of records contains information that the Commission collects, maintains, and uses to administer its Insider Risk program and to detect, deter, and mitigate risks to individuals, facilities, information,",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08978/privacy-act-of-1974-system-of-records"
+    },
+    {
+      "id": "1f7dd965462f",
+      "category": "LEGIS",
+      "date": "2026-05-06",
+      "title": "Agency Information Collection Activities; Extension; User Fees (CBP Form 339A, 339C, 339V)",
+      "summary": "The Department of Homeland Security, U.S. Customs and Border Protection (CBP) will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). The information collection is published in the Federal Register to obtain comments from the public and affected agencies.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08977/agency-information-collection-activities-extension-user-fees-cbp-form-339a-339c-339v"
+    },
+    {
+      "id": "42e7fdb66467",
+      "category": "LEGIS",
+      "date": "2026-05-06",
+      "title": "Agency Information Collection Activities; Extension; African Growth and Opportunity Act (AGOA) Textile Certificate of Origin",
+      "summary": "The Department of Homeland Security, U.S. Customs and Border Protection (CBP) will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). The information collection is published in the Federal Register to obtain comments from the public and affected agencies.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08976/agency-information-collection-activities-extension-african-growth-and-opportunity-act-agoa-textile"
+    },
+    {
+      "id": "d50b56a282d2",
+      "category": "LEGIS",
+      "date": "2026-05-06",
+      "title": "Agency Information Collection Activities; Extension; Application-Permit-Special License Unlading-Lading-Overtime Services",
+      "summary": "The Department of Homeland Security, U.S. Customs and Border Protection (CBP) will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). The information collection is published in the Federal Register to obtain comments from the public and affected agencies.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08975/agency-information-collection-activities-extension-application-permit-special-license"
+    },
+    {
+      "id": "dfa8db562ab0",
+      "category": "LEGIS",
+      "date": "2026-05-06",
+      "title": "Presidential Declaration of a Major Disaster for Public Assistance Only for the State of Montana",
+      "summary": "This is a correction of the Presidential declaration of a major disaster for Public Assistance Only for the state of Montana (FEMA-4902-DR), dated April 7, 2026. Incident: Severe Winter Storm and Straight-line Winds.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08974/presidential-declaration-of-a-major-disaster-for-public-assistance-only-for-the-state-of-montana"
+    },
+    {
+      "id": "b69d947c294a",
+      "category": "LEGIS",
+      "date": "2026-05-06",
+      "title": "Agency Information Collection Activities; Revision; Visa Waiver Signatory Carrier Program (Form I-775)",
+      "summary": "The Department of Homeland Security, U.S. Customs and Border Protection (CBP) will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). The information collection is published in the Federal Register to obtain comments from the public and affected agencies.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08973/agency-information-collection-activities-revision-visa-waiver-signatory-carrier-program-form-i-775"
+    },
+    {
+      "id": "5a25669addef",
+      "category": "LEGIS",
+      "date": "2026-05-06",
+      "title": "Agency Information Collection Activities; Extension; Report of Diversion",
+      "summary": "The Department of Homeland Security, U.S. Customs and Border Protection (CBP) will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). The information collection is published in the Federal Register to obtain comments from the public and affected agencies.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08972/agency-information-collection-activities-extension-report-of-diversion"
+    },
+    {
+      "id": "5a32c2d38f50",
+      "category": "LEGIS",
+      "date": "2026-05-06",
+      "title": "Agency Information Collection Activity under OMB Review: Request for Casket/Urn Allowance",
+      "summary": "In compliance with the Paperwork Reduction Act (PRA) of 1995, this notice announces that the National Cemetery Administration, Department of Veterans Affairs, will submit the collection of information abstracted below to the Office of Management and Budget (OMB) for review and comment. The PRA submission describes the nature of the information collection and its expected cost and burden, and it includes the actual da",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08971/agency-information-collection-activity-under-omb-review-request-for-casketurn-allowance"
+    },
+    {
+      "id": "16167f64c90d",
+      "category": "LEGIS",
+      "date": "2026-05-06",
+      "title": "Agency Information Collection Activities; Revision; Customs Declaration (CBP Form 6059B)",
+      "summary": "The Department of Homeland Security, U.S. Customs and Border Protection (CBP) will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). The information collection is published in the Federal Register to obtain comments from the public and affected agencies.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08970/agency-information-collection-activities-revision-customs-declaration-cbp-form-6059b"
+    },
+    {
+      "id": "e571bb8383dc",
+      "category": "LEGIS",
+      "date": "2026-05-06",
+      "title": "Endangered and Threatened Wildlife and Plants; Initiation of 5-Year Status Reviews for 78 Species in Hawaii, Idaho, Oregon, and California",
+      "summary": "We, the U.S. Fish and Wildlife Service, are initiating 5-year status reviews for 78 Species in Hawaii, Idaho, Oregon, and California under the Endangered Species Act of 1973. A 5-year status review is based on the best scientific and commercial data available at the time of the review; therefore, we are requesting submission of any new information on these species that has become available since the last reviews.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08969/endangered-and-threatened-wildlife-and-plants-initiation-of-5-year-status-reviews-for-78-species-in"
+    },
+    {
+      "id": "d5964ae158de",
+      "category": "LEGIS",
+      "date": "2026-05-06",
+      "title": "Agency Information Collection Activities; Comment Request; AmeriCorps VISTA Application and Reporting Forms",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the Corporation for National and Community Service (operating as AmeriCorps) is proposing to revise an information collection for AmeriCorps VISTA application and reporting forms.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08968/agency-information-collection-activities-comment-request-americorps-vista-application-and-reporting"
+    },
+    {
+      "id": "4641d114cc3b",
+      "category": "LEGIS",
+      "date": "2026-05-06",
+      "title": "Notice of Determinations; Culturally Significant Objects Being Imported for Exhibition-Determinations: “Orientalism: Between Fact and Fantasy” Exhibition",
+      "summary": "Notice is hereby given of the following determinations: I hereby determine that certain objects being imported from abroad pursuant to agreements with their foreign owners or custodians for temporary display in the exhibition \"Orientalism: Between Fact and Fantasy\" at The Metropolitan Museum of Art, New York, New York, and at possible additional exhibitions or venues yet to be determined, are of cultural significance",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08967/notice-of-determinations-culturally-significant-objects-being-imported-for-exhibition-determinations"
+    },
+    {
+      "id": "d5b109fb7030",
+      "category": "LEGIS",
+      "date": "2026-05-06",
+      "title": "Low Income Taxpayer Clinic Grant Program; Availability of 2027 Grant Application Package",
+      "summary": "This document contains a notice that the IRS has provided a grant opportunity in www.grants.gov for organizations interested in applying for a Low Income Taxpayer Clinic (LITC) matching grant. The IRS is authorized to award multi-year LITC grants not to exceed three years. Grants may be awarded for the development/start up, expansion, or continuation of programs providing qualified services to eligible taxpayers. The",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08966/low-income-taxpayer-clinic-grant-program-availability-of-2027-grant-application-package"
+    },
+    {
+      "id": "f5151cbe1b7d",
+      "category": "LEGIS",
+      "date": "2026-05-06",
+      "title": "Combined Notice of Filings #1",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/05/2026-08909/authorizing-bridger-pipeline-expansion-llc-to-construct-connect-operate-and-maintain-pipeline"
+      "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08965/combined-notice-of-filings-1"
     },
     {
-      "id": "d34c6697e7b4",
+      "id": "fe8cb5a56b8d",
       "category": "LEGIS",
-      "date": "2026-05-05",
-      "title": "Promoting Retirement-Savings Access for American Workers by Establishing TrumpIRA.gov",
+      "date": "2026-05-06",
+      "title": "Combined Notice of Filings",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/05/2026-08908/promoting-retirement-savings-access-for-american-workers-by-establishing-trumpiragov"
-    },
-    {
-      "id": "fdee2c7b7242",
-      "category": "LEGIS",
-      "date": "2026-05-05",
-      "title": "Promoting Efficiency, Accountability, and Performance in Federal Contracting",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/05/2026-08900/promoting-efficiency-accountability-and-performance-in-federal-contracting"
-    },
-    {
-      "id": "f63ddf22045d",
-      "category": "LEGIS",
-      "date": "2026-05-05",
-      "title": "National Fallen Firefighters Memorial Weekend, 2026",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/05/2026-08899/national-fallen-firefighters-memorial-weekend-2026"
-    },
-    {
-      "id": "2ac377e7bbee",
-      "category": "LEGIS",
-      "date": "2026-05-05",
-      "title": "National Foster Care Month, 2026",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/05/2026-08898/national-foster-care-month-2026"
-    },
-    {
-      "id": "bd45d6ac38bb",
-      "category": "LEGIS",
-      "date": "2026-05-05",
-      "title": "Notice of Intended Repatriation: The Metropolitan Museum of Art, New York, NY",
-      "summary": "In accordance with the Native American Graves Protection and Repatriation Act (NAGPRA), The Metropolitan Museum of Art (The Met) intends to repatriate a certain cultural item that meets the definition of an unassociated funerary object and that has a cultural affiliation with the Indian Tribe in this notice.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/05/2026-08774/notice-of-intended-repatriation-the-metropolitan-museum-of-art-new-york-ny"
-    },
-    {
-      "id": "f016bac125b2",
-      "category": "LEGIS",
-      "date": "2026-05-05",
-      "title": "Notice of Inventory Completion: Office of the State Archaeologist Bioarchaeology Program, University of Iowa, Iowa City, IA",
-      "summary": "In accordance with the Native American Graves Protection and Repatriation Act (NAGPRA), the Office of the State Archaeologist Bioarchaeology Program (OSA-BP) has completed an inventory of human remains and has determined that there is no lineal descendant and no Indian Tribe or Native Hawaiian organization with cultural affiliation.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/05/2026-08773/notice-of-inventory-completion-office-of-the-state-archaeologist-bioarchaeology-program-university"
-    },
-    {
-      "id": "2652326e73b1",
-      "category": "LEGIS",
-      "date": "2026-05-05",
-      "title": "Notice of Inventory Completion: Office of the State Archaeologist, University of Iowa, Iowa City, IA",
-      "summary": "In accordance with the Native American Graves Protection and Repatriation Act (NAGPRA), the Office of the State Archaeologist Bioarchaeology Program (OSA BP) has completed an inventory of human remains and has determined that there is a cultural affiliation between the human remains and Indian Tribes or Native Hawaiian organizations in this notice.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/05/2026-08772/notice-of-inventory-completion-office-of-the-state-archaeologist-university-of-iowa-iowa-city-ia"
-    },
-    {
-      "id": "621ecd025b50",
-      "category": "LEGIS",
-      "date": "2026-05-05",
-      "title": "Notice of Intended Repatriation: Fowler Museum at the University of California, Los Angeles, Los Angeles, CA",
-      "summary": "In accordance with the Native American Graves Protection and Repatriation Act (NAGPRA), the Fowler Museum at the University of California, Los Angeles intends to repatriate certain cultural items that meet the definition of objects of cultural patrimony and that have a cultural affiliation with the Indian Tribes or Native Hawaiian organizations in this notice.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/05/2026-08771/notice-of-intended-repatriation-fowler-museum-at-the-university-of-california-los-angeles-los"
-    },
-    {
-      "id": "2fd1a6844c9a",
-      "category": "LEGIS",
-      "date": "2026-05-05",
-      "title": "Notice of Intended Repatriation: Longyear Museum of Anthropology, Colgate University, Hamilton, NY",
-      "summary": "In accordance with the Native American Graves Protection and Repatriation Act (NAGPRA), the Longyear Museum of Anthropology (LMA) at Colgate University intends to repatriate a certain cultural item that meets the definition of an object of cultural patrimony and that has a cultural affiliation with the Indian Tribes or Native Hawaiian organizations in this notice.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/05/2026-08770/notice-of-intended-repatriation-longyear-museum-of-anthropology-colgate-university-hamilton-ny"
-    },
-    {
-      "id": "0408c30d54f4",
-      "category": "LEGIS",
-      "date": "2026-05-05",
-      "title": "Notice of Intended Repatriation: Castine Scientific Society D.B.A. Wilson Museum, Castine, ME",
-      "summary": "In accordance with the Native American Graves Protection and Repatriation Act (NAGPRA), the Wilson Museum intends to repatriate a certain cultural item that meets the definition of a sacred object/ object of cultural patrimony and that has a cultural affiliation with the Indian Tribes or Native Hawaiian organizations in this notice.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/05/2026-08769/notice-of-intended-repatriation-castine-scientific-society-dba-wilson-museum-castine-me"
-    },
-    {
-      "id": "7b920d765eeb",
-      "category": "LEGIS",
-      "date": "2026-05-05",
-      "title": "Notice of Intended Repatriation: Conner Prairie Museum, Fishers, IN",
-      "summary": "In accordance with the Native American Graves Protection and Repatriation Act (NAGPRA), the Conner Prairie Museum intends to repatriate a certain cultural item that meets the definition of a sacred object/object of cultural patrimony and that has a cultural affiliation with the Indian Tribes or Native Hawaiian organizations in this notice.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/05/2026-08768/notice-of-intended-repatriation-conner-prairie-museum-fishers-in"
-    },
-    {
-      "id": "e16005bc21f8",
-      "category": "LEGIS",
-      "date": "2026-05-05",
-      "title": "Notice of Inventory Completion: University of Illinois Urbana-Champaign, Champaign, IL",
-      "summary": "In accordance with the Native American Graves Protection and Repatriation Act (NAGPRA), the University of Illinois Urbana-Champaign has completed an inventory of human remains and associated funerary objects and has determined that there is a cultural affiliation between the human remains and associated funerary objects and Indian Tribes or Native Hawaiian organizations in this notice.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/05/2026-08767/notice-of-inventory-completion-university-of-illinois-urbana-champaign-champaign-il"
-    },
-    {
-      "id": "8fc0f86328c3",
-      "category": "LEGIS",
-      "date": "2026-05-05",
-      "title": "Notice of Inventory Completion: Field Museum, Chicago, IL",
-      "summary": "In accordance with the Native American Graves Protection and Repatriation Act (NAGPRA), the Field Museum has completed an inventory of human remains and has determined that there is a cultural affiliation between the human remains and Indian Tribes or Native Hawaiian organizations in this notice.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/05/2026-08766/notice-of-inventory-completion-field-museum-chicago-il"
-    },
-    {
-      "id": "91e5d97a1abd",
-      "category": "LEGIS",
-      "date": "2026-05-05",
-      "title": "Notice of Intended Repatriation: Peabody Museum of Archaeology and Ethnology, Harvard University, Cambridge, MA",
-      "summary": "In accordance with the Native American Graves Protection and Repatriation Act (NAGPRA), the Peabody Museum of Archaeology and Ethnology, Harvard University (PMAE) intends to repatriate certain cultural items that meet the definition of sacred objects and that have a cultural affiliation with the Indian Tribes or Native Hawaiian organizations in this notice.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/05/2026-08765/notice-of-intended-repatriation-peabody-museum-of-archaeology-and-ethnology-harvard-university"
-    },
-    {
-      "id": "0d893b3982d6",
-      "category": "LEGIS",
-      "date": "2026-05-05",
-      "title": "Notice of Inventory Completion: Peabody Museum of Archaeology and Ethnology, Harvard University, Cambridge, MA",
-      "summary": "In accordance with the Native American Graves Protection and Repatriation Act (NAGPRA), the Peabody Museum of Archaeology and Ethnology, Harvard University (PMAE) has completed an inventory of human remains and has determined that there is a cultural affiliation between the human remains and Indian Tribes or Native Hawaiian organizations in this notice.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/05/2026-08764/notice-of-inventory-completion-peabody-museum-of-archaeology-and-ethnology-harvard-university"
-    },
-    {
-      "id": "68ef3f583032",
-      "category": "LEGIS",
-      "date": "2026-05-05",
-      "title": "Notice of Inventory Completion: Peabody Museum of Archaeology and Ethnology, Harvard University, Cambridge, MA",
-      "summary": "In accordance with the Native American Graves Protection and Repatriation Act (NAGPRA), the Peabody Museum of Archaeology and Ethnology, Harvard University (PMAE) has completed an inventory of associated funerary objects and has determined that there is a cultural affiliation between the associated funerary objects and Indian Tribes or Native Hawaiian organizations in this notice.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/05/2026-08763/notice-of-inventory-completion-peabody-museum-of-archaeology-and-ethnology-harvard-university"
-    },
-    {
-      "id": "0bc16b405d5f",
-      "category": "LEGIS",
-      "date": "2026-05-05",
-      "title": "Notice of Intended Repatriation: Peabody Museum of Archaeology and Ethnology, Harvard University, Cambridge, MA",
-      "summary": "In accordance with the Native American Graves Protection and Repatriation Act (NAGPRA), the Peabody Museum of Archaeology and Ethnology, Harvard University (PMAE) intends to repatriate certain cultural items that meet the definition of unassociated funerary objects, sacred objects, and/or objects of cultural patrimony and that have a cultural affiliation with the Indian Tribes or Native Hawaiian organizations in this",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/05/2026-08762/notice-of-intended-repatriation-peabody-museum-of-archaeology-and-ethnology-harvard-university"
-    },
-    {
-      "id": "bee884eb9a35",
-      "category": "LEGIS",
-      "date": "2026-05-05",
-      "title": "Notice of Inventory Completion: Warren Anatomical Museum Collection, Center for the History of Medicine in the Francis A. Countway Library of Medicine, Harvard University, Boston, MA",
-      "summary": "In accordance with the Native American Graves Protection and Repatriation Act (NAGPRA), the Peabody Museum of Archaeology and Ethnology, Harvard University (PMAE) and Warren Anatomical Museum collection in the Center for the History of Medicine, Francis A. Countway Library of Medicine, Harvard University (CHoM) have completed an inventory of human remains and associated funerary objects and have determined that there",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/05/2026-08761/notice-of-inventory-completion-warren-anatomical-museum-collection-center-for-the-history-of"
-    },
-    {
-      "id": "31d03046f2a4",
-      "category": "LEGIS",
-      "date": "2026-05-05",
-      "title": "Notice of Intended Repatriation: Museum of Us, San Diego, CA",
-      "summary": "In accordance with the Native American Graves Protection and Repatriation Act (NAGPRA), the Museum of Us intends to repatriate certain cultural items that meet the definition of unassociated funerary objects and that have a cultural affiliation with the Indian Tribes or Native Hawaiian organizations in this notice.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/05/2026-08760/notice-of-intended-repatriation-museum-of-us-san-diego-ca"
+      "url": "https://www.federalregister.gov/documents/2026/05/06/2026-08964/combined-notice-of-filings"
     }
   ]
 }
