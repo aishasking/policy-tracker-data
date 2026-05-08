@@ -1,265 +1,265 @@
 {
-  "generated_at": "2026-05-07T14:47:34.950Z",
+  "generated_at": "2026-05-08T14:14:30.616Z",
   "updates": [
     {
-      "id": "b8743ee8a666",
+      "id": "f6f6ae250acf",
       "category": "LEGIS",
-      "date": "2026-05-07",
-      "title": "Continuation of the National Emergency With Respect to the Stabilization of Iraq",
+      "date": "2026-05-08",
+      "title": "National Physical Fitness and Sports Month, 2026",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09176/continuation-of-the-national-emergency-with-respect-to-the-stabilization-of-iraq"
+      "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09277/national-physical-fitness-and-sports-month-2026"
     },
     {
-      "id": "faa676e4d15c",
+      "id": "f1696d2cd093",
       "category": "LEGIS",
-      "date": "2026-05-07",
-      "title": "Continuation of the National Emergency With Respect to the Central African Republic",
+      "date": "2026-05-08",
+      "title": "Environmental Management Site-Specific Advisory Board, Oak Ridge",
+      "summary": "This notice announces an in-person/virtual meeting of the Environmental Management Site-Specific Advisory Board (EM SSAB), Oak Ridge. The Federal Advisory Committee Act requires that public notice of this meeting be announced in the Federal Register.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09226/environmental-management-site-specific-advisory-board-oak-ridge"
+    },
+    {
+      "id": "a7d4f5ca07ba",
+      "category": "LEGIS",
+      "date": "2026-05-08",
+      "title": "Establishment of Canadian Area Navigation Route Q-838 and Revocation of Jet Route J-539 in the Vicinity of Glasgow, MT",
+      "summary": "This action proposes to establish Canadian Area Navigation (RNAV) Route Q-838 and revoke Jet Route J-539 in the vicinity of Glasgow, MT. The FAA is proposing these actions to provide enroute continuity with NAV Canada's ongoing route structure modernization efforts.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09225/establishment-of-canadian-area-navigation-route-q-838-and-revocation-of-jet-route-j-539-in-the"
+    },
+    {
+      "id": "6fc8fbbd8316",
+      "category": "LEGIS",
+      "date": "2026-05-08",
+      "title": "Establishment of Canadian Area Navigation Route Q-855 and Revocation of Jet Route J-549 in the Vicinity of Williston, North Dakota",
+      "summary": "This action proposes to establish Canadian Area Navigation (RNAV) Route Q-855 and revoke Jet Route J-549 in the vicinity of Williston, North Dakota. The FAA is proposing these actions to provide enroute continuity with NAV Canada's ongoing route structure modernization efforts.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09224/establishment-of-canadian-area-navigation-route-q-855-and-revocation-of-jet-route-j-549-in-the"
+    },
+    {
+      "id": "73d75eea91e9",
+      "category": "LEGIS",
+      "date": "2026-05-08",
+      "title": "National Cancer Institute; Notice of Meeting",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09175/continuation-of-the-national-emergency-with-respect-to-the-central-african-republic"
+      "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09223/national-cancer-institute-notice-of-meeting"
     },
     {
-      "id": "bc62f835c19d",
+      "id": "3cb24c36d8d4",
       "category": "LEGIS",
-      "date": "2026-05-07",
-      "title": "Jewish American Heritage Month, 2026",
+      "date": "2026-05-08",
+      "title": "Foreign-Trade Zone (FTZ) 81, Notification of Proposed Production Activity; Turbocam Inc.; (Turbocharger and Aircraft Engine Compressor Components); Barrington, Dover, and Rochester, New Hampshire",
       "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09174/jewish-american-heritage-month-2026"
-    },
-    {
-      "id": "7bf7eee2ff64",
-      "category": "LEGIS",
-      "date": "2026-05-07",
-      "title": "Imposing Sanctions on Those Responsible for Repression in Cuba and for Threats to United States National Security and Foreign Policy",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09173/imposing-sanctions-on-those-responsible-for-repression-in-cuba-and-for-threats-to-united-states"
-    },
-    {
-      "id": "0acf730bbeff",
-      "category": "LEGIS",
-      "date": "2026-05-07",
-      "title": "Amendment of Class D Airspace and Class E Airspace Over New Bedford, MA",
-      "summary": "This action proposes to amend Class D and Class E airspace over New Bedford, MA. This action would add a 0.7 mile long, 3.6-mile- wide extension to the northwest side of the existing Class D airspace to properly contain current Instrument Flight Rules (IFR) operations. This action would also update the airport name and geographic coordinates in both the New Bedford, MA Class D and Class E airspace. This action would ",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09113/amendment-of-class-d-airspace-and-class-e-airspace-over-new-bedford-ma"
-    },
-    {
-      "id": "d27f16d9f002",
-      "category": "LEGIS",
-      "date": "2026-05-07",
-      "title": "Proposed Waiver and Extension of the Project Period With Funding for Native American Career and Technical Education Program (NACTEP)",
-      "summary": "The Secretary proposes to waive the requirements in the Education Department General Administrative Regulations that generally prohibit the project period exceeding five years and project period extensions involving the obligation of additional Federal funds. The proposed waiver and extension would enable 36 Native American Career and Technical Education (NACTEP) projects under Assistance Listing Number (ALN) 84.101A",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09111/proposed-waiver-and-extension-of-the-project-period-with-funding-for-native-american-career-and"
+      "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09222/foreign-trade-zone-ftz-81-notification-of-proposed-production-activity-turbocam-inc-turbocharger-and"
     },
     {
-      "id": "1a59909f6c29",
+      "id": "e49a8a708d20",
       "category": "LEGIS",
-      "date": "2026-05-07",
-      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Cash Management Contract URL Collection",
-      "summary": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing an extension without change of a currently approved information collection request (ICR).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09110/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for"
-    },
-    {
-      "id": "e0a5df4a6aa0",
-      "category": "LEGIS",
-      "date": "2026-05-07",
-      "title": "Arms Sales Notification",
-      "summary": "The DoW is publishing the unclassified text of an arms sales notification.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09109/arms-sales-notification"
-    },
-    {
-      "id": "127a16cd485d",
-      "category": "FDA",
-      "date": "2026-05-07",
-      "title": "Advisory Committee; Blood Products Advisory Committee; Renewal",
-      "summary": "The Food and Drug Administration (FDA) is announcing the renewal of the Blood Products Advisory Committee by the Commissioner of Food and Drugs (the Commissioner). The Commissioner has determined that it is in the public interest to renew the Blood Products Advisory Committee for an additional 2 years beyond the charter expiration date. The new charter will be in effect until the May 13, 2028, expiration date.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09108/advisory-committee-blood-products-advisory-committee-renewal"
-    },
-    {
-      "id": "7a8cc3f729b4",
-      "category": "LEGIS",
-      "date": "2026-05-07",
-      "title": "Agency Information Collection Activities; Reinstatement, With Change, of a Previously Approved Collection for Which Approval Has Expired: Alien Change of Address",
-      "summary": "The Department of Homeland Security (DHS), U.S. Citizenship and Immigration Services (USCIS) invites the general public and other Federal agencies to comment upon this proposed reinstatement, with change, of a previously approved collection for which approval has expired. In accordance with the Paperwork Reduction Act (PRA) of 1995, the information collection notice is published in the Federal Register to obtain comm",
+      "date": "2026-05-08",
+      "title": "Agency Information Collection Activities; Reinstatement; Request for Information (CBP Form 28)",
+      "summary": "The Department of Homeland Security, U.S. Customs and Border Protection (CBP) will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). The information collection is published in the Federal Register to obtain comments from the public and affected agencies.",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09107/agency-information-collection-activities-reinstatement-with-change-of-a-previously-approved"
+      "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09221/agency-information-collection-activities-reinstatement-request-for-information-cbp-form-28"
     },
     {
-      "id": "3bd7bcbed7bb",
+      "id": "58490e8d8b0a",
       "category": "LEGIS",
-      "date": "2026-05-07",
-      "title": "Agency Information Collection Activities; Extension; Application To Use Automated Commercial Environment (ACE)",
+      "date": "2026-05-08",
+      "title": "Strontium Chromate From France: Preliminary Results of Antidumping Duty Administrative Review; 2023-2024",
+      "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that Soci[eacute]t[eacute] Nouvelle des Couleurs Zinciques (SNCZ) did not make sales of strontium chromate from France in the United States at less than normal value (NV) during the period of review (POR), November 1, 2023, through October 31, 2024. Interested parties are invited to comment on these preliminary results of review.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09220/strontium-chromate-from-france-preliminary-results-of-antidumping-duty-administrative-review"
+    },
+    {
+      "id": "3f1d48cf1feb",
+      "category": "LEGIS",
+      "date": "2026-05-08",
+      "title": "Notice of Scope Ruling Applications Filed in Antidumping and Countervailing Duty Proceedings",
+      "summary": "The U.S. Department of Commerce (Commerce) received scope ruling applications, requesting that scope inquiries be conducted to determine whether identified products are covered by the scope of antidumping duty (AD) and/or countervailing duty (CVD) orders and that Commerce issue scope rulings pursuant to those inquiries. In accordance with Commerce's regulations, we are notifying the public of the filing of the scope ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09219/notice-of-scope-ruling-applications-filed-in-antidumping-and-countervailing-duty-proceedings"
+    },
+    {
+      "id": "ba84360f783d",
+      "category": "LEGIS",
+      "date": "2026-05-08",
+      "title": "Wood Mouldings and Millwork Products From the People's Republic of China: Preliminary Results and Partial Rescission of Countervailing Duty Administrative Review; 2024",
+      "summary": "The U.S. Department of Commerce (Commerce) preliminarily finds that countervailable subsidies were provided to certain producers and exporters of wood mouldings and millwork products (millwork products) from the People's Republic of China (China). The period of review (POR) is January 1, 2024, through December 31, 2024. In addition, Commerce is rescinding this review with respect to 22 companies. Interested parties a",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09218/wood-mouldings-and-millwork-products-from-the-peoples-republic-of-china-preliminary-results-and"
+    },
+    {
+      "id": "153a8cdb53dc",
+      "category": "LEGIS",
+      "date": "2026-05-08",
+      "title": "Agency Information Collection Activities; Extension; Country of Origin Marking Requirements for Containers or Holders",
       "summary": "The Department of Homeland Security, U.S. Customs and Border Protection (CBP) will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). The information collection is published in the Federal Register to obtain comments from the public and affected agencies.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09106/agency-information-collection-activities-extension-application-to-use-automated-commercial"
+      "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09217/agency-information-collection-activities-extension-country-of-origin-marking-requirements-for"
     },
     {
-      "id": "cf74343e5924",
+      "id": "555edb1598f8",
       "category": "LEGIS",
-      "date": "2026-05-07",
-      "title": "Agency Information Collection Activities; New Collection of Information; Client Representative Technical Assistance Portal (CR-TAP)",
+      "date": "2026-05-08",
+      "title": "Agency Information Collection Activities; Reinstatement; Customs-Trade Partnership Against Terrorism (CTPAT) and Trade Compliance",
       "summary": "The Department of Homeland Security, U.S. Customs and Border Protection (CBP) will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). The information collection is published in the Federal Register to obtain comments from the public and affected agencies.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09105/agency-information-collection-activities-new-collection-of-information-client-representative"
+      "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09216/agency-information-collection-activities-reinstatement-customs-trade-partnership-against-terrorism"
     },
     {
-      "id": "31f4385026a5",
+      "id": "0e774b6dc573",
       "category": "LEGIS",
-      "date": "2026-05-07",
-      "title": "Agency Information Collection Activities; Reinstatement; Petition for Remission or Mitigation of Forfeitures and Penalties Incurred",
+      "date": "2026-05-08",
+      "title": "Agency Information Collection Activities; Reinstatement; Application for Allowance in Duties",
       "summary": "The Department of Homeland Security, U.S. Customs and Border Protection (CBP) will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). The information collection is published in the Federal Register to obtain comments from the public and affected agencies.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09215/agency-information-collection-activities-reinstatement-application-for-allowance-in-duties"
+    },
+    {
+      "id": "a3a02960c162",
+      "category": "LEGIS",
+      "date": "2026-05-08",
+      "title": "Agency Information Collection Activities; Extension; Distribution of Continued Dumping and Subsidy Offset to Affected Domestic Producers (CBP Form 7401)",
+      "summary": "The Department of Homeland Security, U.S. Customs and Border Protection (CBP) will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). The information collection is published in the Federal Register to obtain comments from the public and affected agencies.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09214/agency-information-collection-activities-extension-distribution-of-continued-dumping-and-subsidy"
+    },
+    {
+      "id": "ae65cd1755f3",
+      "category": "LEGIS",
+      "date": "2026-05-08",
+      "title": "Privacy Act of 1974; System of Records",
+      "summary": "Pursuant to the Privacy Act of 1974, as amended, the U.S. Nuclear Regulatory Commission (NRC) proposes to revise System of Records NRC 16, which includes Privacy Act records regarding facility operator licensees, to reflect the NRC's issuance of a final rule establishing a new risk-informed, technology-inclusive regulatory framework for advanced reactors. This final rule establishes a new part within the NRC's regula",
       "tags": [
         "Federal Register"
       ],
       "priority": "high",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09104/agency-information-collection-activities-reinstatement-petition-for-remission-or-mitigation-of"
+      "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09213/privacy-act-of-1974-system-of-records"
     },
     {
-      "id": "1b068050c622",
+      "id": "9817b74e320b",
       "category": "LEGIS",
-      "date": "2026-05-07",
-      "title": "Agency Information Collection Activities; Extension; Application To Establish a Centralized Examination Station (CES)",
-      "summary": "The Department of Homeland Security, U.S. Customs and Border Protection (CBP) will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). The information collection is published in the Federal Register to obtain comments from the public and affected agencies.",
+      "date": "2026-05-08",
+      "title": "Expanding Fluid Milk Options in Child Nutrition Programs",
+      "summary": "This final rule with comment period (\"final rule\") expands fluid milk options by allowing schools and child and adult care providers participating in Child Nutrition Programs to offer whole and reduced-fat milk to participants two years and older. This rule codifies milkfat requirements following enactment of the Whole Milk for Healthy Kids Act and supports the statutory requirements for meals to align with the goals",
       "tags": [
         "Federal Register"
       ],
-      "priority": "low",
+      "priority": "high",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09103/agency-information-collection-activities-extension-application-to-establish-a-centralized"
+      "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09212/expanding-fluid-milk-options-in-child-nutrition-programs"
     },
     {
-      "id": "78fe96f1783c",
+      "id": "8542179bb85c",
       "category": "LEGIS",
-      "date": "2026-05-07",
-      "title": "Agency Information Collection Activities; Extension; Free Trade Agreements (FTAs)",
-      "summary": "The Department of Homeland Security, U.S. Customs and Border Protection (CBP) will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). The information collection is published in the Federal Register to obtain comments from the public and affected agencies.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09102/agency-information-collection-activities-extension-free-trade-agreements-ftas"
-    },
-    {
-      "id": "13909fd76270",
-      "category": "LEGIS",
-      "date": "2026-05-07",
-      "title": "Agency Information Collection Activities; Extension; Cargo Container and Road Vehicle Certification for Transport Under Customs Seal",
-      "summary": "The Department of Homeland Security, U.S. Customs and Border Protection (CBP) will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). The information collection is published in the Federal Register to obtain comments from the public and affected agencies.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09101/agency-information-collection-activities-extension-cargo-container-and-road-vehicle-certification"
-    },
-    {
-      "id": "1605a61a7048",
-      "category": "LEGIS",
-      "date": "2026-05-07",
-      "title": "Request for Comments on the National Weather Service Cooperative Observing Program (COOP)",
-      "summary": "The NWS is seeking public and stakeholder input on the modernization of the Cooperative Observer Program (COOP). COOP is congressionally directed and represents a foundational meteorological network that has provided critical data via a volunteer network since 1890--the longest continuous record of weather stations in the country. To transition this historic network into a real-time observing program, the NWS aims to",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09099/request-for-comments-on-the-national-weather-service-cooperative-observing-program-coop"
-    },
-    {
-      "id": "75394450a342",
-      "category": "LEGIS",
-      "date": "2026-05-07",
-      "title": "Delegation of Authority 614-1",
-      "summary": "The Assistant Secretary of State for Consular Affairs (Assistant Secretary) has re-delegated certain authorities that the Secretary of State delegated to her, and this notice contains that re- delegation.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09098/delegation-of-authority-614-1"
-    },
-    {
-      "id": "1c730402ab9a",
-      "category": "LEGIS",
-      "date": "2026-05-07",
-      "title": "Notice of Request for an Extension of a Currently Approved Information Collection",
-      "summary": "In accordance with the Paperwork Reduction Act of 1995, this notice announces the intention of the Foreign Agricultural Service (FAS) to request an extension for a currently approved information collection for USDA's Cochran Fellowship Program.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09097/notice-of-request-for-an-extension-of-a-currently-approved-information-collection"
-    },
-    {
-      "id": "6cc18de1a4a7",
-      "category": "CMS",
-      "date": "2026-05-07",
-      "title": "Agency Information Collection Activities: Proposed Collection; Comment Request",
-      "summary": "The Centers for Medicare & Medicaid Services (CMS) is announcing an opportunity for the public to comment on CMS' intention to collect information from the public. Under the Paperwork Reduction Act of 1995 (PRA), federal agencies are required to publish notice in the Federal Register concerning each proposed collection of information (including each proposed extension or reinstatement of an existing collection of inf",
+      "date": "2026-05-08",
+      "title": "Information Collection Being Reviewed by the Federal Communications Commission",
+      "summary": "As part of its continuing effort to reduce paperwork burdens, and as required by the Paperwork Reduction Act (PRA) of 1995, the Federal Communications Commission (FCC or the Commission) invites the general public and other Federal agencies to take this opportunity to comment on the following information collection. Comments are requested concerning: whether the proposed collection of information is necessary for the ",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09096/agency-information-collection-activities-proposed-collection-comment-request"
+      "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09211/information-collection-being-reviewed-by-the-federal-communications-commission"
+    },
+    {
+      "id": "97d6002c4fa7",
+      "category": "LEGIS",
+      "date": "2026-05-08",
+      "title": "New England Fishery Management Council; Public Meeting",
+      "summary": "The New England Fishery Management Council (Council) is scheduling a public meeting of its Habitat Advisory Panel via webinar to consider actions affecting New England fisheries in the exclusive economic zone (EEZ). This meeting will be held in-person with a webinar option. Recommendations from this group will be brought to the full Council for formal consideration and action, if appropriate.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09210/new-england-fishery-management-council-public-meeting"
+    },
+    {
+      "id": "f4f9542e2dac",
+      "category": "LEGIS",
+      "date": "2026-05-08",
+      "title": "Pacific Fishery Management Council; Public Meeting",
+      "summary": "The Pacific Fishery Management Council's (Pacific Council) will convene an online meeting of its Ecosystem Advisory Subpanel (EAS), which is open to the public.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09209/pacific-fishery-management-council-public-meeting"
+    },
+    {
+      "id": "097613981e6f",
+      "category": "LEGIS",
+      "date": "2026-05-08",
+      "title": "Risk Management and Financial Assurance for OCS Lease and Grant Obligations; Extension of Public Comment Period",
+      "summary": "The Bureau of Ocean Energy Management (BOEM) is extending the public comment period on our notice of proposed rulemaking (NPRM) titled \"Risk Management and Financial Assurance for OCS Lease and Grant Obligations\" by seven days. Comments previously submitted need not be resubmitted and will be fully considered.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/08/2026-09208/risk-management-and-financial-assurance-for-ocs-lease-and-grant-obligations-extension-of-public"
     }
   ]
 }
