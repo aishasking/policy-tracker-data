@@ -1,4 +1,265 @@
 {
-  "generated_at": "2026-05-17T13:54:37.365Z",
-  "updates": []
+  "generated_at": "2026-05-18T15:55:23.159Z",
+  "updates": [
+    {
+      "id": "5f272e4b4b48",
+      "category": "LEGIS",
+      "date": "2026-05-18",
+      "title": "Fees for Commercial Driver's License Information System",
+      "summary": "FMCSA proposes to implement a user fee as authorized by Congress in the \"Strengthening the Commercial Driver's License Information System Act\" applicable to State driver licensing agencies (SDLAs) for accessing the Commercial Driver's License Information System (CDLIS). The fees would be collected by the American Association of Motor Vehicle Administrators (AAMVA), the organization that represents the State agencies ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/18/2026-09943/fees-for-commercial-drivers-license-information-system"
+    },
+    {
+      "id": "95427bab079d",
+      "category": "LEGIS",
+      "date": "2026-05-18",
+      "title": "Establishment of Class E Airspace; Geneva, OH",
+      "summary": "This action proposes to establish Class E airspace at University Hospitals Geneva Medical Center Heliport, Geneva, OH. The FAA is proposing this action to support new instrument procedures and instrument flight rule (IFR) operations.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/18/2026-09942/establishment-of-class-e-airspace-geneva-oh"
+    },
+    {
+      "id": "e13ca3fe6e8d",
+      "category": "LEGIS",
+      "date": "2026-05-18",
+      "title": "Electronic Furnishing of Payee Statements Regarding Digital Asset Sales by Brokers; Hearing",
+      "summary": "This document provides a notice of public hearing on the notice of proposed rules for electronic furnishing of payee statements by brokers with respect to digital asset sales.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/18/2026-09941/electronic-furnishing-of-payee-statements-regarding-digital-asset-sales-by-brokers-hearing"
+    },
+    {
+      "id": "54e80030d304",
+      "category": "LEGIS",
+      "date": "2026-05-18",
+      "title": "Sunshine Act Meetings",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/18/2026-09939/sunshine-act-meetings"
+    },
+    {
+      "id": "2cf866275376",
+      "category": "LEGIS",
+      "date": "2026-05-18",
+      "title": "New England Fishery Management Council; Public Meeting",
+      "summary": "The New England Fishery Management Council (Council) is holding a hybrid public meeting of its Scientific and Statistical Committee (SSC) to consider actions affecting New England fisheries in the exclusive economic zone (EEZ). Recommendations from this group will be brought to the full Council for formal consideration and action, if appropriate.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/18/2026-09937/new-england-fishery-management-council-public-meeting"
+    },
+    {
+      "id": "5dda4c600600",
+      "category": "LEGIS",
+      "date": "2026-05-18",
+      "title": "Agency Information Collection Activities: Proposed Collection; Comment Request-Supplemental Nutrition Assistance Program (SNAP) Form FNS-380, Worksheet for Quality Control Reviews",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, this notice invites the public to comment on this proposed information collection. This collection is a reinstatement with revision of a currently expired information collection. This information collection, the FNS-380, Worksheet for Quality Control Reviews, is a form designed to collect quality control (QC) data and serve as the data entry form for QC case rev",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/18/2026-09935/agency-information-collection-activities-proposed-collection-comment-request-supplemental-nutrition"
+    },
+    {
+      "id": "7fbd31d92059",
+      "category": "LEGIS",
+      "date": "2026-05-18",
+      "title": "Unwrought Palladium From Russia; Revised Schedule for the Subject Investigations",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/18/2026-09934/unwrought-palladium-from-russia-revised-schedule-for-the-subject-investigations"
+    },
+    {
+      "id": "5bd44321f5f4",
+      "category": "LEGIS",
+      "date": "2026-05-18",
+      "title": "Notice Announcing College Assistance Migrant Program Competition",
+      "summary": "The Employment and Training Administration at the U.S. Department of Labor (DOL) is soliciting applications in support of the administration of the Fiscal Year (FY) 2026 College Assistance Migrant Program (CAMP), Assistance Listing Number 84.149A, on behalf of the U.S. Department of Education (ED).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/18/2026-09932/notice-announcing-college-assistance-migrant-program-competition"
+    },
+    {
+      "id": "1fe97826ef41",
+      "category": "LEGIS",
+      "date": "2026-05-18",
+      "title": "Notice Announcing High School Equivalency Program Competition",
+      "summary": "The Employment and Training Administration at the U.S. Department of Labor (DOL) is soliciting applications in support of the administration of the Fiscal Year (FY) 2026 High School Equivalency Program (HEP), Assistance Listing Number 84.141A, on behalf of the U.S. Department of Education (ED).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/18/2026-09931/notice-announcing-high-school-equivalency-program-competition"
+    },
+    {
+      "id": "a3eb8b26193d",
+      "category": "FDA",
+      "date": "2026-05-18",
+      "title": "Bulk Manufacturer of Controlled Substances Application: Benuvia Operations, LLC",
+      "summary": "Benuvia Operations, LLC. has applied to be registered as a bulk manufacturer of basic class(es) of controlled substance(s). Refer to Supplementary Information listed below for further drug information.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/18/2026-09930/bulk-manufacturer-of-controlled-substances-application-benuvia-operations-llc"
+    },
+    {
+      "id": "e313e0f74206",
+      "category": "LEGIS",
+      "date": "2026-05-18",
+      "title": "Mid-Atlantic Fishery Management Council (MAFMC); Public Meeting",
+      "summary": "The Mid-Atlantic Fishery Management Council's Summer Flounder, Scup, and Black Sea Bass Advisory Panel will hold a public meeting, jointly with the Atlantic States Marine Fisheries Commission's Summer Flounder, Scup and Black Sea Bass Advisory Panel.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/18/2026-09929/mid-atlantic-fishery-management-council-mafmc-public-meeting"
+    },
+    {
+      "id": "f3f11cd1b16b",
+      "category": "LEGIS",
+      "date": "2026-05-18",
+      "title": "Western Pacific Fishery Management Council; Public Meetings",
+      "summary": "The Western Pacific Fishery Management Council (Council) will hold its Mariana Archipelago Fishery Ecosystem Plan (FEP) Guam Advisory Panel (AP), Social Science Planning Committee (SSPC), Hawaii Archipelago and Pacific Remote Island Areas (PRIA) FEP AP, and Mariana Archipelago FEP Commonwealth of the Northern Mariana Islands (CNMI) AP to discuss and make recommendations on fishery management issues in the Western Pac",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/18/2026-09928/western-pacific-fishery-management-council-public-meetings"
+    },
+    {
+      "id": "90cd97e0537d",
+      "category": "LEGIS",
+      "date": "2026-05-18",
+      "title": "Notice Announcing Promise Neighborhoods Program Competition",
+      "summary": "The Administration for Children and Families at the U.S. Department of Health and Human Services (HHS) is soliciting applications in support of the administration of the Fiscal Year (FY) 2026 Promise Neighborhoods (PN) program, Assistance Listing Number 84.215N, on behalf of the U.S. Department of Education (ED).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/18/2026-09927/notice-announcing-promise-neighborhoods-program-competition"
+    },
+    {
+      "id": "dd81c62607e4",
+      "category": "LEGIS",
+      "date": "2026-05-18",
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; International Dolphin Conservation Program",
+      "summary": "The Department of Commerce, in accordance with the Paperwork Reduction Act of 1995 (PRA), invites the general public and other Federal agencies to comment on proposed, and continuing information collections, which helps us assess the impact of our information collection requirements and minimize the public's reporting burden. The purpose of this notice is to allow for 60 days of public comment preceding submission of",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/18/2026-09926/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+    },
+    {
+      "id": "5448ac68f322",
+      "category": "LEGIS",
+      "date": "2026-05-18",
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Form N-CSR",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/18/2026-09925/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-form"
+    },
+    {
+      "id": "86e1f9f6d6f1",
+      "category": "LEGIS",
+      "date": "2026-05-18",
+      "title": "PJM Governance and Stakeholder Reforms; Notice of Commission-Led Technical Conference",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/18/2026-09924/pjm-governance-and-stakeholder-reforms-notice-of-commission-led-technical-conference"
+    },
+    {
+      "id": "c43e3fb0602a",
+      "category": "LEGIS",
+      "date": "2026-05-18",
+      "title": "Notice of Closed Meetings To Implement Voluntary Agreements and Related Plans of Action Under the Defense Production Act",
+      "summary": "The notice announces a series of closed meetings held (or to be held) pursuant to the Defense Production Act to discuss the implementation of its Voluntary Agreement and potential accompanying Plans of Action with entities involved in the nuclear fuel industry.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/18/2026-09923/notice-of-closed-meetings-to-implement-voluntary-agreements-and-related-plans-of-action-under-the"
+    },
+    {
+      "id": "240569f13279",
+      "category": "LEGIS",
+      "date": "2026-05-18",
+      "title": "Texas Eastern Transmission, LP; Notice of Scoping Period Requesting Comments on Environmental Issues for the Proposed Athens Optimization Project",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/18/2026-09922/texas-eastern-transmission-lp-notice-of-scoping-period-requesting-comments-on-environmental-issues"
+    },
+    {
+      "id": "debdc7dacba0",
+      "category": "LEGIS",
+      "date": "2026-05-18",
+      "title": "Virginia Electric and Power Company d/b/a Dominion Energy Virginia, Allegheny Generating Company, and Bath County Energy, LLC; Notice of Reasonable Period of Time for Water Quality Certification Application",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/18/2026-09921/virginia-electric-and-power-company-dba-dominion-energy-virginia-allegheny-generating-company-and"
+    },
+    {
+      "id": "f38d64f682c8",
+      "category": "LEGIS",
+      "date": "2026-05-18",
+      "title": "Oglethorpe Power Corporation; Notice of Application Ready for Environmental Analysis and Soliciting Comments, Recommendations, Terms and Conditions, and Prescriptions",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/18/2026-09920/oglethorpe-power-corporation-notice-of-application-ready-for-environmental-analysis-and-soliciting"
+    }
+  ]
 }
