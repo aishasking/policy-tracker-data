@@ -1,62 +1,75 @@
 {
-  "generated_at": "2026-05-21T15:49:32.835Z",
+  "generated_at": "2026-05-22T15:19:26.847Z",
   "updates": [
     {
-      "id": "f20b74d0b8a2",
+      "id": "69b98f8bd790",
       "category": "LEGIS",
-      "date": "2026-05-21",
-      "title": "Establishment of Class E Airspace; Conneaut, OH",
-      "summary": "This action proposes to establish Class E airspace at University Hospitals Conneaut Medical Center Heliport, Conneaut, OH. The FAA is proposing this action to support new instrument procedures and instrument flight rule (IFR) operations.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/21/2026-10235/establishment-of-class-e-airspace-conneaut-oh"
-    },
-    {
-      "id": "15461d0f98c4",
-      "category": "LEGIS",
-      "date": "2026-05-21",
-      "title": "Fisheries of the Caribbean, Gulf of America, and South Atlantic; Puerto Rico Fishery Management Plan; Amendment 4",
-      "summary": "The Caribbean Fishery Management Council (Council) submitted Amendment 4 to the Puerto Rico Fishery Management Plan (Puerto Rico FMP) for review, approval, and implementation by NMFS. If approved, Amendment 4 would reclassify rainbow runner from a reef fish to a pelagic fish under the Puerto Rico FMP. Amendment 4 would result in revised management measures for rainbow runner based on the pelagic fish classification, ",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/21/2026-10234/fisheries-of-the-caribbean-gulf-of-america-and-south-atlantic-puerto-rico-fishery-management-plan"
-    },
-    {
-      "id": "77ffb72a1829",
-      "category": "LEGIS",
-      "date": "2026-05-21",
-      "title": "Federal Secure Cloud Advisory Committee-Accepting Open Membership Applications",
-      "summary": "GSA is seeking applications to fill five (5) open or upcoming membership seats on the Federal Secure Cloud Advisory Committee (FSCAC), a statutory federal advisory committee established under the FedRAMP Authorization Act and operating in accordance with the Federal Advisory Committee Act.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/21/2026-10233/federal-secure-cloud-advisory-committee-accepting-open-membership-applications"
-    },
-    {
-      "id": "8c5e25fa92ba",
-      "category": "LEGIS",
-      "date": "2026-05-21",
-      "title": "National Cancer Institute; Notice of Meeting",
+      "date": "2026-05-22",
+      "title": "Restoring Integrity to America's Financial System",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/21/2026-10232/national-cancer-institute-notice-of-meeting"
+      "url": "https://www.federalregister.gov/documents/2026/05/22/2026-10400/restoring-integrity-to-americas-financial-system"
     },
     {
-      "id": "6770b692d9f3",
+      "id": "d37f18487684",
       "category": "LEGIS",
-      "date": "2026-05-21",
+      "date": "2026-05-22",
+      "title": "Integrating Financial Technology Innovation Into Regulatory Frameworks",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/22/2026-10399/integrating-financial-technology-innovation-into-regulatory-frameworks"
+    },
+    {
+      "id": "436135ef0de6",
+      "category": "LEGIS",
+      "date": "2026-05-22",
+      "title": "To Implement Certain Provisions in the Consolidated Appropriations Act, 2026, and for Other Purposes",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/22/2026-10398/to-implement-certain-provisions-in-the-consolidated-appropriations-act-2026-and-for-other-purposes"
+    },
+    {
+      "id": "71569625d340",
+      "category": "LEGIS",
+      "date": "2026-05-22",
+      "title": "Airworthiness Directives; Pratt & Whitney RTX Corporation (Type Certificate Previously Held by Pratt & Whitney Division United Technologies Corporation) Engines",
+      "summary": "The FAA is adopting a new airworthiness directive (AD) for certain Pratt & Whitney RTX Corporation (PW) Model PW4074, PW4074D, PW4077, PW4077D, PW4084D, PW4090, and PW4090-3 engines. This AD was prompted by an analysis of an event involving an International Aero Engines, LLC (IAE LLC) Model PW1127GA-JM engine, which experienced a high-pressure compressor (HPC) 7th-stage integrally bladed rotor (IBR- 7) separation tha",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/22/2026-10360/airworthiness-directives-pratt-and-whitney-rtx-corporation-type-certificate-previously-held-by-pratt"
+    },
+    {
+      "id": "27701f3fd4f4",
+      "category": "LEGIS",
+      "date": "2026-05-22",
+      "title": "Removal of Environmental Clearance Officer Review and Comment for Assessments for Projects Over 200 Lots/Dwelling Units or Beds",
+      "summary": "This interim final rule revises the Department of Housing and Urban Development's (HUD's) environmental review regulations by removing HUD's requirement that Environmental Assessments for projects over 200 dwelling units or beds shall be sent to the Field Environmental Clearance Officer (FECO) or Program Environmental Clearance Officer (PECO) for review and comment. This revision aligns with recent executive actions ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/22/2026-10356/removal-of-environmental-clearance-officer-review-and-comment-for-assessments-for-projects-over-200"
+    },
+    {
+      "id": "86dcb8697499",
+      "category": "LEGIS",
+      "date": "2026-05-22",
       "title": "Center for Scientific Review; Notice of Closed Meetings",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
@@ -64,202 +77,189 @@
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/21/2026-10231/center-for-scientific-review-notice-of-closed-meetings"
+      "url": "https://www.federalregister.gov/documents/2026/05/22/2026-10352/center-for-scientific-review-notice-of-closed-meetings"
     },
     {
-      "id": "9ec937972cd3",
+      "id": "edaafa2bd0a3",
       "category": "LEGIS",
-      "date": "2026-05-21",
-      "title": "Agency Request for Renewal of a Previously Approved Information Collection: Procedures and Evidence Rules for Air Carrier Authority Applications",
-      "summary": "The Department of Transportation (DOT) invites public comments about the agency's intention to request the Office of Management and Budget (OMB) approval to renew an information collection. The collection involves anyone who wants to provide air transportation service. The information collected will be used to determine if the applicant meets the requirements to perform the proposed service and is necessary because o",
+      "date": "2026-05-22",
+      "title": "Amendment of United States Area Navigation Route T-306 and Establishment of United States Area Navigation Route T-647",
+      "summary": "This action proposes to amend United States Area Navigation Route (RNAV) Route T-306 and the establishment of RNAV Route T-647 in the Southwestern United States. The FAA is proposing to amend T-306 by revoking the portion of the route extending between Blythe, CA, Very High Frequency Omnidirectional Range/Tactical Air Navigation (VORTAC) and El Paso, TX, VORTAC. FAA is also proposing to amend T-306 by extending the r",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/22/2026-10348/amendment-of-united-states-area-navigation-route-t-306-and-establishment-of-united-states-area"
+    },
+    {
+      "id": "6d5114c46b1f",
+      "category": "LEGIS",
+      "date": "2026-05-22",
+      "title": "Final Priority and Definitions-Secretary's Supplemental Priority and Definitions on Promoting Patriotic Education",
+      "summary": "The Department of Education (Department) announces a final priority and definitions for use in currently authorized discretionary grant programs or programs that may be authorized in the future. The Secretary may choose to use the entire priority for a grant program or a particular competition or use one or more of the priority's component parts. The final priority and definitions augment the initial set of three Sec",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/22/2026-10347/final-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-promoting"
+    },
+    {
+      "id": "3adcfb42359c",
+      "category": "LEGIS",
+      "date": "2026-05-22",
+      "title": "Establishment of Class E Airspace; Monee, IL",
+      "summary": "This action proposes to establish Class E airspace at Meadow Creek Airport, Monee, IL. The FAA is proposing this action to support new instrument procedures and instrument flight rule (IFR) operations.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/22/2026-10346/establishment-of-class-e-airspace-monee-il"
+    },
+    {
+      "id": "53aa18e5710d",
+      "category": "LEGIS",
+      "date": "2026-05-22",
+      "title": "Qualification of Drivers; Exemption Applications; Hearing",
+      "summary": "FMCSA announces receipt of applications from 12 individuals for an exemption from the hearing requirement in the Federal Motor Carrier Safety Regulations (FMCSRs) to operate a commercial motor vehicle (CMV) in interstate commerce. If granted, the exemptions would enable these hard of hearing and deaf individuals to operate CMVs in interstate commerce.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/22/2026-10345/qualification-of-drivers-exemption-applications-hearing"
+    },
+    {
+      "id": "e417a7a5e4b6",
+      "category": "LEGIS",
+      "date": "2026-05-22",
+      "title": "Certain Superabsorbent Polymers From the Republic of Korea: Preliminary Results of Antidumping Duty Administrative Review; 2023-2024",
+      "summary": "The U.S. Department of Commerce (Commerce) is conducting an administrative review of the antidumping duty (AD) order on certain superabsorbent polymers (SAP) from the Republic of Korea (Korea). The period of review (POR) is December 1, 2023, through November 30, 2024. Commerce preliminarily determines that LG Chem, Ltd. (LGC) did not make sales of subject merchandise at less than normal value (NV) during the POR. We ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/22/2026-10344/certain-superabsorbent-polymers-from-the-republic-of-korea-preliminary-results-of-antidumping-duty"
+    },
+    {
+      "id": "ec652dd20e5e",
+      "category": "LEGIS",
+      "date": "2026-05-22",
+      "title": "Certain Preserved Mushrooms From Poland: Final Results of Antidumping Duty Administrative Review; 2022-2024",
+      "summary": "The U.S. Department of Commerce (Commerce) determines that Okechamp S. A. (Okechamp), the sole producer or exporter subject to this administrative review, made sales of certain preserved mushrooms (mushrooms) from Poland in the United States at prices below normal value (NV) during the period of review. The period of review (POR) is November 3, 2022, through April 30, 2024.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/22/2026-10343/certain-preserved-mushrooms-from-poland-final-results-of-antidumping-duty-administrative-review"
+    },
+    {
+      "id": "0d83761074b2",
+      "category": "LEGIS",
+      "date": "2026-05-22",
+      "title": "Unwrought Palladium from the Russian Federation: Final Affirmative Countervailing Duy Determination",
+      "summary": "The U.S. Department of Commerce (Commerce) determines that countervailable subsidies are being provided to producers and exporters of unwrought palladium (palladium) from the Russian Federation (Russia). The period of investigation is January 1, 2024, through December 31, 2024.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/22/2026-10342/unwrought-palladium-from-the-russian-federation-final-affirmative-countervailing-duy-determination"
+    },
+    {
+      "id": "41b53d519c13",
+      "category": "LEGIS",
+      "date": "2026-05-22",
+      "title": "Qualification of Drivers; Exemption Applications; Hearing",
+      "summary": "FMCSA announces its decision to renew exemptions for 14 individuals from the hearing requirement in the Federal Motor Carrier Safety Regulations (FMCSRs) for interstate commercial motor vehicle (CMV) drivers. The exemptions enable these hard of hearing and deaf individuals to continue to operate CMVs in interstate commerce.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/22/2026-10341/qualification-of-drivers-exemption-applications-hearing"
+    },
+    {
+      "id": "5ad9fbacc52e",
+      "category": "LEGIS",
+      "date": "2026-05-22",
+      "title": "Foreign-Trade Zone (FTZ) 75, Notification of Proposed Production Activity; Essai, Inc.; (Semiconductor Test Equipment); Chandler, Arizona",
+      "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/21/2026-10230/agency-request-for-renewal-of-a-previously-approved-information-collection-procedures-and-evidence"
+      "url": "https://www.federalregister.gov/documents/2026/05/22/2026-10340/foreign-trade-zone-ftz-75-notification-of-proposed-production-activity-essai-inc-semiconductor-test"
     },
     {
-      "id": "a21a64fff22c",
+      "id": "77e0f07f571e",
       "category": "LEGIS",
-      "date": "2026-05-21",
-      "title": "Center For Scientific Review; Notice of Closed Meetings",
+      "date": "2026-05-22",
+      "title": "Brightwood Capital SBIC III, LP, Brightwood Capital SBIC IV, LP; Notice Seeking Exemption Under Section 312 of the Small Business Investment Act, Conflicts of Interest",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/21/2026-10229/center-for-scientific-review-notice-of-closed-meetings"
+      "url": "https://www.federalregister.gov/documents/2026/05/22/2026-10339/brightwood-capital-sbic-iii-lp-brightwood-capital-sbic-iv-lp-notice-seeking-exemption-under-section"
     },
     {
-      "id": "ce5b28075904",
+      "id": "e1d6fb515c3e",
       "category": "LEGIS",
-      "date": "2026-05-21",
-      "title": "Duke Energy Carolinas, LLC; Notice of Intent To Prepare an Environmental Assessment",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/21/2026-10228/duke-energy-carolinas-llc-notice-of-intent-to-prepare-an-environmental-assessment"
-    },
-    {
-      "id": "2da23844c9cf",
-      "category": "LEGIS",
-      "date": "2026-05-21",
-      "title": "Northern Natural Gas Company; Notice of Schedule for the Preparation of an Environmental Assessment for the Ventura to Farmington A-Line Abandonment and Capacity Replacement Project and Northern Lights 2027 Expansion Project",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/21/2026-10227/northern-natural-gas-company-notice-of-schedule-for-the-preparation-of-an-environmental-assessment"
-    },
-    {
-      "id": "b6380c7c9925",
-      "category": "LEGIS",
-      "date": "2026-05-21",
-      "title": "Sugar River Power LLC; Notice of Intent To File License Application, Filing of Pre-Application Document, and Approving Use of the Traditional Licensing Process",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/21/2026-10226/sugar-river-power-llc-notice-of-intent-to-file-license-application-filing-of-pre-application"
-    },
-    {
-      "id": "39009ad4b592",
-      "category": "LEGIS",
-      "date": "2026-05-21",
-      "title": "City of Pelican, AK; Notice of Intent To Prepare an Environmental Assessment",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/21/2026-10225/city-of-pelican-ak-notice-of-intent-to-prepare-an-environmental-assessment"
-    },
-    {
-      "id": "2d659e2ac224",
-      "category": "LEGIS",
-      "date": "2026-05-21",
-      "title": "Modernizing NRC Regulations for Byproduct Material Use",
-      "summary": "The U.S. Nuclear Regulatory Commission (NRC) is correcting a document that was published in the Federal Register on May 18,2026, regarding the proposed amendment to its regulations for the licensing of byproduct material, some source material, and some special nuclear material. This action is necessary to include the Accession Number to Form 1003 in the Availability of Documents section of the proposed rule.",
+      "date": "2026-05-22",
+      "title": "Request Notice: Use of Foreign-Built Small Passenger Vessel in United States Coastwise Trade, S/V SONG OF DAVID",
+      "summary": "The Secretary of Transportation, as represented by MARAD, is authorized to make determinations regarding the coastwise use of foreign built; certain U.S. built; and U.S. and foreign rebuilt vessels that solely carry no more than twelve passengers for hire. MARAD has received such a determination request and is publishing this notice to solicit comments to assist with determining whether the proposed use of the vessel",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/21/2026-10224/modernizing-nrc-regulations-for-byproduct-material-use"
+      "url": "https://www.federalregister.gov/documents/2026/05/22/2026-10338/request-notice-use-of-foreign-built-small-passenger-vessel-in-united-states-coastwise-trade-sv-song"
     },
     {
-      "id": "0bc5165a6f71",
+      "id": "4244705b68e0",
       "category": "LEGIS",
-      "date": "2026-05-21",
-      "title": "Southwest Gas Storage Company; Notice of Request Under Blanket Authorization and Establishing Intervention and Protest Deadline",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/21/2026-10223/southwest-gas-storage-company-notice-of-request-under-blanket-authorization-and-establishing"
-    },
-    {
-      "id": "6fd60e9d25e4",
-      "category": "LEGIS",
-      "date": "2026-05-21",
-      "title": "Enhancement of Emerging Growth Company Accommodations and Simplification of Filer Status for Reporting Companies",
-      "summary": "The Securities and Exchange Commission (\"Commission\") proposes amendments to streamline filer statuses for Securities Exchange Act of 1934 (\"Exchange Act\") reporting companies into two primary categories: large accelerated filers and non-accelerated filers. The Commission further proposes to raise the threshold and seasoning requirements for large accelerated filer status and extend certain existing accommodations an",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/21/2026-10222/enhancement-of-emerging-growth-company-accommodations-and-simplification-of-filer-status-for"
-    },
-    {
-      "id": "6f76635c15d1",
-      "category": "LEGIS",
-      "date": "2026-05-21",
-      "title": "Privacy Act of 1974; System of Records",
-      "summary": "In accordance with the Privacy Act of 1974, the Department of the Army is providing notice to rescind the following three systems of records: Army Continuing Education System Records, A0621-1 AHRC system of records was originally established to document, monitor, manage, and administer the attendance at a civilian training agency or civilian school. Army Personnel System (APS), A0600-8-104 system of records was origi",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/21/2026-10221/privacy-act-of-1974-system-of-records"
-    },
-    {
-      "id": "c4e1262a2cac",
-      "category": "LEGIS",
-      "date": "2026-05-21",
-      "title": "New Postal Products",
-      "summary": "The Commission is noticing a recent Postal Service filing for the Commission's consideration concerning a negotiated service agreement. This notice informs the public of the filing, invites public comment, and takes other administrative steps.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/21/2026-10220/new-postal-products"
-    },
-    {
-      "id": "83f4cfc8c66a",
-      "category": "LEGIS",
-      "date": "2026-05-21",
-      "title": "Electronic Tax Administration Advisory Committee; Public Meeting",
-      "summary": "The Electronic Tax Administration Advisory Committee will hold a public meeting.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/21/2026-10219/electronic-tax-administration-advisory-committee-public-meeting"
-    },
-    {
-      "id": "a4ea0bdcf0d2",
-      "category": "LEGIS",
-      "date": "2026-05-21",
-      "title": "Proposed Deauthorization of Water Resources Projects",
-      "summary": "The U.S. Army Corps of Engineers (Corps) is publishing a proposed deauthorization list of water resources development projects and separable elements that have been identified for deauthorization in accordance with Section 301 of the Water Resources Development Act (WRDA) of 2020 as amended by WRDA 2024 (33 U.S.C. 579d-2) and is soliciting comments from the public on the list for 90 calendar days. Comments should be ",
+      "date": "2026-05-22",
+      "title": "Request Notice: Use of Foreign-Built Small Passenger Vessel in United States Coastwise Trade, M/V SEA TRACK",
+      "summary": "The Secretary of Transportation, as represented by MARAD, is authorized to make determinations regarding the coastwise use of foreign built; certain U.S. built; and U.S. and foreign rebuilt vessels that solely carry no more than twelve passengers for hire. MARAD has received such a determination request and is publishing this notice to solicit comments to assist with determining whether the proposed use of the vessel",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/21/2026-10218/proposed-deauthorization-of-water-resources-projects"
+      "url": "https://www.federalregister.gov/documents/2026/05/22/2026-10337/request-notice-use-of-foreign-built-small-passenger-vessel-in-united-states-coastwise-trade-mv-sea"
     },
     {
-      "id": "3e3c4d9a073b",
+      "id": "d61b6ca14dac",
       "category": "LEGIS",
-      "date": "2026-05-21",
-      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Reporting of Violations of the Export Administration Regulations",
-      "summary": "Federal Register document (no abstract provided).",
+      "date": "2026-05-22",
+      "title": "Request Notice: Use of Foreign-Built Small Passenger Vessel in United States Coastwise Trade, M/V SEA FALCON",
+      "summary": "The Secretary of Transportation, as represented by MARAD, is authorized to make determinations regarding the coastwise use of foreign built; certain U.S. built; and U.S. and foreign rebuilt vessels that solely carry no more than twelve passengers for hire. MARAD has received such a determination request and is publishing this notice to solicit comments to assist with determining whether the proposed use of the vessel",
       "tags": [
         "Federal Register"
       ],
-      "priority": "low",
+      "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/21/2026-10217/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+      "url": "https://www.federalregister.gov/documents/2026/05/22/2026-10336/request-notice-use-of-foreign-built-small-passenger-vessel-in-united-states-coastwise-trade-mv-sea"
     },
     {
-      "id": "74c79253601b",
+      "id": "a536e3158764",
       "category": "LEGIS",
-      "date": "2026-05-21",
-      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Entity List and Unverified List Requests",
-      "summary": "Federal Register document (no abstract provided).",
+      "date": "2026-05-22",
+      "title": "Request Notice: Use of Foreign-Built Small Passenger Vessel in United States Coastwise Trade, M/V MAMA JUANA",
+      "summary": "The Secretary of Transportation, as represented by MARAD, is authorized to make determinations regarding the coastwise use of foreign built; certain U.S. built; and U.S. and foreign rebuilt vessels that solely carry no more than twelve passengers for hire. MARAD has received such a determination request and is publishing this notice to solicit comments to assist with determining whether the proposed use of the vessel",
       "tags": [
         "Federal Register"
       ],
-      "priority": "low",
+      "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/21/2026-10216/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+      "url": "https://www.federalregister.gov/documents/2026/05/22/2026-10335/request-notice-use-of-foreign-built-small-passenger-vessel-in-united-states-coastwise-trade-mv-mama"
     }
   ]
 }
