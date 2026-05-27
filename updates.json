@@ -1,265 +1,265 @@
 {
-  "generated_at": "2026-05-26T16:06:14.422Z",
+  "generated_at": "2026-05-27T16:10:30.128Z",
   "updates": [
     {
-      "id": "147ecee896eb",
+      "id": "90dc99f9ef53",
       "category": "LEGIS",
-      "date": "2026-05-26",
-      "title": "Conforming Change for Approving a Making Application",
+      "date": "2026-05-27",
+      "title": "Event Data Recorders",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/26/C1-2026-08931/conforming-change-for-approving-a-making-application"
+      "url": "https://www.federalregister.gov/documents/2026/05/27/C1-2026-09849/event-data-recorders"
     },
     {
-      "id": "ee32d1daf5ad",
+      "id": "e9e730d9c5b1",
       "category": "LEGIS",
-      "date": "2026-05-26",
-      "title": "Continuation of the National Emergency With Respect to Belarus",
+      "date": "2026-05-27",
+      "title": "Emergency Presidential Determination on Refugee Admissions for Fiscal Year 2026",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10481/continuation-of-the-national-emergency-with-respect-to-belarus"
+      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10598/emergency-presidential-determination-on-refugee-admissions-for-fiscal-year-2026"
     },
     {
-      "id": "185a45974315",
-      "category": "LEGIS",
-      "date": "2026-05-26",
-      "title": "Agency Information Collection Activities: Proposed Request",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10439/agency-information-collection-activities-proposed-request"
-    },
-    {
-      "id": "632095d1d3a9",
-      "category": "LEGIS",
-      "date": "2026-05-26",
-      "title": "Agency Forms Submitted for OMB Review, Request for Comments",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10438/agency-forms-submitted-for-omb-review-request-for-comments"
-    },
-    {
-      "id": "6f4928b0c287",
-      "category": "LEGIS",
-      "date": "2026-05-26",
-      "title": "Records Schedules; Availability and Request for Comments",
-      "summary": "The National Archives and Records Administration (NARA) publishes notice of certain Federal agency requests for records disposition authority (records schedules). We publish notice in the Federal Register and on regulations.gov for records schedules in which agencies propose to dispose of records they no longer need to conduct agency business. We invite public comments on such records schedules.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10437/records-schedules-availability-and-request-for-comments"
-    },
-    {
-      "id": "85e9cbc75267",
-      "category": "LEGIS",
-      "date": "2026-05-26",
-      "title": "Data Security Requirements for Accessing Confidential Data; Agency Information Collection Activities: Comment Request",
-      "summary": "BTS within the Department of Transportation has submitted the following information collection requirement to OMB for review and clearance under the Paperwork Reduction Act of 1995. This is the second notice for public comment; the first was published in the Federal Register on March 11, 2026 and no comments were received. BTS is forwarding the proposed Data Security Requirements for Accessing Confidential Data infor",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10436/data-security-requirements-for-accessing-confidential-data-agency-information-collection-activities"
-    },
-    {
-      "id": "671eed37dc3e",
-      "category": "LEGIS",
-      "date": "2026-05-26",
-      "title": "Agency Information Collection Activities; Comment Request; Consolidated State Performance Report",
-      "summary": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing a revision of a currently approved information collection request (ICR).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10435/agency-information-collection-activities-comment-request-consolidated-state-performance-report"
-    },
-    {
-      "id": "6272b074a76a",
-      "category": "LEGIS",
-      "date": "2026-05-26",
-      "title": "Center for Scientific Review; Notice of Closed Meetings",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10434/center-for-scientific-review-notice-of-closed-meetings"
-    },
-    {
-      "id": "3ae3f6907ac6",
-      "category": "LEGIS",
-      "date": "2026-05-26",
-      "title": "Notice of OFAC Sanctions Action",
-      "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing the names of one or more persons that have been placed on OFAC's Specially Designated Nationals and Blocked Persons List (SDN List) based on OFAC's determination that one or more applicable legal criteria were satisfied. All property and interests in property subject to U.S. jurisdiction of these persons are blocked, and U.S. ",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10432/notice-of-ofac-sanctions-action"
-    },
-    {
-      "id": "2f4e2909e81d",
-      "category": "LEGIS",
-      "date": "2026-05-26",
-      "title": "Notice of OFAC Sanctions Action",
-      "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing the names of one or more persons whose property and interests in property have been unblocked and who have been removed from the Specially Designated Nationals and Blocked Persons List (SDN List). OFAC is also publishing the names of one or more persons that have been placed on the SDN List based on OFAC's determination that o",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10431/notice-of-ofac-sanctions-action"
-    },
-    {
-      "id": "2237087eacd8",
-      "category": "LEGIS",
-      "date": "2026-05-26",
-      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; RISE Award",
-      "summary": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing a reinstatement without change of a previously approved information collection request (ICR).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10430/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for"
-    },
-    {
-      "id": "1236cc5cb2f7",
-      "category": "LEGIS",
-      "date": "2026-05-26",
-      "title": "Agency Information Collection Activities; Notice and Request for Comment; Older Novice Driver Study",
-      "summary": "NHTSA invites public comments about our intention to request approval from the Office of Management and Budget (OMB) for a new information collection. Before a Federal agency can collect certain information from the public, it must receive approval from OMB. Under procedures established by the Paperwork Reduction Act of 1995, before seeking OMB approval, Federal agencies must solicit public comment on proposed collec",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10429/agency-information-collection-activities-notice-and-request-for-comment-older-novice-driver-study"
-    },
-    {
-      "id": "f4a6f6ddb105",
-      "category": "LEGIS",
-      "date": "2026-05-26",
-      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; 2027-2028 Free Application for Federal Student Aid (FAFSA)",
-      "summary": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing a revision of a currently approved information collection request (ICR).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10428/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for"
-    },
-    {
-      "id": "54ebd2c32371",
-      "category": "LEGIS",
-      "date": "2026-05-26",
-      "title": "Agency Information Collection Activities; Comment Request; Measures and Methods for the National Reporting System for Adult Education",
-      "summary": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing an extension without change of a currently approved information collection request (ICR).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10427/agency-information-collection-activities-comment-request-measures-and-methods-for-the-national"
-    },
-    {
-      "id": "e80b216fc230",
-      "category": "LEGIS",
-      "date": "2026-05-26",
-      "title": "Crystalline Silicon Photovoltaic Cells, Whether or Not Assembled Into Modules, From the Lao People's Democratic Republic: Amended Preliminary Determination of the Less-Than-Fair-Value Investigation",
-      "summary": "The U.S. Department of Commerce (Commerce) is amending its preliminarily affirmative determination in the less-than-fair value (LTFV) investigation of crystalline silicon photovoltaic cells, whether or not assembled into modules (solar cells), from the Lao People's Democratic Republic (Laos) to correct significant ministerial errors. The period of investigation (POI) is January 1, 2025, through June 30, 2025.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10426/crystalline-silicon-photovoltaic-cells-whether-or-not-assembled-into-modules-from-the-lao-peoples"
-    },
-    {
-      "id": "d4b62a307959",
-      "category": "LEGIS",
-      "date": "2026-05-26",
-      "title": "Formations of, Acquisitions by, and Mergers of Bank Holding Companies",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10425/formations-of-acquisitions-by-and-mergers-of-bank-holding-companies"
-    },
-    {
-      "id": "28ff6ceb95f6",
-      "category": "LEGIS",
-      "date": "2026-05-26",
-      "title": "Difluoromethane (R-32) From China; Scheduling of an Expedited Five-Year Review",
-      "summary": "The Commission hereby gives notice of the scheduling of an expedited review pursuant to the Tariff Act of 1930 (\"the Act\") to determine whether revocation of the antidumping duty order on difluoromethane (R-32) from China would be likely to lead to continuation or recurrence of material injury within a reasonably foreseeable time.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10424/difluoromethane-r-32-from-china-scheduling-of-an-expedited-five-year-review"
-    },
-    {
-      "id": "76be9e8a335f",
-      "category": "LEGIS",
-      "date": "2026-05-26",
-      "title": "Security Zone; Ohio River, Cincinnati, OH",
-      "summary": "The Coast Guard is establishing a temporary security zone for all navigable waters of the Ohio River, extending the entire width of the river, between mile marker (MM) 461 to Mile 473. This security zone is needed to provide waterside security and protection of persons under the protection of the United States Secret Service during a visit to Cincinnati, OH. During the enforcement period, entry into, transiting, or a",
+      "id": "372129a9b030",
+      "category": "CDC",
+      "date": "2026-05-27",
+      "title": "Control of Communicable Diseases; Foreign Quarantine",
+      "summary": "The Centers for Disease Control and Prevention (CDC) within the U.S. Department of Health and Human Services (HHS) issues this interim final rule with request for comments to amend its Foreign Quarantine Regulations. This interim final rule provides a procedure for the Secretary acting through the CDC Director or other delegate to suspend the introduction of persons from designated countries or places, if required, i",
       "tags": [
         "Federal Register"
       ],
       "priority": "high",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10423/security-zone-ohio-river-cincinnati-oh"
+      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10543/control-of-communicable-diseases-foreign-quarantine"
     },
     {
-      "id": "909be377f526",
+      "id": "37415d9f3284",
       "category": "LEGIS",
-      "date": "2026-05-26",
-      "title": "Yuhaaviatam of San Manuel Nation Liquor Act; Correction",
-      "summary": "This notice publishes a correction to the Yuhaaviatam of San Manuel Nation Liquor Act, as amended, published on August 25, 2025. The correct date in which the Tribal authorities of the Yuhaaviatam of San Manuel Nation enacted the Liquor Act, as amended, is June 11, 2024.",
+      "date": "2026-05-27",
+      "title": "Notice of Declaration Under the Public Readiness and Emergency Preparedness Act for Medical Countermeasures Against Andes Virus",
+      "summary": "The Secretary is issuing a Declaration pursuant to section 319F-3 of the Public Health Service Act (42 U.S.C. 247d-6d) to provide liability protection for activities related to medical countermeasures against Andes virus consistent with the terms of the Declaration.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10422/yuhaaviatam-of-san-manuel-nation-liquor-act-correction"
+      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10539/notice-of-declaration-under-the-public-readiness-and-emergency-preparedness-act-for-medical"
     },
     {
-      "id": "70b37bd36f5b",
+      "id": "ec0a5ba329ac",
       "category": "LEGIS",
-      "date": "2026-05-26",
-      "title": "Pueblo of Taos, New Mexico; Liquor Ordinance Amendment",
-      "summary": "This notice publishes the amended Pueblo of Taos, New Mexico Liquor Ordinance (Ordinance). The Ordinance amends the previous liquor ordinance published on May 10, 1999.",
+      "date": "2026-05-27",
+      "title": "Notice of Decision on Innovative Product Exemption Applications Under the National Volatile Organic Compound Emission Standards for Consumer Products",
+      "summary": "The Environmental Protection Agency (EPA) is providing notification of its final actions on two applications for innovative product exemptions under the National Volatile Organic Compound Emission Standards for Consumer Products. The EPA is providing this notification for public awareness of, and the basis for, the Agency's decision.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/26/2026-10421/pueblo-of-taos-new-mexico-liquor-ordinance-amendment"
+      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10535/notice-of-decision-on-innovative-product-exemption-applications-under-the-national-volatile-organic"
+    },
+    {
+      "id": "b2a38b3f2843",
+      "category": "LEGIS",
+      "date": "2026-05-27",
+      "title": "Phasedown of Hydrofluorocarbons: Allocation of 2026 Production and Consumption Allowances Set Aside for Metered Dose Inhalers",
+      "summary": "The Environmental Protection Agency (EPA) is providing notice that the Agency allocated hydrofluorocarbon (HFC) set-aside allowances to general pool production and consumption allowance holders. For the calendar year 2026 allocation of HFC allowances, the EPA withheld a limited number of allowances from all general pool allowance holders. These allowances were set aside to accommodate unforeseen HFC needs for metered",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10534/phasedown-of-hydrofluorocarbons-allocation-of-2026-production-and-consumption-allowances-set-aside"
+    },
+    {
+      "id": "94372a223c02",
+      "category": "LEGIS",
+      "date": "2026-05-27",
+      "title": "FY 2026 Competitive Funding Opportunity: Public Transportation on Indian Reservations (Tribal Transit) Competitive Program",
+      "summary": "The Federal Transit Administration (FTA) announces the opportunity to apply for approximately $18.95 million in competitive grants for the Fiscal Year (FY) 2026 Public Transportation on Indian Reservations (Tribal Transit) Competitive Program.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10533/fy-2026-competitive-funding-opportunity-public-transportation-on-indian-reservations-tribal-transit"
+    },
+    {
+      "id": "daeffafcbf28",
+      "category": "LEGIS",
+      "date": "2026-05-27",
+      "title": "FY 2026 Competitive Funding Opportunity: Competitive Grants for Rail Vehicle Replacement Program",
+      "summary": "The Federal Transit Administration (FTA) announces the opportunity to apply for approximately $166 million in competitive grants for the Fiscal Year (FY) 2026 Competitive Grants for Rail Vehicle Replacement (Rail) Program.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10532/fy-2026-competitive-funding-opportunity-competitive-grants-for-rail-vehicle-replacement-program"
+    },
+    {
+      "id": "c9557771467e",
+      "category": "LEGIS",
+      "date": "2026-05-27",
+      "title": "Product Change-Priority Mail and USPS Ground Advantage Negotiated Service Agreements",
+      "summary": "The Postal Service gives notice of filing a request with the Postal Regulatory Commission to add a domestic shipping services contract to the list of Negotiated Service Agreements in the Mail Classification Schedule's Competitive Products List.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10531/product-change-priority-mail-and-usps-ground-advantage-negotiated-service-agreements"
+    },
+    {
+      "id": "ed142790eda4",
+      "category": "LEGIS",
+      "date": "2026-05-27",
+      "title": "Regulatory Program Fees and Water Charges Rates",
+      "summary": "Notice is provided of the Commission's regulatory program fees and schedule of water charges for the fiscal year beginning July 1, 2026.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10529/regulatory-program-fees-and-water-charges-rates"
+    },
+    {
+      "id": "5befbeba6b3a",
+      "category": "LEGIS",
+      "date": "2026-05-27",
+      "title": "Food Nutrition and Safety (FNS) Measurements and Methods Consortium",
+      "summary": "The National Institute of Standards and Technology (NIST), an agency of the United States Department of Commerce, in support of efforts to develop and evaluate measurement methods and standards, including reference materials, to support quality and safety for the food testing community, is establishing the Food Nutrition and Safety (FNS) Measurements and Methods Consortium (\"Consortium\"). The Consortium will bring to",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10528/food-nutrition-and-safety-fns-measurements-and-methods-consortium"
+    },
+    {
+      "id": "c36747bdf5f7",
+      "category": "LEGIS",
+      "date": "2026-05-27",
+      "title": "High Purity Dissolving Pulp From Norway: Preliminary Affirmative Determination of Sales at Less Than Fair Value, Postponement of Final Determination, and Extension of Provisional Measures",
+      "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that high purity dissolving pulp (dissolving pulp) from Norway is being, or is likely to be, sold in the United States at less than fair value (LTFV). The period of investigation (POI) is July 1, 2024, through June 30, 2025. Interested parties are invited to comment on this preliminary determination.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10527/high-purity-dissolving-pulp-from-norway-preliminary-affirmative-determination-of-sales-at-less-than"
+    },
+    {
+      "id": "b78cbc0806fe",
+      "category": "LEGIS",
+      "date": "2026-05-27",
+      "title": "Stationary and Portable Air Compressors From the People's Republic of China, Malaysia, and the Socialist Republic of Vietnam: Initiation of Countervailing Duty Investigations",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10526/stationary-and-portable-air-compressors-from-the-peoples-republic-of-china-malaysia-and-the"
+    },
+    {
+      "id": "58fa24c7d652",
+      "category": "LEGIS",
+      "date": "2026-05-27",
+      "title": "Certain Aluminum Foil From the People's Republic of China: Amended Final Results of Antidumping Duty Administrative Review; 2023-2024",
+      "summary": "The U.S. Department of Commerce (Commerce) is amending the final results of the administrative review of the antidumping duty (AD) order on certain aluminum foil (aluminum foil) from the People's Republic of China (China) to correct a ministerial error. The period of review (POR), April 1, 2023, through March 31, 2024.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10525/certain-aluminum-foil-from-the-peoples-republic-of-china-amended-final-results-of-antidumping-duty"
+    },
+    {
+      "id": "f0fe8c47bfbe",
+      "category": "LEGIS",
+      "date": "2026-05-27",
+      "title": "Notice of Open Public Event",
+      "summary": "Notice is hereby given of the following event of the U.S.- China Economic and Security Review Commission. The Commission is mandated by Congress to investigate, assess, and report to Congress annually on \"the national security implications of the economic relationship between the United States and the People's Republic of China.\" Pursuant to this mandate, the Commission will hold a public event in Washington, DC on J",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10524/notice-of-open-public-event"
+    },
+    {
+      "id": "4c0461f9d087",
+      "category": "LEGIS",
+      "date": "2026-05-27",
+      "title": "High Purity Dissolving Pulp From Brazil: Preliminary Affirmative Determination of Sales at Less Than Fair Value, Postponement of Final Determination, and Extension of Provisional Measures",
+      "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that high purity dissolving pulp (dissolving pulp) from Brazil is being, or is likely to be, sold in the United States at less than fair value (LTFV). The period of investigation (POI) is July 1, 2024, through June 30, 2025. Interested parties are invited to comment on this preliminary determination.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10523/high-purity-dissolving-pulp-from-brazil-preliminary-affirmative-determination-of-sales-at-less-than"
+    },
+    {
+      "id": "e9af57aa6a71",
+      "category": "LEGIS",
+      "date": "2026-05-27",
+      "title": "Large Diameter Welded Pipe From the Republic of Türkiye: Preliminary Results and Rescission, In Part, of Antidumping Duty Administrative Review; 2024-2025",
+      "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that producers/exporters subject to this review made sales of subject merchandise at less than normal value (NV) during the period of review (POR), May 1, 2024, through April 30, 2025. In addition, we are rescinding the review with respect to 12 companies. Interested parties are invited to comment on these preliminary results of review.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10522/large-diameter-welded-pipe-from-the-republic-of-trkiye-preliminary-results-and-rescission-in-part-of"
+    },
+    {
+      "id": "91200f249d7a",
+      "category": "LEGIS",
+      "date": "2026-05-27",
+      "title": "Reporting for Calendar Year 2025 on Offsets Agreements Related to Sales of Defense Articles or Defense Services to Foreign Countries or Foreign Firms",
+      "summary": "This notice is to remind the public that U.S. firms are required to report annually to the Department of Commerce (Commerce) information on contracts for the sale of defense articles or defense services to foreign countries or foreign firms that are subject to offsets agreements exceeding $5,000,000 in value. U.S. firms are also required to report annually to Commerce information on offsets transactions completed in ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10521/reporting-for-calendar-year-2025-on-offsets-agreements-related-to-sales-of-defense-articles-or"
+    },
+    {
+      "id": "d35bc5e4d115",
+      "category": "LEGIS",
+      "date": "2026-05-27",
+      "title": "Certain Monomers and Oligomers from the Republic of Korea: Final Affirmative Determination of Sales at Less Than Fair Value and Final Affirmative Determination of Critical Circumstances",
+      "summary": "The U.S. Department of Commerce (Commerce) determines that certain monomers and oligomers (monomers and oligomers) from the Republic of Korea (Korea) are being, or are likely to be, sold in the United States at less than fair value (LTFV). The period of investigation (POI) is January 1, 2024, through December 31, 2024.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10520/certain-monomers-and-oligomers-from-the-republic-of-korea-final-affirmative-determination-of-sales"
+    },
+    {
+      "id": "5997a31686e7",
+      "category": "LEGIS",
+      "date": "2026-05-27",
+      "title": "Crystalline Silicon Photovoltaic Cells, Whether or Not Assembled Into Modules, From Indonesia: Amended Preliminary Affirmative Determination of Sales at Less Than Fair Value",
+      "summary": "The U.S. Department of Commerce (Commerce) is amending its preliminary affirmative determination in the less-than-fair-value (LTFV) investigation of crystalline silicon photovoltaic cells, whether or not assembled into modules (solar cells), from Indonesia to reflect Commerce's determination that it is necessary to rely on facts otherwise available including adverse inferences (AFA) in reaching its preliminary determ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10519/crystalline-silicon-photovoltaic-cells-whether-or-not-assembled-into-modules-from-indonesia-amended"
     }
   ]
 }
