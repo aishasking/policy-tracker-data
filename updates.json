@@ -1,265 +1,265 @@
 {
-  "generated_at": "2026-05-27T16:10:30.128Z",
+  "generated_at": "2026-05-28T16:31:37.464Z",
   "updates": [
     {
-      "id": "90dc99f9ef53",
+      "id": "e1c73e269512",
       "category": "LEGIS",
-      "date": "2026-05-27",
-      "title": "Event Data Recorders",
+      "date": "2026-05-28",
+      "title": "Memorial Day, 2026",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/27/C1-2026-09849/event-data-recorders"
+      "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10733/memorial-day-2026"
     },
     {
-      "id": "e9e730d9c5b1",
+      "id": "f7bf26de03bd",
       "category": "LEGIS",
-      "date": "2026-05-27",
-      "title": "Emergency Presidential Determination on Refugee Admissions for Fiscal Year 2026",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10598/emergency-presidential-determination-on-refugee-admissions-for-fiscal-year-2026"
-    },
-    {
-      "id": "372129a9b030",
-      "category": "CDC",
-      "date": "2026-05-27",
-      "title": "Control of Communicable Diseases; Foreign Quarantine",
-      "summary": "The Centers for Disease Control and Prevention (CDC) within the U.S. Department of Health and Human Services (HHS) issues this interim final rule with request for comments to amend its Foreign Quarantine Regulations. This interim final rule provides a procedure for the Secretary acting through the CDC Director or other delegate to suspend the introduction of persons from designated countries or places, if required, i",
+      "date": "2026-05-28",
+      "title": "Air Plan Approval; Ohio; Removal of Air Nuisance Rule",
+      "summary": "The Environmental Protection Agency (EPA) is proposing to act in accordance with Ohio EPA's November 14, 2025, request to remove the air pollution nuisance rule (ANR) from the Ohio State Implementation Plan (SIP). The EPA is proposing to find that the Ohio SIP contains adequate control requirements and enforcement measures to maintain air quality in the State without the ANR. This proposed action will not interfere w",
       "tags": [
         "Federal Register"
       ],
       "priority": "high",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10543/control-of-communicable-diseases-foreign-quarantine"
+      "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10643/air-plan-approval-ohio-removal-of-air-nuisance-rule"
     },
     {
-      "id": "37415d9f3284",
+      "id": "34db72b7f459",
       "category": "LEGIS",
-      "date": "2026-05-27",
-      "title": "Notice of Declaration Under the Public Readiness and Emergency Preparedness Act for Medical Countermeasures Against Andes Virus",
-      "summary": "The Secretary is issuing a Declaration pursuant to section 319F-3 of the Public Health Service Act (42 U.S.C. 247d-6d) to provide liability protection for activities related to medical countermeasures against Andes virus consistent with the terms of the Declaration.",
+      "date": "2026-05-28",
+      "title": "Approval of Source-Specific Air Quality Implementation Plan; New York; Big Six Towers Inc.",
+      "summary": "The Environmental Protection Agency (EPA) is proposing to determine a revision to the State of New York's State Implementation Plan (SIP) for the ozone National Ambient Air Quality Standard (NAAQS) related to a source-specific SIP (SSSIP) revision, for Big Six Towers Inc. (the Big Six), located at 59-55 47th Ave. Woodside, NY 11377 (the Facility), is approvable. The EPA is proposing to find that the control options i",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10539/notice-of-declaration-under-the-public-readiness-and-emergency-preparedness-act-for-medical"
+      "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10642/approval-of-source-specific-air-quality-implementation-plan-new-york-big-six-towers-inc"
     },
     {
-      "id": "ec0a5ba329ac",
+      "id": "41334c700655",
       "category": "LEGIS",
-      "date": "2026-05-27",
-      "title": "Notice of Decision on Innovative Product Exemption Applications Under the National Volatile Organic Compound Emission Standards for Consumer Products",
-      "summary": "The Environmental Protection Agency (EPA) is providing notification of its final actions on two applications for innovative product exemptions under the National Volatile Organic Compound Emission Standards for Consumer Products. The EPA is providing this notification for public awareness of, and the basis for, the Agency's decision.",
+      "date": "2026-05-28",
+      "title": "Hazardous and Solid Waste Management System: Disposal of Coal Combustion Residuals From Electric Utilities; Federal CCR Permit Program; Reopening of Comment Period",
+      "summary": "The Environmental Protection Agency (EPA) issued a proposed rule on February 20, 2020, to establish a Federal permit program for disposal of coal combustion residuals (CCR). The EPA is reopening the comment period on that proposed rule and requesting comment on several issues in particular.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10641/hazardous-and-solid-waste-management-system-disposal-of-coal-combustion-residuals-from-electric"
+    },
+    {
+      "id": "e77d6bcb4794",
+      "category": "LEGIS",
+      "date": "2026-05-28",
+      "title": "Air Plan Approval; SC; Department Name Change",
+      "summary": "The Environmental Protection Agency (EPA) is proposing to approve a State Implementation Plan (SIP) revision submitted by the State of South Carolina on July 23, 2025. The proposed revision updates all references to reflect the restructuring of South Carolina Department of Health and Environmental Control (DHEC) to the South Carolina Department of Public Health and the South Carolina Department of Environmental Servi",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10640/air-plan-approval-sc-department-name-change"
+    },
+    {
+      "id": "aaa00d1b914b",
+      "category": "LEGIS",
+      "date": "2026-05-28",
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Multiple Internal Revenue Service Information Collection Requests",
+      "summary": "The Department of the Treasury will submit the following information collection requests to the Office of Management and Budget (OMB) for review and clearance in accordance with the Paperwork Reduction Act of 1995, on or after the date of publication of this notice. The public is invited to submit comments on these requests.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10535/notice-of-decision-on-innovative-product-exemption-applications-under-the-national-volatile-organic"
+      "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10639/agency-information-collection-activities-submission-for-omb-review-comment-request-multiple-internal"
     },
     {
-      "id": "b2a38b3f2843",
+      "id": "2197ac6f9be5",
       "category": "LEGIS",
-      "date": "2026-05-27",
-      "title": "Phasedown of Hydrofluorocarbons: Allocation of 2026 Production and Consumption Allowances Set Aside for Metered Dose Inhalers",
-      "summary": "The Environmental Protection Agency (EPA) is providing notice that the Agency allocated hydrofluorocarbon (HFC) set-aside allowances to general pool production and consumption allowance holders. For the calendar year 2026 allocation of HFC allowances, the EPA withheld a limited number of allowances from all general pool allowance holders. These allowances were set aside to accommodate unforeseen HFC needs for metered",
+      "date": "2026-05-28",
+      "title": "Air Plan Approval; Maryland; Reasonably Available Control Technology for Municipal Waste Combustors; Extension of Comment Period",
+      "summary": "The Environmental Protection Agency (EPA) is extending the comment period for a proposed rule that published April 29, 2026. The current comment period for the proposed rule was scheduled to close on May 29, 2026. The EPA is extending the comment period for the proposed action to June 12, 2026.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10638/air-plan-approval-maryland-reasonably-available-control-technology-for-municipal-waste-combustors"
+    },
+    {
+      "id": "e18bb6c04436",
+      "category": "LEGIS",
+      "date": "2026-05-28",
+      "title": "Public Meetings of the Science Advisory Board Contaminant Candidate List (CCL) 6 Augmented Drinking Water Committee (DWC)",
+      "summary": "The Environmental Protection Agency (EPA) Science Advisory Board (SAB) Branch is announcing public meetings of the SAB Contaminant Candidate List (CCL) 6 Augmented Drinking Water Committee (DWC), (CCL 6 DWC). The purpose of the meetings is to receive a briefing from EPA, review the draft contaminant candidate list, review, discuss, and prepare responses to charge questions and discuss the draft responses on the EPA's",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10637/public-meetings-of-the-science-advisory-board-contaminant-candidate-list-ccl-6-augmented-drinking"
+    },
+    {
+      "id": "673597c0ddcf",
+      "category": "LEGIS",
+      "date": "2026-05-28",
+      "title": "Notice Announcing Fund for the Improvement of Postsecondary Education-Historically Black Colleges and Universities (HBCU) and Tribally Controlled Colleges and Universities (TCCU) Research and Development Infrastructure Grants Program Competition",
+      "summary": "The Employment and Training Administration at the U.S. Department of Labor (DOL) is soliciting applications in support of the administration of the Fund for the Improvement of Postsecondary Education (FIPSE)--HBCU and TCCU Research and Development Infrastructure (RDI) Grants Program, Assistance Listing Number (ALN) 84.116H, on behalf of the U.S. Department of Education (ED).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10534/phasedown-of-hydrofluorocarbons-allocation-of-2026-production-and-consumption-allowances-set-aside"
+      "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10636/notice-announcing-fund-for-the-improvement-of-postsecondary-education-historically-black-colleges"
     },
     {
-      "id": "94372a223c02",
+      "id": "c70ad37ea1da",
       "category": "LEGIS",
-      "date": "2026-05-27",
-      "title": "FY 2026 Competitive Funding Opportunity: Public Transportation on Indian Reservations (Tribal Transit) Competitive Program",
-      "summary": "The Federal Transit Administration (FTA) announces the opportunity to apply for approximately $18.95 million in competitive grants for the Fiscal Year (FY) 2026 Public Transportation on Indian Reservations (Tribal Transit) Competitive Program.",
+      "date": "2026-05-28",
+      "title": "Notice Announcing Fund for the Improvement of Postsecondary Education-Centers of Excellence for Veteran Student Success Program Competition",
+      "summary": "The Employment and Training Administration at the U.S. Department of Labor (DOL) is soliciting applications in support of the administration of the Fund for the Improvement of Postsecondary Education (FIPSE)--Centers of Excellence for Veteran Student Success (CEVSS) Program, Assistance Listing Number (ALN) 84.116G, on behalf of the U.S. Department of Education (ED).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10533/fy-2026-competitive-funding-opportunity-public-transportation-on-indian-reservations-tribal-transit"
+      "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10635/notice-announcing-fund-for-the-improvement-of-postsecondary-education-centers-of-excellence-for"
     },
     {
-      "id": "daeffafcbf28",
+      "id": "d3ee58bf69e1",
       "category": "LEGIS",
-      "date": "2026-05-27",
-      "title": "FY 2026 Competitive Funding Opportunity: Competitive Grants for Rail Vehicle Replacement Program",
-      "summary": "The Federal Transit Administration (FTA) announces the opportunity to apply for approximately $166 million in competitive grants for the Fiscal Year (FY) 2026 Competitive Grants for Rail Vehicle Replacement (Rail) Program.",
+      "date": "2026-05-28",
+      "title": "Agency Information Collection Activities; Comment Request; RSA-509, Annual Protection and Advocacy of Individual Rights Program Performance Report",
+      "summary": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing an extension without change of a currently approved information collection request (ICR).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10532/fy-2026-competitive-funding-opportunity-competitive-grants-for-rail-vehicle-replacement-program"
+      "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10634/agency-information-collection-activities-comment-request-rsa-509-annual-protection-and-advocacy-of"
     },
     {
-      "id": "c9557771467e",
+      "id": "ca53914c86b4",
       "category": "LEGIS",
-      "date": "2026-05-27",
-      "title": "Product Change-Priority Mail and USPS Ground Advantage Negotiated Service Agreements",
-      "summary": "The Postal Service gives notice of filing a request with the Postal Regulatory Commission to add a domestic shipping services contract to the list of Negotiated Service Agreements in the Mail Classification Schedule's Competitive Products List.",
+      "date": "2026-05-28",
+      "title": "Agency Information Collection Activities; Comment Request; RSA-227, Annual Client Assistance Program Performance Report",
+      "summary": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing a revision of a currently approved information collection request (ICR).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10531/product-change-priority-mail-and-usps-ground-advantage-negotiated-service-agreements"
+      "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10633/agency-information-collection-activities-comment-request-rsa-227-annual-client-assistance-program"
     },
     {
-      "id": "ed142790eda4",
+      "id": "c572403cb5c3",
       "category": "LEGIS",
-      "date": "2026-05-27",
-      "title": "Regulatory Program Fees and Water Charges Rates",
-      "summary": "Notice is provided of the Commission's regulatory program fees and schedule of water charges for the fiscal year beginning July 1, 2026.",
+      "date": "2026-05-28",
+      "title": "Notice Announcing Fund for the Improvement of Postsecondary Education-Open Textbook Pilot Program Competition",
+      "summary": "The Employment and Training Administration at the U.S. Department of Labor (DOL) is soliciting applications in support of the administration of the Fund for the Improvement of Postsecondary Education (FIPSE)--Open Textbook Pilot Program (OTP), Assistance Listing Number (ALN) 84.116T, on behalf of the U.S. Department of Education (ED).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10529/regulatory-program-fees-and-water-charges-rates"
+      "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10632/notice-announcing-fund-for-the-improvement-of-postsecondary-education-open-textbook-pilot-program"
     },
     {
-      "id": "5befbeba6b3a",
+      "id": "c1123250a034",
       "category": "LEGIS",
-      "date": "2026-05-27",
-      "title": "Food Nutrition and Safety (FNS) Measurements and Methods Consortium",
-      "summary": "The National Institute of Standards and Technology (NIST), an agency of the United States Department of Commerce, in support of efforts to develop and evaluate measurement methods and standards, including reference materials, to support quality and safety for the food testing community, is establishing the Food Nutrition and Safety (FNS) Measurements and Methods Consortium (\"Consortium\"). The Consortium will bring to",
+      "date": "2026-05-28",
+      "title": "Notice Announcing Fund for the Improvement of Postsecondary Education-Basic Needs Program Competition",
+      "summary": "The Employment and Training Administration at the U.S. Department of Labor (DOL) is soliciting applications in support of the administration of the Fund for the Improvement of Postsecondary Education (FIPSE)--Basic Needs for Postsecondary Students Program, Assistance Listing Number (ALN) 84.116N, on behalf of the U.S. Department of Education (ED).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10528/food-nutrition-and-safety-fns-measurements-and-methods-consortium"
+      "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10631/notice-announcing-fund-for-the-improvement-of-postsecondary-education-basic-needs-program"
     },
     {
-      "id": "c36747bdf5f7",
+      "id": "d3dc333c83b3",
       "category": "LEGIS",
-      "date": "2026-05-27",
-      "title": "High Purity Dissolving Pulp From Norway: Preliminary Affirmative Determination of Sales at Less Than Fair Value, Postponement of Final Determination, and Extension of Provisional Measures",
-      "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that high purity dissolving pulp (dissolving pulp) from Norway is being, or is likely to be, sold in the United States at less than fair value (LTFV). The period of investigation (POI) is July 1, 2024, through June 30, 2025. Interested parties are invited to comment on this preliminary determination.",
+      "date": "2026-05-28",
+      "title": "Notice Announcing TRIO Training Program Competition",
+      "summary": "The Employment and Training Administration at the U.S. Department of Labor (DOL), is soliciting applications in support of the administration of the Training Program for Federal TRIO Programs on behalf of the U.S. Department of Education (ED).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10527/high-purity-dissolving-pulp-from-norway-preliminary-affirmative-determination-of-sales-at-less-than"
+      "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10630/notice-announcing-trio-training-program-competition"
     },
     {
-      "id": "b78cbc0806fe",
+      "id": "65fe98fc6e4d",
       "category": "LEGIS",
-      "date": "2026-05-27",
-      "title": "Stationary and Portable Air Compressors From the People's Republic of China, Malaysia, and the Socialist Republic of Vietnam: Initiation of Countervailing Duty Investigations",
+      "date": "2026-05-28",
+      "title": "Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10526/stationary-and-portable-air-compressors-from-the-peoples-republic-of-china-malaysia-and-the"
+      "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10629/change-in-bank-control-notices-acquisitions-of-shares-of-a-bank-or-bank-holding-company"
     },
     {
-      "id": "58fa24c7d652",
+      "id": "a4cb2eb6ba24",
       "category": "LEGIS",
-      "date": "2026-05-27",
-      "title": "Certain Aluminum Foil From the People's Republic of China: Amended Final Results of Antidumping Duty Administrative Review; 2023-2024",
-      "summary": "The U.S. Department of Commerce (Commerce) is amending the final results of the administrative review of the antidumping duty (AD) order on certain aluminum foil (aluminum foil) from the People's Republic of China (China) to correct a ministerial error. The period of review (POR), April 1, 2023, through March 31, 2024.",
+      "date": "2026-05-28",
+      "title": "Notice Announcing Fund for the Improvement of Postsecondary Education-Transitioning Gang-Involved Youth to Higher Education Grant Program Competition",
+      "summary": "The Employment and Training Administration at the U.S. Department of Labor (DOL) is soliciting applications in support of the administration of the Fund for the Improvement of Postsecondary Education (FIPSE)--Transitioning Gang-involved Youth to Higher Education Grant Program (TGIY), Assistance Listing Number (ALN) 84.116Y, on behalf of the U.S. Department of Education (ED).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10525/certain-aluminum-foil-from-the-peoples-republic-of-china-amended-final-results-of-antidumping-duty"
+      "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10628/notice-announcing-fund-for-the-improvement-of-postsecondary-education-transitioning-gang-involved"
     },
     {
-      "id": "f0fe8c47bfbe",
+      "id": "36697134ff40",
       "category": "LEGIS",
-      "date": "2026-05-27",
-      "title": "Notice of Open Public Event",
-      "summary": "Notice is hereby given of the following event of the U.S.- China Economic and Security Review Commission. The Commission is mandated by Congress to investigate, assess, and report to Congress annually on \"the national security implications of the economic relationship between the United States and the People's Republic of China.\" Pursuant to this mandate, the Commission will hold a public event in Washington, DC on J",
+      "date": "2026-05-28",
+      "title": "Xanthan Gum From the People's Republic of China: Notice of Court Decision Not in Harmony With the Results of Antidumping Duty Administrative Review; Notice of Amended Final Results",
+      "summary": "On May 12, 2026, the U.S. Court of International Trade (CIT) issued its final judgment in Neimenggu Fufeng Biotechnologies Co., Shandong Fufeng Fermentation Co., Ltd., and Xinjiang Fufeng Biotechnologies Co., Ltd., and Meihua Group International (Hong Kong) Limited and Xinjiang Meihua Amino Acid Co., Ltd., v. United States, Court No. 23-00068, sustaining the U.S. Department of Commerce's (Commerce) second remand resu",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10524/notice-of-open-public-event"
+      "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10627/xanthan-gum-from-the-peoples-republic-of-china-notice-of-court-decision-not-in-harmony-with-the"
     },
     {
-      "id": "4c0461f9d087",
+      "id": "49f25cf0896d",
       "category": "LEGIS",
-      "date": "2026-05-27",
-      "title": "High Purity Dissolving Pulp From Brazil: Preliminary Affirmative Determination of Sales at Less Than Fair Value, Postponement of Final Determination, and Extension of Provisional Measures",
-      "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that high purity dissolving pulp (dissolving pulp) from Brazil is being, or is likely to be, sold in the United States at less than fair value (LTFV). The period of investigation (POI) is July 1, 2024, through June 30, 2025. Interested parties are invited to comment on this preliminary determination.",
+      "date": "2026-05-28",
+      "title": "Approval of Subzone Status; PMI Services North America, Inc.; El Paso, Texas",
+      "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10523/high-purity-dissolving-pulp-from-brazil-preliminary-affirmative-determination-of-sales-at-less-than"
+      "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10626/approval-of-subzone-status-pmi-services-north-america-inc-el-paso-texas"
     },
     {
-      "id": "e9af57aa6a71",
+      "id": "95947722a95c",
       "category": "LEGIS",
-      "date": "2026-05-27",
-      "title": "Large Diameter Welded Pipe From the Republic of Türkiye: Preliminary Results and Rescission, In Part, of Antidumping Duty Administrative Review; 2024-2025",
-      "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that producers/exporters subject to this review made sales of subject merchandise at less than normal value (NV) during the period of review (POR), May 1, 2024, through April 30, 2025. In addition, we are rescinding the review with respect to 12 companies. Interested parties are invited to comment on these preliminary results of review.",
+      "date": "2026-05-28",
+      "title": "Certain Large Vertical Shaft Engines Between 225cc and 999cc, and Parts Thereof From the People's Republic of China: Final Results of the Expedited First Sunset Review of the Antidumping Duty Order",
+      "summary": "The U.S. Department of Commerce (Commerce) finds that revocation of the antidumping duty (AD) order on certain large vertical shaft engines between 225cc and 999cc, and parts thereof (vertical shaft engines) from the People's Republic of China (China) would be likely to lead to continuation or recurrence of dumping, at the levels indicated in the \"Final Results of Sunset Review\" section of this notice.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10522/large-diameter-welded-pipe-from-the-republic-of-trkiye-preliminary-results-and-rescission-in-part-of"
-    },
-    {
-      "id": "91200f249d7a",
-      "category": "LEGIS",
-      "date": "2026-05-27",
-      "title": "Reporting for Calendar Year 2025 on Offsets Agreements Related to Sales of Defense Articles or Defense Services to Foreign Countries or Foreign Firms",
-      "summary": "This notice is to remind the public that U.S. firms are required to report annually to the Department of Commerce (Commerce) information on contracts for the sale of defense articles or defense services to foreign countries or foreign firms that are subject to offsets agreements exceeding $5,000,000 in value. U.S. firms are also required to report annually to Commerce information on offsets transactions completed in ",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10521/reporting-for-calendar-year-2025-on-offsets-agreements-related-to-sales-of-defense-articles-or"
-    },
-    {
-      "id": "d35bc5e4d115",
-      "category": "LEGIS",
-      "date": "2026-05-27",
-      "title": "Certain Monomers and Oligomers from the Republic of Korea: Final Affirmative Determination of Sales at Less Than Fair Value and Final Affirmative Determination of Critical Circumstances",
-      "summary": "The U.S. Department of Commerce (Commerce) determines that certain monomers and oligomers (monomers and oligomers) from the Republic of Korea (Korea) are being, or are likely to be, sold in the United States at less than fair value (LTFV). The period of investigation (POI) is January 1, 2024, through December 31, 2024.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10520/certain-monomers-and-oligomers-from-the-republic-of-korea-final-affirmative-determination-of-sales"
-    },
-    {
-      "id": "5997a31686e7",
-      "category": "LEGIS",
-      "date": "2026-05-27",
-      "title": "Crystalline Silicon Photovoltaic Cells, Whether or Not Assembled Into Modules, From Indonesia: Amended Preliminary Affirmative Determination of Sales at Less Than Fair Value",
-      "summary": "The U.S. Department of Commerce (Commerce) is amending its preliminary affirmative determination in the less-than-fair-value (LTFV) investigation of crystalline silicon photovoltaic cells, whether or not assembled into modules (solar cells), from Indonesia to reflect Commerce's determination that it is necessary to rely on facts otherwise available including adverse inferences (AFA) in reaching its preliminary determ",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/05/27/2026-10519/crystalline-silicon-photovoltaic-cells-whether-or-not-assembled-into-modules-from-indonesia-amended"
+      "url": "https://www.federalregister.gov/documents/2026/05/28/2026-10625/certain-large-vertical-shaft-engines-between-225cc-and-999cc-and-parts-thereof-from-the-peoples"
     }
   ]
 }
