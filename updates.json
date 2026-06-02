@@ -1,192 +1,49 @@
 {
-  "generated_at": "2026-06-01T18:15:07.685Z",
+  "generated_at": "2026-06-02T16:53:12.229Z",
   "updates": [
     {
-      "id": "da982e8a738b",
+      "id": "0c4c3b2de478",
       "category": "LEGIS",
-      "date": "2026-06-01",
-      "title": "Arms Sales Notification",
-      "summary": "The Department of War (DoW) is publishing the unclassified text of an arms sales notification.",
+      "date": "2026-06-02",
+      "title": "Federal Employees Health Benefits Program: Verification Requirements for Family Member Coverage",
+      "summary": "The FEHB Protection Act of 2025 (FPA) requires OPM to issue regulations and implement a process to verify: The veracity of any qualifying life event (QLE) through which a health benefits plan enrollee seeks to add a member of family to their enrollment and that when an enrollee adds a family member to the health benefits plan, including during any open season, the individual is a qualified member of family. This fina",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/01/2026-10954/arms-sales-notification"
+      "url": "https://www.federalregister.gov/documents/2026/06/02/2026-11022/federal-employees-health-benefits-program-verification-requirements-for-family-member-coverage"
     },
     {
-      "id": "51c642dc88dd",
+      "id": "6fa5784bc794",
       "category": "LEGIS",
-      "date": "2026-06-01",
-      "title": "Arms Sales Notification",
-      "summary": "The Department of War (DoW) is publishing the unclassified text of an arms sales notification.",
+      "date": "2026-06-02",
+      "title": "Fisheries Off West Coast States; the Highly Migratory Species Fishery; Pacific Loggerhead Conservation Area Closure",
+      "summary": "NMFS is prohibiting fishing with large-mesh drift gillnet (DGN) gear (>=14 inches mesh) off the coast of southern California east of 120[deg] W meridian from June 1, 2026, through August 31, 2026. This prohibition is based on the fact that the NOAA Climate Prediction Center (CPC) has indicated that the sea surface temperature off the coast of southern California for March and April is warmer than normal and there is ",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/01/2026-10953/arms-sales-notification"
+      "url": "https://www.federalregister.gov/documents/2026/06/02/2026-11021/fisheries-off-west-coast-states-the-highly-migratory-species-fishery-pacific-loggerhead-conservation"
     },
     {
-      "id": "34a8e24be78b",
+      "id": "bbd9cc88bf11",
       "category": "LEGIS",
-      "date": "2026-06-01",
-      "title": "Arms Sales Notification",
-      "summary": "The Department of War (DoW) is publishing the unclassified text of an arms sales notification.",
+      "date": "2026-06-02",
+      "title": "Agency Information Collection Activities; Extension; Cargo Manifest/Declaration, Stow Plan, Container Status Messages and Importer Security Filing",
+      "summary": "The Department of Homeland Security, U.S. Customs and Border Protection (CBP) will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). The information collection is published in the Federal Register to obtain comments from the public and affected agencies.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/01/2026-10950/arms-sales-notification"
+      "url": "https://www.federalregister.gov/documents/2026/06/02/2026-11019/agency-information-collection-activities-extension-cargo-manifestdeclaration-stow-plan-container"
     },
     {
-      "id": "e4ee35378d54",
+      "id": "344881f79c57",
       "category": "LEGIS",
-      "date": "2026-06-01",
-      "title": "Arms Sales Notification",
-      "summary": "The Department of War (DoW) is publishing the unclassified text of an arms sales notification.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/01/2026-10949/arms-sales-notification"
-    },
-    {
-      "id": "2830fae6644d",
-      "category": "LEGIS",
-      "date": "2026-06-01",
-      "title": "Arms Sales Notification",
-      "summary": "The Department of War (DoW) is publishing the unclassified text of an arms sales notification.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/01/2026-10948/arms-sales-notification"
-    },
-    {
-      "id": "bdb4c96a0c92",
-      "category": "LEGIS",
-      "date": "2026-06-01",
-      "title": "Arms Sales Notification",
-      "summary": "The Department of War (DoW) is publishing the unclassified text of an arms sales notification.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/01/2026-10946/arms-sales-notification"
-    },
-    {
-      "id": "caf6aa61adda",
-      "category": "LEGIS",
-      "date": "2026-06-01",
-      "title": "Arms Sales Notification",
-      "summary": "The Department of War (DoW) is publishing the unclassified text of an arms sales notification.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/01/2026-10945/arms-sales-notification"
-    },
-    {
-      "id": "f3d8d0230923",
-      "category": "LEGIS",
-      "date": "2026-06-01",
-      "title": "Arms Sales Notification",
-      "summary": "The Department of War (DoW) is publishing the unclassified text of an arms sales notification.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/01/2026-10944/arms-sales-notification"
-    },
-    {
-      "id": "40e54b5e72f1",
-      "category": "LEGIS",
-      "date": "2026-06-01",
-      "title": "Antidumping or Countervailing Duty Order, Finding, or Suspended Investigation; Advance Notification of Sunset Review",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "high",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/01/2026-10942/antidumping-or-countervailing-duty-order-finding-or-suspended-investigation-advance-notification-of"
-    },
-    {
-      "id": "4e43db9a6d60",
-      "category": "LEGIS",
-      "date": "2026-06-01",
-      "title": "Initiation of Five-Year (Sunset) Reviews",
-      "summary": "In accordance with the Tariff Act of 1930, as amended (the Act), the U.S. Department of Commerce (Commerce) is automatically initiating the five-year reviews (Sunset Reviews) of the antidumping duty (AD) and countervailing duty (CVD) orders and suspended investigations listed below. The U.S. International Trade Commission (ITC) is publishing concurrently with this notice its notice of Institution of Five-Year Reviews",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "high",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/01/2026-10941/initiation-of-five-year-sunset-reviews"
-    },
-    {
-      "id": "2fbec3586cd8",
-      "category": "LEGIS",
-      "date": "2026-06-01",
-      "title": "Arms Sales Notification",
-      "summary": "The Department of War (DoW) is publishing the unclassified text of an arms sales notification.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/01/2026-10937/arms-sales-notification"
-    },
-    {
-      "id": "ade78029d60d",
-      "category": "LEGIS",
-      "date": "2026-06-01",
-      "title": "List of Approved Spent Fuel Storage Casks: Holtec International HI-STORM UMAX Canister Storage System, Certificate of Compliance No. 1040, Amendment No. 5",
-      "summary": "The U.S. Nuclear Regulatory Commission (NRC) is confirming the effective date of June 16, 2026, for the direct final rule that was published in the Federal Register on April 2, 2026. This direct final rule amended Holtec International HI-STORM UMAX Canister Storage System listing within the \"List of approved spent fuel storage casks\" to include Amendment No. 5 to Certificate of Compliance No. 1040.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "high",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/01/2026-10935/list-of-approved-spent-fuel-storage-casks-holtec-international-hi-storm-umax-canister-storage-system"
-    },
-    {
-      "id": "39ffeb1f4bbd",
-      "category": "LEGIS",
-      "date": "2026-06-01",
-      "title": "Fluid End Blocks From China, Germany, India, and Italy; Scheduling of Full Five-Year Reviews",
-      "summary": "The Commission hereby gives notice of the scheduling of full reviews pursuant to the Tariff Act of 1930 to determine whether revocation of the countervailing duty orders on fluid end blocks from China and India, and the countervailing and antidumping duty orders on fluid end blocks from Germany and Italy, would be likely to lead to continuation or recurrence of material injury within a reasonably foreseeable time. Th",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/01/2026-10933/fluid-end-blocks-from-china-germany-india-and-italy-scheduling-of-full-five-year-reviews"
-    },
-    {
-      "id": "57580253b0fd",
-      "category": "LEGIS",
-      "date": "2026-06-01",
-      "title": "Agency Information Collection Activities: Office for Bombing Prevention-Technical Analysis",
-      "summary": "The Office for Bombing Prevention (OBP) within Cybersecurity and Infrastructure Security Agency (CISA) will submit the following information collection request (ICR) to the Office of Management and Budget (OMB) for review and clearance in accordance with the Paperwork Reduction Act of 1995. CISA previously published this information collection request (ICR) in the Federal Register on July 11, 2025, for a 60-day publi",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/01/2026-10932/agency-information-collection-activities-office-for-bombing-prevention-technical-analysis"
-    },
-    {
-      "id": "b7a27c70377f",
-      "category": "LEGIS",
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "title": "Center for Scientific Review; Notice of Closed Meetings",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
@@ -194,72 +51,215 @@
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/01/2026-10931/center-for-scientific-review-notice-of-closed-meetings"
+      "url": "https://www.federalregister.gov/documents/2026/06/02/2026-11018/center-for-scientific-review-notice-of-closed-meetings"
     },
     {
-      "id": "8807a6cb8b76",
+      "id": "838c6780528f",
       "category": "LEGIS",
-      "date": "2026-06-01",
-      "title": "Assistance for Specialty Crop Farmers (ASCF) Program",
-      "summary": "The Commodity Credit Corporation (CCC) is issuing this rule to provide assistance to producers of eligible specialty crops through the Assistance for Specialty Crop Farmers (ASCF) Program. These one-time bridge payments will help address elevated input costs incurred by producers and market disruptions stemming from foreign competitors engaging in unfair trade practices that impede specialty crop exports.",
+      "date": "2026-06-02",
+      "title": "Fisheries of the South Atlantic; 2026 Recreational Accountability Measure and Closure for Snowy Grouper in the South Atlantic",
+      "summary": "NMFS implements an accountability measure (AM) and closure for the recreational harvest of snowy grouper in South Atlantic Federal waters. NMFS reduces the length of the snowy grouper 2026 recreational fishing season to prevent landings from exceeding the recreational annual catch limit (ACL) in 2026 as they did in 2025. Accordingly, NMFS announces the adjusted closure date for the snowy grouper 2026 recreational fis",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/01/2026-10930/assistance-for-specialty-crop-farmers-ascf-program"
+      "url": "https://www.federalregister.gov/documents/2026/06/02/2026-11017/fisheries-of-the-south-atlantic-2026-recreational-accountability-measure-and-closure-for-snowy"
     },
     {
-      "id": "e1acdd60c77c",
+      "id": "dffc41ed983a",
       "category": "LEGIS",
-      "date": "2026-06-01",
-      "title": "Arms Sales Notification",
-      "summary": "The Department of War (DoW) is publishing the unclassified text of an arms sales notification.",
+      "date": "2026-06-02",
+      "title": "Commercial Driver's License: Jenifer Sanchez Vilchis; Application for Exemption",
+      "summary": "FMCSA requests public comment on Jenifer Sanchez Vilchis's application for an exemption to permit Deferred Action for Childhood Arrivals (DACA) recipients with valid Employment Authorization Documents to obtain and hold a Class B passenger-vehicle Commercial Driver's License (CDL) under the same conditions as other lawfully work-authorized individuals. Ms. Sanchez Vilchis requests an immediate, temporary exemption to",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/01/2026-10920/arms-sales-notification"
+      "url": "https://www.federalregister.gov/documents/2026/06/02/2026-11016/commercial-drivers-license-jenifer-sanchez-vilchis-application-for-exemption"
     },
     {
-      "id": "693a20272a65",
+      "id": "66416b284653",
       "category": "LEGIS",
-      "date": "2026-06-01",
-      "title": "Notice of Intent To Prepare an Environmental Impact Statement for Section 2 of the Mid-States Corridor Project: Tier 2 National Environmental Policy Act (NEPA)",
-      "summary": "Federal Highway Administration (FHWA), in coordination with the Indiana Department of Transportation (INDOT) is issuing this Notice of Intent (NOI) to solicit comment and advise the public, agencies, tribal nations, and stakeholders that a Tier 2 Environmental Impact Statement (EIS) will be prepared for the Mid-States Corridor (MSC), Section 2. This will be a new highway connection between Interstate 64 (I-64) at Dal",
+      "date": "2026-06-02",
+      "title": "Notice of Vacatur Regarding Certain Provisions of the 2024 Nondiscrimination in Health Programs and Activities Final Rule",
+      "summary": "This is to inform the public that, on October 22, 2025, the United States District Court for the Southern District of Mississippi issued an order in Tennessee v. Kennedy, No. 1:24-cv-161-LG-BWR (S.D. Miss. Oct. 22, 2025), vacating portions of the final rule titled \"Nondiscrimination in Health Programs and Activities,\" published May 6, 2024 (89 FR 37522). Specifically, the court vacated certain provisions of the regul",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/02/2026-11015/notice-of-vacatur-regarding-certain-provisions-of-the-2024-nondiscrimination-in-health-programs-and"
+    },
+    {
+      "id": "c48d9365b5e2",
+      "category": "LEGIS",
+      "date": "2026-06-02",
+      "title": "Endangered and Threatened Species; Take of Anadromous Fish",
+      "summary": "Notice is hereby given that NMFS received a Hatchery and Genetics Management Plan (HGMP) for a hatchery program rearing and releasing summer-run chum salmon in the Dungeness River basin, operated by Washington Department of Fish and Wildlife (WDFW) in collaboration with the Jamestown S'Klallam Tribe as co-managers. Following the public comment period this document serves to notify the public of the availability of an",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/01/2026-10919/notice-of-intent-to-prepare-an-environmental-impact-statement-for-section-2-of-the-mid-states"
+      "url": "https://www.federalregister.gov/documents/2026/06/02/2026-11014/endangered-and-threatened-species-take-of-anadromous-fish"
     },
     {
-      "id": "1f60383fbf52",
-      "category": "LEGIS",
-      "date": "2026-06-01",
-      "title": "60-Day Notice of Proposed Information Collection: Electronic Line of Credit Control System (eLOCCS) System Access Authorization Form Collection",
-      "summary": "HUD is seeking approval from the Office of Management and Budget (OMB) for the information collection described below. In accordance with the Paperwork Reduction Act, HUD is requesting comment from all interested parties on the proposed collection of information. The purpose of this notice is to allow for 60 days of public comment.",
+      "id": "0766de967ab8",
+      "category": "CDC",
+      "date": "2026-06-02",
+      "title": "Proposed Data Collection Submitted for Public Comment and Recommendations",
+      "summary": "The Centers for Disease Control and Prevention (CDC), as part of its continuing effort to reduce public burden and maximize the utility of government information, invites the general public and other federal agencies the opportunity to comment on a proposed information collection, as required by the Paperwork Reduction Act of 1995. This notice invites comment on a proposed information collection project titled 2026 E",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/01/2026-10918/60-day-notice-of-proposed-information-collection-electronic-line-of-credit-control-system-eloccs"
+      "url": "https://www.federalregister.gov/documents/2026/06/02/2026-11013/proposed-data-collection-submitted-for-public-comment-and-recommendations"
     },
     {
-      "id": "b3278e274085",
+      "id": "b7a71f058829",
+      "category": "CDC",
+      "date": "2026-06-02",
+      "title": "Proposed Data Collection Submitted for Public Comment and Recommendations",
+      "summary": "The Centers for Disease Control and Prevention (CDC), as part of its continuing effort to reduce public burden and maximize the utility of government information, invites the general public and other federal agencies the opportunity to comment on a continuing information collection, as required by the Paperwork Reduction Act of 1995. This notice invites comment on a proposed information collection project titled Nati",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/02/2026-11012/proposed-data-collection-submitted-for-public-comment-and-recommendations"
+    },
+    {
+      "id": "4c9e70808502",
+      "category": "CDC",
+      "date": "2026-06-02",
+      "title": "Proposed Data Collection Submitted for Public Comment and Recommendations",
+      "summary": "The Centers for Disease Control and Prevention (CDC), as part of its continuing effort to reduce public burden and maximize the utility of government information, invites the general public and other federal agencies the opportunity to comment on a continuing information collection, as required by the Paperwork Reduction Act of 1995. This notice invites comment on a proposed information collection project titled Use ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/02/2026-11011/proposed-data-collection-submitted-for-public-comment-and-recommendations"
+    },
+    {
+      "id": "e7d6d6a1967e",
       "category": "LEGIS",
-      "date": "2026-06-01",
-      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; State Workforce Pell Program Certification",
-      "summary": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing a new information collection request (ICR).",
+      "date": "2026-06-02",
+      "title": "Agency Forms Undergoing Paperwork Reduction Act Review",
+      "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/01/2026-10917/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for"
+      "url": "https://www.federalregister.gov/documents/2026/06/02/2026-11010/agency-forms-undergoing-paperwork-reduction-act-review"
+    },
+    {
+      "id": "6ec8c4212b20",
+      "category": "LEGIS",
+      "date": "2026-06-02",
+      "title": "Agency Forms Undergoing Paperwork Reduction Act Review",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/02/2026-11009/agency-forms-undergoing-paperwork-reduction-act-review"
+    },
+    {
+      "id": "a1889addd9c6",
+      "category": "LEGIS",
+      "date": "2026-06-02",
+      "title": "Agency Information Collection Activities; Federal Fish and Wildlife Permit Applications and Reports-Native Endangered and Threatened Species",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, we, the U.S. Fish and Wildlife Service (Service), are proposing to renew an information collection with revisions.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/02/2026-11008/agency-information-collection-activities-federal-fish-and-wildlife-permit-applications-and"
+    },
+    {
+      "id": "805f451b972b",
+      "category": "LEGIS",
+      "date": "2026-06-02",
+      "title": "Prestressed Concrete Steel Wire Strand From Brazil, India, Japan, Mexico, South Korea, and Thailand",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/02/2026-11007/prestressed-concrete-steel-wire-strand-from-brazil-india-japan-mexico-south-korea-and-thailand"
+    },
+    {
+      "id": "614ac5ab83ce",
+      "category": "LEGIS",
+      "date": "2026-06-02",
+      "title": "Notice of Open Meeting for the 2026-2027 EXIM Advisory Committees",
+      "summary": "Discussion of EXIM policies and programs designed to support the expansion of financing support for U.S. manufactured goods and services.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/02/2026-11006/notice-of-open-meeting-for-the-2026-2027-exim-advisory-committees"
+    },
+    {
+      "id": "3ac25dbfb319",
+      "category": "LEGIS",
+      "date": "2026-06-02",
+      "title": "HEARTH Act Approval of Peoria Tribe of Indians of Oklahoma Business Leasing Ordinance",
+      "summary": "The Assistant Secretary--Indian Affairs approved the Peoria Tribe of Indians of Oklahoma Business Leasing Ordinance under the Helping Expedite and Advance Responsible Tribal Homeownership Act of 2012 (HEARTH Act). With this approval, the Tribe is authorized to enter into leases without further approval from the Secretary of the Interior.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/02/2026-11005/hearth-act-approval-of-peoria-tribe-of-indians-of-oklahoma-business-leasing-ordinance"
+    },
+    {
+      "id": "403e6b8c4e4a",
+      "category": "LEGIS",
+      "date": "2026-06-02",
+      "title": "Deregistration Under Section 8(f) of the Investment Company Act of 1940",
+      "summary": "Applicant seeks an order declaring that it has ceased to be an investment company. On October 30, 2018, and December 20, 2018, applicant made liquidating distributions to its shareholders based on net asset value. Expenses of $68,975 incurred in connection with the liquidation were paid by the applicant. All assets have been distributed to shareholders, and no assets remain. Filing Date: The application was filed on ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/02/2026-11004/deregistration-under-section-8f-of-the-investment-company-act-of-1940"
+    },
+    {
+      "id": "00baa7d2b071",
+      "category": "LEGIS",
+      "date": "2026-06-02",
+      "title": "New Mailing Standards for Domestic Mailing Services Products",
+      "summary": "On April 9, 2026, the Postal Service (USPS) filed a notice of mailing services price adjustments with the Postal Regulatory Commission (PRC), effective July 12, 2026. This final rule contains the revisions to Mailing Standards of the United States Postal Service, Domestic Mail Manual (DMM[supreg]) to implement the changes coincident with the price adjustments and other DMM changes.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/02/2026-11003/new-mailing-standards-for-domestic-mailing-services-products"
+    },
+    {
+      "id": "9f10aa17d7d9",
+      "category": "LEGIS",
+      "date": "2026-06-02",
+      "title": "Payment Limitation and Payment Eligibility",
+      "summary": "This rule revises the payment limitation and payment eligibility regulations to conform with provisions of the One Big Beautiful Bill Act (OBBBA). This rule also makes additional changes to those regulations to improve program administration and clarify and update existing provisions.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/02/2026-11002/payment-limitation-and-payment-eligibility"
     }
   ]
 }
