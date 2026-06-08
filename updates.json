@@ -1,4 +1,265 @@
 {
-  "generated_at": "2026-06-07T14:18:06.379Z",
-  "updates": []
+  "generated_at": "2026-06-08T16:16:29.428Z",
+  "updates": [
+    {
+      "id": "0758b7a3488c",
+      "category": "LEGIS",
+      "date": "2026-06-08",
+      "title": "Establishment of Class E Airspace; Dover, OH",
+      "summary": "This action establishes Class E airspace at Cleveland Clinic, Union Hospital Heliport, Dover, OH. This action supports new instrument procedures and instrument flight rule (IFR) operations.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/08/2026-11476/establishment-of-class-e-airspace-dover-oh"
+    },
+    {
+      "id": "624b13f54fce",
+      "category": "LEGIS",
+      "date": "2026-06-08",
+      "title": "Airworthiness Directives; The Boeing Company Airplanes",
+      "summary": "The FAA proposes to adopt a new airworthiness directive (AD) for certain The Boeing Company Model 747-8 series airplanes. This proposed AD was prompted by a report of cracks in the fuselage skin lap splice at the upper fastener row between certain stations at certain stringers. This proposed AD would require performing repetitive external surface high frequency eddy current (HFEC) inspections of the upper fastener ro",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/08/2026-11472/airworthiness-directives-the-boeing-company-airplanes"
+    },
+    {
+      "id": "6e85f7e0310c",
+      "category": "LEGIS",
+      "date": "2026-06-08",
+      "title": "Meeting of the Interagency Task Force on Veterans Small Business Development",
+      "summary": "The SBA is issuing this notice to announce the date, time, and agenda for the next meeting of the Interagency Task Force on Veterans Small Business Development (IATF).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/08/2026-11469/meeting-of-the-interagency-task-force-on-veterans-small-business-development"
+    },
+    {
+      "id": "184caca6cd34",
+      "category": "LEGIS",
+      "date": "2026-06-08",
+      "title": "Fiscal Year List of Requests From States or Tribes for a Small Business Administration Disaster Declaration",
+      "summary": "This notice provides an updated monthly summary of requests received by the U. S. Small Business Administration to make a disaster declaration for a state, territory, or tribe. The published list complies with a directive in the explanatory statement of the Consolidated Appropriations Act, 2026, Public Law 119-75.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/08/2026-11468/fiscal-year-list-of-requests-from-states-or-tribes-for-a-small-business-administration-disaster"
+    },
+    {
+      "id": "722358add42f",
+      "category": "LEGIS",
+      "date": "2026-06-08",
+      "title": "Privacy Act of 1974; System of Records",
+      "summary": "The United States Postal Service (USPS) is responding to public comments regarding modifications to a General Privacy Act System of Records (SOR) that supports two continuous improvement initiatives. The first initiative is the Highway Contract Route (HCR) Driver's License scanning initiative to transition from a decentralized paper- based system to a centralized platform. The second initiative is the implementation ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/08/2026-11467/privacy-act-of-1974-system-of-records"
+    },
+    {
+      "id": "4adac8ee2144",
+      "category": "LEGIS",
+      "date": "2026-06-08",
+      "title": "Rescission of Policy Relating to the Acceptance of Settlements in Administrative and Civil Proceedings",
+      "summary": "The Commodity Futures Trading Commission (\"CFTC\" or \"Commission\") is rescinding a policy contained in an appendix to its regulations concerning acceptance of settlements in administrative and civil proceedings. This policy is commonly understood to limit a respondent's or defendant's ability to deny allegations following settlement.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/08/2026-11466/rescission-of-policy-relating-to-the-acceptance-of-settlements-in-administrative-and-civil"
+    },
+    {
+      "id": "30725b76935a",
+      "category": "LEGIS",
+      "date": "2026-06-08",
+      "title": "Hand Trucks From China; Scheduling of an Expedited Five-Year Review",
+      "summary": "The Commission hereby gives notice of the scheduling of an expedited review pursuant to the Tariff Act of 1930 (\"the Act\") to determine whether revocation of the antidumping duty order on hand trucks from China would be likely to lead to continuation or recurrence of material injury within a reasonably foreseeable time.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/08/2026-11465/hand-trucks-from-china-scheduling-of-an-expedited-five-year-review"
+    },
+    {
+      "id": "742ef8c25a82",
+      "category": "LEGIS",
+      "date": "2026-06-08",
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Investor Form",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/08/2026-11464/agency-information-collection-activities-submission-for-omb-review-comment-request-extension"
+    },
+    {
+      "id": "d663f6d264b7",
+      "category": "LEGIS",
+      "date": "2026-06-08",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 17g-1 and Form NRSRO",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/08/2026-11463/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-17g-1"
+    },
+    {
+      "id": "ef251dd9d2fb",
+      "category": "LEGIS",
+      "date": "2026-06-08",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 17g-2",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/08/2026-11462/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-17g-2"
+    },
+    {
+      "id": "3277dd988846",
+      "category": "LEGIS",
+      "date": "2026-06-08",
+      "title": "Eunice Kennedy Shriver National Institute of Child Health & Human Development; Notice of Meeting",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/08/2026-11461/eunice-kennedy-shriver-national-institute-of-child-health-and-human-development-notice-of-meeting"
+    },
+    {
+      "id": "617ca54e230a",
+      "category": "LEGIS",
+      "date": "2026-06-08",
+      "title": "Certain Pickleball Paddles; Notice of Institution of Investigation",
+      "summary": "Notice is hereby given that a complaint was filed with the U.S. International Trade Commission on April 7, 2026, under section 337 of the Tariff Act of 1930, as amended, on behalf of Sport Squad, Inc. d/b/a JOOLA of North Bethesda, Maryland. An amended complaint was filed on April 17, 2026. A supplement to the amended complaint was filed on May 19, 2026. The amended complaint, as supplemented, alleges violations of s",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/08/2026-11459/certain-pickleball-paddles-notice-of-institution-of-investigation"
+    },
+    {
+      "id": "881f67eddf08",
+      "category": "LEGIS",
+      "date": "2026-06-08",
+      "title": "Surrendered Supplemental Type Certificate",
+      "summary": "This notice announces that B/E Aerospace, Inc. has surrendered its supplemental type certificates (STC) ST01796WI to the FAA. This action is intended to inform all aircraft owners who may possess a product affected by these surrendered certificates.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/08/2026-11458/surrendered-supplemental-type-certificate"
+    },
+    {
+      "id": "73db9034fb39",
+      "category": "CMS",
+      "date": "2026-06-08",
+      "title": "Request for Nominations for the Physician-Focused Payment Model Technical Advisory Committee (PTAC)",
+      "summary": "The Medicare Access and CHIP Reauthorization Act of 2015 established the Physician-Focused Payment Model Technical Advisory Committee to provide comments and recommendations to the Secretary of Health and Human Services on physician payment models and gave the Comptroller General responsibility for appointing its members. The Government Accountability Office (GAO) is now accepting nominations of individuals for this ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/08/2026-11457/request-for-nominations-for-the-physician-focused-payment-model-technical-advisory-committee-ptac"
+    },
+    {
+      "id": "26901e9d7d85",
+      "category": "LEGIS",
+      "date": "2026-06-08",
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Request for Comment; Drive-Mode Design Best Practices",
+      "summary": "In compliance with the Paperwork Reduction Act of 1995 (PRA), this notice announces that the Information Collection Request (ICR) summarized below will be submitted to the Office of Management and Budget (OMB) for review and approval. The ICR describes the nature of the information collection and its expected burden. This is a new collection of information for which NHTSA intends to seek OMB approval for a one-time v",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/08/2026-11456/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for"
+    },
+    {
+      "id": "3ef2ec6204f9",
+      "category": "LEGIS",
+      "date": "2026-06-08",
+      "title": "New Postal Products",
+      "summary": "The Commission is noticing a recent Postal Service filing for the Commission's consideration concerning a negotiated service agreement. This notice informs the public of the filing, invites public comment, and takes other administrative steps.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/08/2026-11455/new-postal-products"
+    },
+    {
+      "id": "d2fc63d3c69d",
+      "category": "LEGIS",
+      "date": "2026-06-08",
+      "title": "President's Commission on White House Fellowships Advisory Committee: Closed Meeting",
+      "summary": "The President's Commission on White House Fellowships (PCWHF) was established by an executive order in 1964. The PCWHF is an advisory committee composed of Special Government Employees appointed by the President. The Advisory Committee meets in June to interview potential candidates for recommendation to become a White House Fellow. The meeting is closed to the public.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/08/2026-11454/presidents-commission-on-white-house-fellowships-advisory-committee-closed-meeting"
+    },
+    {
+      "id": "9d2eb73bc153",
+      "category": "LEGIS",
+      "date": "2026-06-08",
+      "title": "Meeting of the Board of Actuaries of the Civil Service Retirement System",
+      "summary": "Pursuant to 5 U.S.C. 8347(f) and also in accordance with the provisions of the Federal Advisory Committee Act (FACA), as amended, 5 U.S.C. App. 2, the Board of Actuaries of the Civil Service Retirement System plans to meet on Monday, June 29, 2026. The meeting will start at 10:00 a.m. EDT and will be held at the U.S. Office of Personnel Management (OPM), 1900 E Street NW, Washington, DC 20415. The purpose of the meet",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/08/2026-11453/meeting-of-the-board-of-actuaries-of-the-civil-service-retirement-system"
+    },
+    {
+      "id": "d29173addd37",
+      "category": "LEGIS",
+      "date": "2026-06-08",
+      "title": "Information Collections Being Submitted for Review and Approval to Office of Management and Budget",
+      "summary": "As part of its continuing effort to reduce paperwork burdens, as required by the Paperwork Reduction Act (PRA) of 1995, the Federal Communications Commission (FCC or the Commission) invites the general public and other Federal Agencies to take this opportunity to comment on the following information collection. Pursuant to the Small Business Paperwork Relief Act of 2002, the FCC seeks specific comment on how it can f",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/08/2026-11452/information-collections-being-submitted-for-review-and-approval-to-office-of-management-and-budget"
+    },
+    {
+      "id": "2b84ae7017b1",
+      "category": "LEGIS",
+      "date": "2026-06-08",
+      "title": "Policy Statement on Mandatory Hearings for Reactor Licensing",
+      "summary": "The U.S. Nuclear Regulatory Commission (NRC) is issuing a policy statement entitled \"Policy Statement on Mandatory Hearings for Reactor Licensing.\" This policy statement sets forth the NRC's plan for conducting future mandatory hearings on reactor license and permit applications. The statement explains the rationale for adopting the process to be used going forward and describes the new process.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/08/2026-11451/policy-statement-on-mandatory-hearings-for-reactor-licensing"
+    }
+  ]
 }
