@@ -1,4 +1,265 @@
 {
-  "generated_at": "2026-06-21T14:30:39.802Z",
-  "updates": []
+  "generated_at": "2026-06-22T17:11:55.687Z",
+  "updates": [
+    {
+      "id": "ce9c0ec5bebd",
+      "category": "LEGIS",
+      "date": "2026-06-22",
+      "title": "Establishment of Class E Airspace; Belmont, MS",
+      "summary": "This action proposes to establish Class E airspace extending upward from 700 feet above the surface at Tishomingo Airport, Belmont, MS. Controlled airspace is necessary for the safety and management of instrument flight rules (IFR) operations at this airport.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12535/establishment-of-class-e-airspace-belmont-ms"
+    },
+    {
+      "id": "2a4369e91240",
+      "category": "LEGIS",
+      "date": "2026-06-22",
+      "title": "Sunshine Act Meetings",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12522/sunshine-act-meetings"
+    },
+    {
+      "id": "95b585e8fc9c",
+      "category": "LEGIS",
+      "date": "2026-06-22",
+      "title": "Sunshine Act Meetings",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12515/sunshine-act-meetings"
+    },
+    {
+      "id": "3454d1a66ba4",
+      "category": "LEGIS",
+      "date": "2026-06-22",
+      "title": "Deletion of Obsolete Regulations",
+      "summary": "In this document, the Federal Communications Commission (Commission) acts to eliminate certain outdated, obsolete, and unnecessary rules to modernize its regulatory framework.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12510/deletion-of-obsolete-regulations"
+    },
+    {
+      "id": "b0e03cb1cfdf",
+      "category": "LEGIS",
+      "date": "2026-06-22",
+      "title": "Agency Information Collection Activities; New Information Collection: Techniques for Preventing and Enforcing Controlled Substance and Alcohol Violations Among Non-Commercial Driver's License Commercial Motor Vehicle Drivers",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, FMCSA announces its plan to submit the Information Collection Request (ICR) described below to the Office of Management and Budget (OMB) for review and approval and invites public comment. This notice invites comments on a proposed information collection titled \"Techniques for Preventing and Enforcing Controlled Substance and Alcohol Violations Among Non-CDL Com",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12509/agency-information-collection-activities-new-information-collection-techniques-for-preventing-and"
+    },
+    {
+      "id": "d6dae640f5c6",
+      "category": "LEGIS",
+      "date": "2026-06-22",
+      "title": "Foreign-Trade Zone (FTZ) 18, Notification of Proposed Production Activity; Super Micro Computer, Inc.; (High-Performance Computing Systems); San Jose, Fremont, and Milpitas, California",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12508/foreign-trade-zone-ftz-18-notification-of-proposed-production-activity-super-micro-computer-inc"
+    },
+    {
+      "id": "7530464ea210",
+      "category": "LEGIS",
+      "date": "2026-06-22",
+      "title": "Revisions to User Fees for Export and Investment Promotion Services/Events",
+      "summary": "The International Trade Administration (ITA) is implementing new user fees for its export and investment promotion services/events to align with guidance from the Office of Management and Budget (OMB) in Circular A-25, which calls for agencies to fully recover their costs when providing services. ITA recently carried out an independent cost study which determined that the agency was not fully covering its costs when ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12507/revisions-to-user-fees-for-export-and-investment-promotion-servicesevents"
+    },
+    {
+      "id": "af16e235a85d",
+      "category": "LEGIS",
+      "date": "2026-06-22",
+      "title": "1,1,1,2- Tetrafluoroethane (R-134a) From the People's Republic of China: Final Results of Antidumping Duty Administrative Review; 2024-2025",
+      "summary": "The U.S. Department of Commerce (Commerce) finds that Zhejiang Sanmei Chemical Industry Co., Ltd. Jiangsu Sanmei Chemicals Co., Ltd.; and Fujian Qingliu Dongying Chemical Ind. Co. Ltd (collectively, Sanmei), the only mandatory respondent in this administrative review of the antidumping duty (AD) order on 1,1,1,2-Tetrafluoroethane (R-134a) from the People's Republic of China (China) covering the period of review (POR)",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12506/1112--tetrafluoroethane-r-134a-from-the-peoples-republic-of-china-final-results-of-antidumping-duty"
+    },
+    {
+      "id": "b806db73b339",
+      "category": "LEGIS",
+      "date": "2026-06-22",
+      "title": "Pipeline Safety: Advisory Bulletin on Preventing Excavation Damage During National Safe Digging Month and Beyond; Correction",
+      "summary": "PHMSA published a document in the Federal Register on April 21, 2026, issuing an advisory bulletin on preventing excavation damage. This notice corrects references to the Common Ground Alliance (CGA) Best Practices.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12505/pipeline-safety-advisory-bulletin-on-preventing-excavation-damage-during-national-safe-digging-month"
+    },
+    {
+      "id": "90640c913cad",
+      "category": "LEGIS",
+      "date": "2026-06-22",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension",
+      "summary": "The Federal Trade Commission (FTC or Commission) is seeking public comment on its proposal requesting that the Office of Management and Budget (OMB) extend for three years the current Paperwork Reduction Act (PRA) clearance for information collection requirements of its Rule Governing Pre-Sale Availability of Written Warranty Terms. The current clearance expires on July 31, 2026.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12503/agency-information-collection-activities-proposed-collection-comment-request-extension"
+    },
+    {
+      "id": "7ef66ce10372",
+      "category": "LEGIS",
+      "date": "2026-06-22",
+      "title": "Agency Information Collection Activities; Proposed OMB Generic Clearance; Comment Request; Generic Clearance for Information Collection Using Voluntary Surveys for Studies Conducted by the Federal Trade Commission Bureau of Economics To Support the FTC's Missions To Protect Consumers and Competition",
+      "summary": "The Federal Trade Commission (FTC) is seeking public comment on the proposed generic clearance for information collection using voluntary surveys titled, \"Generic Clearance for Information Collection Using Voluntary Surveys for Studies Conducted by the Federal Trade Commission Bureau of Economics to Support the FTC's Missions to Protect Consumers and Competition.\" The proposed information collection requirements desc",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12502/agency-information-collection-activities-proposed-omb-generic-clearance-comment-request-generic"
+    },
+    {
+      "id": "ad0a2416f7c0",
+      "category": "LEGIS",
+      "date": "2026-06-22",
+      "title": "Foreign-Trade Zone (FTZ) 193; Authorization of Production Activity; Lithionics Battery, LLC; (Lithium-Ion Battery Systems and Accessories); Clearwater, Florida",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12501/foreign-trade-zone-ftz-193-authorization-of-production-activity-lithionics-battery-llc-lithium-ion"
+    },
+    {
+      "id": "afefcbe64144",
+      "category": "LEGIS",
+      "date": "2026-06-22",
+      "title": "Prestressed Concrete Steel Wire Strand From Spain: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025",
+      "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that Global Special Steel Products S.A.U. (d.b.a. Trenzas y Cables de Acero PSC, S.L.) (TYCSA) made sales of subject merchandise at less than normal value (NV) during the period of review (POR), June 1, 2024, through May 31, 2025. Interested parties are invited to comment on these preliminary results of review.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12500/prestressed-concrete-steel-wire-strand-from-spain-preliminary-results-of-antidumping-duty"
+    },
+    {
+      "id": "c4d4cde2d38c",
+      "category": "LEGIS",
+      "date": "2026-06-22",
+      "title": "Sunshine Act Meetings",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12499/sunshine-act-meetings"
+    },
+    {
+      "id": "b12e26e1b1bf",
+      "category": "LEGIS",
+      "date": "2026-06-22",
+      "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Extension of a Previously Approved Collection; Title-Reporting Portal for Civil Rights Violations",
+      "summary": "The Department of Justice (DOJ), Civil Rights Division, will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12498/agency-information-collection-activities-proposed-ecollection-ecomments-requested-extension-of-a"
+    },
+    {
+      "id": "f5cd684abedc",
+      "category": "LEGIS",
+      "date": "2026-06-22",
+      "title": "Formations of, Acquisitions by, and Mergers of Bank Holding Companies",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12497/formations-of-acquisitions-by-and-mergers-of-bank-holding-companies"
+    },
+    {
+      "id": "b4fb4f2bf20a",
+      "category": "LEGIS",
+      "date": "2026-06-22",
+      "title": "Establishment of Class E Airspace; Rosenberg, TX",
+      "summary": "This action establishes Class E airspace at Lane Airpark, Rosenberg, TX. This action supports new instrument procedures and instrument flight rule (IFR) operations.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12496/establishment-of-class-e-airspace-rosenberg-tx"
+    },
+    {
+      "id": "e837b8c39fe8",
+      "category": "LEGIS",
+      "date": "2026-06-22",
+      "title": "Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to the Coeur Alaska, Inc.'s Kensington Dock Repair Project in Berners Bay, Alaska",
+      "summary": "In accordance with regulations implementing the Marine Mammal Protection Act (MMPA) as amended, notification is hereby given that NMFS has issued an incidental harassment authorization (IHA) to Coeur Alaska, Inc. (Coeur) for authorization to take marine mammals incidental to the Kensington Dock Repair Project in Berners Bay, Alaska.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12495/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-the"
+    },
+    {
+      "id": "e50bb8d77847",
+      "category": "LEGIS",
+      "date": "2026-06-22",
+      "title": "Notification of Comparability Findings for Suriname Under the Import Provisions of the Marine Mammal Protection Act",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12494/notification-of-comparability-findings-for-suriname-under-the-import-provisions-of-the-marine-mammal"
+    },
+    {
+      "id": "4bb465af7c7c",
+      "category": "LEGIS",
+      "date": "2026-06-22",
+      "title": "Board of Directors; Request for Nomination",
+      "summary": "The Unified Carrier Registration (UCR) Plan Board of Directors is requesting nominations of qualified individuals from the motor carrier industry for consideration by the Federal Motor Carrier Safety Administration (FMCSA) for appointment by FMCSA to the UCR Plan Board of Directors to fill a vacancy that has arisen. By statute, all nominees for the vacancy must be representatives of the motor carrier industry. The se",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/22/2026-12493/board-of-directors-request-for-nomination"
+    }
+  ]
 }
