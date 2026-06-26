@@ -1,265 +1,265 @@
 {
-  "generated_at": "2026-06-25T15:09:26.162Z",
+  "generated_at": "2026-06-26T14:45:12.395Z",
   "updates": [
     {
-      "id": "74c243188c8d",
+      "id": "0c12adf2d008",
       "category": "LEGIS",
-      "date": "2026-06-25",
-      "title": "Ushering in the Next Frontier of Quantum Innovation",
+      "date": "2026-06-26",
+      "title": "Removing Obsolete References to Twentieth-Century Airman Certificates",
+      "summary": "FAA proposes to remove obsolete references to pilot certificates and ratings issued more than 50 years ago.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/26/2026-13003/removing-obsolete-references-to-twentieth-century-airman-certificates"
+    },
+    {
+      "id": "e6b61303f430",
+      "category": "LEGIS",
+      "date": "2026-06-26",
+      "title": "Commission Meeting-Sunshine Act Notice",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12910/ushering-in-the-next-frontier-of-quantum-innovation"
+      "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12995/commission-meeting-sunshine-act-notice"
     },
     {
-      "id": "3bd8e21b5c00",
+      "id": "176fcca62b2b",
       "category": "LEGIS",
-      "date": "2026-06-25",
-      "title": "Securing the Nation Against Advanced Cryptographic Attacks",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12909/securing-the-nation-against-advanced-cryptographic-attacks"
-    },
-    {
-      "id": "6c8f62fd2e6b",
-      "category": "LEGIS",
-      "date": "2026-06-25",
-      "title": "Update of Procedures for Implementing the National Environmental Policy Act and Assessing the Environmental Effects Abroad of EPA Actions",
-      "summary": "The United States Environmental Protection Agency (EPA or Agency) is proposing amendments to its procedures for implementing the requirements of the National Environmental Policy Act of 1969 (NEPA). This proposed rule would also include technical amendments to the Agency's procedures to improve clarity, correct errors, and update office names and titles. This proposed rule would amend EPA's NEPA implementing procedur",
+      "date": "2026-06-26",
+      "title": "Modernizing Security Requirements",
+      "summary": "The U.S. Nuclear Regulatory Commission (NRC) is proposing to revise its regulations to modernize security and fitness-for-duty requirements to enhance efficiency, consistent with Executive Order 14300, \"Ordering the Reform of the Nuclear Regulatory Commission.\" The proposed revisions are intended to reduce regulatory burden, where appropriate, while continuing to provide reasonable assurance that safety and security ",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12862/update-of-procedures-for-implementing-the-national-environmental-policy-act-and-assessing-the"
+      "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12989/modernizing-security-requirements"
     },
     {
-      "id": "3c45cfd25b90",
+      "id": "98d26d3c26d6",
       "category": "LEGIS",
-      "date": "2026-06-25",
-      "title": "Rescinding the Equity Assistance Center Program Regulations",
-      "summary": "The Secretary of Education proposes to rescind the Equity Assistance Center Program regulations. The Department proposes to rescind these regulations to provide the Department greater flexibility in carrying out the statutory authority for this program and to enable the Department to align technical assistance activities with current and evolving priorities and needs to best achieve the statutory intent of the progra",
+      "date": "2026-06-26",
+      "title": "Sunshine Act Meetings",
+      "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12861/rescinding-the-equity-assistance-center-program-regulations"
+      "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12983/sunshine-act-meetings"
     },
     {
-      "id": "aeda279a18e9",
+      "id": "cee1718a4639",
       "category": "LEGIS",
-      "date": "2026-06-25",
-      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Grant Application Form for Project Objectives and Performance Measures Information",
-      "summary": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing an extension without change of a currently approved information collection request (ICR).",
+      "date": "2026-06-26",
+      "title": "Notice of Determinations; Culturally Significant Object Being Imported for Exhibition-Determinations: “Georgia O'Keeffe Architecture” Exhibition",
+      "summary": "Notice is hereby given of the following determinations: I hereby determine that a certain object being imported from abroad pursuant to an agreement with its foreign owner or custodian for temporary display in the exhibition \"Georgia O'Keeffe Architecture\" at the Detroit Institute of Arts, Detroit, Michigan, and at possible additional exhibitions or venues yet to be determined, is of cultural significance, and, furth",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12857/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for"
+      "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12982/notice-of-determinations-culturally-significant-object-being-imported-for-exhibition-determinations"
     },
     {
-      "id": "cdd8bf80c949",
+      "id": "9b1fa5e0f163",
       "category": "LEGIS",
-      "date": "2026-06-25",
-      "title": "Prohibition on the Use of Reputation Risk",
-      "summary": "On October 21, 2025, the Board issued its Notice of Proposed Rulemaking to codify the elimination of reputation risk from its supervisory framework. This change aligns with Executive Order 14331, \"Guaranteeing Fair Banking for All Americans.\" Effective September 25, 2025, the NCUA ceased examining for reputation risk. This final rule affirms that the agency will not consider reputation risk--whether alone or in combi",
+      "date": "2026-06-26",
+      "title": "Federal Motor Vehicle Safety Standards; Modernization of FMVSS No. 135 To Accommodate ADS-Equipped Vehicles",
+      "summary": "NHTSA is proposing to amend Federal Motor Vehicle Safety Standard (FMVSS) No. 135, \"Light vehicle brake systems.\" The proposed modifications would distinguish how regulations apply to vehicles with and without manually operated driving controls. The proposed modifications would clarify definitions, telltale requirements, performance requirements, and test procedures in the standard and remove sections that are no lon",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12981/federal-motor-vehicle-safety-standards-modernization-of-fmvss-no-135-to-accommodate-ads-equipped"
+    },
+    {
+      "id": "c0f48a27adbc",
+      "category": "LEGIS",
+      "date": "2026-06-26",
+      "title": "ADS-Equipped Vehicle Safety, Transparency, and Evaluation Program; Withdrawal",
+      "summary": "This action withdraws the notice of proposed rulemaking (NPRM) published in the Federal Register on January 15, 2025, which proposed to establish the Automated Driving System-Equipped Vehicle Safety, Transparency, and Evaluation Program (AV STEP). The proposal would have created a voluntary program for vehicle manufacturers, developers of Automated Driving Systems (ADS), and fleet operators or system integrators of s",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12980/ads-equipped-vehicle-safety-transparency-and-evaluation-program-withdrawal"
+    },
+    {
+      "id": "fb364c97c32b",
+      "category": "LEGIS",
+      "date": "2026-06-26",
+      "title": "Agency Information Collection Activities: Request for Comments for a New Information Collection",
+      "summary": "The FHWA has forwarded the information collection request described in this notice to the Office of Management and Budget (OMB) to approve a new information collection. We are required to publish this notice in the Federal Register by the Paperwork Reduction Act of 1995.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12979/agency-information-collection-activities-request-for-comments-for-a-new-information-collection"
+    },
+    {
+      "id": "971ecac5684a",
+      "category": "LEGIS",
+      "date": "2026-06-26",
+      "title": "Meeting of the Regional Energy Resource Council",
+      "summary": "The TVA Regional Energy Resource Council (RERC) will hold a meeting on July 14, 2026, to receive an update and provide advice on TVA's 2026 Integrated Resource Plan (IRP). The IRP provides strategic direction on how TVA will continue to provide low-cost, reliable, and resilient electricity to the 10 million residents of the Valley region.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12978/meeting-of-the-regional-energy-resource-council"
+    },
+    {
+      "id": "5685b91ba6f7",
+      "category": "LEGIS",
+      "date": "2026-06-26",
+      "title": "Agency Information Collection Activities: Proposed Collection; Comment Request Proposed Project: Request To Publish the 30-Day Notices in the Federal Register To Solicit Public Comment on Information Collection for the Continued Approval and Updates for the Protection and Advocacy for Individuals With Mental Illness (PAIMI)-Revised Annual Program Performance Report (PPR)-OMB No. 0930-0169- DECISION",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12977/agency-information-collection-activities-proposed-collection-comment-request-proposed-project"
+    },
+    {
+      "id": "ca4c57820501",
+      "category": "LEGIS",
+      "date": "2026-06-26",
+      "title": "Uniform Allowances",
+      "summary": "The Office of Personnel Management (OPM) is confirming the effective date of its direct final rule amending 5 CFR part 591, subpart A, to increase the governmentwide maximum annual uniform allowance rate to $1,500 and make related technical and clarifying changes. OPM received no significant adverse comments during the comment period and therefore confirms the rule will become effective as scheduled.",
       "tags": [
         "Federal Register"
       ],
       "priority": "high",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12856/prohibition-on-the-use-of-reputation-risk"
+      "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12976/uniform-allowances"
     },
     {
-      "id": "93356ce91ede",
-      "category": "FDA",
-      "date": "2026-06-25",
-      "title": "Sterigenics U.S., LLC; Filing of Food Additive Petition",
-      "summary": "The Food and Drug Administration (FDA or we) is announcing that we have filed a food additive petition, submitted by Sterigenics U.S., LLC, proposing that we amend our food additive regulations to provide for the safe use of ionizing radiation for the reduction of pathogens in raw enriched wheat flour.",
+      "id": "74976bed860b",
+      "category": "LEGIS",
+      "date": "2026-06-26",
+      "title": "Agency Information Collection Activities: Submission for Office of Management and Budget Review (OMB); Comment Request",
+      "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12855/sterigenics-us-llc-filing-of-food-additive-petition"
+      "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12975/agency-information-collection-activities-submission-for-office-of-management-and-budget-review-omb"
     },
     {
-      "id": "d030f4fb9d01",
+      "id": "7af2c0b7b885",
       "category": "LEGIS",
-      "date": "2026-06-25",
-      "title": "Columbia Gulf Transmission, LLC; Notice of Availability of the Environmental Assessment for the Proposed Pulaski Project",
+      "date": "2026-06-26",
+      "title": "Privacy Act of 1974; System of Records",
+      "summary": "In accordance with the Privacy Act of 1974, the Office of Personnel Management (OPM) proposes to modify and republish a new system of records previously titled \"OPM/Central-9, Personnel Investigations Records\" which will be renamed to \"OPM/Central-9, OPM Suitability Adjudications Files.\" The modification is necessary since the current system of records previously covered both background investigation records and suit",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12974/privacy-act-of-1974-system-of-records"
+    },
+    {
+      "id": "109bcacf4bf0",
+      "category": "LEGIS",
+      "date": "2026-06-26",
+      "title": "Submission for OMB Review; Comment Request",
       "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12973/submission-for-omb-review-comment-request"
+    },
+    {
+      "id": "09ce349a1d1b",
+      "category": "LEGIS",
+      "date": "2026-06-26",
+      "title": "Reopening or Extension of Application Deadline Dates; Applications for New Awards",
+      "summary": "The Department announces competitions each year for its discretionary grant funding through Application Notice and Instruction documents published on Grants.gov. In our announcements, we share the dates for the transmittal of applications for these competitions. When there is a Major Disaster Declaration issued by the President, the Department will consider, on a competition-by-competition basis and at the Department",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12972/reopening-or-extension-of-application-deadline-dates-applications-for-new-awards"
+    },
+    {
+      "id": "a0579cf94004",
+      "category": "LEGIS",
+      "date": "2026-06-26",
+      "title": "Proposed Information Collection Activity; TANF Contingency Fund Application",
+      "summary": "The Office of Family Assistance, Administration for Children and Families (ACF), U.S. Department of Health and Human Services, is proposing to collect data for state requests of Temporary Assistance for Needy Families (TANF) Contingency Fund provisional payments through the TANF Contingency Fund Application.",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12853/columbia-gulf-transmission-llc-notice-of-availability-of-the-environmental-assessment-for-the"
+      "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12971/proposed-information-collection-activity-tanf-contingency-fund-application"
     },
     {
-      "id": "222e2f9700e2",
+      "id": "d81d976f2ef1",
       "category": "LEGIS",
-      "date": "2026-06-25",
-      "title": "Notice of Petition for Extension of Waiver of Compliance",
-      "summary": "This document provides the public notice that Norfolk Southern Railway Company (NS) petitioned FRA for an extension of relief from certain regulations concerning periodic testing requirements on vital microprocessor-based systems.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12852/notice-of-petition-for-extension-of-waiver-of-compliance"
-    },
-    {
-      "id": "1ddf9d32d21a",
-      "category": "LEGIS",
-      "date": "2026-06-25",
-      "title": "Consolidated Water Power Company; Notice of Application for a Non-Capacity Amendment of License Accepted for Filing, Soliciting Comments, Motions To Intervene, and Protests",
+      "date": "2026-06-26",
+      "title": "Aman Kaushik, Complainant v. SFL Worldwide LLC, Respondent; Notice of Filing of Complaint and Assignment",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12851/consolidated-water-power-company-notice-of-application-for-a-non-capacity-amendment-of-license"
+      "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12970/aman-kaushik-complainant-v-sfl-worldwide-llc-respondent-notice-of-filing-of-complaint-and-assignment"
     },
     {
-      "id": "7a1a68abc7e8",
-      "category": "FDA",
-      "date": "2026-06-25",
-      "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
-      "summary": "Notice is hereby given that the U.S. International Trade Commission has received a complaint entitled Certain Dermatological Treatment Devices and Components Thereof II, DN 3918; the Commission is soliciting comments on any public interest issues raised by the complaint or complainant's filing pursuant to the Commission's Rules of Practice and Procedure.",
+      "id": "d2d462ff58ab",
+      "category": "LEGIS",
+      "date": "2026-06-26",
+      "title": "HEARTH Act Approval of Caddo Nation of Oklahoma Leasing Ordinance",
+      "summary": "The Assistant Secretary--Indian Affairs approved the Caddo Nation of Oklahoma Leasing Ordinance under the Helping Expedite and Advance Responsible Tribal Homeownership Act of 2012 (HEARTH Act). With this approval, the Tribe is authorized to enter into leases without further approval from the Secretary of the Interior.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12850/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest"
+      "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12969/hearth-act-approval-of-caddo-nation-of-oklahoma-leasing-ordinance"
     },
     {
-      "id": "6337df6dad31",
+      "id": "154cb9b732e8",
       "category": "LEGIS",
-      "date": "2026-06-25",
-      "title": "Notice of Petition for Waiver of Compliance",
-      "summary": "This document provides the public notice that the Virginia Museum of Transportation (VMT) petitioned FRA for relief from certain regulations concerning removal of a locomotive's arch brick during an annual steam locomotive inspection.",
+      "date": "2026-06-26",
+      "title": "HEARTH Act Approval of Cachil DeHe Band of Wintun Indians of the Colusa Indian Community of the Colusa Rancheria, California, Leasing Ordinance",
+      "summary": "The Assistant Secretary--Indian Affairs approved the Cachil DeHe Band of Wintun Indians of the Colusa Indian Community of the Colusa Rancheria, California, Leasing Ordinance under the Helping Expedite and Advance Responsible Tribal Homeownership Act of 2012 (HEARTH Act). With this approval, the Tribe is authorized to enter into leases without further Secretary of the Interior approval.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12849/notice-of-petition-for-waiver-of-compliance"
+      "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12968/hearth-act-approval-of-cachil-dehe-band-of-wintun-indians-of-the-colusa-indian-community-of-the"
     },
     {
-      "id": "d10973247ed3",
+      "id": "a6813c5d13f2",
       "category": "LEGIS",
-      "date": "2026-06-25",
-      "title": "Commission Information Collection Activities (FERC-516); Comment Request; Merger; Extension",
-      "summary": "In compliance with the requirements of the Paperwork Reduction Act of 1995, 44 U.S.C. 3506(c)(2)(A), the Federal Energy Regulatory Commission (Commission or FERC) is soliciting public comment on the currently approved information collection, FERC-516: Electric Rates and Tariffs. The Commission is proposing to renew and consolidate a number of electric tariff collections under FERC-516. There are no proposed changes t",
+      "date": "2026-06-26",
+      "title": "Proposed Data Collection Submitted for Public Comment and Recommendations",
+      "summary": "The Agency for Toxic Substances and Disease Registry (ATSDR), as part of its continuing effort to reduce public burden and maximize the utility of government information, invites the general public and other federal agencies the opportunity to comment on a continuing information collection, as required by the Paperwork Reduction Act of 1995. This notice invites comment on a proposed information collection project tit",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12848/commission-information-collection-activities-ferc-516-comment-request-merger-extension"
-    },
-    {
-      "id": "c571f9f6e8aa",
-      "category": "LEGIS",
-      "date": "2026-06-25",
-      "title": "Double E Pipeline, LLC; Notice of Request Under Blanket Authorization and Establishing Intervention and Protest Deadline",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12847/double-e-pipeline-llc-notice-of-request-under-blanket-authorization-and-establishing-intervention"
-    },
-    {
-      "id": "a2cb5a1d0445",
-      "category": "FDA",
-      "date": "2026-06-25",
-      "title": "United States Standards for Grades of Orange Juice",
-      "summary": "The Agricultural Marketing Service (AMS) is revising the U.S. Standards for Grades of Orange Juice (U.S. OJ Standards or Standards) by revising the limits for Grade B Brix allowances in Pasteurized Orange Juice (POJ) under the U.S. OJ Standards to reference the Food and Drug Administration's (FDA) Standard of Identity (SOI) for POJ.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12846/united-states-standards-for-grades-of-orange-juice"
-    },
-    {
-      "id": "72e84c9cff02",
-      "category": "LEGIS",
-      "date": "2026-06-25",
-      "title": "Change In Control: NFE Altamira FLNG, S. de R.L. de C.V.",
-      "summary": "The Hydrocarbons and Geothermal Energy Office of the Department of Energy (DOE) gives notice of receipt of a Statement of Change in Control (Statement) filed by NFE Altamira FLNG, S. de R.L. de C.V. (NFE Altamira) on June 4, 2026. The Statement describes an anticipated change in NFE Altamira's upstream ownership. The Statement was filed under the Natural Gas Act, and in accordance with DOE's regulations and DOE's Pro",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12845/change-in-control-nfe-altamira-flng-s-de-rl-de-cv"
-    },
-    {
-      "id": "443902cd80ab",
-      "category": "LEGIS",
-      "date": "2026-06-25",
-      "title": "Center for Scientific Review; Notice of Closed Meetings",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12844/center-for-scientific-review-notice-of-closed-meetings"
-    },
-    {
-      "id": "f3794c5654fa",
-      "category": "LEGIS",
-      "date": "2026-06-25",
-      "title": "Government Owned Inventions Available for License: C8166-45 Cell Line",
-      "summary": "The National Cancer Institute (NCI) seeks licensees for a human T-cell line, C8166-45, transformed by HTLV-1. C8166-45, also known as C63/CRII-2, contains three transcriptionally active proviruses useful for testing biological activities involved in T-cell immortalization and growth.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12843/government-owned-inventions-available-for-license-c8166-45-cell-line"
-    },
-    {
-      "id": "75e139782490",
-      "category": "LEGIS",
-      "date": "2026-06-25",
-      "title": "Government Owned Inventions Available for License: Compositions and Methods for Producing Dendritic Cell-based Vaccines With Enhanced Efficacy",
-      "summary": "The National Cancer Institute (NCI) is seeking research co- development partners and/or licensees for NCI's compositions and methods to enhance the efficacy of dendritic cell (DC)-based cancer vaccines.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12842/government-owned-inventions-available-for-license-compositions-and-methods-for-producing-dendritic"
-    },
-    {
-      "id": "09f1a7e0374a",
-      "category": "LEGIS",
-      "date": "2026-06-25",
-      "title": "Fisheries of the Exclusive Economic Zone off Alaska; Modify the Timing of Haul Designation for Trawl Catcher Processors in the Gulf of Alaska and Bering Sea and Aleutian Islands Groundfish Fisheries",
-      "summary": "NMFS issues this final rule to standardize the time limit in which trawl catcher/processors (C/Ps) participating in the groundfish fisheries in the Gulf of Alaska Management Area (GOA) and the Bering Sea and Aleutian Islands Management Area (BSAI) must assign each haul to a management program. This action is necessary to improve consistency with respect to when trawl C/Ps are required to assign a haul to a specific m",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "high",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/06/25/2026-12839/fisheries-of-the-exclusive-economic-zone-off-alaska-modify-the-timing-of-haul-designation-for-trawl"
+      "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12967/proposed-data-collection-submitted-for-public-comment-and-recommendations"
     }
   ]
 }
