@@ -1,4 +1,265 @@
 {
-  "generated_at": "2026-06-28T14:13:42.907Z",
-  "updates": []
+  "generated_at": "2026-06-29T16:07:33.607Z",
+  "updates": [
+    {
+      "id": "1e070c741976",
+      "category": "CMS",
+      "date": "2026-06-29",
+      "title": "Medicaid Program; Community Engagement Requirement for Certain Individuals",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/29/C1-2026-11094/medicaid-program-community-engagement-requirement-for-certain-individuals"
+    },
+    {
+      "id": "4d4be233fa4a",
+      "category": "LEGIS",
+      "date": "2026-06-29",
+      "title": "Real Estate Lending Escrow Accounts",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/29/C1-2026-10036/real-estate-lending-escrow-accounts"
+    },
+    {
+      "id": "af42b9322247",
+      "category": "LEGIS",
+      "date": "2026-06-29",
+      "title": "Sunshine Act Meetings: Notice of Meeting Held With Less Than Seven Days' Advance Notice",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13116/sunshine-act-meetings-notice-of-meeting-held-with-less-than-seven-days-advance-notice"
+    },
+    {
+      "id": "4346111dae26",
+      "category": "LEGIS",
+      "date": "2026-06-29",
+      "title": "Sunshine Act Meetings",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13115/sunshine-act-meetings"
+    },
+    {
+      "id": "bc122c415eef",
+      "category": "FDA",
+      "date": "2026-06-29",
+      "title": "Medical Devices; Orthopedic Devices; Classification of the Medial Knee Implanted Shock Absorber",
+      "summary": "The Food and Drug Administration (FDA) is classifying the medial knee implanted shock absorber into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the medial knee implanted shock absorber. We are taking this action because we have determined that classifying the device into class II will provi",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13101/medical-devices-orthopedic-devices-classification-of-the-medial-knee-implanted-shock-absorber"
+    },
+    {
+      "id": "e75d1989f5b8",
+      "category": "FDA",
+      "date": "2026-06-29",
+      "title": "Cellular, Tissue, and Gene Therapies Advisory Committee; Notice of Meeting; Establishment of a Public Docket; Request for Comments-Biologics License Application (BLA) 125842 From Capricor, Inc. for Deramiocel (Human Allogeneic Cardiosphere-Derived Cells)",
+      "summary": "The Food and Drug Administration (FDA) announces a forthcoming public advisory committee meeting of the Cellular, Tissue, and Gene Therapies Advisory Committee (the Committee). The general function of the Committee is to provide advice and recommendations to FDA on regulatory issues. The meeting will be open to the public. FDA is establishing a docket for public comment on this document.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13096/cellular-tissue-and-gene-therapies-advisory-committee-notice-of-meeting-establishment-of-a-public"
+    },
+    {
+      "id": "98b2f4f84b31",
+      "category": "LEGIS",
+      "date": "2026-06-29",
+      "title": "Notice of Public Comments on Section 133 of the Expanding Public Lands Outdoor Recreation Experiences (EXPLORE) Act",
+      "summary": "Section 133 of the Expanding Public Lands Outdoor Recreation Experiences (EXPLORE) Act requires the Secretaries, after public notice and comment, to establish pilot protocols at not fewer than 10 land management units under the jurisdiction of each Secretary to model recreation use patterns, including low-use recreation activities and dispersed recreation activities, that may not be effectively measured by existing g",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13095/notice-of-public-comments-on-section-133-of-the-expanding-public-lands-outdoor-recreation"
+    },
+    {
+      "id": "11bf4f0258b8",
+      "category": "LEGIS",
+      "date": "2026-06-29",
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Survey of Postgraduate Employment for the Foreign Language and Area Studies (FLAS) Fellowship Program",
+      "summary": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing revision of a currently approved information collection request (ICR).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13094/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for"
+    },
+    {
+      "id": "b404d92c19df",
+      "category": "LEGIS",
+      "date": "2026-06-29",
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13093/center-for-scientific-review-notice-of-closed-meetings"
+    },
+    {
+      "id": "85909d62baef",
+      "category": "LEGIS",
+      "date": "2026-06-29",
+      "title": "Technical Guidelines for the Production of Regenerative Agricultural Biofuel Feedstocks",
+      "summary": "This final rule revises technical guidelines for quantifying, reporting, and verifying the carbon intensity of agricultural commodity crops used in the production of biofuels relative to an estimated national average that were established by a prior January 2025 interim rule. Specifically, the January 2025 interim rule established guidelines for the implementation, reporting, verification, and quantification of carbo",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13092/technical-guidelines-for-the-production-of-regenerative-agricultural-biofuel-feedstocks"
+    },
+    {
+      "id": "36782b575302",
+      "category": "LEGIS",
+      "date": "2026-06-29",
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Type-Approval Requirements for Vessel Monitoring Systems (VMS)",
+      "summary": "The Department of Commerce, in accordance with the Paperwork Reduction Act of 1995 (PRA), invites the general public and other Federal agencies to comment on continuing information collections, which helps us assess the impact of our information collection requirements and minimize the public's reporting burden. The purpose of this notice is to allow for 60 days of public comment preceding submission of the collectio",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13091/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+    },
+    {
+      "id": "56589307da8b",
+      "category": "LEGIS",
+      "date": "2026-06-29",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 15g-9",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13090/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-15g-9"
+    },
+    {
+      "id": "8c70427dd09f",
+      "category": "LEGIS",
+      "date": "2026-06-29",
+      "title": "30-Day Notice of Proposed Information Collection: Ginnie Mae Digital Collateral Program",
+      "summary": "HUD is seeking approval from the Office of Management and Budget (OMB) for the information collection described below. In accordance with the Paperwork Reduction Act, HUD is requesting comments from all interested parties on the proposed collection of information. The purpose of this notice is to allow for 30 days of public comment.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13089/30-day-notice-of-proposed-information-collection-ginnie-mae-digital-collateral-program"
+    },
+    {
+      "id": "3eec963c4db8",
+      "category": "LEGIS",
+      "date": "2026-06-29",
+      "title": "Constitution Pipeline Company, LLC; Iroquois Gas Transmission System, L.P.: Notice of Schedule for the Preparation of an Environmental Assessment for the Constitution Pipeline and Wright Interconnect Projects",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13088/constitution-pipeline-company-llc-iroquois-gas-transmission-system-lp-notice-of-schedule-for-the"
+    },
+    {
+      "id": "b36f06d27414",
+      "category": "LEGIS",
+      "date": "2026-06-29",
+      "title": "Northern Natural Gas Company; Notice of Schedule for the Preparation of an Environmental Assessment for the Central Mainline Corridor Expansion Project",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13087/northern-natural-gas-company-notice-of-schedule-for-the-preparation-of-an-environmental-assessment"
+    },
+    {
+      "id": "d729f931bdbc",
+      "category": "LEGIS",
+      "date": "2026-06-29",
+      "title": "WBI Energy Transmission, Inc.; Notice of Schedule for the Preparation of an Environmental Assessment for the Line Section 32 Expansion Project",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13086/wbi-energy-transmission-inc-notice-of-schedule-for-the-preparation-of-an-environmental-assessment"
+    },
+    {
+      "id": "dbad4dbd81a9",
+      "category": "LEGIS",
+      "date": "2026-06-29",
+      "title": "30-Day Notice of Proposed Information Collection: Economic Development Initiative Community Project Funding Grants",
+      "summary": "HUD is seeking approval from the Office of Management and Budget (OMB) for the information collection described below. In accordance with the Paperwork Reduction Act, HUD is requesting comments from all interested parties on the proposed collection of information. The purpose of this notice is to allow for 30 days of public comment.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13085/30-day-notice-of-proposed-information-collection-economic-development-initiative-community-project"
+    },
+    {
+      "id": "2e0a05acae0e",
+      "category": "LEGIS",
+      "date": "2026-06-29",
+      "title": "Combined Notice of Filings",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13084/combined-notice-of-filings"
+    },
+    {
+      "id": "42bea7b8ad8d",
+      "category": "LEGIS",
+      "date": "2026-06-29",
+      "title": "Submission for OMB Review; Comment Request",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13083/submission-for-omb-review-comment-request"
+    },
+    {
+      "id": "4408eb0d5bdb",
+      "category": "LEGIS",
+      "date": "2026-06-29",
+      "title": "Sunshine Act Meetings",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/06/29/2026-13082/sunshine-act-meetings"
+    }
+  ]
 }
