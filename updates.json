@@ -1,4 +1,265 @@
 {
-  "generated_at": "2026-07-05T14:05:55.778Z",
-  "updates": []
+  "generated_at": "2026-07-06T15:52:58.302Z",
+  "updates": [
+    {
+      "id": "9e519ea12422",
+      "category": "LEGIS",
+      "date": "2026-07-06",
+      "title": "Improvements to Rules on Recoupment of Benefit Overpayments",
+      "summary": "The Pension Benefit Guaranty Corporation (PBGC) is proposing to improve its rules on recoupment of benefit overpayments under PBGC's insurance program for single-employer terminated plans trusteed by PBGC. These proposed improvements include changing the recoupment methodology to a flat rate of 5 percent of a participant's monthly benefit and eliminating recoupment from a participant's surviving beneficiary.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13639/improvements-to-rules-on-recoupment-of-benefit-overpayments"
+    },
+    {
+      "id": "745a22538712",
+      "category": "LEGIS",
+      "date": "2026-07-06",
+      "title": "Rescission of Guidelines on Affirmative Action Appropriate Under Title VII of the Civil Rights Act of 1964, as Amended",
+      "summary": "The Equal Employment Opportunity Commission (\"EEOC\" or \"Commission\") is rescinding its regulations regarding Affirmative Action Appropriate Under Title VII of the Civil Rights Act of 1964 (\"Guidelines\"), and removing it from the Code of Federal Regulations. The Commission is rescinding the Guidelines and removing them from the Code of Federal Regulations because the Guidelines are inconsistent with the statutory lang",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13637/rescission-of-guidelines-on-affirmative-action-appropriate-under-title-vii-of-the-civil-rights-act"
+    },
+    {
+      "id": "eda5da8e0fdf",
+      "category": "LEGIS",
+      "date": "2026-07-06",
+      "title": "Presidential Determination on Assistance to Venezuela Consistent With the Trafficking Victims Protection Act of 2000",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13631/presidential-determination-on-assistance-to-venezuela-consistent-with-the-trafficking-victims"
+    },
+    {
+      "id": "9182c9319653",
+      "category": "LEGIS",
+      "date": "2026-07-06",
+      "title": "Atlantic Highly Migratory Species; Atlantic Bluefin Tuna Fisheries; Closure of the Angling Category Southern New England Area Trophy Fishery for 2026",
+      "summary": "NMFS closes the Angling category Southern New England area fishery for large medium and giant (\"trophy\" (i.e., measuring 73 inches (185 centimeters (cm)) curved fork length or greater)) Atlantic bluefin tuna (BFT). This action applies to Highly Migratory Species (HMS) Angling and HMS Charter/Headboat permitted vessels when fishing recreationally.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13630/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-closure-of-the-angling-category"
+    },
+    {
+      "id": "0189b3d9930f",
+      "category": "LEGIS",
+      "date": "2026-07-06",
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Request for Duty-Free Entry of Scientific Instrument or Apparatus",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13626/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+    },
+    {
+      "id": "2ef1d5208a68",
+      "category": "LEGIS",
+      "date": "2026-07-06",
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Wage Mariner Hiring Portal",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13625/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+    },
+    {
+      "id": "55ae0e365178",
+      "category": "LEGIS",
+      "date": "2026-07-06",
+      "title": "Nondiscrimination in Federally Assisted Programs of NASA-Effectuation of Title VI of the Civil Rights Act of 1964",
+      "summary": "NASA is amending its regulation implementing Title VI of the Civil Rights Act of 1964 (Title VI) for federally assisted programs to conform more closely to the statutory text and recent revisions by the Department of Justice (DOJ). This action removes provisions establishing disparate-impact liability. The rule also clarifies that Title VI reaches employment practices under this part only where employment is a primar",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13624/nondiscrimination-in-federally-assisted-programs-of-nasa-effectuation-of-title-vi-of-the-civil"
+    },
+    {
+      "id": "fcac5d1d795e",
+      "category": "LEGIS",
+      "date": "2026-07-06",
+      "title": "United States et al. v. Live Nation Entertainment, Inc.; Proposed Final Judgment and Competitive Impact Statement",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13623/united-states-et-al-v-live-nation-entertainment-inc-proposed-final-judgment-and-competitive-impact"
+    },
+    {
+      "id": "5ab84bca61d1",
+      "category": "LEGIS",
+      "date": "2026-07-06",
+      "title": "60-Day Notice of Request for Revision of a Currently Approved Information Collection: OneRD Loan Guarantee Program",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995 (44 U.S.C. Chapter 35), this notice invites comments on the OneRD Loan Guarantee Program information collection package and announces the Rural Utilities Service intention to request a revision to a currently approved information collection from the Office of Management and Budget (OMB).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13622/60-day-notice-of-request-for-revision-of-a-currently-approved-information-collection-onerd-loan"
+    },
+    {
+      "id": "8298b8f97ccc",
+      "category": "LEGIS",
+      "date": "2026-07-06",
+      "title": "Agency Information Collection Activities: Submission for OMB Review; Comment Request",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13621/agency-information-collection-activities-submission-for-omb-review-comment-request"
+    },
+    {
+      "id": "bb3fb464ab6e",
+      "category": "LEGIS",
+      "date": "2026-07-06",
+      "title": "Amendment of Using Agency and Controlling Agency for Restricted Areas R-5301, R-5302A, R-5302B, and R-5302C; NC",
+      "summary": "This action amends the using agency and controlling agency descriptions listed for restricted areas R-5301, R-5302A, R-5302B, and R-5302C, NC. This action does not change any boundaries, altitudes, times of designation, or activities conducted within the restricted areas.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13620/amendment-of-using-agency-and-controlling-agency-for-restricted-areas-r-5301-r-5302a-r-5302b-and"
+    },
+    {
+      "id": "5a4bfe3d367b",
+      "category": "LEGIS",
+      "date": "2026-07-06",
+      "title": "Safety Zone; Lake Michigan, Chicago, IL",
+      "summary": "The Coast Guard is establishing a temporary safety zone for certain navigable waters of Monroe Harbor and Lake Michigan. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards created by a fireworks display and drone show. This proposed rulemaking would prohibit persons and vessels from being in the safety zone unless specifically authorized by the Captain of the Po",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13619/safety-zone-lake-michigan-chicago-il"
+    },
+    {
+      "id": "d23fcb30db49",
+      "category": "LEGIS",
+      "date": "2026-07-06",
+      "title": "Submission for OMB Review; Comment Request",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13618/submission-for-omb-review-comment-request"
+    },
+    {
+      "id": "6fe03f87d54e",
+      "category": "LEGIS",
+      "date": "2026-07-06",
+      "title": "New Postal Products",
+      "summary": "The Commission is noticing a recent Postal Service filing for the Commission's consideration concerning a negotiated service agreement. This notice informs the public of the filing, invites public comment, and takes other administrative steps.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13617/new-postal-products"
+    },
+    {
+      "id": "0d7997ac3db0",
+      "category": "FDA",
+      "date": "2026-07-06",
+      "title": "Endo Operations Limited, et al.; Withdrawal of Approval of 34 New Drug Applications",
+      "summary": "The Food and Drug Administration (FDA or Agency) is withdrawing approval of 34 new drug applications (NDAs) from multiple applicants. The applicants notified the Agency in writing that the drug products were no longer marketed and requested that the approval of the applications be withdrawn.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13616/endo-operations-limited-et-al-withdrawal-of-approval-of-34-new-drug-applications"
+    },
+    {
+      "id": "c195a183bb28",
+      "category": "LEGIS",
+      "date": "2026-07-06",
+      "title": "Draft Guidance for Reducing Risk From Perfluorooctanoic Acid (PFOA) and Perfluorooctane Sulfonic Acid (PFOS) in Biosolids; Establishment of a Public Docket; Request for Feedback",
+      "summary": "The U.S. Environmental Protection Agency (EPA) is making available a draft memorandum that would, if finalized, provide guidance to operators of wastewater treatment plants (WWTPs) and related facilities, landowners and farmers, State and Tribal water agencies, and the public on ways to reduce potential risks posed by perfluorooctanoic acid (PFOA) and perfluorooctane sulfonic acid (PFOS) in biosolids, as well as seek",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13615/draft-guidance-for-reducing-risk-from-perfluorooctanoic-acid-pfoa-and-perfluorooctane-sulfonic-acid"
+    },
+    {
+      "id": "d8297bd02d84",
+      "category": "LEGIS",
+      "date": "2026-07-06",
+      "title": "Safety Zone; Savannah River, Savannah, GA",
+      "summary": "The Coast Guard is establishing a temporary safety zone for navigable waters near Elba Island Cut on the Savannah River, Savannah, GA. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards associated with installation of submerged dredge pipelines. Entry of vessels or persons into this zone is prohibited unless specifically authorized by the Captain of the Port Sav",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13614/safety-zone-savannah-river-savannah-ga"
+    },
+    {
+      "id": "032f78c39d50",
+      "category": "LEGIS",
+      "date": "2026-07-06",
+      "title": "Arts Advisory Panel Meetings",
+      "summary": "Pursuant to the Federal Advisory Committee Act, as amended, notice is hereby given that 11 meetings of the Arts Advisory Panel to the National Council on the Arts will be held by teleconference or videoconference.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13613/arts-advisory-panel-meetings"
+    },
+    {
+      "id": "27ffefd4b4cd",
+      "category": "LEGIS",
+      "date": "2026-07-06",
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13612/center-for-scientific-review-notice-of-closed-meetings"
+    },
+    {
+      "id": "56b84e752afa",
+      "category": "LEGIS",
+      "date": "2026-07-06",
+      "title": "Petition for Reconsideration of Action in Rulemaking Proceeding",
+      "summary": "A Petition for Reconsideration (Petition) has been filed in the Commission's proceeding by Brenna Sparks on behalf of DIRECTV, LLC.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13611/petition-for-reconsideration-of-action-in-rulemaking-proceeding"
+    }
+  ]
 }
