@@ -1,265 +1,265 @@
 {
-  "generated_at": "2026-07-08T14:37:53.203Z",
+  "generated_at": "2026-07-09T15:31:44.260Z",
   "updates": [
     {
-      "id": "47b809593743",
+      "id": "932ce08f9928",
       "category": "LEGIS",
-      "date": "2026-07-08",
-      "title": "Naturalization Application Fee Adjustments",
-      "summary": "Federal Register document (no abstract provided).",
+      "date": "2026-07-09",
+      "title": "Anti-Money Laundering and Countering the Financing of Terrorism Programs",
+      "summary": "The Board of Governors of the Federal Reserve System (the Board) is inviting comment on a proposed rule that would require its supervised banks to establish and maintain effective anti-money laundering and countering the financing of terrorism (AML/CFT) programs reasonably designed to identify, assess, and mitigate risks of illicit finance. Among other changes, this proposed rule would ensure that Board-supervised ba",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13919/anti-money-laundering-and-countering-the-financing-of-terrorism-programs"
+    },
+    {
+      "id": "5c124fd7fd83",
+      "category": "LEGIS",
+      "date": "2026-07-09",
+      "title": "Agency Information Collection Activities; Comment Request on Notice of Qualified Equity Investment for New Markets Credit",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/08/C1-2026-12542/naturalization-application-fee-adjustments"
+      "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13909/agency-information-collection-activities-comment-request-on-notice-of-qualified-equity-investment"
     },
     {
-      "id": "1bcb0af123cc",
+      "id": "aeffec0ce2ae",
       "category": "LEGIS",
-      "date": "2026-07-08",
-      "title": "250th Anniversary of the Adoption of the Declaration of Independence",
-      "summary": "Federal Register document (no abstract provided).",
+      "date": "2026-07-09",
+      "title": "Proposed Agency Information Collection Activities; Comment Request",
+      "summary": "The Board of Governors of the Federal Reserve System (Board) invites comment on a proposal to extend for three years, without revision, the Survey of Household Economics and Decisionmaking (FR 3077; OMB No. 7100-0374).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13908/proposed-agency-information-collection-activities-comment-request"
+    },
+    {
+      "id": "6122ba75ef56",
+      "category": "LEGIS",
+      "date": "2026-07-09",
+      "title": "FY 2026 Competitive Funding Opportunity: Innovative Coordinated Access and Mobility",
+      "summary": "The Federal Transit Administration (FTA) announces the opportunity to apply for approximately $12 million in competitive grants for the Fiscal Year (FY) 2026 Innovative Coordinated Access and Mobility (ICAM) Program.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/08/2026-13842/250th-anniversary-of-the-adoption-of-the-declaration-of-independence"
+      "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13907/fy-2026-competitive-funding-opportunity-innovative-coordinated-access-and-mobility"
     },
     {
-      "id": "c747b5517e0f",
-      "category": "FDA",
-      "date": "2026-07-08",
-      "title": "Schedules of Controlled Substances: Placement of Tianeptine in Schedule I",
-      "summary": "The Drug Enforcement Administration proposes placing the substance tianeptine (7-[(3-chloro-6,11-dihydro-6-methyl-5,5- dioxidodibenzo[c,f][1,2]thiazepin-11-yl)amino]heptanoic acid), including its isomers, esters, ethers, salts, and salts of isomers, esters, and ethers whenever the existence of such isomers, esters, ethers, salts, and salts of isomers, esters, and ethers is possible, in schedule I of the Controlled Su",
+      "id": "3e599a8fc853",
+      "category": "LEGIS",
+      "date": "2026-07-09",
+      "title": "Proposed Agency Information Collection Activities; Comment Request",
+      "summary": "The Board of Governors of the Federal Reserve System (Board) invites comment on a proposal to extend for three years, without revision, the Consumer and Stakeholder Surveys (FR 3073; OMB No. 7100- 0359).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13906/proposed-agency-information-collection-activities-comment-request"
+    },
+    {
+      "id": "3bb4037be0fe",
+      "category": "LEGIS",
+      "date": "2026-07-09",
+      "title": "Proposed Agency Information Collection Activities; Comment Request",
+      "summary": "The Board of Governors of the Federal Reserve System (Board) invites comment on a proposal to extend for three years, with revision, the Ongoing Intermittent Survey of Households (FR 3016; OMB No. 7100- 0150).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13905/proposed-agency-information-collection-activities-comment-request"
+    },
+    {
+      "id": "53d4e0afef94",
+      "category": "LEGIS",
+      "date": "2026-07-09",
+      "title": "Agency Information Collection Activities: Announcement of Board Approval Under Delegated Authority and Submission to OMB",
+      "summary": "The Board of Governors of the Federal Reserve System (Board) is adopting a proposal to three years, with revision, the Census of Finance Companies and Other Lenders and Survey of Finance Companies (FR 3033p and FR 3033s; OMB No. 7100-0277).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13904/agency-information-collection-activities-announcement-of-board-approval-under-delegated-authority"
+    },
+    {
+      "id": "f875755dc442",
+      "category": "LEGIS",
+      "date": "2026-07-09",
+      "title": "Prompt Payment Interest Rate; Contract Disputes Act",
+      "summary": "For the period beginning July 1, 2026, and ending on December 31, 2026, the prompt payment interest rate is 4-3/4 per centum per annum.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13903/prompt-payment-interest-rate-contract-disputes-act"
+    },
+    {
+      "id": "585eaafba61e",
+      "category": "LEGIS",
+      "date": "2026-07-09",
+      "title": "Agency Information Collection Activities; Proposed Information Collection Request; Comment Request; EPA Program Information on Source Water Protection (Renewal)",
+      "summary": "The Environmental Protection Agency (EPA) is planning to submit an information collection request (ICR), EPA Program Information on Source Water Protection (Renewal) (EPA ICR Number 1816.09, OMB Control Number 2040-0197) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act. Before doing so, EPA is soliciting public comments on specific aspects of the prop",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13902/agency-information-collection-activities-proposed-information-collection-request-comment-request-epa"
+    },
+    {
+      "id": "8ef1a836abef",
+      "category": "LEGIS",
+      "date": "2026-07-09",
+      "title": "Proposed Flood Hazard Determinations",
+      "summary": "Comments are requested on proposed flood hazard determinations, which may include additions or modifications of any Base Flood Elevation (BFE), base flood depth, Special Flood Hazard Area (SFHA) boundary or zone designation, or regulatory floodway on the Flood Insurance Rate Maps (FIRMs), and where applicable, in the supporting Flood Insurance Study (FIS) reports for the communities listed in the table below. The pur",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13901/proposed-flood-hazard-determinations"
+    },
+    {
+      "id": "c97a7902f263",
+      "category": "LEGIS",
+      "date": "2026-07-09",
+      "title": "Changes in Flood Hazard Determinations",
+      "summary": "This notice lists communities where the addition or modification of Base Flood Elevations (BFEs), base flood depths, Special Flood Hazard Area (SFHA) boundaries or zone designations, or the regulatory floodway (hereinafter referred to as flood hazard determinations), as shown on the Flood Insurance Rate Maps (FIRMs), and where applicable, in the supporting Flood Insurance Study (FIS) reports, prepared by the Federal ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13900/changes-in-flood-hazard-determinations"
+    },
+    {
+      "id": "fecfb60d0e28",
+      "category": "LEGIS",
+      "date": "2026-07-09",
+      "title": "Changes in Flood Hazard Determinations",
+      "summary": "This notice lists communities where the addition or modification of Base Flood Elevations (BFEs), base flood depths, Special Flood Hazard Area (SFHA) boundaries or zone designations, or the regulatory floodway (hereinafter referred to as flood hazard determinations), as shown on the Flood Insurance Rate Maps (FIRMs), and where applicable, in the supporting Flood Insurance Study (FIS) reports, prepared by the Federal ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13899/changes-in-flood-hazard-determinations"
+    },
+    {
+      "id": "9b9686e792bc",
+      "category": "LEGIS",
+      "date": "2026-07-09",
+      "title": "Changes in Flood Hazard Determinations",
+      "summary": "New or modified Base (1-percent annual chance) Flood Elevations (BFEs), base flood depths, Special Flood Hazard Area (SFHA) boundaries or zone designations, and/or regulatory floodways (hereinafter referred to as flood hazard determinations) as shown on the indicated Letter of Map Revision (LOMR) for each of the communities listed in the table below are finalized. Each LOMR revises the Flood Insurance Rate Maps (FIRM",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13898/changes-in-flood-hazard-determinations"
+    },
+    {
+      "id": "05039799c37c",
+      "category": "LEGIS",
+      "date": "2026-07-09",
+      "title": "Changes in Flood Hazard Determinations",
+      "summary": "New or modified Base (1-percent annual chance) Flood Elevations (BFEs), base flood depths, Special Flood Hazard Area (SFHA) boundaries or zone designations, and/or regulatory floodways (hereinafter referred to as flood hazard determinations) as shown on the indicated Letter of Map Revision (LOMR) for each of the communities listed in the table below are finalized. Each LOMR revises the Flood Insurance Rate Maps (FIRM",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13897/changes-in-flood-hazard-determinations"
+    },
+    {
+      "id": "4956f69484f2",
+      "category": "LEGIS",
+      "date": "2026-07-09",
+      "title": "Civil Monetary Penalties for Onshore Oil and Gas Operations and Coal Trespass",
+      "summary": "This notice restates the amounts of civil monetary penalties contained in the Bureau of Land Management's (BLM) regulations governing onshore oil and gas operations and coal trespass. For 2026, the BLM will not update its civil monetary penalties and will continue to use the civil monetary penalty levels currently in its regulations. This notice is required by the Federal Civil Penalties Inflation Adjustment Act Impr",
       "tags": [
         "Federal Register"
       ],
       "priority": "high",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/08/2026-13821/schedules-of-controlled-substances-placement-of-tianeptine-in-schedule-i"
+      "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13896/civil-monetary-penalties-for-onshore-oil-and-gas-operations-and-coal-trespass"
     },
     {
-      "id": "5694ed75c4a3",
-      "category": "FDA",
-      "date": "2026-07-08",
-      "title": "Certain Mobile Electronic Devices; Notice of Request for Submissions on the Public Interest",
-      "summary": "Notice is hereby given that on July 1, 2026, the presiding administrative law judge (\"ALJ\") issued an Initial Determination on Violation of Section 337. The ALJ also issued a Recommended Determination on remedy and bonding should a violation be found in the above-captioned investigation. The Commission is soliciting submissions on public interest issues raised by the recommended relief should the Commission find a vi",
+      "id": "fa19fa75090f",
+      "category": "LEGIS",
+      "date": "2026-07-09",
+      "title": "Notice of Federal Advisory Committee Meeting",
+      "summary": "The Department of Defense is publishing this notice to announce that the following Federal advisory committee meeting of the Board of Visitors of the U.S. Air Force Academy (BoV AFA) will take place.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/08/2026-13811/certain-mobile-electronic-devices-notice-of-request-for-submissions-on-the-public-interest"
+      "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13895/notice-of-federal-advisory-committee-meeting"
     },
     {
-      "id": "43f027f4b02e",
-      "category": "FDA",
-      "date": "2026-07-08",
-      "title": "Cellular, Tissue, and Gene Therapies Advisory Committee; Notice of Meeting; Establishment of a Public Docket; Request for Comments-Biologics License Application (BLA) 125827, From Replimune, Inc. for Vusolimogene Oderparepvec",
-      "summary": "The Food and Drug Administration (FDA) announces a forthcoming public advisory committee meeting of the Cellular, Tissue, and Gene Therapies Advisory Committee (the Committee). The general function of the Committee is to provide advice and recommendations to FDA on regulatory issues. The meeting will be open to the public. FDA is establishing a docket for public comment on this document.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/08/2026-13810/cellular-tissue-and-gene-therapies-advisory-committee-notice-of-meeting-establishment-of-a-public"
-    },
-    {
-      "id": "db4adf810781",
+      "id": "2c37a3bfda91",
       "category": "LEGIS",
-      "date": "2026-07-08",
-      "title": "Fisheries of the Northeastern United States; Omnibus Management Flexibility Amendment to New England Fishery Management Council Fishery Management Plans",
-      "summary": "NMFS proposes to implement the Omnibus Management Flexibility Amendment to the New England Fishery Management Council (Council) Fishery Management Plans (FMPs) (Amendment), as prepared by the Council. This proposed rule would allow for changes to the specifications process, in-season adjustment authority, and preparation of Council reports and reviews. The purpose of this action is to address the need for increased m",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/08/2026-13809/fisheries-of-the-northeastern-united-states-omnibus-management-flexibility-amendment-to-new-england"
-    },
-    {
-      "id": "ba5909b5365e",
-      "category": "LEGIS",
-      "date": "2026-07-08",
-      "title": "Fisheries of the Caribbean, Gulf of America, and South Atlantic; Puerto Rico Fishery Management Plan; Amendment 4",
-      "summary": "NMFS proposes regulations to implement Amendment 4 to the Puerto Rico Fishery Management Plan (Puerto Rico FMP), as prepared and submitted by the Caribbean Fishery Management Council (Council). The proposed rule would reclassify rainbow runner from a reef fish to a pelagic fish under the Puerto Rico FMP. The proposed rule would implement management measures for rainbow runner based on the pelagic fish classification,",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/08/2026-13808/fisheries-of-the-caribbean-gulf-of-america-and-south-atlantic-puerto-rico-fishery-management-plan"
-    },
-    {
-      "id": "268cba4ac181",
-      "category": "LEGIS",
-      "date": "2026-07-08",
-      "title": "Proposed Collection; 60-Day Comment Request: Generic Clearance for the Collection of Customer Participation and Performance Management With NIH Programs, Products, and Services (Office of the Director)",
-      "summary": "In compliance with the requirement of the Paperwork Reduction Act of 1995 to provide an opportunity for public comment on proposed data collection projects, the National Institutes of Health, National Cancer Institute (NCI) will publish periodic summaries of proposed projects to be submitted to the Office of Management and Budget (OMB) for review and approval.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/08/2026-13806/proposed-collection-60-day-comment-request-generic-clearance-for-the-collection-of-customer"
-    },
-    {
-      "id": "154704d25bd2",
-      "category": "LEGIS",
-      "date": "2026-07-08",
-      "title": "Pipeline Safety: Repair Criteria for Hazardous Liquid and Gas Transmission Pipelines",
-      "summary": "PHMSA proposes to modernize and to clarify the anomaly response criteria in the Federal pipeline safety regulations for gas transmission and hazardous liquid pipelines. Driven by twenty years of technological development, modern engineering concepts allow operators to identify, schedule, and remediate pipeline anomalies more effectively and in a less costly manner. PHMSA proposes incorporating these improved safety p",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/08/2026-13805/pipeline-safety-repair-criteria-for-hazardous-liquid-and-gas-transmission-pipelines"
-    },
-    {
-      "id": "959684e6a9f8",
-      "category": "LEGIS",
-      "date": "2026-07-08",
-      "title": "Submission for Review: 3206-NEW, Request for Reduction or Cancellation of Federal Employees Group Life Insurance (FEGLI), RI 76-30",
-      "summary": "The Office of Personnel Management (OPM), Retirement Services offers the general public and other federal agencies the opportunity to comment on OPM's submission to OMB for approval of a new information collection, Request for Reduction or Cancellation of Federal Employees Group Life Insurance (FEGLI), RI 76-30.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/08/2026-13804/submission-for-review-3206-new-request-for-reduction-or-cancellation-of-federal-employees-group-life"
-    },
-    {
-      "id": "cc655ffad7ad",
-      "category": "LEGIS",
-      "date": "2026-07-08",
-      "title": "Government Owned Invention Available for License: Method of Detecting Circulating Cell-Free HPV 6 and 11 DNA in Patients Afflicted With Diseases Caused by Chronic HPV 6 or 11 Infection and Use Thereof",
-      "summary": "The National Cancer Institute (NCI) and Frederick National Laboratory for Cancer Research (FNLCR) seek research co-development partners and/or licensees for commercial development of a novel liquid biopsy diagnostic for non-invasive detection of cell-free HPV 6 and 11 DNA for recurrent respiratory papillomatosis (RRP).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/08/2026-13803/government-owned-invention-available-for-license-method-of-detecting-circulating-cell-free-hpv-6-and"
-    },
-    {
-      "id": "5c357b0ed60a",
-      "category": "LEGIS",
-      "date": "2026-07-08",
-      "title": "Government Owned Invention Available for License: Generating Conditional and Reverse Conditional Loss-of-Function Alleles in Mouse Casq2",
-      "summary": "The Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD) is seeking potential licensees interested in further developing or utilizing these Casq2 mouse strains. As a research tool, patent protection is not being pursued for this technology. More information to access these strains can be found here: https://www.jax.org/strain/036291 and https://www.jax.org/strain/ 036290.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/08/2026-13802/government-owned-invention-available-for-license-generating-conditional-and-reverse-conditional"
-    },
-    {
-      "id": "ed724a51d074",
-      "category": "LEGIS",
-      "date": "2026-07-08",
-      "title": "Age Search Fee Structure",
-      "summary": "The Census Bureau provides an Age Search service of confidential records from the 1910 to 2020 decennial censuses and can issue an official transcript of the results to authorized individuals. With this rule, the Census Bureau will increase the fee for conducting an Age Search from $65.00 to $155.00. The Census Bureau will increase the additional charge for expedited requests requiring search results within one day f",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/08/2026-13801/age-search-fee-structure"
-    },
-    {
-      "id": "63b14d17dc3a",
-      "category": "LEGIS",
-      "date": "2026-07-08",
-      "title": "Environmental Technologies Trade Advisory Committee",
-      "summary": "The Environmental Technologies Trade Advisory Committee (ETTAC) will hold an in-person meeting on Tuesday, July 14, 2026. The meeting is open to the public with registration instructions provided below. This notice sets forth the schedule and proposed topics for the meeting.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/08/2026-13800/environmental-technologies-trade-advisory-committee"
-    },
-    {
-      "id": "132c81d62c2f",
-      "category": "LEGIS",
-      "date": "2026-07-08",
-      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Income Driven Repayment Plan Request for the William D. Ford Federal Direct Loans and Federal Family Education Loan Programs",
-      "summary": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing a revision of a currently approved information collection request (ICR).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/08/2026-13799/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for"
-    },
-    {
-      "id": "30ba59861a23",
-      "category": "LEGIS",
-      "date": "2026-07-08",
-      "title": "Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company",
+      "date": "2026-07-09",
+      "title": "Foreign-Trade Zone 61; Application for Subzone; Sonnell Realty IV, LLC; Bayamón, Puerto Rico",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/08/2026-13798/change-in-bank-control-notices-acquisitions-of-shares-of-a-bank-or-bank-holding-company"
+      "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13894/foreign-trade-zone-61-application-for-subzone-sonnell-realty-iv-llc-bayamn-puerto-rico"
     },
     {
-      "id": "87a0f7e25a33",
+      "id": "fccc3df1d905",
       "category": "LEGIS",
-      "date": "2026-07-08",
-      "title": "Approval of Expansion of Subzone 18G; Tesla, Inc.; Tracy, California",
+      "date": "2026-07-09",
+      "title": "Foreign-Trade Zone 155; Application for Subzone; Kerrville Public Utility Board Public Facility Corporation; Garwood, Texas",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/08/2026-13797/approval-of-expansion-of-subzone-18g-tesla-inc-tracy-california"
+      "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13893/foreign-trade-zone-155-application-for-subzone-kerrville-public-utility-board-public-facility"
     },
     {
-      "id": "4b5efa7976de",
+      "id": "ca49e7de0283",
       "category": "LEGIS",
-      "date": "2026-07-08",
-      "title": "Countervailing Duty Order of Phosphate Fertilizers From the Kingdom of Morocco: Temporary Duty Free Importation",
-      "summary": "On June 29, 2026, the President of the United States issued a declaration of emergency and authorization for temporary duty free importation of phosphate fertilizers (fertilizers) from the Kingdom of Morocco (Morocco), pursuant to section 318(a) of the Tariff Act of 1930, as amended (the Act).\\1\\ The U.S. Department of Commerce (Commerce) is temporarily allowing exporters and/or importers to request that imports of f",
+      "date": "2026-07-09",
+      "title": "Initiation of Antidumping and Countervailing Duty Administrative Reviews",
+      "summary": "The U.S. Department of Commerce (Commerce) has received requests to conduct administrative reviews of various antidumping duty (AD) and countervailing duty (CVD) orders with May anniversary dates. In accordance with Commerce's regulations, we are initiating those administrative reviews.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/08/2026-13796/countervailing-duty-order-of-phosphate-fertilizers-from-the-kingdom-of-morocco-temporary-duty-free"
+      "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13892/initiation-of-antidumping-and-countervailing-duty-administrative-reviews"
     },
     {
-      "id": "81ff7ad863b9",
+      "id": "6f0617a2d8a3",
       "category": "LEGIS",
-      "date": "2026-07-08",
-      "title": "Polyethylene Terephthalate Film, Sheet, and Strip From India: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-      "summary": "The U.S. Department of Commerce (Commerce) determines that Cosmo First Limited (Cosmo), the sole mandatory respondent in this administrative review, made sales of polyethylene terephthalate film, sheet, and strip (PET film) from India at less than normal value during the period of review July 1, 2023, through June 30, 2024. Based on the application of total adverse facts available (AFA), Commerce is assigning Cosmo a",
+      "date": "2026-07-09",
+      "title": "Silicon Metal From Australia and Norway; Supplemental Schedule for the Final Phase of the Investigations",
+      "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/08/2026-13795/polyethylene-terephthalate-film-sheet-and-strip-from-india-final-results-of-antidumping-duty"
-    },
-    {
-      "id": "73b49c57d5a1",
-      "category": "LEGIS",
-      "date": "2026-07-08",
-      "title": "Notice of Intent To Prepare an Environmental Impact Statement, Onondaga County, New York",
-      "summary": "The Federal Highway Administration (FHWA), in coordination with the New York State Department of Transportation (NYSDOT), is issuing this Notice of Intent (NOI) to solicit comments and advise the public, agencies, and stakeholders that an Environmental Impact Statement (EIS) will be prepared for the proposed Central New York Forward Project (the Project) located in the Towns of Cicero and Clay, Onondaga County, New Y",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/08/2026-13794/notice-of-intent-to-prepare-an-environmental-impact-statement-onondaga-county-new-york"
+      "url": "https://www.federalregister.gov/documents/2026/07/09/2026-13891/silicon-metal-from-australia-and-norway-supplemental-schedule-for-the-final-phase-of-the"
     }
   ]
 }
