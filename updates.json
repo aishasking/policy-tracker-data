@@ -1,4 +1,265 @@
 {
-  "generated_at": "2026-07-12T13:52:37.018Z",
-  "updates": []
+  "generated_at": "2026-07-13T15:08:47.530Z",
+  "updates": [
+    {
+      "id": "65454e1abd54",
+      "category": "LEGIS",
+      "date": "2026-07-13",
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Foreign Gifts and Contracts Disclosures",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/13/C1-2026-13078/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for"
+    },
+    {
+      "id": "3d2205d13877",
+      "category": "LEGIS",
+      "date": "2026-07-13",
+      "title": "Airworthiness Directives; The Boeing Company Airplanes",
+      "summary": "The FAA is superseding Airworthiness Directive (AD) 2026-13- 05, which applied to all The Boeing Company Model 737-8, 737-9, and 737-8200 airplanes. AD 2026-13-05 required revising the existing airplane flight manual (AFM) to provide the flightcrew with operating procedures (non-normal checklists) if a certain circuit breaker in the standby power control unit (SPCU) trips or certain environmental control system (ECS)",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14090/airworthiness-directives-the-boeing-company-airplanes"
+    },
+    {
+      "id": "a4e2c7e8811f",
+      "category": "LEGIS",
+      "date": "2026-07-13",
+      "title": "Statistical Policy Directive No. 8: North American Industry Classification System (NAICS)-Request for Comments on Proposed Updates for 2027",
+      "summary": "The Office of Management and Budget (OMB) seeks public comment on the advisability of adopting the proposed North American Industry Classification System (NAICS) updates for 2027 recommended by its Economic Classification Policy Committee (ECPC). The ECPC recommends an update of NAICS to clarify existing industry definitions and content, recognize new and emerging industries, and combine industries. There are two par",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14086/statistical-policy-directive-no-8-north-american-industry-classification-system-naics-request-for"
+    },
+    {
+      "id": "0b2762b7d7ff",
+      "category": "LEGIS",
+      "date": "2026-07-13",
+      "title": "Loan Guaranty: Federal Civil Penalties Inflation Adjustment Act Amendments",
+      "summary": "The Department of Veterans Affairs (VA) is announcing that it will make no change in regulation to adjust for inflation the amount of civil monetary penalties that are allowed within VA's authorities. This notice is in accordance with the requirement in the Federal Civil Penalties Inflation Adjustment Act of 1990, as amended by the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015, to make ann",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14084/loan-guaranty-federal-civil-penalties-inflation-adjustment-act-amendments"
+    },
+    {
+      "id": "0d7f6f418945",
+      "category": "LEGIS",
+      "date": "2026-07-13",
+      "title": "Duke Energy Carolinas, LLC; Notice of Application for Temporary Variance Accepted for Filing, Soliciting Comments, Motions To Intervene, and Protests",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14083/duke-energy-carolinas-llc-notice-of-application-for-temporary-variance-accepted-for-filing"
+    },
+    {
+      "id": "5a851c082abe",
+      "category": "LEGIS",
+      "date": "2026-07-13",
+      "title": "Northern Natural Gas Company; Notice of Scoping Period Requesting Comments on Environmental Issues for the Proposed Permian Basin Expansion Project",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14082/northern-natural-gas-company-notice-of-scoping-period-requesting-comments-on-environmental-issues"
+    },
+    {
+      "id": "b5a0b2e3e439",
+      "category": "LEGIS",
+      "date": "2026-07-13",
+      "title": "Steel Reef Pipelines US LLC; Notice of Application and Establishing Intervention Deadline",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14081/steel-reef-pipelines-us-llc-notice-of-application-and-establishing-intervention-deadline"
+    },
+    {
+      "id": "6cc3eb93658e",
+      "category": "LEGIS",
+      "date": "2026-07-13",
+      "title": "Molitor, LLC; Notice of Intent To File License Application, Filing of Pre-Application Document, and Approving Use of the Traditional Licensing Process",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14080/molitor-llc-notice-of-intent-to-file-license-application-filing-of-pre-application-document-and"
+    },
+    {
+      "id": "83bc89f8150a",
+      "category": "LEGIS",
+      "date": "2026-07-13",
+      "title": "Rockies Express Pipeline LLC; Cheyenne Connector, LLC; East Cheyenne Gas Storage, LLC: Notice of Onsite Environmental Review",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14079/rockies-express-pipeline-llc-cheyenne-connector-llc-east-cheyenne-gas-storage-llc-notice-of-onsite"
+    },
+    {
+      "id": "c45bd99a1a04",
+      "category": "LEGIS",
+      "date": "2026-07-13",
+      "title": "Oswego Hydro Partners, LP; Notice of Waiver of Water Quality Certification",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14078/oswego-hydro-partners-lp-notice-of-waiver-of-water-quality-certification"
+    },
+    {
+      "id": "caa7b5008e52",
+      "category": "LEGIS",
+      "date": "2026-07-13",
+      "title": "Western Area Power Administration; Notice of Filing",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14077/western-area-power-administration-notice-of-filing"
+    },
+    {
+      "id": "9e9f81d0c168",
+      "category": "LEGIS",
+      "date": "2026-07-13",
+      "title": "Transcontinental Gas Pipe Line Company, LLC; Notice; Notice of Request of Extension of Time",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14076/transcontinental-gas-pipe-line-company-llc-notice-notice-of-request-of-extension-of-time"
+    },
+    {
+      "id": "bb094109907e",
+      "category": "LEGIS",
+      "date": "2026-07-13",
+      "title": "Commission Information Collection Activities (Ferc-521); Comment Request; Extension",
+      "summary": "In compliance with the requirements of the Paperwork Reduction Act of 1995 (PRA), the Federal Energy Regulatory Commission (Commission or FERC) is soliciting public comment on FERC-521: Payments for Benefits from Headwater Improvements (OMB Control No 1902-0087). There are no proposed changes to the reporting requirements.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14075/commission-information-collection-activities-ferc-521-comment-request-extension"
+    },
+    {
+      "id": "437a5335bd5a",
+      "category": "LEGIS",
+      "date": "2026-07-13",
+      "title": "New Agency Information Collection Activity Under OMB Review: Insider Threat Incident Reporting Tool",
+      "summary": "This notice announces that the Transportation Security Administration (TSA) has forwarded the new Information Collection Request (ICR) abstracted below to the Office of Management and Budget (OMB) for review and approval under the Paperwork Reduction Act (PRA). The ICR describes the nature of the information collection and its expected burden. The collection involves the submission of details by the public concerning",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14074/new-agency-information-collection-activity-under-omb-review-insider-threat-incident-reporting-tool"
+    },
+    {
+      "id": "4ae928667398",
+      "category": "FDA",
+      "date": "2026-07-13",
+      "title": "Drug Establishment Registration and Drug Listing Requirements for Establishments Engaged in Distributed Manufacturing and Certain Foreign Establishments",
+      "summary": "The Food and Drug Administration (FDA, the Agency, or we) is proposing to amend the drug establishment registration and drug listing requirements with respect to establishments engaged in distributed manufacturing and foreign drug establishments. This action, if finalized, will provide a pathway for a distributed manufacturing establishment that manufactures drugs at multiple different physical locations to register ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14073/drug-establishment-registration-and-drug-listing-requirements-for-establishments-engaged-in"
+    },
+    {
+      "id": "efadbb6dbc29",
+      "category": "LEGIS",
+      "date": "2026-07-13",
+      "title": "Safety Zone; Chicago Sanitary and Ship Canal, Chicago, IL",
+      "summary": "The Coast Guard will enforce a segment of the Safety Zone, Brandon Road Lock and Dam to Lake Michigan including Des Plaines River, Chicago Sanitary and Ship Canal, Chicago River, and Calumet-Saganashkee Channel Chicago, IL, on all waters of the Chicago Sanitary and Ship Canal from Mile Marker 295.5 to Mile Marker 297.5 for Permanent Barrier 1 In-Water Testing to be conducted from July 13, 2026, through July 17, 2026,",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14072/safety-zone-chicago-sanitary-and-ship-canal-chicago-il"
+    },
+    {
+      "id": "3c3a780e2ec5",
+      "category": "LEGIS",
+      "date": "2026-07-13",
+      "title": "Pipeline Safety: Guidance for Enhancing the Effectiveness of Distribution Integrity Management Programs",
+      "summary": "PHMSA issues this advisory bulletin to remind owners and operators of gas distribution systems of the distribution integrity management program (DIMP) requirements under 49 CFR part 192, subpart P. The guidance is intended to improve implementation of DIMP risk evaluations by addressing factors such as high-risk infrastructure, interactive threats, and leak management effectiveness. In addition, the guidance urges pi",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14071/pipeline-safety-guidance-for-enhancing-the-effectiveness-of-distribution-integrity-management"
+    },
+    {
+      "id": "c62edec7cf0f",
+      "category": "LEGIS",
+      "date": "2026-07-13",
+      "title": "Pipeline Safety: Information Collection Activities",
+      "summary": "In compliance with the Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq.), this notice announces that the information collection request abstracted below is being forwarded to the Office of Management and Budget (OMB) for review and comment. A Federal Register notice with a 60-day comment period soliciting comments on this information collection was published on January 14, 2026.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14070/pipeline-safety-information-collection-activities"
+    },
+    {
+      "id": "42091dde8fa3",
+      "category": "LEGIS",
+      "date": "2026-07-13",
+      "title": "Carbon and Alloy Steel Threaded Rod From India: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2024-2025",
+      "summary": "The U.S. Department of Commerce (Commerce) preliminarily finds that carbon and alloy steel threaded rod (steel threaded rod) from India was sold in the United States at prices below normal value (NV) during the period of review (POR) April 1, 2024, through March 31, 2025. We are also rescinding the review for three companies with no suspended entries during the POR and one company for which all review requests were w",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14069/carbon-and-alloy-steel-threaded-rod-from-india-preliminary-results-and-rescission-in-part-of"
+    },
+    {
+      "id": "37b5ddf0f2af",
+      "category": "LEGIS",
+      "date": "2026-07-13",
+      "title": "Office of Government Information Services Annual Meeting",
+      "summary": "We are announcing OGIS's annual meeting, open to the public in accordance with the Freedom of Information Act (FOIA). The purpose of the meeting is to discuss OGIS's reviews and reports, and allow interested people to appear and present oral or written statements.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/13/2026-14068/office-of-government-information-services-annual-meeting"
+    }
+  ]
 }
