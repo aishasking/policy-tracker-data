@@ -1,265 +1,265 @@
 {
-  "generated_at": "2026-07-14T14:09:45.199Z",
+  "generated_at": "2026-07-15T14:06:24.742Z",
   "updates": [
     {
-      "id": "f29519fe882b",
+      "id": "be070a53da66",
       "category": "LEGIS",
-      "date": "2026-07-14",
-      "title": "Rescinding the Definition of “Harm” Under the Endangered Species Act",
-      "summary": "We, the U.S. Fish and Wildlife Service (FWS) and the National Marine Fisheries Service (NMFS; collectively referred to as the \"Services\") rescind the regulatory definition of \"harm\" in our Endangered Species Act (ESA or the Act) regulations. This rescission removes the regulatory definition of \"harm\" from the Code of Federal Regulations (CFR) in Title 50 parts 17 and 222.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14195/rescinding-the-definition-of-harm-under-the-endangered-species-act"
-    },
-    {
-      "id": "d8ea6b80b552",
-      "category": "LEGIS",
-      "date": "2026-07-14",
-      "title": "Pipeline Safety: Crimson Pipeline LP's Petition for Declaratory Order Regarding the Requirements for Baseline Integrity Assessments",
-      "summary": "The Pipeline and Hazardous Materials Safety Administration is seeking comment on a Petition for Declaratory Order (Petition) requesting PHMSA issue an order regarding requirements for baseline integrity assessments.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14193/pipeline-safety-crimson-pipeline-lps-petition-for-declaratory-order-regarding-the-requirements-for"
-    },
-    {
-      "id": "7f0f8ab4e039",
-      "category": "LEGIS",
-      "date": "2026-07-14",
-      "title": "Certification of Signal Employees; Extension of Comment Period",
-      "summary": "On May 15, 2026, FRA published an NPRM proposing to rescind FRA's final rule requiring the certification of signal employees. By this notice, FRA is extending the NPRM's comment period by an additional 30 days.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "high",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14161/certification-of-signal-employees-extension-of-comment-period"
-    },
-    {
-      "id": "85fb8f2e1c79",
-      "category": "LEGIS",
-      "date": "2026-07-14",
-      "title": "Certification of Dispatchers; Extension of Comment Period",
-      "summary": "On May 15, 2026, FRA published an NPRM proposing to rescind FRA's May 21, 2024 final rule requiring the certification of dispatchers. By this notice, FRA is extending the NPRM's comment period by 30 days.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "high",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14160/certification-of-dispatchers-extension-of-comment-period"
-    },
-    {
-      "id": "0cb6a3dad219",
-      "category": "LEGIS",
-      "date": "2026-07-14",
-      "title": "Agency Information Collection Activities; Comment Request; eZ-Audit: Electronic Submission of Financial Statements and Compliance Audits",
-      "summary": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing an extension without change of a currently approved information collection request (ICR).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14159/agency-information-collection-activities-comment-request-ez-audit-electronic-submission-of-financial"
-    },
-    {
-      "id": "0b0f534e62d9",
-      "category": "FDA",
-      "date": "2026-07-14",
-      "title": "Psychedelic Drugs: Considerations for Clinical Investigations; Guidance for Industry; Availability",
-      "summary": "The Food and Drug Administration (FDA or Agency) is announcing the availability of a final guidance for industry titled \"Psychedelic Drugs: Considerations for Clinical Investigations.\" Because interest in the therapeutic potential of psychedelic drugs has been increasing and designing clinical trials to evaluate these compounds presents unique challenges, FDA developed the draft guidance to present foundational aspec",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14158/psychedelic-drugs-considerations-for-clinical-investigations-guidance-for-industry-availability"
-    },
-    {
-      "id": "81d868beab6e",
-      "category": "LEGIS",
-      "date": "2026-07-14",
-      "title": "Hazardous Materials: Notice of Applications for Modification to Special Permits",
-      "summary": "In accordance with the procedures governing the application for, and the processing of, special permits from the Department of Transportation's Hazardous Material Regulations, notice is hereby given that the Office of Hazardous Materials Safety has received the application described herein.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14157/hazardous-materials-notice-of-applications-for-modification-to-special-permits"
-    },
-    {
-      "id": "c58d457aae08",
-      "category": "LEGIS",
-      "date": "2026-07-14",
-      "title": "Hazardous Materials: Notice of Actions on Special Permits",
-      "summary": "In accordance with the procedures governing the application for, and the processing of, special permits from the Department of Transportation's Hazardous Material Regulations, notice is hereby given that the Office of Hazardous Materials Safety has granted or denied the application described herein.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14156/hazardous-materials-notice-of-actions-on-special-permits"
-    },
-    {
-      "id": "44be81a75340",
-      "category": "FDA",
-      "date": "2026-07-14",
-      "title": "Considerations for Potential Future Therapeutic Use of Psychedelic Drugs; Public Hearing; Request for Comments",
-      "summary": "The Food and Drug Administration (FDA, the Agency, or we) is announcing a public hearing on the potential future therapeutic use of psychedelic drugs. In collaboration with federal partners, FDA is holding this public hearing to obtain feedback and perspectives on issues associated with the potential future therapeutic use of drug products containing a psychedelic drug substance in supervised and supportive settings.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14155/considerations-for-potential-future-therapeutic-use-of-psychedelic-drugs-public-hearing-request-for"
-    },
-    {
-      "id": "abfc0665969d",
-      "category": "LEGIS",
-      "date": "2026-07-14",
-      "title": "Hazardous Materials: Notice of Applications for New Special Permits",
-      "summary": "In accordance with the procedures governing the application for, and the processing of, special permits from the Department of Transportation's Hazardous Material Regulations, notice is hereby given that the Office of Hazardous Materials Safety has received the application described herein.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14154/hazardous-materials-notice-of-applications-for-new-special-permits"
-    },
-    {
-      "id": "445b079ddae5",
-      "category": "LEGIS",
-      "date": "2026-07-14",
-      "title": "Agency Information Collection Activities; Comment Request; Campus Safety and Security Survey",
-      "summary": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing a revision of a currently approved information collection request (ICR).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14153/agency-information-collection-activities-comment-request-campus-safety-and-security-survey"
-    },
-    {
-      "id": "d57f68fa9359",
-      "category": "LEGIS",
-      "date": "2026-07-14",
-      "title": "Minor Modification Approval",
-      "summary": "This notice lists the minor modifications approved for previously approved projects by the Susquehanna River Basin Commission during the period set forth in DATES.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14152/minor-modification-approval"
-    },
-    {
-      "id": "8231c114513c",
-      "category": "LEGIS",
-      "date": "2026-07-14",
-      "title": "Projects Approved for Consumptive Uses of Water",
-      "summary": "This notice lists Approvals by Rule for projects by the Susquehanna River Basin Commission during the period set forth in DATES.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14151/projects-approved-for-consumptive-uses-of-water"
-    },
-    {
-      "id": "cda0fcab0a8d",
-      "category": "LEGIS",
-      "date": "2026-07-14",
-      "title": "Grandfathering Registration Notice",
-      "summary": "This notice lists Grandfathering Registration for projects by the Susquehanna River Basin Commission during the period set forth in DATES.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14150/grandfathering-registration-notice"
-    },
-    {
-      "id": "795bc0c992ca",
-      "category": "LEGIS",
-      "date": "2026-07-14",
-      "title": "Crepe Paper From China; Determination",
+      "date": "2026-07-15",
+      "title": "Adjusting Imports of Commercial Aircraft, Jet Engines, and Aircraft and Engine Parts Into the United States",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14149/crepe-paper-from-china-determination"
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14334/adjusting-imports-of-commercial-aircraft-jet-engines-and-aircraft-and-engine-parts-into-the-united"
     },
     {
-      "id": "efacbce647ad",
+      "id": "77ac7d33e5cc",
       "category": "LEGIS",
-      "date": "2026-07-14",
-      "title": "Notice of Availability, Notice of Public Comment Period, and Request for Comment on the Draft Tiered Environmental Assessment for SpaceX Starship Reentry Contingency Operations in the Pacific Ocean and Additional Starship Landing Trajectory",
-      "summary": "In accordance with the National Environmental Policy Act of 1969, as amended (NEPA), DOT Order 5610.1D, DOT's Procedures for Considering Environmental Impacts, and FAA Order 1050.1G, FAA National Environmental Policy Act Implementing Procedures, the FAA is announcing the availability of and requesting comment on the Draft Tiered Environmental Assessment for SpaceX Starship Reentry Contingency Operations in the Pacifi",
+      "date": "2026-07-15",
+      "title": "Air Plan Approval; Wisconsin; Source-Specific Air Quality Implementation Plan; Oak Creek Power Plant",
+      "summary": "The Environmental Protection Agency (EPA) is proposing to approve a revision to the State of Wisconsin's State Implementation Plan (SIP) for the Oak Creek Power Plant located in Oak Creek, Wisconsin. The EPA is proposing to approve alternative nitrogen oxides (NO X ) emissions limits for the Oak Creek facility. The alternative limits will allow the facility to operate in compliance with State and Federal regulations,",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14282/air-plan-approval-wisconsin-source-specific-air-quality-implementation-plan-oak-creek-power-plant"
+    },
+    {
+      "id": "7c0b1a944eb9",
+      "category": "LEGIS",
+      "date": "2026-07-15",
+      "title": "Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG Engines",
+      "summary": "The FAA proposes to adopt a new airworthiness directive (AD) for all Rolls-Royce Deutschland Ltd & Co KG (RRD) Model BR700-725A1-12 engines. This proposed AD was prompted by the manufacturer revising the airworthiness limitations section (ALS) of the existing time limits manual (TLM) to introduce new or more restrictive airworthiness limitations and associated thresholds and intervals for life-limited parts. This pro",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14148/notice-of-availability-notice-of-public-comment-period-and-request-for-comment-on-the-draft-tiered"
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14281/airworthiness-directives-rolls-royce-deutschland-ltd-and-co-kg-engines"
     },
     {
-      "id": "790a8646741f",
+      "id": "23b315b2146f",
       "category": "LEGIS",
-      "date": "2026-07-14",
-      "title": "Operating Limitations at Chicago O'Hare International Airport",
-      "summary": "This action extends the April 20, 2026, order limiting the number of scheduled aircraft operations at Chicago O'Hare International Airport (ORD) through October 30, 2027.",
+      "date": "2026-07-15",
+      "title": "Approval of Source-Specific Air Quality Implementation Plan; New York; Castleton Power, LLC",
+      "summary": "Pursuant to applicable requirements under the Clean Air Act (CAA or the Act), the Environmental Protection Agency (EPA) is proposing to approve a revision to the State of New York's State Implementation Plan (SIP) for the ozone National Ambient Air Quality Standard (NAAQS) related to a source-specific SIP (SSSIP) revision for Castleton Energy Center, located at 1902 River Road, Castle-on-Hudson, New York 12033 (herei",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14147/operating-limitations-at-chicago-ohare-international-airport"
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14261/approval-of-source-specific-air-quality-implementation-plan-new-york-castleton-power-llc"
     },
     {
-      "id": "45c7bdc717d2",
-      "category": "FDA",
-      "date": "2026-07-14",
-      "title": "Request for Information, Training and Care Delivery Models for Safe Administration of Potential FDA-Approved Psychedelic Therapies in Ambulatory Clinical Settings",
-      "summary": "On April 18, 2026, President Trump issued Executive Order (E.O.) 14401, \"Accelerating Medical Treatments for Serious Mental Illness\", acknowledging that individuals suffering from serious mental illness may not always respond to existing therapies. This request for information (RFI) solicits stakeholder feedback on training and care delivery models that could be used to ensure safe and effective delivery of potential",
+      "id": "ad0a65899416",
+      "category": "LEGIS",
+      "date": "2026-07-15",
+      "title": "Air Plan Approval; Missouri; Control of NOX Emissions From Large Stationary Internal Combustion Engines",
+      "summary": "The Environmental Protection Agency (EPA) is proposing to approve revisions to the Missouri State Implementation Plan (SIP) related to Control of Nitrogen Oxide (NO X ) Emissions From Large Stationary Internal Combustion Engines. The revisions reformat and revise reporting, recordkeeping, and compliance requirements; incorporate other state rules by reference; add definitions specific to the rule; revise unnecessaril",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14260/air-plan-approval-missouri-control-of-nox-emissions-from-large-stationary-internal-combustion"
+    },
+    {
+      "id": "ea291e1fa52c",
+      "category": "LEGIS",
+      "date": "2026-07-15",
+      "title": "[Agency Information Collection Activities; Proposed eCollection, eComments Requested; Extension of a Previously Approved Collection; TitleLaw Enforcement Public Contact Data Collection",
+      "summary": "Criminal Justice Information Services (CJIS) Division, FBI, Department of Justice (DOJ), will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14250/agency-information-collection-activities-proposed-ecollection-ecomments-requested-extension-of-a"
+    },
+    {
+      "id": "01ae32f9c08d",
+      "category": "LEGIS",
+      "date": "2026-07-15",
+      "title": "Churchill Asset Management LLC",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14249/churchill-asset-management-llc"
+    },
+    {
+      "id": "bc0778f43ee1",
+      "category": "LEGIS",
+      "date": "2026-07-15",
+      "title": "Establishment of Class E Airspace; Crown Point, IN",
+      "summary": "This action establishes Class E airspace at Franciscan Health Crown Point Hospital Heliport, Crown Point, IN. This action supports new instrument procedures and instrument flight rule (IFR) operations.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14248/establishment-of-class-e-airspace-crown-point-in"
+    },
+    {
+      "id": "5436911d3eb1",
+      "category": "LEGIS",
+      "date": "2026-07-15",
+      "title": "Notice of OFAC Sanctions Action",
+      "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing the names of one or more persons that have been placed on OFAC's Specially Designated Nationals and Blocked Persons List (SDN List) based on OFAC's determination that one or more applicable legal criteria were satisfied. All property and interests in property subject to U.S. jurisdiction of these persons are blocked, and U.S. ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14247/notice-of-ofac-sanctions-action"
+    },
+    {
+      "id": "2faeaf1d3704",
+      "category": "LEGIS",
+      "date": "2026-07-15",
+      "title": "Notice of Formal Determination on Records Release",
+      "summary": "The Civil Rights Cold Case Records Review Board received an additional 451 pages of records from the National Archives and Records Administration (NARA) related to two civil rights cold case incidents to which the Review Board assigned the unique identifiers 2023-001-003 and 2023-001-004. NARA proposed 372 postponements including postponements of sealed federal grand jury information in the records. On July 10, 2026,",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14146/request-for-information-training-and-care-delivery-models-for-safe-administration-of-potential"
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14246/notice-of-formal-determination-on-records-release"
     },
     {
-      "id": "2987d2dc12f6",
+      "id": "d0e79e33b625",
       "category": "LEGIS",
-      "date": "2026-07-14",
-      "title": "Certain Steel Nails From the Sultanate of Oman: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-      "summary": "The U.S. Department of Commerce (Commerce) determines that Oman Fasteners, LLC (Oman Fasteners), the sole producer and exporter subject to this administrative review, did not make sales of certain steel nails (steel nails) from the Sultanate of Oman (Oman) in the United States at prices below normal value (NV) during the period of review (POR), July 1, 2023, through June 30, 2024.",
+      "date": "2026-07-15",
+      "title": "Montana Regulatory Program",
+      "summary": "We, the Office of Surface Mining Reclamation and Enforcement (OSM), are approving an amendment to the Montana regulatory program under the Surface Mining Control and Reclamation Act of 1977 (SMCRA). Montana submitted this proposed amendment to OSM on its own initiative in response to a State law passed by the Montana Legislature--House Bill 616 (HB 616). The amendment to the Montana coal program regulations proposed ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14245/montana-regulatory-program"
+    },
+    {
+      "id": "6ce2d9ca2694",
+      "category": "LEGIS",
+      "date": "2026-07-15",
+      "title": "Montana Regulatory Program",
+      "summary": "The Office of Surface Mining Reclamation and Enforcement (OSM), is approving an amendment to the Montana regulatory program under the Surface Mining Control and Reclamation Act of 1977 (SMCRA). Montana submitted this proposed amendment to OSM on its own initiative in response to a State law passed by the Montana Legislature--Senate Bill 365 (SB 365). The amendment to the Montana coal program regulations clarifies tha",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14244/montana-regulatory-program"
+    },
+    {
+      "id": "1bbb99c16c3d",
+      "category": "LEGIS",
+      "date": "2026-07-15",
+      "title": "Notice of Public Meetings of the Maryland Advisory Committee to the U.S. Commission on Civil Rights",
+      "summary": "Notice is hereby given, pursuant to the provisions of the rules and regulations of the U.S. Commission on Civil Rights (Commission) and the Federal Advisory Committee Act, that the Maryland Advisory Committee (Committee) to the Commission will hold public meetings via Zoom. The purpose is for the committee to begin hearing expert testimony and continue briefing planning on the committee's chosen topic of artificial i",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14145/certain-steel-nails-from-the-sultanate-of-oman-final-results-of-antidumping-duty-administrative"
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14243/notice-of-public-meetings-of-the-maryland-advisory-committee-to-the-us-commission-on-civil-rights"
     },
     {
-      "id": "6d5da4bd4cf7",
+      "id": "b14afaf11d3b",
       "category": "LEGIS",
-      "date": "2026-07-14",
-      "title": "Notice of Public Meetings of the Michigan Advisory Committee to the U.S. Commission on Civil Rights",
-      "summary": "Notice is hereby given, pursuant to the provisions of the rules and regulations of the U.S. Commission on Civil Rights (Commission) and the Federal Advisory Committee Act, that the Michigan Advisory Committee (Committee) to the U.S. Commission on Civil Rights will hold public meetings via Zoom. The purpose of the first meeting is to begin to hear from experts on the committee's study topic of Artificial Intelligence ",
+      "date": "2026-07-15",
+      "title": "National Institute on Minority Health and Health Disparities; Notice of Partially Closed Meeting",
+      "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14144/notice-of-public-meetings-of-the-michigan-advisory-committee-to-the-us-commission-on-civil-rights"
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14242/national-institute-on-minority-health-and-health-disparities-notice-of-partially-closed-meeting"
+    },
+    {
+      "id": "effebc65e358",
+      "category": "LEGIS",
+      "date": "2026-07-15",
+      "title": "Center For Scientific Review; Notice of Closed Meetings",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14241/center-for-scientific-review-notice-of-closed-meetings"
+    },
+    {
+      "id": "fba939bc5956",
+      "category": "LEGIS",
+      "date": "2026-07-15",
+      "title": "References to Electronic Filing Systems in Rules of Practice in Filings Pursuant to the Protocol Relating to the Madrid Agreement Concerning the International Registration of Marks",
+      "summary": "The United States Patent and Trademark Office (USPTO or Office) issues this final rule to effectuate a nomenclature change by substituting generic terminology for references to particular electronic filing systems used to submit correspondence related to international applications originating with the United States under the Protocol Relating to the Madrid Agreement Concerning the International Registration of Marks ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14240/references-to-electronic-filing-systems-in-rules-of-practice-in-filings-pursuant-to-the-protocol"
+    },
+    {
+      "id": "c435efe533cf",
+      "category": "LEGIS",
+      "date": "2026-07-15",
+      "title": "Electronic Filing Systems for Filings Pursuant to the Protocol Relating to the Madrid Agreement Concerning the International Registration of Marks",
+      "summary": "Applicants will be able to file international applications originating in the United States under the Protocol Relating to the Madrid Agreement Concerning the International Registration of Marks and responses to notices of irregularity through the Madrid e-Filing system (Madrid e-Filing) operated by the World Intellectual Property Organization (WIPO) and designated by the Director of the United States Patent and Trad",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14239/electronic-filing-systems-for-filings-pursuant-to-the-protocol-relating-to-the-madrid-agreement"
+    },
+    {
+      "id": "27313cd19f29",
+      "category": "LEGIS",
+      "date": "2026-07-15",
+      "title": "Airworthiness Directives; Bell Textron Canada Limited Helicopters",
+      "summary": "The FAA proposes to supersede Airworthiness Directive (AD) 2022-27-08, which applies to certain Bell Textron Canada Limited (Bell) Model 407 helicopters. AD 2022-27-08 requires inspecting the tailboom attachment structure and reporting the inspection results. Since the FAA issued AD 2022-27-08, two additional broken upper-left tailboom attachment bolts have been reported. This proposed AD would require repetitively i",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14238/airworthiness-directives-bell-textron-canada-limited-helicopters"
+    },
+    {
+      "id": "04fcee45df09",
+      "category": "LEGIS",
+      "date": "2026-07-15",
+      "title": "Ambient Air Monitoring Reference and Equivalent Methods; Designation of One New Reference Method and Three New Equivalent Methods",
+      "summary": "Notice is hereby given that the U.S. Environmental Protection Agency (EPA) has designated one new reference method for measuring carbon monoxide (CO), one new equivalent method for measuring particulate matter (PM) 2.5 micrometers ([micro]m) or less (PM 2.5 ), one new equivalent method for measuring PM 10[micro]m or less (PM 10 ), and one new equivalent method for measuring PM 10-2.5 in ambient air.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14237/ambient-air-monitoring-reference-and-equivalent-methods-designation-of-one-new-reference-method-and"
+    },
+    {
+      "id": "f36c05bcc5ea",
+      "category": "LEGIS",
+      "date": "2026-07-15",
+      "title": "Civil Monetary Penalties Inflation Adjustments for 2026",
+      "summary": "The Department of Justice (\"the Department\" or \"DOJ\") is notifying the public that its civil monetary penalty amounts will not increase for the 2026 calendar year. DOJ is generally required by statute to amend its regulations annually to adjust for inflation the civil monetary penalties assessed or enforced by components of the Department. However, in accordance with guidance from the Office of Management and Budget ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/15/2026-14236/civil-monetary-penalties-inflation-adjustments-for-2026"
     }
   ]
 }
