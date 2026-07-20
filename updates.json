@@ -1,4 +1,265 @@
 {
-  "generated_at": "2026-07-19T13:49:50.647Z",
-  "updates": []
+  "generated_at": "2026-07-20T14:31:08.029Z",
+  "updates": [
+    {
+      "id": "b9751eee7f24",
+      "category": "LEGIS",
+      "date": "2026-07-20",
+      "title": "Action by the United States in the Investigation Under Section 301 of the Trade Act of 1974 of Brazil's Acts, Policies, and Practices Related to Digital Trade and Electronic Payment Services; Unfair, Preferential Tariffs; Anti-Corruption Enforcement; Intellectual Property Protection; Ethanol Market Access; and Illegal Deforestation",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14654/action-by-the-united-states-in-the-investigation-under-section-301-of-the-trade-act-of-1974-of"
+    },
+    {
+      "id": "6290a204223f",
+      "category": "LEGIS",
+      "date": "2026-07-20",
+      "title": "Board of Directors; Request for Nomination",
+      "summary": "The Unified Carrier Registration (UCR) Plan Board of Directors is requesting nominations of qualified individuals from the motor carrier industry for consideration by the Federal Motor Carrier Safety Administration (FMCSA) for appointment by FMCSA to the UCR Plan Board of Directors to fill a vacancy that has arisen. By statute, all nominees for the vacancy must be representatives of \"a national trade association repr",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14608/board-of-directors-request-for-nomination"
+    },
+    {
+      "id": "ab506a6ed3e0",
+      "category": "LEGIS",
+      "date": "2026-07-20",
+      "title": "Notice of Public Hearing and Business Meeting August 5, 2026 and September 2, 2026",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14607/notice-of-public-hearing-and-business-meeting-august-5-2026-and-september-2-2026"
+    },
+    {
+      "id": "be29928aff89",
+      "category": "LEGIS",
+      "date": "2026-07-20",
+      "title": "Generator Interconnection Programmatic Environmental Impact Statement",
+      "summary": "The Tennessee Valley Authority (TVA) intends to prepare a Programmatic Environmental Impact Statement (PEIS) to evaluate the environmental effects of transmission system activities associated with generator interconnection requests across TVA's Power Service Area (PSA). The PEIS will establish a programmatic, bounded framework to support efficient, consistent, and predictable National Environmental Policy Act (NEPA) ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14605/generator-interconnection-programmatic-environmental-impact-statement"
+    },
+    {
+      "id": "c9aa4bc4c48f",
+      "category": "LEGIS",
+      "date": "2026-07-20",
+      "title": "Lamb Meat; Institution of Investigation, Scheduling of Public Hearings, and Determination That the Investigation Is Extraordinarily Complicated",
+      "summary": "Following receipt of a request from the United States Trade Representative (\"USTR\") on July 13, 2026, the Commission has instituted Investigation No. TA-201-80 pursuant to section 202 of the Trade Act of 1974 (\"the Act\") to determine whether lamb meat is being imported into the United States in such increased quantities as to be a substantial cause of serious injury, or the threat thereof, to the domestic industry pr",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14602/lamb-meat-institution-of-investigation-scheduling-of-public-hearings-and-determination-that-the"
+    },
+    {
+      "id": "3a0454473475",
+      "category": "LEGIS",
+      "date": "2026-07-20",
+      "title": "United States Passports Invalid for Travel to, in, or Through the Democratic People's Republic of Korea (DPRK)",
+      "summary": "On September 1, 2017, all U.S. passports were declared invalid for travel to, in, or through the Democratic People's Republic of Korea (DPRK), unless specially validated for such travel. The restriction has been extended annually since 2017, and, if not renewed, the restriction is set to expire on August 31, 2026. This notice extends the restriction until August 31, 2027, unless extended or revoked by the Secretary o",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14601/united-states-passports-invalid-for-travel-to-in-or-through-the-democratic-peoples-republic-of-korea"
+    },
+    {
+      "id": "072219fa0dfd",
+      "category": "LEGIS",
+      "date": "2026-07-20",
+      "title": "Chicago Rock Island & Pacific Railroad, LLC-Change of Operator Exemption- Railroad Line in Monterey and Santa Cruz Counties, Cal.",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14600/chicago-rock-island-and-pacific-railroad-llc-change-of-operator-exemption--railroad-line-in-monterey"
+    },
+    {
+      "id": "9d7260eefca4",
+      "category": "LEGIS",
+      "date": "2026-07-20",
+      "title": "Office of the Secretary; Amended Notice of Meeting",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14599/office-of-the-secretary-amended-notice-of-meeting"
+    },
+    {
+      "id": "d97e402babfb",
+      "category": "LEGIS",
+      "date": "2026-07-20",
+      "title": "Drawbridge Operation Regulation; Newark Bay, Between the City of Newark and City of Bayonne, NJ",
+      "summary": "The Coast Guard is modifying the operating regulation that governs the Lehigh Valley Drawbridge across Newark Bay, mile 4.6, between the City of Newark and City of Bayonne, NJ. This change in the regulation will not alter the operating schedule of the bridge but will allow the bridge to be remotely operated from the Conrail North Jersey Dispatch Center in Mount Laurel, NJ. This change to allow for remote bridge opera",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14598/drawbridge-operation-regulation-newark-bay-between-the-city-of-newark-and-city-of-bayonne-nj"
+    },
+    {
+      "id": "fc76b604e526",
+      "category": "LEGIS",
+      "date": "2026-07-20",
+      "title": "Lattice-Boom Crawler Cranes (LBCCs) From Japan; Determination",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14597/lattice-boom-crawler-cranes-lbccs-from-japan-determination"
+    },
+    {
+      "id": "f24a79a7f31f",
+      "category": "LEGIS",
+      "date": "2026-07-20",
+      "title": "Certain Foundry Coke; Notice of Institution of Investigation",
+      "summary": "Notice is hereby given that a complaint was filed with the U.S. International Trade Commission on June 15, 2026, under section 337 of the Tariff Act of 1930, as amended, on behalf of SunCoke Technology and Development LLC of Lisle, Illinois and Jewell Coke Company L.P. of Lisle, Illinois. Letters supplementing the complaint were filed on July 1, 2026. The complaint, as supplemented, alleges violations of section 337 ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14596/certain-foundry-coke-notice-of-institution-of-investigation"
+    },
+    {
+      "id": "a1d8fe52a772",
+      "category": "LEGIS",
+      "date": "2026-07-20",
+      "title": "Preserved Mushrooms From Chile, China, India, and Indonesia",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14595/preserved-mushrooms-from-chile-china-india-and-indonesia"
+    },
+    {
+      "id": "2388ff71140b",
+      "category": "LEGIS",
+      "date": "2026-07-20",
+      "title": "Welded Stainless Steel Line and Pressure Pipe From India, Turkey, and the United Arab Emirates; Institution of Antidumping and Countervailing Duty Investigations and Scheduling of Preliminary Phase Investigations",
+      "summary": "The Commission hereby gives notice of the institution of investigations and commencement of preliminary phase antidumping and countervailing duty investigation Nos. 701-TA-800-801 and 731-TA-1796- 1798 (Preliminary) pursuant to the Tariff Act of 1930 to determine whether there is a reasonable indication that an industry in the United States is materially injured or threatened with material injury, or the establishmen",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14594/welded-stainless-steel-line-and-pressure-pipe-from-india-turkey-and-the-united-arab-emirates"
+    },
+    {
+      "id": "c8cdf5baaa92",
+      "category": "LEGIS",
+      "date": "2026-07-20",
+      "title": "Notice of Department of State Sanctions Action",
+      "summary": "The U.S. Department of State is publishing the names of seven individuals, two entities, and two vessels that have been removed from the U.S. Department of the Treasury's Specially Designated Nationals and Blocked Persons List (SDN List), administered by the Office of Foreign Assets Control (OFAC).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14593/notice-of-department-of-state-sanctions-action"
+    },
+    {
+      "id": "40b3afeab553",
+      "category": "LEGIS",
+      "date": "2026-07-20",
+      "title": "Atlantic Highly Migratory Species; Atlantic Bluefin Tuna Fisheries; Closure of the Harpoon Category Fishery for 2026",
+      "summary": "NMFS closes the Harpoon category fishery for large medium and giant (i.e., measuring 73 inches (185 centimeters (cm)) curved fork length (CFL) or greater) Atlantic bluefin tuna (BFT) for the remainder of the 2026 fishing year. This closure applies to Atlantic Tunas Harpoon category permitted vessels.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14592/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-closure-of-the-harpoon-category"
+    },
+    {
+      "id": "a594aabea5dc",
+      "category": "LEGIS",
+      "date": "2026-07-20",
+      "title": "R.J. Fortier Hydropower, Inc.; Notice of Intent To Prepare an Environmental Assessment",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14591/rj-fortier-hydropower-inc-notice-of-intent-to-prepare-an-environmental-assessment"
+    },
+    {
+      "id": "d5f82e3f41a0",
+      "category": "LEGIS",
+      "date": "2026-07-20",
+      "title": "MountainWest Overthrust Pipeline, LLC; Notice of Application and Establishing Intervention Deadline",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14590/mountainwest-overthrust-pipeline-llc-notice-of-application-and-establishing-intervention-deadline"
+    },
+    {
+      "id": "dd73ac158305",
+      "category": "LEGIS",
+      "date": "2026-07-20",
+      "title": "Reporting Forms and Instructions Associated With Requirements and Standards for FDIC-Supervised Permitted Payment Stablecoin Issuers",
+      "summary": "The FDIC invites comment on new forms and instructions associated with an Office of Management and Budget (OMB) control number (3064-0225) assigned in connection with a notice of proposed rulemaking. In accordance with the requirements of the Paperwork Reduction Act of 1995 (PRA), the FDIC may not conduct or sponsor, and the respondent is not required to respond to, an information collection unless it displays a curr",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14589/reporting-forms-and-instructions-associated-with-requirements-and-standards-for-fdic-supervised"
+    },
+    {
+      "id": "43c988dac170",
+      "category": "LEGIS",
+      "date": "2026-07-20",
+      "title": "Reporting and Recordkeeping Requirements Under OMB Review",
+      "summary": "The Small Business Administration (SBA) is seeking approval from the Office of Management and Budget (OMB) for the information collection described below. In accordance with the Paperwork Reduction Act and OMB procedures, SBA is publishing this notice to allow all interested members of the public an additional 30 days to provide comments on the proposed collection of information.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14588/reporting-and-recordkeeping-requirements-under-omb-review"
+    },
+    {
+      "id": "1ed7c34ad939",
+      "category": "LEGIS",
+      "date": "2026-07-20",
+      "title": "Privacy Act of 1974; System of Records",
+      "summary": "The Department of Health and Human Services (HHS) is extending the comment period for and the effective date of the new routine use under the modified system of records maintained by the Office of Family Assistance (OFA) within HHS' Administration for Children and Families (ACF), System No. 09-80-0375, Temporary Assistance for Needy Families (TANF) Data that appeared in the Federal Register of June 23, 2026. We are t",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14587/privacy-act-of-1974-system-of-records"
+    }
+  ]
 }
