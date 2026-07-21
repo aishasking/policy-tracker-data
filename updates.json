@@ -1,265 +1,265 @@
 {
-  "generated_at": "2026-07-20T14:31:08.029Z",
+  "generated_at": "2026-07-21T14:18:18.273Z",
   "updates": [
     {
-      "id": "b9751eee7f24",
+      "id": "69cd5c8df3c8",
       "category": "LEGIS",
-      "date": "2026-07-20",
-      "title": "Action by the United States in the Investigation Under Section 301 of the Trade Act of 1974 of Brazil's Acts, Policies, and Practices Related to Digital Trade and Electronic Payment Services; Unfair, Preferential Tariffs; Anti-Corruption Enforcement; Intellectual Property Protection; Ethanol Market Access; and Illegal Deforestation",
-      "summary": "Federal Register document (no abstract provided).",
+      "date": "2026-07-21",
+      "title": "Order Sunsetting Certain Large Trader Reporting Requirements for Physical Commodity Swaps",
+      "summary": "The Commodity Futures Trading Commission (\"CFTC\" or the \"Commission\") is issuing this Order pursuant to Sec. 20.9 of its regulations, the sunset provision of the Commission's large trader reporting rules for physical commodity swaps (\"Part 20\" or the \"Swaps LTR Rules\"). Based on the findings set out below, the Commission is rendering the routine position-reporting requirements of Part 20 ineffective and unenforceable",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14710/order-sunsetting-certain-large-trader-reporting-requirements-for-physical-commodity-swaps"
+    },
+    {
+      "id": "7343c978827b",
+      "category": "LEGIS",
+      "date": "2026-07-21",
+      "title": "Patient Protection and Affordable Care Act, HHS Notice of Benefit and Payment Parameters for 2027; and Basic Health Program; Correction",
+      "summary": "This document corrects typographical errors in the final rule that appeared in the May 20, 2026, Federal Register titled \"Patient Protection and Affordable Care Act, HHS Notice of Benefit and Payment Parameters for 2027; and Basic Health Program.\"",
       "tags": [
         "Federal Register"
       ],
       "priority": "high",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14654/action-by-the-united-states-in-the-investigation-under-section-301-of-the-trade-act-of-1974-of"
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14709/patient-protection-and-affordable-care-act-hhs-notice-of-benefit-and-payment-parameters-for-2027-and"
     },
     {
-      "id": "6290a204223f",
+      "id": "5f7a17e50c51",
       "category": "LEGIS",
-      "date": "2026-07-20",
-      "title": "Board of Directors; Request for Nomination",
-      "summary": "The Unified Carrier Registration (UCR) Plan Board of Directors is requesting nominations of qualified individuals from the motor carrier industry for consideration by the Federal Motor Carrier Safety Administration (FMCSA) for appointment by FMCSA to the UCR Plan Board of Directors to fill a vacancy that has arisen. By statute, all nominees for the vacancy must be representatives of \"a national trade association repr",
+      "date": "2026-07-21",
+      "title": "General Technical, Organizational, Conforming, and Correcting Amendments to the Federal Motor Carrier Safety Regulations",
+      "summary": "FMCSA amends its regulations by making technical corrections throughout the Federal Motor Carrier Safety Regulations (FMCSR). The Agency makes minor changes to correct inadvertent errors and omissions, remove or update obsolete references, and improve the clarity and consistency of certain regulatory provisions. FMCSA also makes a change to its rules of organization, procedures, and practice. Because the rule does no",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14608/board-of-directors-request-for-nomination"
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14701/general-technical-organizational-conforming-and-correcting-amendments-to-the-federal-motor-carrier"
     },
     {
-      "id": "ab506a6ed3e0",
+      "id": "f206678b6c1c",
       "category": "LEGIS",
-      "date": "2026-07-20",
-      "title": "Notice of Public Hearing and Business Meeting August 5, 2026 and September 2, 2026",
-      "summary": "Federal Register document (no abstract provided).",
+      "date": "2026-07-21",
+      "title": "Request for Comment: Commission Agenda and Priorities",
+      "summary": "The U.S. Consumer Product Safety Commission (Commission or CPSC) seeks public comment from interested parties about the Commission's agenda and priorities for fiscal year (FY) 2027, which begins October 1, 2026, and for FY 2028, which begins October 1, 2027.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14607/notice-of-public-hearing-and-business-meeting-august-5-2026-and-september-2-2026"
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14700/request-for-comment-commission-agenda-and-priorities"
     },
     {
-      "id": "be29928aff89",
-      "category": "LEGIS",
-      "date": "2026-07-20",
-      "title": "Generator Interconnection Programmatic Environmental Impact Statement",
-      "summary": "The Tennessee Valley Authority (TVA) intends to prepare a Programmatic Environmental Impact Statement (PEIS) to evaluate the environmental effects of transmission system activities associated with generator interconnection requests across TVA's Power Service Area (PSA). The PEIS will establish a programmatic, bounded framework to support efficient, consistent, and predictable National Environmental Policy Act (NEPA) ",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14605/generator-interconnection-programmatic-environmental-impact-statement"
-    },
-    {
-      "id": "c9aa4bc4c48f",
-      "category": "LEGIS",
-      "date": "2026-07-20",
-      "title": "Lamb Meat; Institution of Investigation, Scheduling of Public Hearings, and Determination That the Investigation Is Extraordinarily Complicated",
-      "summary": "Following receipt of a request from the United States Trade Representative (\"USTR\") on July 13, 2026, the Commission has instituted Investigation No. TA-201-80 pursuant to section 202 of the Trade Act of 1974 (\"the Act\") to determine whether lamb meat is being imported into the United States in such increased quantities as to be a substantial cause of serious injury, or the threat thereof, to the domestic industry pr",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14602/lamb-meat-institution-of-investigation-scheduling-of-public-hearings-and-determination-that-the"
-    },
-    {
-      "id": "3a0454473475",
-      "category": "LEGIS",
-      "date": "2026-07-20",
-      "title": "United States Passports Invalid for Travel to, in, or Through the Democratic People's Republic of Korea (DPRK)",
-      "summary": "On September 1, 2017, all U.S. passports were declared invalid for travel to, in, or through the Democratic People's Republic of Korea (DPRK), unless specially validated for such travel. The restriction has been extended annually since 2017, and, if not renewed, the restriction is set to expire on August 31, 2026. This notice extends the restriction until August 31, 2027, unless extended or revoked by the Secretary o",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14601/united-states-passports-invalid-for-travel-to-in-or-through-the-democratic-peoples-republic-of-korea"
-    },
-    {
-      "id": "072219fa0dfd",
-      "category": "LEGIS",
-      "date": "2026-07-20",
-      "title": "Chicago Rock Island & Pacific Railroad, LLC-Change of Operator Exemption- Railroad Line in Monterey and Santa Cruz Counties, Cal.",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14600/chicago-rock-island-and-pacific-railroad-llc-change-of-operator-exemption--railroad-line-in-monterey"
-    },
-    {
-      "id": "9d7260eefca4",
-      "category": "LEGIS",
-      "date": "2026-07-20",
-      "title": "Office of the Secretary; Amended Notice of Meeting",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14599/office-of-the-secretary-amended-notice-of-meeting"
-    },
-    {
-      "id": "d97e402babfb",
-      "category": "LEGIS",
-      "date": "2026-07-20",
-      "title": "Drawbridge Operation Regulation; Newark Bay, Between the City of Newark and City of Bayonne, NJ",
-      "summary": "The Coast Guard is modifying the operating regulation that governs the Lehigh Valley Drawbridge across Newark Bay, mile 4.6, between the City of Newark and City of Bayonne, NJ. This change in the regulation will not alter the operating schedule of the bridge but will allow the bridge to be remotely operated from the Conrail North Jersey Dispatch Center in Mount Laurel, NJ. This change to allow for remote bridge opera",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14598/drawbridge-operation-regulation-newark-bay-between-the-city-of-newark-and-city-of-bayonne-nj"
-    },
-    {
-      "id": "fc76b604e526",
-      "category": "LEGIS",
-      "date": "2026-07-20",
-      "title": "Lattice-Boom Crawler Cranes (LBCCs) From Japan; Determination",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14597/lattice-boom-crawler-cranes-lbccs-from-japan-determination"
-    },
-    {
-      "id": "f24a79a7f31f",
-      "category": "LEGIS",
-      "date": "2026-07-20",
-      "title": "Certain Foundry Coke; Notice of Institution of Investigation",
-      "summary": "Notice is hereby given that a complaint was filed with the U.S. International Trade Commission on June 15, 2026, under section 337 of the Tariff Act of 1930, as amended, on behalf of SunCoke Technology and Development LLC of Lisle, Illinois and Jewell Coke Company L.P. of Lisle, Illinois. Letters supplementing the complaint were filed on July 1, 2026. The complaint, as supplemented, alleges violations of section 337 ",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14596/certain-foundry-coke-notice-of-institution-of-investigation"
-    },
-    {
-      "id": "a1d8fe52a772",
-      "category": "LEGIS",
-      "date": "2026-07-20",
-      "title": "Preserved Mushrooms From Chile, China, India, and Indonesia",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14595/preserved-mushrooms-from-chile-china-india-and-indonesia"
-    },
-    {
-      "id": "2388ff71140b",
-      "category": "LEGIS",
-      "date": "2026-07-20",
-      "title": "Welded Stainless Steel Line and Pressure Pipe From India, Turkey, and the United Arab Emirates; Institution of Antidumping and Countervailing Duty Investigations and Scheduling of Preliminary Phase Investigations",
-      "summary": "The Commission hereby gives notice of the institution of investigations and commencement of preliminary phase antidumping and countervailing duty investigation Nos. 701-TA-800-801 and 731-TA-1796- 1798 (Preliminary) pursuant to the Tariff Act of 1930 to determine whether there is a reasonable indication that an industry in the United States is materially injured or threatened with material injury, or the establishmen",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14594/welded-stainless-steel-line-and-pressure-pipe-from-india-turkey-and-the-united-arab-emirates"
-    },
-    {
-      "id": "c8cdf5baaa92",
-      "category": "LEGIS",
-      "date": "2026-07-20",
-      "title": "Notice of Department of State Sanctions Action",
-      "summary": "The U.S. Department of State is publishing the names of seven individuals, two entities, and two vessels that have been removed from the U.S. Department of the Treasury's Specially Designated Nationals and Blocked Persons List (SDN List), administered by the Office of Foreign Assets Control (OFAC).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14593/notice-of-department-of-state-sanctions-action"
-    },
-    {
-      "id": "40b3afeab553",
-      "category": "LEGIS",
-      "date": "2026-07-20",
-      "title": "Atlantic Highly Migratory Species; Atlantic Bluefin Tuna Fisheries; Closure of the Harpoon Category Fishery for 2026",
-      "summary": "NMFS closes the Harpoon category fishery for large medium and giant (i.e., measuring 73 inches (185 centimeters (cm)) curved fork length (CFL) or greater) Atlantic bluefin tuna (BFT) for the remainder of the 2026 fishing year. This closure applies to Atlantic Tunas Harpoon category permitted vessels.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14592/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-closure-of-the-harpoon-category"
-    },
-    {
-      "id": "a594aabea5dc",
-      "category": "LEGIS",
-      "date": "2026-07-20",
-      "title": "R.J. Fortier Hydropower, Inc.; Notice of Intent To Prepare an Environmental Assessment",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14591/rj-fortier-hydropower-inc-notice-of-intent-to-prepare-an-environmental-assessment"
-    },
-    {
-      "id": "d5f82e3f41a0",
-      "category": "LEGIS",
-      "date": "2026-07-20",
-      "title": "MountainWest Overthrust Pipeline, LLC; Notice of Application and Establishing Intervention Deadline",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14590/mountainwest-overthrust-pipeline-llc-notice-of-application-and-establishing-intervention-deadline"
-    },
-    {
-      "id": "dd73ac158305",
-      "category": "LEGIS",
-      "date": "2026-07-20",
-      "title": "Reporting Forms and Instructions Associated With Requirements and Standards for FDIC-Supervised Permitted Payment Stablecoin Issuers",
-      "summary": "The FDIC invites comment on new forms and instructions associated with an Office of Management and Budget (OMB) control number (3064-0225) assigned in connection with a notice of proposed rulemaking. In accordance with the requirements of the Paperwork Reduction Act of 1995 (PRA), the FDIC may not conduct or sponsor, and the respondent is not required to respond to, an information collection unless it displays a curr",
+      "id": "fa210ed47cea",
+      "category": "CMS",
+      "date": "2026-07-21",
+      "title": "Agency Information Collection Activities: Proposed Collection; Comment Request",
+      "summary": "The Centers for Medicare & Medicaid Services (CMS) is announcing an opportunity for the public to comment on CMS' intention to collect information from the public. Under the Paperwork Reduction Act of 1995 (PRA), federal agencies are required to publish notice in the Federal Register concerning each proposed collection of information (including each proposed extension or reinstatement of an existing collection of inf",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14589/reporting-forms-and-instructions-associated-with-requirements-and-standards-for-fdic-supervised"
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14699/agency-information-collection-activities-proposed-collection-comment-request"
     },
     {
-      "id": "43c988dac170",
+      "id": "f7958d1e2ff8",
       "category": "LEGIS",
-      "date": "2026-07-20",
-      "title": "Reporting and Recordkeeping Requirements Under OMB Review",
-      "summary": "The Small Business Administration (SBA) is seeking approval from the Office of Management and Budget (OMB) for the information collection described below. In accordance with the Paperwork Reduction Act and OMB procedures, SBA is publishing this notice to allow all interested members of the public an additional 30 days to provide comments on the proposed collection of information.",
+      "date": "2026-07-21",
+      "title": "USCIS Immigration Fees and Related Procedures Required by H.R.1 Reconciliation Bill; Correction",
+      "summary": "This document corrects the interim final rule (IFR) that published in the Federal Register on April 29, 2026. The IFR codified certain immigration fees and other provisions required by the One Big Beautiful Bill Act (H.R. 1) and amended USCIS regulations governing asylum and annual asylum fees, the new Form I-94 fee requirement, the validity period for certain types of employment authorization, and the retention of t",
       "tags": [
         "Federal Register"
       ],
-      "priority": "medium",
+      "priority": "high",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14588/reporting-and-recordkeeping-requirements-under-omb-review"
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14698/uscis-immigration-fees-and-related-procedures-required-by-hr1-reconciliation-bill-correction"
     },
     {
-      "id": "1ed7c34ad939",
+      "id": "67e7e44c7321",
       "category": "LEGIS",
-      "date": "2026-07-20",
-      "title": "Privacy Act of 1974; System of Records",
-      "summary": "The Department of Health and Human Services (HHS) is extending the comment period for and the effective date of the new routine use under the modified system of records maintained by the Office of Family Assistance (OFA) within HHS' Administration for Children and Families (ACF), System No. 09-80-0375, Temporary Assistance for Needy Families (TANF) Data that appeared in the Federal Register of June 23, 2026. We are t",
+      "date": "2026-07-21",
+      "title": "Fisheries of the Northeastern United States; Summer Flounder Fishery; Quota Transfer From North Carolina to Massachusetts",
+      "summary": "NMFS announces that the State of North Carolina is transferring a portion of its 2026 commercial summer flounder quota to the Commonwealth of Massachusetts. This adjustment to the 2026 fishing year quota is necessary to comply with the Summer Flounder, Scup, and Black Sea Bass Fishery Management Plan (FMP) quota transfer provisions. This announcement informs the public of the revised 2026 commercial quotas for North ",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14587/privacy-act-of-1974-system-of-records"
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14697/fisheries-of-the-northeastern-united-states-summer-flounder-fishery-quota-transfer-from-north"
+    },
+    {
+      "id": "6b0277e7f072",
+      "category": "LEGIS",
+      "date": "2026-07-21",
+      "title": "Small Business Investment Company (“SBIC”) Program: SBA Model Form of Agreement for Limited Partnership SBICs",
+      "summary": "The Small Business Administration (\"SBA\") intends to update the SBA Model Form of Limited Partnership Agreement (the \"Model\") to more closely align with customary provisions generally outlined in private funds, while maintaining those regulatory and policy provisions within the Model that are necessary to minimize the risk of loss in the SBIC program and ensure consistency with SBA's updated regulations and policies.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14696/small-business-investment-company-sbic-program-sba-model-form-of-agreement-for-limited-partnership"
+    },
+    {
+      "id": "5ef104ba6ac7",
+      "category": "LEGIS",
+      "date": "2026-07-21",
+      "title": "International Product Change-Priority Mail Express International, Priority Mail International & First-Class Package International Service Agreement",
+      "summary": "The Postal Service gives notice of filing a request with the Postal Regulatory Commission to add a Priority Mail Express International, Priority Mail International & First-Class Package International Service contract to the list of Negotiated Service Agreements in the Competitive Product List in the Mail Classification Schedule.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14695/international-product-change-priority-mail-express-international-priority-mail-international-and"
+    },
+    {
+      "id": "97bec8349094",
+      "category": "LEGIS",
+      "date": "2026-07-21",
+      "title": "Magnuson-Stevens Act Provisions; Fisheries Off West Coast States; Pacific Coast Groundfish Fishery; Pacific Coast Groundfish Fishery Management Plan; Amendment 38; 2027-28 Biennial Specifications and Management Measures",
+      "summary": "NMFS announces that the Pacific Fishery Management Council (Council) submitted amendment 38 to the Pacific Coast Groundfish Fishery Management Plan (Groundfish FMP) to the Secretary of Commerce for review. If approved, amendment 38 would revise the Groundfish FMP to reflect the rebuilt status of yelloweye rockfish and the California stock of quillback rockfish, removing all references to their respective rebuilding p",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14694/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery"
+    },
+    {
+      "id": "23bec8e18f2c",
+      "category": "LEGIS",
+      "date": "2026-07-21",
+      "title": "Approval of Subzone Status; Pratt & Whitney Engine Services, Inc.; Bridgeport, West Virginia",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14693/approval-of-subzone-status-pratt-and-whitney-engine-services-inc-bridgeport-west-virginia"
+    },
+    {
+      "id": "2cd5419d5649",
+      "category": "LEGIS",
+      "date": "2026-07-21",
+      "title": "Foreign-Trade Zone (FTZ) 202, Notification of Proposed Production Activity; PolyPeptide Laboratories Inc.; (Peptides); Torrance, California",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14692/foreign-trade-zone-ftz-202-notification-of-proposed-production-activity-polypeptide-laboratories-inc"
+    },
+    {
+      "id": "808685ccccf9",
+      "category": "LEGIS",
+      "date": "2026-07-21",
+      "title": "PJM Governance and Stakeholder Reforms; Third Supplemental Notice of Commission-Led Technical Conference",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14691/pjm-governance-and-stakeholder-reforms-third-supplemental-notice-of-commission-led-technical"
+    },
+    {
+      "id": "2acc9f1c25ba",
+      "category": "LEGIS",
+      "date": "2026-07-21",
+      "title": "Combined Notice of Filings #1",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14690/combined-notice-of-filings-1"
+    },
+    {
+      "id": "8bc71238227e",
+      "category": "LEGIS",
+      "date": "2026-07-21",
+      "title": "Combined Notice of Filings #2",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14689/combined-notice-of-filings-2"
+    },
+    {
+      "id": "bb75c06db633",
+      "category": "LEGIS",
+      "date": "2026-07-21",
+      "title": "Combined Notice of Filings",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14688/combined-notice-of-filings"
+    },
+    {
+      "id": "b7278a212a03",
+      "category": "LEGIS",
+      "date": "2026-07-21",
+      "title": "Tennessee Gas Pipeline Company, L.L.C.; Notice of Scoping Period Requesting Comments on Environmental Issues for the Proposed South Texas Enhancement Project",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14687/tennessee-gas-pipeline-company-llc-notice-of-scoping-period-requesting-comments-on-environmental"
+    },
+    {
+      "id": "873bd2c43bfd",
+      "category": "LEGIS",
+      "date": "2026-07-21",
+      "title": "ETC Tiger Pipeline, LLC; Notice of Application and Establishing Intervention Deadline",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14686/etc-tiger-pipeline-llc-notice-of-application-and-establishing-intervention-deadline"
+    },
+    {
+      "id": "4675c6e7995c",
+      "category": "LEGIS",
+      "date": "2026-07-21",
+      "title": "Order Adopting Categorical Exclusions From Tennessee Valley Authority Under the National Environmental Policy Act Notice of Adoption of Categorical Exclusions Under the National Environmental Policy Act",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14685/order-adopting-categorical-exclusions-from-tennessee-valley-authority-under-the-national"
+    },
+    {
+      "id": "23485846b653",
+      "category": "LEGIS",
+      "date": "2026-07-21",
+      "title": "Commission Information Collection Activities (FERC-725S); Comment Request; Extension",
+      "summary": "In compliance with the requirements of the Paperwork Reduction Act of 1995, the Federal Energy Regulatory Commission (Commission or FERC) is soliciting public comment on the currently approved information collection FERC- 725S (OMB Control No. 1902-0270), Emergency Preparedness and Operations (EOP) Reliability Standards. There are no proposed changes to the reporting requirements.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14684/commission-information-collection-activities-ferc-725s-comment-request-extension"
     }
   ]
 }
