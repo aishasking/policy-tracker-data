@@ -1,265 +1,265 @@
 {
-  "generated_at": "2026-07-21T14:18:18.273Z",
+  "generated_at": "2026-07-22T14:19:00.231Z",
   "updates": [
     {
-      "id": "69cd5c8df3c8",
+      "id": "4a3cfa0b56e3",
       "category": "LEGIS",
-      "date": "2026-07-21",
-      "title": "Order Sunsetting Certain Large Trader Reporting Requirements for Physical Commodity Swaps",
-      "summary": "The Commodity Futures Trading Commission (\"CFTC\" or the \"Commission\") is issuing this Order pursuant to Sec. 20.9 of its regulations, the sunset provision of the Commission's large trader reporting rules for physical commodity swaps (\"Part 20\" or the \"Swaps LTR Rules\"). Based on the findings set out below, the Commission is rendering the routine position-reporting requirements of Part 20 ineffective and unenforceable",
+      "date": "2026-07-22",
+      "title": "Methylene Chloride",
+      "summary": "OSHA is providing an additional comment period to allow interested people to comment on OSHA's proposal to revise the Methylene Chloride standard. Following consideration of the rulemaking by OSHA's Advisory Committee on Construction Safety and Health (ACCSH), OSHA is re-opening the record for this rulemaking to provide an additional 30 days for public comment.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14710/order-sunsetting-certain-large-trader-reporting-requirements-for-physical-commodity-swaps"
+      "url": "https://www.federalregister.gov/documents/2026/07/22/2026-14854/methylene-chloride"
     },
     {
-      "id": "7343c978827b",
+      "id": "73ff853f5885",
       "category": "LEGIS",
-      "date": "2026-07-21",
-      "title": "Patient Protection and Affordable Care Act, HHS Notice of Benefit and Payment Parameters for 2027; and Basic Health Program; Correction",
-      "summary": "This document corrects typographical errors in the final rule that appeared in the May 20, 2026, Federal Register titled \"Patient Protection and Affordable Care Act, HHS Notice of Benefit and Payment Parameters for 2027; and Basic Health Program.\"",
+      "date": "2026-07-22",
+      "title": "Vinyl Chloride",
+      "summary": "OSHA is providing an additional comment period to allow interested people to comment on OSHA's proposal to revise the Vinyl Chloride standard. Following consideration of the rulemaking by OSHA's Advisory Committee on Construction Safety and Health (ACCSH), OSHA is re-opening the record for this rulemaking to provide an additional 30 days for public comment.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/22/2026-14853/vinyl-chloride"
+    },
+    {
+      "id": "5beaac9cafb2",
+      "category": "LEGIS",
+      "date": "2026-07-22",
+      "title": "Methylenedianiline",
+      "summary": "OSHA is providing an additional comment period to allow interested people to comment on OSHA's proposal to revise the Methylenedianiline standards. Following consideration of the rulemaking by OSHA's Advisory Committee on Construction Safety and Health (ACCSH), OSHA is re-opening the record for this rulemaking to provide an additional 30 days for public comment.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/22/2026-14852/methylenedianiline"
+    },
+    {
+      "id": "5817b2442c43",
+      "category": "LEGIS",
+      "date": "2026-07-22",
+      "title": "Lead",
+      "summary": "OSHA is providing an additional comment period to allow interested people to comment on OSHA's proposal to revise the Lead standards. Following consideration of the rulemaking by OSHA's Advisory Committee on Construction Safety and Health (ACCSH), OSHA is re-opening the record for this rulemaking to provide an additional 30 days for public comment.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/22/2026-14851/lead"
+    },
+    {
+      "id": "42d014f80734",
+      "category": "LEGIS",
+      "date": "2026-07-22",
+      "title": "Inorganic Arsenic",
+      "summary": "OSHA is providing an additional comment period to allow interested people to comment on OSHA's proposal to revise the Inorganic Arsenic standard. Following consideration of the rulemaking by OSHA's Advisory Committee on Construction Safety and Health (ACCSH), OSHA is re-opening the record for this rulemaking to provide an additional 30 days for public comment.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/22/2026-14850/inorganic-arsenic"
+    },
+    {
+      "id": "743d56726338",
+      "category": "LEGIS",
+      "date": "2026-07-22",
+      "title": "Formaldehyde",
+      "summary": "OSHA is providing an additional comment period to allow interested people to comment on OSHA's proposal to revise the Formaldehyde standard. Following consideration of the rulemaking by OSHA's Advisory Committee on Construction Safety and Health (ACCSH), OSHA is re-opening the record for this rulemaking to provide an additional 30 days for public comment.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/22/2026-14849/formaldehyde"
+    },
+    {
+      "id": "ccf89f1540a0",
+      "category": "LEGIS",
+      "date": "2026-07-22",
+      "title": "1,2-Dibromo-3-Chloropropane",
+      "summary": "OSHA is providing an additional comment period to allow interested persons to comment on OSHA's proposal to revise the 1,2- dibromo-3-chloropropane standard. Following consideration of the rulemaking by OSHA's Advisory Committee on Construction Safety and Health (ACCSH), OSHA is re-opening the record for this rulemaking to provide an additional 30 days for public comment.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/22/2026-14847/12-dibromo-3-chloropropane"
+    },
+    {
+      "id": "db384f49997e",
+      "category": "LEGIS",
+      "date": "2026-07-22",
+      "title": "Inorganic Arsenic",
+      "summary": "OSHA is providing an additional comment period to allow interested people to comment on OSHA's proposal to revise the Inorganic Arsenic standard. Following consideration of the rulemaking by OSHA's Advisory Committee on Construction Safety and Health (ACCSH), OSHA is re-opening the record for this rulemaking to provide an additional 30 days for public comment.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/22/2026-14846/inorganic-arsenic"
+    },
+    {
+      "id": "498479871683",
+      "category": "LEGIS",
+      "date": "2026-07-22",
+      "title": "Acrylonitrile",
+      "summary": "OSHA is providing an additional comment period to allow interested persons to comment on OSHA's proposal to revise the Acrylonitrile standard. Following consideration of the rulemaking by OSHA's Advisory Committee on Construction Safety and Health (ACCSH), OSHA is re-opening the record for this rulemaking to provide an additional 30 days for public comment.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/22/2026-14845/acrylonitrile"
+    },
+    {
+      "id": "58aca4b2bcdf",
+      "category": "LEGIS",
+      "date": "2026-07-22",
+      "title": "13 Carcinogens (4-Nitrobiphenyl, etc.)",
+      "summary": "OSHA is providing an additional comment period to allow interested persons to comment on OSHA's proposal to revise the 13 Carcinogens (4-Nitrobiphenyl, etc.) standard. Following consideration of the rulemaking by OSHA's Advisory Committee on Construction Safety and Health (ACCSH), OSHA is re-opening the record for this rulemaking to provide an additional 30 days for public comment.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/22/2026-14844/13-carcinogens-4-nitrobiphenyl-etc"
+    },
+    {
+      "id": "ea676b684651",
+      "category": "LEGIS",
+      "date": "2026-07-22",
+      "title": "Ethylene Oxide",
+      "summary": "OSHA is providing an additional comment period to allow interested people to comment on OSHA's proposal to revise the Ethylene Oxide standard. Following consideration of the rulemaking by OSHA's Advisory Committee on Construction Safety and Health (ACCSH), OSHA is re-opening the record for this rulemaking to provide an additional 30 days for public comment.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/22/2026-14843/ethylene-oxide"
+    },
+    {
+      "id": "ffcfbb7c5c73",
+      "category": "LEGIS",
+      "date": "2026-07-22",
+      "title": "Cadmium",
+      "summary": "OSHA is providing an additional comment period to allow interested persons to comment on OSHA's proposal to revise the Cadmium standards. Following consideration of the rulemaking by OSHA's Advisory Committee on Construction Safety and Health (ACCSH), OSHA is re-opening the record for this rulemaking to provide an additional 30 days for public comment.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/22/2026-14842/cadmium"
+    },
+    {
+      "id": "c0e66f878d60",
+      "category": "LEGIS",
+      "date": "2026-07-22",
+      "title": "Asbestos",
+      "summary": "OSHA is providing an additional comment period to allow interested people to comment on OSHA's proposal to revise the Asbestos standards. Following consideration of the rulemaking by OSHA's Advisory Committee on Construction Safety and Health (ACCSH), OSHA is re-opening the record for this rulemaking to provide an additional 30 days for public comment.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/22/2026-14840/asbestos"
+    },
+    {
+      "id": "4c69742e6590",
+      "category": "LEGIS",
+      "date": "2026-07-22",
+      "title": "1, 3-Butadiene",
+      "summary": "OSHA is providing an additional comment period to allow interested persons to comment on OSHA's proposal to revise the 1,3- Butadiene standard. Following consideration of the rulemaking by OSHA's Advisory Committee on Construction Safety and Health (ACCSH), OSHA is reopening the record for this rulemaking to provide an additional 30 days for public comment.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/22/2026-14839/1-3-butadiene"
+    },
+    {
+      "id": "d466a9ec522c",
+      "category": "LEGIS",
+      "date": "2026-07-22",
+      "title": "Notice of Determinations; Culturally Significant Objects Being Imported for Exhibition-Determinations: “Ten Kings of Hell: The Afterlife in Medieval Korea” Exhibition",
+      "summary": "Notice is hereby given of the following determinations: I hereby determine that certain objects being imported from abroad pursuant to agreements with their foreign owners or custodians for temporary display in the exhibition \"Ten Kings of Hell: The Afterlife in Medieval Korea\" at The Cleveland Museum of Art, Cleveland, Ohio, and at possible additional exhibitions or venues yet to be determined, are of cultural signi",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/22/2026-14824/notice-of-determinations-culturally-significant-objects-being-imported-for-exhibition-determinations"
+    },
+    {
+      "id": "9892d323221e",
+      "category": "LEGIS",
+      "date": "2026-07-22",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comments Requested; Revision of a Previously Approved Collection; Title-Supplemental Information on Water Quality Considerations-ATF Form 5400.30",
+      "summary": "The Department of Justice (DOJ), Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF), will be submitting the following information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/07/22/2026-14823/agency-information-collection-activities-proposed-collection-comments-requested-revision-of-a"
+    },
+    {
+      "id": "0df57aab88a8",
+      "category": "LEGIS",
+      "date": "2026-07-22",
+      "title": "Revocation of Obsolete Rules Regarding Infant Bouncer Seats and Stationary Activity Centers",
+      "summary": "The U.S. Consumer Product Safety Commission (Commission or CPSC) is reviewing its regulations to reduce regulatory burdens and costs. Pursuant to this review, CPSC has identified two rules concerning infant bouncer seats and stationary activity centers that are now obsolete because those products are subject to newer, more comprehensive mandatory safety standards issued by the Commission. This direct final rule remov",
       "tags": [
         "Federal Register"
       ],
       "priority": "high",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14709/patient-protection-and-affordable-care-act-hhs-notice-of-benefit-and-payment-parameters-for-2027-and"
+      "url": "https://www.federalregister.gov/documents/2026/07/22/2026-14822/revocation-of-obsolete-rules-regarding-infant-bouncer-seats-and-stationary-activity-centers"
     },
     {
-      "id": "5f7a17e50c51",
+      "id": "ebe567e5a0bb",
       "category": "LEGIS",
-      "date": "2026-07-21",
-      "title": "General Technical, Organizational, Conforming, and Correcting Amendments to the Federal Motor Carrier Safety Regulations",
-      "summary": "FMCSA amends its regulations by making technical corrections throughout the Federal Motor Carrier Safety Regulations (FMCSR). The Agency makes minor changes to correct inadvertent errors and omissions, remove or update obsolete references, and improve the clarity and consistency of certain regulatory provisions. FMCSA also makes a change to its rules of organization, procedures, and practice. Because the rule does no",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14701/general-technical-organizational-conforming-and-correcting-amendments-to-the-federal-motor-carrier"
-    },
-    {
-      "id": "f206678b6c1c",
-      "category": "LEGIS",
-      "date": "2026-07-21",
-      "title": "Request for Comment: Commission Agenda and Priorities",
-      "summary": "The U.S. Consumer Product Safety Commission (Commission or CPSC) seeks public comment from interested parties about the Commission's agenda and priorities for fiscal year (FY) 2027, which begins October 1, 2026, and for FY 2028, which begins October 1, 2027.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14700/request-for-comment-commission-agenda-and-priorities"
-    },
-    {
-      "id": "fa210ed47cea",
-      "category": "CMS",
-      "date": "2026-07-21",
-      "title": "Agency Information Collection Activities: Proposed Collection; Comment Request",
-      "summary": "The Centers for Medicare & Medicaid Services (CMS) is announcing an opportunity for the public to comment on CMS' intention to collect information from the public. Under the Paperwork Reduction Act of 1995 (PRA), federal agencies are required to publish notice in the Federal Register concerning each proposed collection of information (including each proposed extension or reinstatement of an existing collection of inf",
+      "date": "2026-07-22",
+      "title": "Agency Information Collection Activities: Proposed Collection Renewal; Comment Request",
+      "summary": "The FDIC, as part of its obligations under the Paperwork Reduction Act of 1995 (PRA), invites the general public and other Federal agencies to take this opportunity to comment on the renewal of the existing information collection described below (OMB Control No. 3064-0139).",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14699/agency-information-collection-activities-proposed-collection-comment-request"
+      "url": "https://www.federalregister.gov/documents/2026/07/22/2026-14821/agency-information-collection-activities-proposed-collection-renewal-comment-request"
     },
     {
-      "id": "f7958d1e2ff8",
+      "id": "9765dfe95644",
       "category": "LEGIS",
-      "date": "2026-07-21",
-      "title": "USCIS Immigration Fees and Related Procedures Required by H.R.1 Reconciliation Bill; Correction",
-      "summary": "This document corrects the interim final rule (IFR) that published in the Federal Register on April 29, 2026. The IFR codified certain immigration fees and other provisions required by the One Big Beautiful Bill Act (H.R. 1) and amended USCIS regulations governing asylum and annual asylum fees, the new Form I-94 fee requirement, the validity period for certain types of employment authorization, and the retention of t",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "high",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14698/uscis-immigration-fees-and-related-procedures-required-by-hr1-reconciliation-bill-correction"
-    },
-    {
-      "id": "67e7e44c7321",
-      "category": "LEGIS",
-      "date": "2026-07-21",
-      "title": "Fisheries of the Northeastern United States; Summer Flounder Fishery; Quota Transfer From North Carolina to Massachusetts",
-      "summary": "NMFS announces that the State of North Carolina is transferring a portion of its 2026 commercial summer flounder quota to the Commonwealth of Massachusetts. This adjustment to the 2026 fishing year quota is necessary to comply with the Summer Flounder, Scup, and Black Sea Bass Fishery Management Plan (FMP) quota transfer provisions. This announcement informs the public of the revised 2026 commercial quotas for North ",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14697/fisheries-of-the-northeastern-united-states-summer-flounder-fishery-quota-transfer-from-north"
-    },
-    {
-      "id": "6b0277e7f072",
-      "category": "LEGIS",
-      "date": "2026-07-21",
-      "title": "Small Business Investment Company (“SBIC”) Program: SBA Model Form of Agreement for Limited Partnership SBICs",
-      "summary": "The Small Business Administration (\"SBA\") intends to update the SBA Model Form of Limited Partnership Agreement (the \"Model\") to more closely align with customary provisions generally outlined in private funds, while maintaining those regulatory and policy provisions within the Model that are necessary to minimize the risk of loss in the SBIC program and ensure consistency with SBA's updated regulations and policies.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14696/small-business-investment-company-sbic-program-sba-model-form-of-agreement-for-limited-partnership"
-    },
-    {
-      "id": "5ef104ba6ac7",
-      "category": "LEGIS",
-      "date": "2026-07-21",
-      "title": "International Product Change-Priority Mail Express International, Priority Mail International & First-Class Package International Service Agreement",
-      "summary": "The Postal Service gives notice of filing a request with the Postal Regulatory Commission to add a Priority Mail Express International, Priority Mail International & First-Class Package International Service contract to the list of Negotiated Service Agreements in the Competitive Product List in the Mail Classification Schedule.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14695/international-product-change-priority-mail-express-international-priority-mail-international-and"
-    },
-    {
-      "id": "97bec8349094",
-      "category": "LEGIS",
-      "date": "2026-07-21",
-      "title": "Magnuson-Stevens Act Provisions; Fisheries Off West Coast States; Pacific Coast Groundfish Fishery; Pacific Coast Groundfish Fishery Management Plan; Amendment 38; 2027-28 Biennial Specifications and Management Measures",
-      "summary": "NMFS announces that the Pacific Fishery Management Council (Council) submitted amendment 38 to the Pacific Coast Groundfish Fishery Management Plan (Groundfish FMP) to the Secretary of Commerce for review. If approved, amendment 38 would revise the Groundfish FMP to reflect the rebuilt status of yelloweye rockfish and the California stock of quillback rockfish, removing all references to their respective rebuilding p",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14694/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery"
-    },
-    {
-      "id": "23bec8e18f2c",
-      "category": "LEGIS",
-      "date": "2026-07-21",
-      "title": "Approval of Subzone Status; Pratt & Whitney Engine Services, Inc.; Bridgeport, West Virginia",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14693/approval-of-subzone-status-pratt-and-whitney-engine-services-inc-bridgeport-west-virginia"
-    },
-    {
-      "id": "2cd5419d5649",
-      "category": "LEGIS",
-      "date": "2026-07-21",
-      "title": "Foreign-Trade Zone (FTZ) 202, Notification of Proposed Production Activity; PolyPeptide Laboratories Inc.; (Peptides); Torrance, California",
-      "summary": "Federal Register document (no abstract provided).",
+      "date": "2026-07-22",
+      "title": "Amendment of Domestic Very High Frequency Omnidirectional Range (VOR) Federal Airways V-16, V-35, V-37, V-53, V-133, V-136, V-143, V-259, V-310, V-364, V-409, V-415, V-454, and V-605; Eastern United States",
+      "summary": "This action revises an earlier notice of proposed rulemaking (NPRM) that the FAA published in the Federal Register on March 6, 2026, by updating the proposed amendments to domestic Very High Frequency Omnidirectional Range (VOR) Federal Airways V-53, V-364, V-415, and V- 605 in the eastern United States. This action continues to propose amendments to domestic VOR Federal Airways V-16, V-35, V-37, V-133, V- 136, V-143",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14692/foreign-trade-zone-ftz-202-notification-of-proposed-production-activity-polypeptide-laboratories-inc"
+      "url": "https://www.federalregister.gov/documents/2026/07/22/2026-14820/amendment-of-domestic-very-high-frequency-omnidirectional-range-vor-federal-airways-v-16-v-35-v-37"
     },
     {
-      "id": "808685ccccf9",
+      "id": "1a2958b2c6ce",
       "category": "LEGIS",
-      "date": "2026-07-21",
-      "title": "PJM Governance and Stakeholder Reforms; Third Supplemental Notice of Commission-Led Technical Conference",
+      "date": "2026-07-22",
+      "title": "Notice Pursuant to the National Cooperative Research and Production Act of 1993-1EdTech Consortium, Inc. (F/K/A IMS Global Learning Consortium, Inc.)",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14691/pjm-governance-and-stakeholder-reforms-third-supplemental-notice-of-commission-led-technical"
-    },
-    {
-      "id": "2acc9f1c25ba",
-      "category": "LEGIS",
-      "date": "2026-07-21",
-      "title": "Combined Notice of Filings #1",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14690/combined-notice-of-filings-1"
-    },
-    {
-      "id": "8bc71238227e",
-      "category": "LEGIS",
-      "date": "2026-07-21",
-      "title": "Combined Notice of Filings #2",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14689/combined-notice-of-filings-2"
-    },
-    {
-      "id": "bb75c06db633",
-      "category": "LEGIS",
-      "date": "2026-07-21",
-      "title": "Combined Notice of Filings",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14688/combined-notice-of-filings"
-    },
-    {
-      "id": "b7278a212a03",
-      "category": "LEGIS",
-      "date": "2026-07-21",
-      "title": "Tennessee Gas Pipeline Company, L.L.C.; Notice of Scoping Period Requesting Comments on Environmental Issues for the Proposed South Texas Enhancement Project",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14687/tennessee-gas-pipeline-company-llc-notice-of-scoping-period-requesting-comments-on-environmental"
-    },
-    {
-      "id": "873bd2c43bfd",
-      "category": "LEGIS",
-      "date": "2026-07-21",
-      "title": "ETC Tiger Pipeline, LLC; Notice of Application and Establishing Intervention Deadline",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14686/etc-tiger-pipeline-llc-notice-of-application-and-establishing-intervention-deadline"
-    },
-    {
-      "id": "4675c6e7995c",
-      "category": "LEGIS",
-      "date": "2026-07-21",
-      "title": "Order Adopting Categorical Exclusions From Tennessee Valley Authority Under the National Environmental Policy Act Notice of Adoption of Categorical Exclusions Under the National Environmental Policy Act",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14685/order-adopting-categorical-exclusions-from-tennessee-valley-authority-under-the-national"
-    },
-    {
-      "id": "23485846b653",
-      "category": "LEGIS",
-      "date": "2026-07-21",
-      "title": "Commission Information Collection Activities (FERC-725S); Comment Request; Extension",
-      "summary": "In compliance with the requirements of the Paperwork Reduction Act of 1995, the Federal Energy Regulatory Commission (Commission or FERC) is soliciting public comment on the currently approved information collection FERC- 725S (OMB Control No. 1902-0270), Emergency Preparedness and Operations (EOP) Reliability Standards. There are no proposed changes to the reporting requirements.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14684/commission-information-collection-activities-ferc-725s-comment-request-extension"
+      "url": "https://www.federalregister.gov/documents/2026/07/22/2026-14819/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-1edtech-consortium"
     }
   ]
 }
