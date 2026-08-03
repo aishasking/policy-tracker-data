@@ -1,4 +1,265 @@
 {
-  "generated_at": "2026-08-02T13:50:29.954Z",
-  "updates": []
+  "generated_at": "2026-08-03T15:12:46.541Z",
+  "updates": [
+    {
+      "id": "5705c8b36d01",
+      "category": "FDA",
+      "date": "2026-08-03",
+      "title": "Sunshine Act; Open Commission Meeting Thursday, August 6, 2026",
+      "summary": "The Commission will consider a Notice of Proposed Rulemaking that would explore new avenues to allow innovative unlicensed wireless devices to communicate directly with satellites. The item would propose and seek comment on use of certain frequencies available under part 15 of the Commission's rules for communications between Earth and space, including direct-to-device (D2D) services. The NPRM would also propose to c",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15733/sunshine-act-open-commission-meeting-thursday-august-6-2026"
+    },
+    {
+      "id": "a14bfde83fd4",
+      "category": "LEGIS",
+      "date": "2026-08-03",
+      "title": "Visas: Visa Bond Program",
+      "summary": "This rule finalizes the temporary final rule that went into effect on August 20, 2025, which launched a 12-month long Visa Bond Pilot Program (Pilot Program), and establishes a permanent visa bond program. An alien applying for a visa as a temporary visitor for business or pleasure (B-1/B-2) may be required to submit a bond (\"visa bond\") to ensure that the alien maintains his or her nonimmigrant status and departs as",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15726/visas-visa-bond-program"
+    },
+    {
+      "id": "5399a55b0a18",
+      "category": "LEGIS",
+      "date": "2026-08-03",
+      "title": "Auction of Flexible-Use Licenses in the Upper C-Band for Next-Generation Wireless Services Scheduled for April 27, 2027; Comment Sought on Competitive Bidding Procedures for Auction 115",
+      "summary": "In this document, the Federal Communications Commission (the Commission or FCC) announces an auction of 3,248 new flexible-use licenses in the 3.98-4.14 GHz band. The Office of Economics and Analytics (OEA) and the Wireless Telecommunications Bureau (WTB) seek comment on the competitive bidding procedures and auction design to be used for this auction, which is designated as Auction 115.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15725/auction-of-flexible-use-licenses-in-the-upper-c-band-for-next-generation-wireless-services-scheduled"
+    },
+    {
+      "id": "878cbc6ce190",
+      "category": "LEGIS",
+      "date": "2026-08-03",
+      "title": "High-Speed Train Noise Emission Standards",
+      "summary": "This NPRM seeks to amend the noise emission regulations to address the unique noise emission characteristics of trains operating at speeds exceeding 160 miles per hour (mph). Specifically, the proposed regulation would provide an alternative standard for noise emissions from train operations exceeding 160 mph, up to 220 mph, and also provide a special approval process for noise emissions from train operations exceedi",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15724/high-speed-train-noise-emission-standards"
+    },
+    {
+      "id": "725c939e494d",
+      "category": "LEGIS",
+      "date": "2026-08-03",
+      "title": "Rescinding Portions of Department of the Treasury Title VI Regulations To Conform More Closely With the Statutory Text and To Implement an Executive Order",
+      "summary": "By this rule, the Department of the Treasury (\"Department\") amends its regulations implementing Title VI of the Civil Rights Act of 1964 (\"Title VI\") to eliminate disparate-impact liability. These amendments align the Department's regulations with Title VI's original public meaning, avoid constitutional concerns, reduce compliance costs, and serve the public interest. In addition, these revisions implement changes di",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15720/rescinding-portions-of-department-of-the-treasury-title-vi-regulations-to-conform-more-closely-with"
+    },
+    {
+      "id": "0c7faa1ca601",
+      "category": "LEGIS",
+      "date": "2026-08-03",
+      "title": "Foreign-Trade Zone 75; Application for Subzone Expansion; Intel Corporation; Chandler, Arizona",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15719/foreign-trade-zone-75-application-for-subzone-expansion-intel-corporation-chandler-arizona"
+    },
+    {
+      "id": "816ddf0c53a2",
+      "category": "LEGIS",
+      "date": "2026-08-03",
+      "title": "Tobacco Report: Notice of Request for an Extension of a Currently Approved Information Collection",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, this notice announces the Agricultural Marketing Service's (AMS) intention to request approval from the Office of Management and Budget for an extension and revision of the currently approved information collection, \"Tobacco Report\" (OMB No. 0581-0004).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15718/tobacco-report-notice-of-request-for-an-extension-of-a-currently-approved-information-collection"
+    },
+    {
+      "id": "de9b1992e93f",
+      "category": "LEGIS",
+      "date": "2026-08-03",
+      "title": "Ventilation Plan Approval Criteria",
+      "summary": "In response to a public request, the Mine Safety and Health Administration (MSHA) is reopening the rulemaking record and is scheduling a virtual public hearing on the Agency's proposed rule published on July 1, 2025, titled, \"Ventilation Plan Approval Criteria.\"",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15717/ventilation-plan-approval-criteria"
+    },
+    {
+      "id": "b88735e02aed",
+      "category": "LEGIS",
+      "date": "2026-08-03",
+      "title": "Notice of Intended Repatriation: Franklin County Historical Society, Ottawa, KS",
+      "summary": "In accordance with the Native American Graves Protection and Repatriation Act (NAGPRA), the Franklin County Historical Society intends to repatriate a certain cultural item that meets the definition of an object of cultural patrimony and that has a cultural affiliation with the Indian Tribes or Native Hawaiian organizations in this notice.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15715/notice-of-intended-repatriation-franklin-county-historical-society-ottawa-ks"
+    },
+    {
+      "id": "121c78fd7254",
+      "category": "LEGIS",
+      "date": "2026-08-03",
+      "title": "Notice of Intended Repatriation: Museum of Ventura County, Ventura, CA",
+      "summary": "In accordance with the Native American Graves Protection and Repatriation Act (NAGPRA), the Museum of Ventura County intends to repatriate certain cultural items that meet the definition of objects of cultural patrimony and that have a cultural affiliation with the Indian Tribes or Native Hawaiian organizations in this notice.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15714/notice-of-intended-repatriation-museum-of-ventura-county-ventura-ca"
+    },
+    {
+      "id": "6ee6a0d98599",
+      "category": "LEGIS",
+      "date": "2026-08-03",
+      "title": "Notice of Intended Repatriation: Michigan State University, East Lansing, MI",
+      "summary": "In accordance with the Native American Graves Protection and Repatriation Act (NAGPRA), Michigan State University intends to repatriate certain cultural items that meet the definition of unassociated funerary objects and that have a cultural affiliation with the Indian Tribes or Native Hawaiian organizations in this notice.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15713/notice-of-intended-repatriation-michigan-state-university-east-lansing-mi"
+    },
+    {
+      "id": "39bd9b150dc4",
+      "category": "LEGIS",
+      "date": "2026-08-03",
+      "title": "Notice of Inventory Completion: U.S. Army Corps of Engineers, St. Louis District, St. Louis, MO",
+      "summary": "In accordance with the Native American Graves Protection and Repatriation Act (NAGPRA), the U.S. Army Corps of Engineers, St. Louis District, has completed an inventory of human remains and associated funerary objects and has determined that there is a cultural affiliation between the human remains and associated funerary objects and Indian Tribes or Native Hawaiian organizations in this notice.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15712/notice-of-inventory-completion-us-army-corps-of-engineers-st-louis-district-st-louis-mo"
+    },
+    {
+      "id": "eaf29876a180",
+      "category": "LEGIS",
+      "date": "2026-08-03",
+      "title": "Notice of Inventory Completion: Archaeological Survey of Idaho Western Repository, Idaho State Historical Society, Boise, ID",
+      "summary": "In accordance with the Native American Graves Protection and Repatriation Act (NAGPRA), the Archaeological Survey of Idaho Western Repository (ASI-WR) has completed an inventory of human remains and associated funerary objects and has determined that there is a cultural affiliation between the human remains and associated funerary objects and Indian Tribes or Native Hawaiian organizations in this notice.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15711/notice-of-inventory-completion-archaeological-survey-of-idaho-western-repository-idaho-state"
+    },
+    {
+      "id": "608132ece8c3",
+      "category": "LEGIS",
+      "date": "2026-08-03",
+      "title": "Notice of Intended Repatriation: University of California, San Diego, San Diego, CA",
+      "summary": "In accordance with the Native American Graves Protection and Repatriation Act (NAGPRA), the University of California San Diego intends to repatriate certain cultural items that meet the definition of objects of cultural patrimony and that have a cultural affiliation with the Indian Tribes or Native Hawaiian organizations in this notice.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15710/notice-of-intended-repatriation-university-of-california-san-diego-san-diego-ca"
+    },
+    {
+      "id": "ce9f98521ed9",
+      "category": "LEGIS",
+      "date": "2026-08-03",
+      "title": "Notice of Proposed Transfer or Reinterment: University of Wisconsin Oshkosh, Oshkosh, WI",
+      "summary": "In accordance with the Native American Graves Protection and Repatriation Act (NAGPRA), the University of Wisconsin Oshkosh (UWO) proposes to transfer human remains and associated funerary objects listed in a notice of inventory completion published in the Federal Register on June 27, 2025.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15709/notice-of-proposed-transfer-or-reinterment-university-of-wisconsin-oshkosh-oshkosh-wi"
+    },
+    {
+      "id": "ccf64e2ee35c",
+      "category": "LEGIS",
+      "date": "2026-08-03",
+      "title": "Notice of Inventory Completion: Lost City Museum, Overton, NV",
+      "summary": "In accordance with the Native American Graves Protection and Repatriation Act (NAGPRA), the Lost City Museum has completed an inventory of human remains and associated funerary objects and has determined that there is a cultural affiliation between the human remains and associated funerary objects and Indian Tribes or Native Hawaiian organizations in this notice.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15708/notice-of-inventory-completion-lost-city-museum-overton-nv"
+    },
+    {
+      "id": "be832a583244",
+      "category": "LEGIS",
+      "date": "2026-08-03",
+      "title": "Notice of Inventory Completion: University of Kansas, Lawrence, KS, and University of Tennessee, Department of Anthropology, Knoxville, TN",
+      "summary": "In accordance with the Native American Graves Protection and Repatriation Act (NAGPRA), the University of Kansas (KU) and the University of Tennessee, Knoxville, Department of Anthropology (UTK) have completed an inventory of human remains and associated funerary objects and have determined that there is a cultural affiliation between the human remains and associated funerary objects and Indian Tribes or Native Hawai",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15707/notice-of-inventory-completion-university-of-kansas-lawrence-ks-and-university-of-tennessee"
+    },
+    {
+      "id": "e831d78e5e7d",
+      "category": "LEGIS",
+      "date": "2026-08-03",
+      "title": "Notice of Intended Repatriation: California State University, Sacramento, Sacramento, CA",
+      "summary": "In accordance with the Native American Graves Protection and Repatriation Act (NAGPRA), the California State University, Sacramento intends to repatriate certain cultural items that meet the definition of sacred objects and that have a cultural affiliation with the Indian Tribes or Native Hawaiian organizations in this notice.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15706/notice-of-intended-repatriation-california-state-university-sacramento-sacramento-ca"
+    },
+    {
+      "id": "589ba1fa5f54",
+      "category": "LEGIS",
+      "date": "2026-08-03",
+      "title": "Notice of Intended Repatriation: California State University, Sacramento, Sacramento, CA",
+      "summary": "In accordance with the Native American Graves Protection and Repatriation Act (NAGPRA), the California State University, Sacramento intends to repatriate certain cultural items that meet the definition of sacred objects/objects of cultural patrimony and that have a cultural affiliation with the Indian Tribes or Native Hawaiian organizations in this notice.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15705/notice-of-intended-repatriation-california-state-university-sacramento-sacramento-ca"
+    },
+    {
+      "id": "4db5af0a8091",
+      "category": "LEGIS",
+      "date": "2026-08-03",
+      "title": "Notice of Intended Repatriation: Denver Art Museum, Denver, CO",
+      "summary": "In accordance with the Native American Graves Protection and Repatriation Act (NAGPRA), the Denver Art Museum intends to repatriate a certain cultural item that meets the definition of a sacred object/ object of cultural patrimony and that has a cultural affiliation with the Indian Tribes or Native Hawaiian organizations in this notice.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15704/notice-of-intended-repatriation-denver-art-museum-denver-co"
+    }
+  ]
 }
