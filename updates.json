@@ -1,4 +1,265 @@
 {
-  "generated_at": "2026-08-09T13:12:26.844Z",
-  "updates": []
+  "generated_at": "2026-08-10T13:39:54.401Z",
+  "updates": [
+    {
+      "id": "843541791bc3",
+      "category": "FDA",
+      "date": "2026-08-10",
+      "title": "Continuation of U.S. Drug Interdiction Assistance to the Government of Colombia",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16312/continuation-of-us-drug-interdiction-assistance-to-the-government-of-colombia"
+    },
+    {
+      "id": "d20b3fb50795",
+      "category": "LEGIS",
+      "date": "2026-08-10",
+      "title": "English Language Proficiency; Out of Service Criteria",
+      "summary": "FMCSA proposes to codify the English language proficiency (ELP) driver qualification requirement as an out-of-service (OOS) violation. The rulemaking would ensure uniform enforcement by aligning the Federal Motor Carrier Safety Regulations (FMCSR) with the current enforcement tolerances in the North American Standard Out-of-Service Criteria issued by the Commercial Vehicle Safety Alliance (CVSA). The rulemaking respo",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16288/english-language-proficiency-out-of-service-criteria"
+    },
+    {
+      "id": "d0957325948d",
+      "category": "LEGIS",
+      "date": "2026-08-10",
+      "title": "Establishment of Class E Airspace; Coleman, TX",
+      "summary": "This action proposes to establish Class E airspace at Ranch at Double Gates Airport, Coleman, TX. The FAA is proposing this action to support new instrument procedures and instrument flight rule (IFR) operations.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16274/establishment-of-class-e-airspace-coleman-tx"
+    },
+    {
+      "id": "a24d7cebc2be",
+      "category": "LEGIS",
+      "date": "2026-08-10",
+      "title": "Removal of FAA Third-Class Medical Certificate Requirement for Military Pilot Trainees",
+      "summary": "FAA proposes to amend regulations to extend the existing exception for U.S. military pilots from the requirement to hold an FAA third-class medical certificate to military pilot trainees who already meet U.S. military pilot medical examination requirements. FAA has determined that U.S. military pilot medical examinations meet or exceed the level of safety established by FAA third-class medical certificate standards. ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16272/removal-of-faa-third-class-medical-certificate-requirement-for-military-pilot-trainees"
+    },
+    {
+      "id": "4cf48eb84ba9",
+      "category": "LEGIS",
+      "date": "2026-08-10",
+      "title": "Backup Withholding on Third Party Network Transactions",
+      "summary": "This document contains final regulations governing backup withholding on reportable payments with respect to third party network transactions. The final regulations reflect recent changes to the statutory law that affect the backup withholding requirements for third party settlement organizations who make payments in settlement of third party network transactions.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16269/backup-withholding-on-third-party-network-transactions"
+    },
+    {
+      "id": "ac37f3bf097f",
+      "category": "LEGIS",
+      "date": "2026-08-10",
+      "title": "Television Broadcasting Services Elko, Nevada",
+      "summary": "This document proposes to amend the Table of TV Allotments (Table) of the Federal Communications Commission's (Commission) rules in response to a petition for rulemaking filed by Reno (KENV-TV) Licensee, Inc. (Licensee), the Licensee of full service television station KENV-DT (KENV-DT or Station), Elko, Nevada (Elko). The Licensee holds a construction permit (CP) to construct a facility on UHF channel 20 at Elko, and",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16268/television-broadcasting-services-elko-nevada"
+    },
+    {
+      "id": "78ed23bf0dc0",
+      "category": "LEGIS",
+      "date": "2026-08-10",
+      "title": "Notice of Council Updated NEPA Procedures",
+      "summary": "The Gulf Coast Ecosystem Restoration Council (Council) has updated its procedures (NEPA Procedures) for implementing the National Environmental Policy Act (NEPA). The Council's updated NEPA Procedures are available at www.restorethegulf.gov.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16267/notice-of-council-updated-nepa-procedures"
+    },
+    {
+      "id": "6f938b1f984a",
+      "category": "LEGIS",
+      "date": "2026-08-10",
+      "title": "Privacy Act of 1974; Matching Program",
+      "summary": "In accordance with the Privacy Act of 1974, as amended (\"Privacy Act\"), this document announces a new computer matching program the Federal Communications Commission (FCC or Commission or Agency) and the Universal Service Administrative Company (USAC) will conduct with the Iowa Department of Health and Human Services. The purpose of this matching program is to verify the eligibility of applicants to and subscribers o",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16266/privacy-act-of-1974-matching-program"
+    },
+    {
+      "id": "ec187150e596",
+      "category": "LEGIS",
+      "date": "2026-08-10",
+      "title": "Initiation of Antidumping and Countervailing Duty Administrative Reviews",
+      "summary": "The U.S. Department of Commerce (Commerce) has received requests to conduct administrative reviews of various antidumping duty (AD) and countervailing duty (CVD) orders with June anniversary dates. In accordance with Commerce's regulations, we are initiating those administrative reviews.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16265/initiation-of-antidumping-and-countervailing-duty-administrative-reviews"
+    },
+    {
+      "id": "411d1ae91baf",
+      "category": "LEGIS",
+      "date": "2026-08-10",
+      "title": "o-Dichlorobenzene and p-Dichlorobenzene; Draft Risk Evaluations Under the Toxic Substances Control Act (TSCA); Notice of Availability and Request for Comment",
+      "summary": "The Environmental Protection Agency (EPA or Agency) is announcing the availability of and seeking public comment on the draft risk evaluations under the Toxic Substances Control Act (TSCA) for o- dichlorobenzene (CASRN 95-50-1) and p-dichlorobenzene (CASRN 106-46-7). The purpose of risk evaluations under TSCA is to determine whether a chemical substance presents an unreasonable risk of injury to health or the environ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16263/o-dichlorobenzene-and-p-dichlorobenzene-draft-risk-evaluations-under-the-toxic-substances-control"
+    },
+    {
+      "id": "7547effcaa80",
+      "category": "LEGIS",
+      "date": "2026-08-10",
+      "title": "Agency Information Collection Activities; Comment Request on U.S. Business Income Tax Returns and Related Forms, Schedules, Attachments, and Published Guidance",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16262/agency-information-collection-activities-comment-request-on-us-business-income-tax-returns-and"
+    },
+    {
+      "id": "d586e1a3a14d",
+      "category": "LEGIS",
+      "date": "2026-08-10",
+      "title": "Foreign Endangered Species; Receipt of Permit Applications",
+      "summary": "We, the U.S. Fish and Wildlife Service (Service), invite the public to comment on applications to conduct certain activities with foreign species that are listed as endangered under the Endangered Species Act (ESA). With some exceptions, the ESA prohibits activities with listed species unless Federal authorization is issued that allows such activities. The ESA also requires that we invite public comment before issuin",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16260/foreign-endangered-species-receipt-of-permit-applications"
+    },
+    {
+      "id": "3c98354b591a",
+      "category": "LEGIS",
+      "date": "2026-08-10",
+      "title": "Notice Announcing Research Training Programs in the Education Sciences, Research Training Programs in Special Education, Statistical and Research Methodology in Education, Using Longitudinal Data To Support State Education Policymaking, and Using Longitudinal Data To Support State Education Policymaking in Special Education Program Competitions",
+      "summary": "The Institute of Education Sciences (IES) at the U.S. Department of Education (ED) is soliciting applications for new awards of the Fiscal Year (FY) 2027 Research Training Programs in the Education Sciences, Research Training Programs in Special Education, Statistical and Research Methodology in Education, Using Longitudinal Data to Support State Education Policymaking, and Using Longitudinal Data to Support State Ed",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16259/notice-announcing-research-training-programs-in-the-education-sciences-research-training-programs-in"
+    },
+    {
+      "id": "a47aaeec0b2c",
+      "category": "LEGIS",
+      "date": "2026-08-10",
+      "title": "Establishment of Class E Airspace; Havana, IL",
+      "summary": "This action proposes to establish Class E airspace at Mason District Hospital Heliport, Havana, IL. The FAA is proposing this action to support new instrument procedures and instrument flight rule (IFR) operations.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16258/establishment-of-class-e-airspace-havana-il"
+    },
+    {
+      "id": "5211db0b7bc4",
+      "category": "LEGIS",
+      "date": "2026-08-10",
+      "title": "Office of the Director, Notice of Charter Renewal",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16257/office-of-the-director-notice-of-charter-renewal"
+    },
+    {
+      "id": "f0b5151fabb9",
+      "category": "LEGIS",
+      "date": "2026-08-10",
+      "title": "Safety Zone; Lake St. Clair; Grosse Pointe Farms, MI",
+      "summary": "The Coast Guard is establishing a temporary safety zone for navigable waters of Lake St. Clair within a 475-foot radius of Grosse Pointe Yacht Club in Lake St. Clair, Grosse Pointe Farms, MI. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards during a fireworks event. Entry of vessels or persons into this zone is prohibited unless specifically authorized by the ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16256/safety-zone-lake-st-clair-grosse-pointe-farms-mi"
+    },
+    {
+      "id": "ea8157353c2c",
+      "category": "LEGIS",
+      "date": "2026-08-10",
+      "title": "Reporting and Recordkeeping Requirements Under Office of Management and Budget Review",
+      "summary": "The Small Business Administration (SBA) will submit the information collection described below to the Office of Management and Budget (OMB) for review and clearance in accordance with the Paperwork Reduction Act of 1995, as amended, on or after the date of publication of this notice. SBA is publishing this notice to allow all interested members of the public an additional 30 days to provide comments on the collection",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16255/reporting-and-recordkeeping-requirements-under-office-of-management-and-budget-review"
+    },
+    {
+      "id": "cc1d843faf39",
+      "category": "LEGIS",
+      "date": "2026-08-10",
+      "title": "Safety Zones; Annual Events in the Captain of the Port Eastern Great Lakes Zone Marine Events Within the Great Lakes Coast Guard District",
+      "summary": "The Coast Guard will enforce multiple safety zones located in federal regulations for recurring marine events taking place in August through September of 2026 to provide for the safety of life on navigable waterways during these events. Our regulation for marine events within the Coast Guard's Eastern Great Lakes Zone identifies the regulated areas for these events. During the enforcement periods, the operator of any",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16254/safety-zones-annual-events-in-the-captain-of-the-port-eastern-great-lakes-zone-marine-events-within"
+    },
+    {
+      "id": "f66ffef3059e",
+      "category": "LEGIS",
+      "date": "2026-08-10",
+      "title": "Collection of Information Under Review by Office of Management and Budget; OMB Control Number: 1625-0009",
+      "summary": "In compliance with the Paperwork Reduction Act of 1995 the U.S. Coast Guard is forwarding an Information Collection Request (ICR), abstracted below, to the Office of Management and Budget (OMB), Office of Information and Regulatory Affairs (OIRA), requesting an extension of its approval for the following collection of information: 1625-0009, Oil Record Book for Ships; without change. Our ICR describes the information",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16253/collection-of-information-under-review-by-office-of-management-and-budget-omb-control-number"
+    },
+    {
+      "id": "204e19326d1d",
+      "category": "LEGIS",
+      "date": "2026-08-10",
+      "title": "Immigration Bonds; Technical Amendment",
+      "summary": "The Department of Homeland Security (DHS) is making non- substantive technical revisions to its immigration bond regulation to remove form numbers and legacy job titles from its provisions. It also makes other non-substantive revisions to this regulation to improve the clarity of the CFR. This action is editorial in nature and does not impose any new regulatory requirements on affected parties.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16252/immigration-bonds-technical-amendment"
+    }
+  ]
 }
