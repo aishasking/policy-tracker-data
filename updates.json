@@ -1,265 +1,265 @@
 {
-  "generated_at": "2026-08-11T13:38:17.818Z",
+  "generated_at": "2026-08-12T13:41:50.539Z",
   "updates": [
     {
-      "id": "45566338c6de",
+      "id": "4d5a261a78a6",
       "category": "LEGIS",
-      "date": "2026-08-11",
-      "title": "Ending Birth Tourism",
+      "date": "2026-08-12",
+      "title": "Appellate Jurisdiction Update II",
+      "summary": "The Merit Systems Protection Board (MSPB or Board) is amending its regulations to remove references to MSPB's jurisdiction over probationary termination, suitability, and reduction-in-force (RIF) appeals. This revision reflects the Office of Personnel Management's (OPM's) rescission of the MSPB's jurisdiction to hear these types of appeals. The rule retains MSPB's statutory jurisdiction over Foreign Service reduction",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16456/appellate-jurisdiction-update-ii"
+    },
+    {
+      "id": "3e57c8cbc460",
+      "category": "LEGIS",
+      "date": "2026-08-12",
+      "title": "Community Reinvestment Act Regulations",
+      "summary": "The Office of the Comptroller of the Currency (OCC) and the Federal Deposit Insurance Corporation (FDIC) are proposing to amend their Community Reinvestment Act rules by making certain substantive, technical, and process-oriented changes to refocus on the statutory objective of encouraging banks to meet the credit needs of their communities; to better ensure that community development grants reach the communities the",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16454/community-reinvestment-act-regulations"
+    },
+    {
+      "id": "1d0c1f991c67",
+      "category": "LEGIS",
+      "date": "2026-08-12",
+      "title": "Government Owned Invention Available for License: MC38 B2m KO Cell Line",
+      "summary": "The National Cancer Institute (NCI) seeks licensees for a CRISPR/Cas9-engineered MC38 B2m knockout murine colon cancer cell line that models tumor resistance to PD-1/PD-L1 checkpoint blockade caused by loss of MHC-I antigen presentation. This research tool provides an opportunity to study checkpoint-refractory tumors and evaluate alternative or combination immunotherapy strategies for cancers that evade conventional ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16449/government-owned-invention-available-for-license-mc38-b2m-ko-cell-line"
+    },
+    {
+      "id": "674860138c9a",
+      "category": "LEGIS",
+      "date": "2026-08-12",
+      "title": "UChicago Argonne LLC et al; Notice of Decision on Application for Duty-Free Entry of Scientific Instruments",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16404/ending-birth-tourism"
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16448/uchicago-argonne-llc-et-al-notice-of-decision-on-application-for-duty-free-entry-of-scientific"
     },
     {
-      "id": "a4d55c5b9afa",
+      "id": "b553c3392905",
       "category": "LEGIS",
-      "date": "2026-08-11",
-      "title": "Continuing To Protect the Meaning and Value of American Citizenship",
+      "date": "2026-08-12",
+      "title": "Pacific Northwest National Laboratory et al; Application(s) for Duty-Free Entry of Scientific Instruments",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16403/continuing-to-protect-the-meaning-and-value-of-american-citizenship"
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16447/pacific-northwest-national-laboratory-et-al-applications-for-duty-free-entry-of-scientific"
     },
     {
-      "id": "6d7dad7869de",
+      "id": "41063722420e",
       "category": "LEGIS",
-      "date": "2026-08-11",
-      "title": "National Purple Heart Day, 2026",
+      "date": "2026-08-12",
+      "title": "Wooden Bedroom Furniture From the People's Republic of China: Final Results of Antidumping Duty Administrative Review; 2024",
+      "summary": "The U.S. Department of Commerce (Commerce) continues to determine that 11 companies under review did not establish their entitlement to a separate rate and are thus part of the People's Republic of China (China)-wide entity and subject to the China-wide entity rate. The period review (POR) is January 1, 2024, through December 31, 2024.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16446/wooden-bedroom-furniture-from-the-peoples-republic-of-china-final-results-of-antidumping-duty"
+    },
+    {
+      "id": "bd872f403a56",
+      "category": "LEGIS",
+      "date": "2026-08-12",
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Steel Import License",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16401/national-purple-heart-day-2026"
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16445/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
     },
     {
-      "id": "c0bc3bb9079f",
+      "id": "00d5a3e26b47",
       "category": "LEGIS",
-      "date": "2026-08-11",
-      "title": "Adjusting Imports of Polysilicon and Its Derivatives Into the United States",
-      "summary": "Federal Register document (no abstract provided).",
+      "date": "2026-08-12",
+      "title": "Prospective Grant of an Exclusive Patent License: Development and Commercialization of BL-760 Dye for Intraoperative Fluorescence Imaging",
+      "summary": "The National Cancer Institute, an institute of the National Institutes of Health, Department of Health and Human Services, is contemplating the grant of an Exclusive Patent License to practice the inventions embodied in the patents and patent applications listed in the Supplementary Information section of this notice to OptoSurgical LLC (\"OptoSurgical\"), a company located in Columbia, Maryland, the United States of A",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16400/adjusting-imports-of-polysilicon-and-its-derivatives-into-the-united-states"
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16444/prospective-grant-of-an-exclusive-patent-license-development-and-commercialization-of-bl-760-dye-for"
     },
     {
-      "id": "a2b1be99a9be",
+      "id": "b6b955c5f35a",
+      "category": "LEGIS",
+      "date": "2026-08-12",
+      "title": "Government Owned Invention Available for License: Monoclonal Antibody (RO4) That Reacts With the Juxta-Membrane Region of Mesothelin",
+      "summary": "The National Cancer Institute (NCI) seeks research co- development partners and/or licensees for a novel monoclonal antibody (mAb), RO4, that can be used to treat mesothelin (MSLN) expressing cancers.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16443/government-owned-invention-available-for-license-monoclonal-antibody-ro4-that-reacts-with-the"
+    },
+    {
+      "id": "ee2b2d35c1c1",
+      "category": "LEGIS",
+      "date": "2026-08-12",
+      "title": "Government Owned Invention Available for License: Human Antibodies Targeting Beneficial Viral Peptide in Liver Cancer",
+      "summary": "The National Cancer Institute (NCI) seeks research co- development partners and/or licensees to develop a collection of anti- CE1 antibodies for liver cancer treatment.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16442/government-owned-invention-available-for-license-human-antibodies-targeting-beneficial-viral-peptide"
+    },
+    {
+      "id": "61caa14be3c2",
+      "category": "LEGIS",
+      "date": "2026-08-12",
+      "title": "Government Owned Invention Available for License: DNA Methylation-Based Cancer Diagnostics for Accurate Tumor Classification",
+      "summary": "This technology encompasses a DNA methylation-based diagnostic platform designed to improve the accuracy and consistency of cancer classification, with demonstrated utility for tumors of the central nervous system, kidney, and hematopoietic system. By identifying disease-specific methylation signatures, the approach reduces interobserver variability and enhances diagnostic confidence. The central nervous system (CNS)",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16441/government-owned-invention-available-for-license-dna-methylation-based-cancer-diagnostics-for"
+    },
+    {
+      "id": "8f8f07856f31",
+      "category": "LEGIS",
+      "date": "2026-08-12",
+      "title": "NIH Owned Invention Available for License: Soluble Tissue Factor, a Novel Target, and Antibodies, for Diagnosis, Prevention and Treatment of Thrombosis and Related Conditions",
+      "summary": "Scientists at the National Cancer Institute (NCI) have discovered a novel therapeutic, diagnostic and prognostic target for thrombosis: Soluble Tissue Factor (sTF). NCI has generated first-in- class antibodies and platform selectively neutralizing pathological coagulation while preserving normal hemostasis. This platform technology can be used to prevent, diagnose and treat pathological thrombosis caused by a variety",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16440/nih-owned-invention-available-for-license-soluble-tissue-factor-a-novel-target-and-antibodies-for"
+    },
+    {
+      "id": "b3fdbc557081",
+      "category": "LEGIS",
+      "date": "2026-08-12",
+      "title": "Government Owned Invention Available for License: Quantitative Particle Identification (QPID) Digital Autoradiography System",
+      "summary": "The National Cancer Institute (NCI) seeks research co- development partners and/or licensees for a QPID digital autoradiography system with particle identification capabilities.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16439/government-owned-invention-available-for-license-quantitative-particle-identification-qpid-digital"
+    },
+    {
+      "id": "fdcde070b5b6",
       "category": "FDA",
-      "date": "2026-08-11",
-      "title": "Schedules of Controlled Substances: Rescheduling of Suvorexant, Lemborexant, and Daridorexant From Schedule IV Into Schedule V",
-      "summary": "The Drug Enforcement Administration proposes to transfer suvorexant ([(7R)-4-(5-chloro-1,3-benzoxazol-2-yl)-7-methyl-1,4- diazepan-1-yl]-[5-methyl-2-(triazol-2-yl)phenyl]methanone), lemborexant ((1R,2S)-2-[(2,4-dimethylpyrimidin-5-yl)oxymethyl]-2-(3-fluorophenyl)- N-(5-fluoropyridin-2-yl)cyclopropane-1-carboxamide), and daridorexant ([(2S)-2-(5-chloro-4-methyl-1H-benzimidazol-2-yl)-2-methylpyrrolidin-1- yl]-[5-methox",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "high",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16375/schedules-of-controlled-substances-rescheduling-of-suvorexant-lemborexant-and-daridorexant-from"
-    },
-    {
-      "id": "577cf3b46b37",
-      "category": "CMS",
-      "date": "2026-08-11",
-      "title": "NRC Modernization: Rulemaking Procedure, Federal Advisory Committee Act Alignment, Access, and Security",
-      "summary": "The U.S. Nuclear Regulatory Commission (NRC) is amending its regulations by streamlining procedural provisions related to information withholding and post-promulgation comment periods; aligning the NRC's regulations with Committee Management Secretariat (CMS) Federal Advisory Committee Act (FACA) standards; and updating national security eligibility criteria. The goal is to modernize and clarify the NRC's regulatory ",
+      "date": "2026-08-12",
+      "title": "NIH Owned Invention Available for License: Drug-Regulatable, Inducible Expression of Membrane-Bound Interleukin 12 (DRIM-IL-12) for Use in Adoptive Cell Therapy",
+      "summary": "Scientists at the National Cancer Institute (NCI) have developed a novel tightly regulated drug-responsive, membrane-bound IL- 12 cytokine platform, that enhances anti-tumor efficacy in adoptive cell therapy (ACT) with engineered T-cells (CAR, TCR, TILs) while improving safety. The NCI seeks research co-development partners and/or licensees to advance this technology toward clinical translation.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16374/nrc-modernization-rulemaking-procedure-federal-advisory-committee-act-alignment-access-and-security"
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16438/nih-owned-invention-available-for-license-drug-regulatable-inducible-expression-of-membrane-bound"
     },
     {
-      "id": "2a3231e811e1",
-      "category": "CMS",
-      "date": "2026-08-11",
-      "title": "NRC Modernization: Rulemaking Procedure, Federal Advisory Committee Act Alignment, Access, and Security",
-      "summary": "The U.S. Nuclear Regulatory Commission (NRC) is proposing to amend its regulations by streamlining procedural provisions related to information withholding and post-promulgation comment periods; aligning the NRC's regulations with Committee Management Secretariat (CMS) Federal Advisory Committee Act (FACA) standards; and updating national security eligibility criteria. The goal is to modernize and clarify the NRC's r",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16373/nrc-modernization-rulemaking-procedure-federal-advisory-committee-act-alignment-access-and-security"
-    },
-    {
-      "id": "93db84ae3c70",
+      "id": "5481ae3ee8fd",
       "category": "LEGIS",
-      "date": "2026-08-11",
-      "title": "Reforms to 13 CFR 124.103 To Remove SBA's 8(a) Program's Rebuttable Presumption of Social Disadvantage for Individually Owned Firms Only. Reforms Do Not Impact Entity-Owned Firms",
-      "summary": "The U.S. Small Business Administration (\"SBA\" or \"Agency\") amends its regulations to align the Section 8(a) Business Development Program (8(a) BD program) with constitutional requirements and the law. The rule applies only to the 8(a) BD eligibility of small businesses owned and controlled by individuals. It does not in any way amend or affect the eligibility of entity-owned small businesses (i.e., those owned by tri",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16370/reforms-to-13-cfr-124103-to-remove-sbas-8a-programs-rebuttable-presumption-of-social-disadvantage"
-    },
-    {
-      "id": "c7a997e2d369",
-      "category": "FDA",
-      "date": "2026-08-11",
-      "title": "Medicare Program; Regulatory Alignment for Predictable and Immediate Device (RAPID) Coverage Pathway",
-      "summary": "This notice with comment period provides information to the public on the process CMS will use to provide accelerated Medicare coverage through the Regulatory Alignment for Predictable and Immediate Device (RAPID) coverage pathway for new innovative technologies. The RAPID coverage pathway leverages existing processes to provide expedited national Medicare coverage for eligible technologies. This notice with comment ",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16368/medicare-program-regulatory-alignment-for-predictable-and-immediate-device-rapid-coverage-pathway"
-    },
-    {
-      "id": "6003694596bf",
-      "category": "LEGIS",
-      "date": "2026-08-11",
-      "title": "Marine Mammals; Incidental Take During Specified Activities; Proposed Incidental Harassment Authorization for Southwest Alaska Stock of Northern Sea Otters in Unalaska, Alaska",
-      "summary": "We, the U.S. Fish and Wildlife Service (FWS), in response to a request under the Marine Mammal Protection Act of 1972, as amended, from the City of Unalaska, propose to authorize incidental take by harassment of small numbers of Southwest Alaska stock northern sea otters (Enhydra lutris kenyoni) for a period of up to 1 year from the date of issuance. The applicant has requested this authorization for take by harassme",
+      "date": "2026-08-12",
+      "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; New Information Collection; USAO-PR COMMUNITY OUTREACH REQUEST FORM Feedback Form Package",
+      "summary": "The USAO-PR, Department of Justice (DOJ), will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995.",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16367/marine-mammals-incidental-take-during-specified-activities-proposed-incidental-harassment"
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16437/agency-information-collection-activities-proposed-ecollection-ecomments-requested-new-information"
     },
     {
-      "id": "eba5f0948c0b",
+      "id": "6f26cb45d211",
       "category": "LEGIS",
-      "date": "2026-08-11",
-      "title": "Privacy Act of 1974; System of Records",
-      "summary": "In accordance with the Privacy Act of 1974, the Department of Transportation (DOT) proposes a new system of records titled \"DOT/ FMCSA 016, Customer Relationship Records (CRR).\" This system of records allows DOT to collect and maintain both written and verbal correspondence from Agency customers who contact the FMCSA (1-800-832- 5660 toll free number, by email, or chat). The information in the system enables the Agen",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16366/privacy-act-of-1974-system-of-records"
-    },
-    {
-      "id": "2dbcf09fbde7",
-      "category": "LEGIS",
-      "date": "2026-08-11",
-      "title": "Geographic Targeting Order Imposing Recordkeeping and Reporting Requirements on Certain Financial Institutions in Minnesota",
-      "summary": "FinCEN is issuing this Geographic Targeting Order, requiring banks and money transmitters located in the Counties of Hennepin and Ramsey, Minnesota to retain and report records of certain payments of $3,000 or more.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16365/geographic-targeting-order-imposing-recordkeeping-and-reporting-requirements-on-certain-financial"
-    },
-    {
-      "id": "345c64eee821",
-      "category": "LEGIS",
-      "date": "2026-08-11",
-      "title": "Sunshine Act Meetings",
+      "date": "2026-08-12",
+      "title": "Dauphin Island Gathering Partners; Notice of Application and Establishing Intervention Deadline",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16364/sunshine-act-meetings"
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16436/dauphin-island-gathering-partners-notice-of-application-and-establishing-intervention-deadline"
     },
     {
-      "id": "73473d12bba1",
-      "category": "FDA",
-      "date": "2026-08-11",
-      "title": "Certain Wi-Fi Routers, Wi-Fi Devices, Mesh Wi-Fi Network Devices and Components Thereof; Notice of Request for Submissions on the Public Interest",
-      "summary": "Notice is hereby given that on August 6, 2026, the presiding administrative law judge (\"ALJ\") issued an Initial Determination on Violation of Section 337. The ALJ also issued a Recommended Determination on remedy and bonding should a violation be found in the above-captioned investigation. The Commission is soliciting submissions on public interest issues raised by the recommended relief should the Commission find a ",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16363/certain-wi-fi-routers-wi-fi-devices-mesh-wi-fi-network-devices-and-components-thereof-notice-of"
-    },
-    {
-      "id": "cc6655f7c36c",
+      "id": "60e2b412946d",
       "category": "LEGIS",
-      "date": "2026-08-11",
-      "title": "Aluminum Extrusions From the People's Republic of China: Final Results of Countervailing Duty Administrative Review; 2024",
-      "summary": "The U.S. Department of Commerce (Commerce) determines that producers and exporters of aluminum extrusions from the People's Republic of China (China) received countervailable subsidies during the period or review (POR) January 1, 2024, through December 31, 2024.",
+      "date": "2026-08-12",
+      "title": "Mountain Valley Pipeline, LLC; Notice of Availability of the Environmental Assessment for the Proposed Mountain Valley Pipeline Boost Project",
+      "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
-      "priority": "low",
+      "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16362/aluminum-extrusions-from-the-peoples-republic-of-china-final-results-of-countervailing-duty"
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16435/mountain-valley-pipeline-llc-notice-of-availability-of-the-environmental-assessment-for-the-proposed"
     },
     {
-      "id": "a77d37214964",
+      "id": "1893767693e5",
       "category": "LEGIS",
-      "date": "2026-08-11",
-      "title": "Mattresses From Malaysia: Final Results of Antidumping Duty Administrative Review; 2024-2025",
-      "summary": "The U.S. Department of Commerce (Commerce) determines that mattresses from Malaysia were sold at prices below than normal value (NV) during the period of review (POR), May 1, 2024, through April 30, 2025.",
+      "date": "2026-08-12",
+      "title": "Issuance of Multiple Exemptions",
+      "summary": "The U.S. Nuclear Regulatory Commission (NRC) is issuing a single notice to announce the issuance of four exemptions in response to requests as detailed in the available documents.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16361/mattresses-from-malaysia-final-results-of-antidumping-duty-administrative-review-2024-2025"
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16434/issuance-of-multiple-exemptions"
     },
     {
-      "id": "e5f19f35bee6",
+      "id": "fc411d46cb04",
       "category": "LEGIS",
-      "date": "2026-08-11",
-      "title": "Ripe Olives From Spain: Final Results and Partial Rescission of Antidumping Duty Administrative Review; 2023-2024",
-      "summary": "The U.S. Department of Commerce (Commerce) determines that certain producers/exporters subject to this administrative review made sales of subject merchandise at less than normal value during the period of review (POR) August 1, 2023, through July 31, 2024.",
+      "date": "2026-08-12",
+      "title": "Information Collection: Physical Protection of Category 1 and 2 Quantities of Radioactive Material",
+      "summary": "The U.S. Nuclear Regulatory Commission (NRC) invites public comment on the renewal of Office of Management and Budget (OMB) approval for an existing collection of information. The information collection is entitled, \"Physical Protection of Category 1 and 2 Quantities of Radioactive Material.\"",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16360/ripe-olives-from-spain-final-results-and-partial-rescission-of-antidumping-duty-administrative"
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16433/information-collection-physical-protection-of-category-1-and-2-quantities-of-radioactive-material"
     },
     {
-      "id": "95a1e801ef2f",
+      "id": "0486136ff438",
       "category": "LEGIS",
-      "date": "2026-08-11",
-      "title": "Danger Zone: Pacific Ocean at Marine Corps Base Hawaii, Kaneohe Bay, Island of Oahu, Hawaii",
-      "summary": "The United States Army Corps of Engineers (Corps) is amending its regulations for an existing danger zone at the U.S. Marine Corps Ulupau Crater Weapons Training Range in the vicinity of Kaneohe Bay, Hawaii. The Marine Corps requested a change to the current hours that weapons firing may be conducted. This amendment is necessary in order to ensure public safety.",
+      "date": "2026-08-12",
+      "title": "Imposition of Import Restrictions on Categories of Archaeological and Ethnological Material of Nepal",
+      "summary": "This document amends U.S. Customs and Border Protection (CBP) regulations to reflect the imposition of import restrictions on certain archaeological and ethnological material from the Federal Democratic Republic of Nepal (Nepal). These restrictions are imposed pursuant to an agreement between the United States and Nepal, entered into under the authority of the Convention on Cultural Property Implementation Act. This ",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16359/danger-zone-pacific-ocean-at-marine-corps-base-hawaii-kaneohe-bay-island-of-oahu-hawaii"
-    },
-    {
-      "id": "7fb8289191f2",
-      "category": "LEGIS",
-      "date": "2026-08-11",
-      "title": "Common Alloy Aluminum Sheet From the People's Republic of China, Bahrain, Brazil, Croatia, Egypt, Germany, India, Indonesia, Italy, Oman, Romania, Serbia, Slovenia, South Africa, Spain, Taiwan, and the Republic of Türkiye: Initiation and Preliminary Results of Changed Circumstances Reviews and Intent To Revoke the Antidumping and Countervailing Duty Orders, in Part",
-      "summary": "The U.S. Department of Commerce (Commerce) is initiating and issuing preliminary results of changed circumstances reviews (CCRs) of the antidumping duty (AD) and countervailing duty (CVD) orders on common alloy aluminum sheet (aluminum sheet) from the People's Republic of China (China), Bahrain, Brazil, Croatia, Egypt, Germany, India, Indonesia, Italy, Oman, Romania, Serbia, Slovenia, South Africa, Spain, Taiwan, and",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16358/common-alloy-aluminum-sheet-from-the-peoples-republic-of-china-bahrain-brazil-croatia-egypt-germany"
-    },
-    {
-      "id": "ef08ed654e4d",
-      "category": "LEGIS",
-      "date": "2026-08-11",
-      "title": "Restricted Area: Naval Weapons Station Seal Beach",
-      "summary": "The U.S. Army Corps of Engineers (Corps) is proposing to revise the existing regulations for a restricted area within Naval Weapons Station Seal Beach (NWSSB). The Department of the Navy requested amendment of a restricted area located within NWSSB, in the City of Seal Beach, Orange County, California (33.7334 Latitude/- 118.0953 Longitude). NWSSB is the primary West Coast installation for the supply of munitions to ",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16357/restricted-area-naval-weapons-station-seal-beach"
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16432/imposition-of-import-restrictions-on-categories-of-archaeological-and-ethnological-material-of-nepal"
     }
   ]
 }
