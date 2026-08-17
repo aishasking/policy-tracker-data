@@ -1,4 +1,265 @@
 {
-  "generated_at": "2026-08-16T12:57:57.511Z",
-  "updates": []
+  "generated_at": "2026-08-17T13:03:11.291Z",
+  "updates": [
+    {
+      "id": "39c382c5e57a",
+      "category": "LEGIS",
+      "date": "2026-08-17",
+      "title": "National Substance Use Primary Prevention Month, 2026",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16799/national-substance-use-primary-prevention-month-2026"
+    },
+    {
+      "id": "92585b9f1823",
+      "category": "LEGIS",
+      "date": "2026-08-17",
+      "title": "Revocation of Class E Airspace; Santa Elena, TX",
+      "summary": "This action proposes to revoke the Class E airspace at Diamond \"O\" Ranch Airport, Santa Elena, TX. The FAA is proposing this action due to the instrument procedures being cancelled and the decommissioning of the Santa Elena radio beacon (RBN).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16774/revocation-of-class-e-airspace-santa-elena-tx"
+    },
+    {
+      "id": "195f039150b1",
+      "category": "LEGIS",
+      "date": "2026-08-17",
+      "title": "Proposed Removal of a Reporting Requirement for Trusts Whose Charitable Contribution Deductions Are Solely for Contributions Made by Passthrough Entities",
+      "summary": "This document contains proposed regulations that would amend existing regulations that require certain trusts to report all charitable contributions and amounts permanently set aside for a charitable purpose on Form 1041-A, U.S. Information Return Trust Accumulation of Charitable Amounts. The proposed regulations would remove the reporting requirement for these trusts with respect to taxable years in which the trust'",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16769/proposed-removal-of-a-reporting-requirement-for-trusts-whose-charitable-contribution-deductions-are"
+    },
+    {
+      "id": "045418d81893",
+      "category": "LEGIS",
+      "date": "2026-08-17",
+      "title": "Parvin Decentralized Fund and Parvin Fund Management, LLC",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16768/parvin-decentralized-fund-and-parvin-fund-management-llc"
+    },
+    {
+      "id": "ac0e68b49966",
+      "category": "LEGIS",
+      "date": "2026-08-17",
+      "title": "Sunshine Act Meetings",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16767/sunshine-act-meetings"
+    },
+    {
+      "id": "5a570a2141d1",
+      "category": "LEGIS",
+      "date": "2026-08-17",
+      "title": "Agency Information Collection Request; 30-Day Public Comment Request; Submission for Office of Management and Budget Review; Generic Clearance for the Trusted Exchange Framework and Common Agreement (TEFCA) Monitoring Activities",
+      "summary": "The Office of the National Coordinator for Health IT (ONC), Office of the Secretary (OS), Department of Health and Human Services, is seeking a three-year generic clearance to collect routine customer feedback on agency service delivery and program performance related to TEFCA.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16766/agency-information-collection-request-30-day-public-comment-request-submission-for-office-of"
+    },
+    {
+      "id": "f36aa9d834d5",
+      "category": "LEGIS",
+      "date": "2026-08-17",
+      "title": "Northern Lights Fund Trust and Ocean Park Asset Management, LLC",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16765/northern-lights-fund-trust-and-ocean-park-asset-management-llc"
+    },
+    {
+      "id": "a9d02d2a5b40",
+      "category": "LEGIS",
+      "date": "2026-08-17",
+      "title": "Formations of, Acquisitions by, and Mergers of Bank Holding Companies",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16764/formations-of-acquisitions-by-and-mergers-of-bank-holding-companies"
+    },
+    {
+      "id": "2960edff6b5f",
+      "category": "FDA",
+      "date": "2026-08-17",
+      "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
+      "summary": "Notice is hereby given that the U.S. International Trade Commission has received a complaint entitled Certain Dynamic Random Access Memory (DRAM) Devices, Products Containing the Same, and Components Thereof (III), DN 3930; the Commission is soliciting comments on any public interest issues raised by the complaint or complainant's filing pursuant to the Commission's Rules of Practice and Procedure.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16763/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest"
+    },
+    {
+      "id": "aeb7933c4948",
+      "category": "LEGIS",
+      "date": "2026-08-17",
+      "title": "Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16762/change-in-bank-control-notices-acquisitions-of-shares-of-a-bank-or-bank-holding-company"
+    },
+    {
+      "id": "8ca2cac850ec",
+      "category": "LEGIS",
+      "date": "2026-08-17",
+      "title": "Proposed Collection: 30-Day Comment Request; Specimen Resource Locator (National Cancer Institute)",
+      "summary": "In compliance with the requirement of the Paperwork Reduction Act of 1995 to provide an opportunity for public comment on proposed data collection projects, the National Institutes of Health, National Cancer Institute (NCI) will publish periodic summaries of proposed projects to be submitted to the Office of Management and Budget (OMB) for review and approval.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16761/proposed-collection-30-day-comment-request-specimen-resource-locator-national-cancer-institute"
+    },
+    {
+      "id": "130fdd64a593",
+      "category": "LEGIS",
+      "date": "2026-08-17",
+      "title": "Supplemental Nutrition Assistance Program: Changes in Federal-State Administrative Cost Sharing; Extension of Comment Period",
+      "summary": "The U.S. Department of Agriculture's (USDA) Food and Nutrition Administration (FNA) is extending the public comment period on the proposed rule, \"Supplemental Nutrition Assistance Program: Changes in Federal-State Administrative Cost Sharing,\" which was published in the Federal Register on June 24, 2026. This action extends the public comment period from August 24, 2026, to September 8, 2026, to give the public addit",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16760/supplemental-nutrition-assistance-program-changes-in-federal-state-administrative-cost-sharing"
+    },
+    {
+      "id": "393b63637df3",
+      "category": "LEGIS",
+      "date": "2026-08-17",
+      "title": "Delegation of Authority to the Assistant Secretary of Economic, Energy, and Business Affairs To Review and Deny Requests for Reconsideration of Sanctions Designations",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16759/delegation-of-authority-to-the-assistant-secretary-of-economic-energy-and-business-affairs-to-review"
+    },
+    {
+      "id": "1dac01ec1fbb",
+      "category": "LEGIS",
+      "date": "2026-08-17",
+      "title": "Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to Ferndale Pier Maintenance Activities in Ferndale, Washington",
+      "summary": "In accordance with the regulations implementing the Marine Mammal Protection Act (MMPA), as amended, notification is hereby given that NMFS has issued a renewal incidental harassment authorization (IHA) to Petrogas Pacific, LLC (Petrogas) to harass marine mammals incidental to Ferndale Pier Maintenance Activities in Ferndale, Washington.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16758/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to"
+    },
+    {
+      "id": "96b8589b3b6d",
+      "category": "LEGIS",
+      "date": "2026-08-17",
+      "title": "Safety Zone; Fox River, Green Bay, WI",
+      "summary": "The Coast Guard is establishing a temporary safety zone for navigable waters on the Fox River, in Green Bay, WI. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards associated with an overwater fireworks display. Entry of vessels or persons into this zone is prohibited unless specifically authorized by the Captain of the Port, Sector Lake Michigan, or their desig",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16757/safety-zone-fox-river-green-bay-wi"
+    },
+    {
+      "id": "bd1ca2c8ba93",
+      "category": "LEGIS",
+      "date": "2026-08-17",
+      "title": "Notice of Intent To Prepare an Environmental Analysis Assessing Potential Modifications to the Atlantic Large Whale Take Reduction Plan To Reduce Mortality and Serious Injury of Large Whales in Commercial Trap/Pot and Gillnet Fisheries Along the U.S. East Coast",
+      "summary": "NMFS intends to prepare an environmental analysis in accordance with the National Environmental Policy Act (NEPA) to analyze the impacts of alternatives to amend the Atlantic Large Whale Take Reduction Plan (Plan) if determined to be necessary to reduce mortalities and serious injuries of North Atlantic right whales (Eubalaena glacialis) and other large whales caused by entanglement in commercial trap/pot and gillnet",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16756/notice-of-intent-to-prepare-an-environmental-analysis-assessing-potential-modifications-to-the"
+    },
+    {
+      "id": "1905ff0dfd8c",
+      "category": "LEGIS",
+      "date": "2026-08-17",
+      "title": "Pesticide Program Dialogue Committee (PPDC); Notice of Charter Reestablishment; Request for Nominations",
+      "summary": "Notice is hereby given that the Environmental Protection Agency (EPA) has determined that, in accordance with the provisions of the Federal Advisory Committee Act (FACA), the Pesticide Program Dialogue Committee (PPDC) is in public interest and is necessary in connection with the performance of EPA's duties. Accordingly, PPDC will be reestablished for a two-year period and renewed as determined necessary. Copies of t",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16755/pesticide-program-dialogue-committee-ppdc-notice-of-charter-reestablishment-request-for-nominations"
+    },
+    {
+      "id": "d9a5a052a3f2",
+      "category": "LEGIS",
+      "date": "2026-08-17",
+      "title": "Agency Information Collection Activities: Requests for Comments; Clearance for Renewal of Information Collection: Privacy International Civil Aviation Organization (ICAO) Address",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, FAA invites public comments about our intention to request the Office of Management and Budget (OMB) approval for an information collection renewal. The collection involves an aircraft operator's request for a privacy ICAO address through a web-based application process. The information to be collected is necessary to qualify for the authorized use of the privac",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16754/agency-information-collection-activities-requests-for-comments-clearance-for-renewal-of-information"
+    },
+    {
+      "id": "3a4fd9455d2c",
+      "category": "LEGIS",
+      "date": "2026-08-17",
+      "title": "Aluminum Extrusions From the People's Republic of China: Final Results of Antidumping Duty Administrative Review; 2024-2025",
+      "summary": "The U.S. Department of Commerce (Commerce) determines that the 18 companies under review of the antidumping duty (AD) order on aluminum extrusions from the People's Republic of China (China), covering the period of review (POR) May 1, 2024, through April 30, 2025, are not eligible to receive a separate rate and are, therefore, part of the China-wide entity.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16753/aluminum-extrusions-from-the-peoples-republic-of-china-final-results-of-antidumping-duty"
+    },
+    {
+      "id": "aa32f51f12e7",
+      "category": "LEGIS",
+      "date": "2026-08-17",
+      "title": "Foreign-Trade Zone (FTZ) 176, Notification of Proposed Production Activity; Coilcraft, Inc.; (Ferrous Iron Pre-Fabrication Material); Princeton, Illinois",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16752/foreign-trade-zone-ftz-176-notification-of-proposed-production-activity-coilcraft-inc-ferrous-iron"
+    }
+  ]
 }
