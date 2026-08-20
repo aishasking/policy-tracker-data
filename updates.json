@@ -1,265 +1,265 @@
 {
-  "generated_at": "2026-08-19T13:05:57.234Z",
+  "generated_at": "2026-08-20T13:08:34.074Z",
   "updates": [
     {
-      "id": "0f49c19aa1bb",
+      "id": "a1e999682028",
       "category": "LEGIS",
-      "date": "2026-08-19",
-      "title": "Agency Information Collection Activities: Proposed Collection; Comment Request",
-      "summary": "Federal Register document (no abstract provided).",
+      "date": "2026-08-20",
+      "title": "Airworthiness Directives; The Boeing Company Airplanes",
+      "summary": "The FAA proposes to adopt a new airworthiness directive (AD) for certain The Boeing Company Model 787-8 airplanes. This proposed AD was prompted by a report that large forward cargo door (LFCD) split frames may have been manufactured with a material that did not conform to type design. This proposed AD would require an inspection of the LFCD split frames for affected batch numbers and applicable on- condition actions",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/19/C1-2026-15326/agency-information-collection-activities-proposed-collection-comment-request"
+      "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17056/airworthiness-directives-the-boeing-company-airplanes"
     },
     {
-      "id": "4f86985b60f2",
-      "category": "LEGIS",
-      "date": "2026-08-19",
-      "title": "Adjusting Imports of Unmanned Aircraft Systems and Unmanned Aircraft Systems Components Into the United States",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16979/adjusting-imports-of-unmanned-aircraft-systems-and-unmanned-aircraft-systems-components-into-the"
-    },
-    {
-      "id": "377d5d2ca8f5",
+      "id": "fe69148451b1",
       "category": "FDA",
-      "date": "2026-08-19",
-      "title": "Gardenia Blue Interest Group; Filing of Color Additive Petition",
-      "summary": "The Food and Drug Administration (FDA or we) is announcing that we have filed a petition, submitted by Gardenia Blue Interest Group (GBIG or petitioner), c/o Exponent, Inc., proposing that we amend our color additive regulations to expand the safe use of gardenia (genipin) blue in various foods at levels consistent with good manufacturing practice. The petition also proposes to lower the specification for arsenic in ",
+      "date": "2026-08-20",
+      "title": "Certain Wireless Communications Devices and Components Thereof; Notice of Request for Submissions on the Public Interest",
+      "summary": "Notice is hereby given that on August 14, 2026, the presiding administrative law judge (\"ALJ\") issued an Initial Determination on Violation of Section 337. The ALJ also issued a Recommended Determination on remedy and bonding should a violation be found in the above-captioned investigation. The Commission is soliciting submissions on public interest issues raised by the recommended relief should the Commission find a",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16944/gardenia-blue-interest-group-filing-of-color-additive-petition"
+      "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17046/certain-wireless-communications-devices-and-components-thereof-notice-of-request-for-submissions-on"
     },
     {
-      "id": "db750a2b4617",
-      "category": "FDA",
-      "date": "2026-08-19",
-      "title": "International Association of Color Manufacturers; Filing of Color Additive Petition",
-      "summary": "The Food and Drug Administration (FDA or we) is announcing that we have filed a petition, submitted by the International Association of Color Manufacturers, proposing that we amend our color additive regulations to provide for the safe use of acetone as a solvent in the manufacture of carrot oil. The petition also proposes to add heavy metal limits and secondary names for carrot oil. FDA may also consider other chang",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16943/international-association-of-color-manufacturers-filing-of-color-additive-petition"
-    },
-    {
-      "id": "6df31e9ad360",
-      "category": "FDA",
-      "date": "2026-08-19",
-      "title": "Food Additives Permitted in Feed and Drinking Water of Animals; Chromium DL-methionine Chelate",
-      "summary": "The Food and Drug Administration (FDA, we, or the Agency) is amending the regulations for food additives permitted in feed and drinking water of animals to provide for the safe use of chromium DL- methionine chelate as a nutritional source of chromium in cattle feed. This action is in response to a food additive petition filed by Zinpro Corp.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16942/food-additives-permitted-in-feed-and-drinking-water-of-animals-chromium-dl-methionine-chelate"
-    },
-    {
-      "id": "e1abae10faab",
-      "category": "FDA",
-      "date": "2026-08-19",
-      "title": "GNT USA, LLC.; Filing of Color Additive Petition",
-      "summary": "The Food and Drug Administration (FDA or we) is announcing that we have filed a petition, submitted by GNT USA, LLC., c/o Exponent, Inc., proposing that we amend our color additive regulations to provide for the safe use of safflower (Carthamus tinctorius L.) extract as a color additive in various foods at levels consistent with good manufacturing practices.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16939/gnt-usa-llc-filing-of-color-additive-petition"
-    },
-    {
-      "id": "39114ceb02bc",
+      "id": "c5a605f09c32",
       "category": "LEGIS",
-      "date": "2026-08-19",
-      "title": "Air Plan Approval; South Carolina; Minor Source Permit Program Revisions",
-      "summary": "The U.S. Environmental Protection Agency (EPA or Agency) is proposing to approve changes to South Carolina's State Implementation Plan (SIP) to revise regulations prescribing minor source permit program requirements, including minor new source review (NSR) requirements, in SIP revisions submitted by the State of South Carolina on October 1, 2007, July 18, 2011, August 8, 2014, April 24, 2020, and July 23, 2025. This ",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16937/air-plan-approval-south-carolina-minor-source-permit-program-revisions"
-    },
-    {
-      "id": "4105c8dd0845",
-      "category": "LEGIS",
-      "date": "2026-08-19",
-      "title": "Air Plan Partial Approval and Partial Conditional Approval; South Carolina; Control of Oxides of Nitrogen and Source Testing Requirements",
-      "summary": "The U.S. Environmental Protection Agency (EPA or Agency) is proposing to partially approve and partially conditionally approve changes to South Carolina's State Implementation Plan (SIP) to revise source testing requirements and regulations prescribing control requirements for certain stationary sources of nitrogen oxides (NO X ) submitted by the State of South Carolina, through the South Carolina Department of Envir",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16932/air-plan-partial-approval-and-partial-conditional-approval-south-carolina-control-of-oxides-of"
-    },
-    {
-      "id": "c1f2cf6bb800",
-      "category": "LEGIS",
-      "date": "2026-08-19",
-      "title": "Air Plan Approval; South Carolina; Minor Source Permit Program Revisions",
-      "summary": "The U.S. Environmental Protection Agency (EPA or Agency) is proposing action on changes to South Carolina's State Implementation Plan (SIP) to revise regulations prescribing minor source permitting program requirements, including minor new source review (NSR) requirements, involving, in part, minor source permitting public participation, in SIP revisions submitted by the State of South Carolina through the South Caro",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16930/air-plan-approval-south-carolina-minor-source-permit-program-revisions"
-    },
-    {
-      "id": "8f197ea29db3",
-      "category": "LEGIS",
-      "date": "2026-08-19",
-      "title": "Lower Saranac Hydro Partners, LLC; Notice of Revised Procedural Schedule",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16928/lower-saranac-hydro-partners-llc-notice-of-revised-procedural-schedule"
-    },
-    {
-      "id": "68f2d2558698",
-      "category": "LEGIS",
-      "date": "2026-08-19",
-      "title": "Combined Notice of Filings #1",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16927/combined-notice-of-filings-1"
-    },
-    {
-      "id": "3f2939eaa698",
-      "category": "LEGIS",
-      "date": "2026-08-19",
-      "title": "Banister Hydro, Inc.; Notice of Authorization for Continued Project Operation",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16926/banister-hydro-inc-notice-of-authorization-for-continued-project-operation"
-    },
-    {
-      "id": "ec91db3fe75f",
-      "category": "LEGIS",
-      "date": "2026-08-19",
-      "title": "Commission Information Collection Activities (FERC-725U); Comment Request; Extension",
-      "summary": "In compliance with the requirements of the Paperwork Reduction Act of 1995, the Federal Energy Regulatory Commission (Commission or FERC) is soliciting public comment on the currently approved information collection FERC-725U (1902-0274), Mandatory Reliability Standards for the Bulk Power System; CIP Reliability Standards. There are no proposed changes to the reporting requirements. The comment period ended on July 2",
+      "date": "2026-08-20",
+      "title": "Codex Alimentarius Commission: Meeting of the Codex Committee on Milk and Milk Products",
+      "summary": "The U.S Codex Office is sponsoring a public meeting on September 17, 2026. The objective of the public meeting is to provide information and receive public comments on agenda items and draft U.S. positions to be discussed at the 11th Session of the Codex Committee on Milk and Milk Products (CCMMP11) of the Codex Alimentarius Commission (CAC). CCMMP11 will be held by correspondence from September 29-October 29, 2026. ",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16925/commission-information-collection-activities-ferc-725u-comment-request-extension"
+      "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17044/codex-alimentarius-commission-meeting-of-the-codex-committee-on-milk-and-milk-products"
     },
     {
-      "id": "70a5954eecc2",
+      "id": "30fad81b8c73",
       "category": "LEGIS",
-      "date": "2026-08-19",
-      "title": "Pacific Gas & Electric Company; Notice of Authorization for Continued Project Operation",
+      "date": "2026-08-20",
+      "title": "Agency Forms Undergoing Paperwork Reduction Act Review",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16924/pacific-gas-and-electric-company-notice-of-authorization-for-continued-project-operation"
+      "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17043/agency-forms-undergoing-paperwork-reduction-act-review"
     },
     {
-      "id": "a7a4280f900d",
+      "id": "f5258fdbd503",
       "category": "LEGIS",
-      "date": "2026-08-19",
-      "title": "Erie Boulevard Hydropower, L.P.; Notice of Authorization for Continued Project Operation",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16923/erie-boulevard-hydropower-lp-notice-of-authorization-for-continued-project-operation"
-    },
-    {
-      "id": "952724144cd8",
-      "category": "LEGIS",
-      "date": "2026-08-19",
-      "title": "Rio Grande LNG, LLC, Rio Grande LNG Train 4, LLC, Rio Grande LNG Train 5, LLC; Notice of Schedule for the Preparation of an Environmental Assessment for the Rio Grande LNG Capacity Amendment",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16922/rio-grande-lng-llc-rio-grande-lng-train-4-llc-rio-grande-lng-train-5-llc-notice-of-schedule-for-the"
-    },
-    {
-      "id": "51e9745075af",
-      "category": "LEGIS",
-      "date": "2026-08-19",
-      "title": "Commission Information Collection Activities (FERC-923); Comment Request; Extension",
-      "summary": "In compliance with the requirements of the Paperwork Reduction Act of 1995, the Federal Energy Regulatory Commission (Commission or FERC) is soliciting public comment on the requirements and burden of the information collection FERC-923 (1902-0265), Communication of Operational Information between Natural Gas Pipelines and Electric Transmission Operators, described below, which will be submitted to the Office of Mana",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16921/commission-information-collection-activities-ferc-923-comment-request-extension"
-    },
-    {
-      "id": "a7eaeda4a538",
-      "category": "LEGIS",
-      "date": "2026-08-19",
-      "title": "Proposed Collection; Comment Request",
-      "summary": "In compliance with the Paperwork Reduction Act of 1995, USCENTCOM announces a proposed public information collection and seeks public comment on the provisions thereof. Comments are invited on: whether the proposed collection of information is necessary for the proper performance of the functions of the agency, including whether the information shall have practical utility; the accuracy of the agency's estimate of th",
+      "date": "2026-08-20",
+      "title": "Small Business Size Standards",
+      "summary": "The U.S. Small Business Administration (SBA or the Agency) is proposing new size standards for 338 industry groups and industries. The new size standards are designed to better reflect the nature of the markets in which small businesses compete. SBA seeks comments on its proposed changes to size standards.",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16920/proposed-collection-comment-request"
+      "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17042/small-business-size-standards"
     },
     {
-      "id": "c30df31ac094",
+      "id": "931eb079e245",
       "category": "LEGIS",
-      "date": "2026-08-19",
-      "title": "Ethylene Dibromide Draft Risk Evaluation Under the Toxic Substances Control Act (TSCA); Notice of Availability and Request for Comment",
-      "summary": "The Environmental Protection Agency (EPA or Agency) is announcing the availability of and seeking public comment on the draft risk evaluation under the Toxic Substances Control Act (TSCA) for ethylene dibromide. The purpose of risk evaluations under TSCA is to determine whether a chemical substance presents an unreasonable risk of injury to health or the environment under the conditions of use (COUs), including unrea",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16919/ethylene-dibromide-draft-risk-evaluation-under-the-toxic-substances-control-act-tsca-notice-of"
-    },
-    {
-      "id": "1a9fe5201b76",
-      "category": "LEGIS",
-      "date": "2026-08-19",
-      "title": "Notice of Public Meeting of the Alaska Advisory Committee to the U.S. Commission on Civil Rights",
-      "summary": "Notice is hereby given, pursuant to the provisions of the rules and regulations of the U.S. Commission on Civil Rights (Commission), and the Federal Advisory Committee Act (FACA), that a briefing of the Alaska Advisory Committee to the U.S. Commission on Civil Rights will hold a series of public briefings via Zoom. The purpose of the briefings is to gather testimony regarding the topic Ranked Choice Voting and Equal ",
+      "date": "2026-08-20",
+      "title": "Codex Alimentarius Commission: Meeting of the Codex Committee on Contaminants in Foods (CCCF)",
+      "summary": "The U.S Codex Office is sponsoring a public meeting on September 29, 2026. The objective of the public meeting is to provide information and receive public comments on agenda items to be discussed at the 19th Session of the Codex Committee on Contaminants in Foods (CCCF19) of the Codex Alimentarius Commission (CAC). CCCF19 will be held in Cairo, Egypt, from October 19-23, 2026. The U.S. Manager for Codex Alimentarius",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16918/notice-of-public-meeting-of-the-alaska-advisory-committee-to-the-us-commission-on-civil-rights"
+      "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17041/codex-alimentarius-commission-meeting-of-the-codex-committee-on-contaminants-in-foods-cccf"
+    },
+    {
+      "id": "2971cf999532",
+      "category": "CDC",
+      "date": "2026-08-20",
+      "title": "Proposed Data Collection Submitted for Public Comment and Recommendations",
+      "summary": "The Centers for Disease Control and Prevention (CDC), as part of its continuing effort to reduce public burden and maximize the utility of government information, invites the general public and other Federal agencies to take this opportunity to comment on a continuing information collection, as required by the Paperwork Reduction Act of 1995. This notice invites comment on the National Health Interview Survey (NHIS).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17040/proposed-data-collection-submitted-for-public-comment-and-recommendations"
+    },
+    {
+      "id": "1e7648a69540",
+      "category": "LEGIS",
+      "date": "2026-08-20",
+      "title": "Small Business Size Standards: Revised Size Standards Methodology",
+      "summary": "The U.S. Small Business Administration (SBA or Agency) advises the public that it has revised its white paper explaining how it establishes, reviews, and modifies small business size standards. The revised white paper provides a detailed description of SBA's size standards methodology, including changes from SBA's 2024 Revised Size Standards Methodology (2024 Methodology, available at www.sba.gov/ size). SBA welcomes",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17039/small-business-size-standards-revised-size-standards-methodology"
+    },
+    {
+      "id": "5f61d631430c",
+      "category": "LEGIS",
+      "date": "2026-08-20",
+      "title": "Initiation of Antidumping and Countervailing Duty Administrative Reviews; Correction",
+      "summary": "The U.S. Department of Commerce (Commerce) published an initiation of antidumping and countervailing duty administrative reviews in the Federal Register of August 10, 2026 in which Commerce omitted Prestressed Concrete Steel Wire Strand (PC Strand) from Malaysia (A-557-819) and Boltless Steel Shelving Units Prepackaged for Sale (Boltless Steel Shelving) from the Socialist Republic of Vietnam (Vietnam) (A-552-835).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17038/initiation-of-antidumping-and-countervailing-duty-administrative-reviews-correction"
+    },
+    {
+      "id": "42aff1f16298",
+      "category": "CDC",
+      "date": "2026-08-20",
+      "title": "Proposed Data Collection Submitted for Public Comment and Recommendations",
+      "summary": "The Centers for Disease Control and Prevention (CDC), as part of its continuing effort to reduce public burden and maximize the utility of government information, invites the general public and other Federal agencies the opportunity to comment on a continuing information collection, as required by the Paperwork Reduction Act of 1995. This notice invites comment on a proposed information collection project titled Over",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17037/proposed-data-collection-submitted-for-public-comment-and-recommendations"
+    },
+    {
+      "id": "bcfba459b7d0",
+      "category": "LEGIS",
+      "date": "2026-08-20",
+      "title": "Codex Alimentarius Commission: Meeting of the Codex Committee on Food Import and Export Inspection and Certification Systems",
+      "summary": "The U.S Codex Office is sponsoring a public meeting on September 10, 2026. The objective of the public meeting is to provide information and receive public comments on agenda items and draft U.S. positions to be discussed at the 28th Session of the Codex Committee on Food Import and Export Inspection and Certification Systems (CCFICS28) of the Codex Alimentarius Commission (CAC). CCFICS28 will be held in Perth, Austr",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17036/codex-alimentarius-commission-meeting-of-the-codex-committee-on-food-import-and-export-inspection"
+    },
+    {
+      "id": "28ef26f11234",
+      "category": "LEGIS",
+      "date": "2026-08-20",
+      "title": "Agency Information Collection Activity Under OMB Review: National Transit Database (NTD)",
+      "summary": "In compliance with the Paperwork Reduction Act of 1995, this notice announces that the Information Collection Requirements (ICRs) abstracted below have been forwarded to the Office of Management and Budget (OMB) for review and comment. The ICR describe the nature of the information collection and their expected burdens.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17035/agency-information-collection-activity-under-omb-review-national-transit-database-ntd"
+    },
+    {
+      "id": "74491d27d4bf",
+      "category": "LEGIS",
+      "date": "2026-08-20",
+      "title": "Notice of Extension of the Deadline for Determining the Adequacy of the Antidumping and Countervailing Duty Petitions: Certain Linear Hydraulic Cylinders and Parts Thereof From Canada, the People's Republic of China, India, the Republic of Korea, and Mexico",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17034/notice-of-extension-of-the-deadline-for-determining-the-adequacy-of-the-antidumping-and"
+    },
+    {
+      "id": "817231cf12b7",
+      "category": "LEGIS",
+      "date": "2026-08-20",
+      "title": "Light-Walled Rectangular Pipe and Tube From Mexico: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+      "summary": "The U.S. Department of Commerce (Commerce) determines that light-walled rectangular pipe and tube (LWRPT) from Mexico was sold in the United States at less than normal value during the period of review (POR), August 1, 2023, through July 31, 2024.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17033/light-walled-rectangular-pipe-and-tube-from-mexico-final-results-of-antidumping-duty-administrative"
+    },
+    {
+      "id": "44d3cc2bca9c",
+      "category": "LEGIS",
+      "date": "2026-08-20",
+      "title": "Stainless Steel Flanges From India: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+      "summary": "The U.S. Department of Commerce (Commerce) finds that producers/exporters of stainless steel flanges (flanges) from India made sales of subject merchandise in the United States at prices below normal value during the period of review (POR) October 1, 2023, through September 30, 2024.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17032/stainless-steel-flanges-from-india-final-results-of-antidumping-duty-administrative-review-2023-2024"
+    },
+    {
+      "id": "9432769e0e1a",
+      "category": "LEGIS",
+      "date": "2026-08-20",
+      "title": "Certain Large Vertical Shaft Engines Between 225cc and 999cc, and Parts Thereof From the People's Republic of China: Continuation of Antidumping Duty Order and Countervailing Duty Order",
+      "summary": "As a result of the determinations by the U.S. Department of Commerce (Commerce) and the U.S. International Trade Commission (ITC) that revocation of the antidumping duty (AD) order and countervailing duty (CVD) order on certain large vertical shaft engines between 225cc and 999cc, and parts thereof (vertical shaft engines) from the People's Republic of China (China) would likely lead to the continuation or recurrence",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17031/certain-large-vertical-shaft-engines-between-225cc-and-999cc-and-parts-thereof-from-the-peoples"
+    },
+    {
+      "id": "518db13da71a",
+      "category": "LEGIS",
+      "date": "2026-08-20",
+      "title": "Draft Regulatory Guide: Comprehensive Risk Metrics and Associated Risk Performance Objectives for Commercial Nuclear Plants",
+      "summary": "The U.S. Nuclear Regulatory Commission (NRC) is issuing for public comment a draft Regulatory Guide (DG), 1443, proposed Regulatory Guide (RG) 1.263, Revision 0, \"Comprehensive Risk Metrics and Associated Risk Performance Objectives for Commercial Nuclear Plants.\" This DG describes approaches that are acceptable to the staff of the NRC for developing comprehensive risk metrics (CRMs) and associated risk performance o",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17030/draft-regulatory-guide-comprehensive-risk-metrics-and-associated-risk-performance-objectives-for"
+    },
+    {
+      "id": "87c006c8025a",
+      "category": "LEGIS",
+      "date": "2026-08-20",
+      "title": "Foreign-Trade Zone 7; Approval of Subzone Status; Venture Steel, Inc.; Bayamón, Puerto Rico",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17028/foreign-trade-zone-7-approval-of-subzone-status-venture-steel-inc-bayamn-puerto-rico"
+    },
+    {
+      "id": "8dc17a3e7306",
+      "category": "LEGIS",
+      "date": "2026-08-20",
+      "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested Extension of a Previously Approved Collection; Title-Annual Progress Report for the STOP Violence Against Women Formula Grant Program",
+      "summary": "The Department of Justice (DOJ), Office on Violence Against Women will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17027/agency-information-collection-activities-proposed-ecollection-ecomments-requested-extension-of-a"
+    },
+    {
+      "id": "0fa98f0432e3",
+      "category": "LEGIS",
+      "date": "2026-08-20",
+      "title": "Arizona State University et al.: Application(s) for Duty-Free Entry of Scientific Instruments",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17026/arizona-state-university-et-al-applications-for-duty-free-entry-of-scientific-instruments"
     }
   ]
 }
