@@ -1,265 +1,265 @@
 {
-  "generated_at": "2026-08-25T13:08:30.211Z",
+  "generated_at": "2026-08-26T13:13:07.408Z",
   "updates": [
     {
-      "id": "646805e0bc25",
+      "id": "e78ff02c66ef",
       "category": "LEGIS",
-      "date": "2026-08-25",
-      "title": "Continuation of the Exercise of Certain Authorities Under the Trading With the Enemy Act",
+      "date": "2026-08-26",
+      "title": "Presidential Determination on Provision of Atomic Information to Finland and Sweden",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17374/continuation-of-the-exercise-of-certain-authorities-under-the-trading-with-the-enemy-act"
+      "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17477/presidential-determination-on-provision-of-atomic-information-to-finland-and-sweden"
     },
     {
-      "id": "474d57e8899e",
+      "id": "d989b7932fc3",
       "category": "LEGIS",
-      "date": "2026-08-25",
-      "title": "The National Space Transportation Policy",
+      "date": "2026-08-26",
+      "title": "List of Approved Spent Fuel Storage Casks: TN Americas, LLC Standardized NUHOMS® Horizontal Modular Storage System for Irradiated Nuclear Fuel, Certificate of Compliance No. 1004, Renewed Amendment No. 19",
+      "summary": "The U.S. Nuclear Regulatory Commission (NRC) is proposing to amend its spent fuel regulations by revising the TN Americas, LLC Standardized NUHOMS[supreg] Horizontal Modular Storage System for Irradiated Nuclear Fuel listing within the \"List of approved spent fuel storage casks\" to include Renewed Amendment No. 19 to Certificate of Compliance (CoC) No. 1004. The NRC is referring to this amendment as \"Renewed Amendmen",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17446/list-of-approved-spent-fuel-storage-casks-tn-americas-llc-standardized-nuhoms-horizontal-modular"
+    },
+    {
+      "id": "964ab970f75e",
+      "category": "LEGIS",
+      "date": "2026-08-26",
+      "title": "List of Approved Spent Fuel Storage Casks: TN Americas, LLC Standardized NUHOMS® Horizontal Modular Storage System for Irradiated Nuclear Fuel, Certificate of Compliance No. 1004, Renewed Amendment No. 19",
+      "summary": "The U.S. Nuclear Regulatory Commission (NRC) is amending its spent fuel storage regulations by revising the TN Americas, LLC Standardized NUHOMS[supreg] Horizontal Modular Storage System for Irradiated Nuclear Fuel listing within the \"List of approved spent fuel storage casks\" to include Amendment No. 19 to Certificate of Compliance (CoC) No. 1004. Amendment No. 19 revises the certificate of compliance to provide for",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17445/list-of-approved-spent-fuel-storage-casks-tn-americas-llc-standardized-nuhoms-horizontal-modular"
+    },
+    {
+      "id": "5037a84f8fdb",
+      "category": "LEGIS",
+      "date": "2026-08-26",
+      "title": "Critical Position Pay Authority",
+      "summary": "The Office of Personnel Management (OPM) is amending its regulations governing the critical position pay (CPP) authority to establish level I of the Executive Schedule as the default maximum critical pay rate, with higher rates subject to written approval by the Director of OPM. The final rule eliminates non-statutory caps and approval criteria; addresses the use of service agreements; clarifies that reductions or te",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17442/critical-position-pay-authority"
+    },
+    {
+      "id": "0caa32d7899c",
+      "category": "LEGIS",
+      "date": "2026-08-26",
+      "title": "Loan Performance Categories and Financial Reporting",
+      "summary": "The Farm Credit Administration (FCA, we, or our) amends our regulatory high-risk loan performance categories by removing \"Formally restructured loans (TDR),\" also known as troubled debt restructurings. In 2022, changes in generally accepted accounting principles (GAAP) eliminated the accounting guidance for TDRs, enhanced disclosure requirements for certain loan refinancings and restructurings undertaken when a borro",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17440/loan-performance-categories-and-financial-reporting"
+    },
+    {
+      "id": "69ab74023987",
+      "category": "LEGIS",
+      "date": "2026-08-26",
+      "title": "International Trademark Classification Changes",
+      "summary": "The United States Patent and Trademark Office (USPTO) issues this final rule to incorporate classification changes adopted by the Nice Agreement Concerning the International Classification of Goods and Services for the Purposes of the Registration of Marks (Nice Agreement). These changes are listed in the International Classification of Goods and Services for the Purposes of the Registration of Marks (13th ed., ver. ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17437/international-trademark-classification-changes"
+    },
+    {
+      "id": "f6a49fcd61ff",
+      "category": "LEGIS",
+      "date": "2026-08-26",
+      "title": "Superfund Tax on Chemical Substances; Request To Modify List of Taxable Substances; Notice of Filing for Methylene Diphenyl Diisocyanate; n=2.0-3.0",
+      "summary": "This notice of filing announces that a petition has been filed requesting that methylene diphenyl diisocyanate ((C 8 H 6 NO)(C 8 H 5 NO) n-2 (C 7 H 4 NO); n=2.0-3.0), also known as \"MDI,\" be added to the list of taxable substances. This notice of filing also requests comments on the petition. This notice of filing is not a determination that the list of taxable substances is modified.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17432/superfund-tax-on-chemical-substances-request-to-modify-list-of-taxable-substances-notice-of-filing"
+    },
+    {
+      "id": "e3fd1d335436",
+      "category": "LEGIS",
+      "date": "2026-08-26",
+      "title": "Superfund Tax on Chemical Substances; Request To Modify List of Taxable Substances; Notice of Filing for Acrylate Monomer Synthetic Rubber; x=587.30, y=583.29, z=258.18, a=1.58",
+      "summary": "This notice of filing announces that a petition has been filed requesting that acrylate monomer synthetic rubber ((C 5 H 8 O 2 ) x - (C 7 H 12 O 2 ) y - (C 6 H 10 O 3 ) z - (C 35 H 62 O 3 ) a ; x=587.30, y=583.29, z=258.18, a=1.58), also known as \"ACM Rubber,\" be added to the list of taxable substances. This notice of filing also requests comments on the petition. This notice of filing is not a determination that the",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17431/superfund-tax-on-chemical-substances-request-to-modify-list-of-taxable-substances-notice-of-filing"
+    },
+    {
+      "id": "b455f0118c22",
+      "category": "LEGIS",
+      "date": "2026-08-26",
+      "title": "Superfund Tax on Chemical Substances; Request To Modify List of Taxable Substances; Notice of Filing for Poly(divinylbenzene-ethylvinylbenzene); x=1.33x1017, y=3.27x1016",
+      "summary": "This notice of filing announces that a petition has been filed requesting that poly(divinylbenzene-ethylvinylbenzene) ((C 10 H 10 ) x (C 10 H 12 ) y ; x=1.33x10\\17\\, y=3.27x10\\16\\), also known as \"DVB- EVB,\" be added to the list of taxable substances. This notice of filing also requests comments on the petition. This notice of filing is not a determination that the list of taxable substances is modified.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17430/superfund-tax-on-chemical-substances-request-to-modify-list-of-taxable-substances-notice-of-filing"
+    },
+    {
+      "id": "5605713f6866",
+      "category": "FDA",
+      "date": "2026-08-26",
+      "title": "Schedules of Controlled Substances: Temporary Placement of Mitragynine Pseudoindoxyl, MGM-15, and MGM-16 in Schedule I",
+      "summary": "The Drug Enforcement Administration (DEA) is issuing this temporary order to schedule three 7-hydroxymitragynine-related substances (mitragynine pseudoindoxyl, MGM-15, and MGM-16), including their isomers, esters, ethers, salts, and salts of isomers, esters, and ethers, whenever the existence of such isomers, esters, ethers, and salts is possible, in schedule I of the Controlled Substances Act. DEA bases this action ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17429/schedules-of-controlled-substances-temporary-placement-of-mitragynine-pseudoindoxyl-mgm-15-and"
+    },
+    {
+      "id": "7d02b9aaa907",
+      "category": "LEGIS",
+      "date": "2026-08-26",
+      "title": "Telemarketing Sales Rule Fees",
+      "summary": "The Federal Trade Commission (\"Commission\") is amending its Telemarketing Sales Rule (\"TSR\") by updating the fees charged to entities accessing the National Do Not Call Registry (\"Registry\") as required by the Do-Not-Call Registry Fee Extension Act of 2007.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17428/telemarketing-sales-rule-fees"
+    },
+    {
+      "id": "3332408492b1",
+      "category": "LEGIS",
+      "date": "2026-08-26",
+      "title": "Submission for OMB Review; Comment Request",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17372/the-national-space-transportation-policy"
+      "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17427/submission-for-omb-review-comment-request"
     },
     {
-      "id": "7a4fc4a90f57",
+      "id": "6a6e2504fc0d",
       "category": "LEGIS",
-      "date": "2026-08-25",
-      "title": "Establishment of Four Customs-Enforcement Areas",
-      "summary": "This document sets forth the Commissioner of U.S. Customs and Border Protection's (CBP) declaration establishing four Customs- Enforcement Areas (CEA) in the near shore waters of South Florida, Central/Southern California, Puerto Rico, and the Gulf Coast of Texas. This action will further CBP efforts to interdict hovering vessels utilized for smuggling illegal cargoes into or out of the United States specifically wit",
+      "date": "2026-08-26",
+      "title": "Iranian Transactions and Sanctions Regulations",
+      "summary": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is indefinitely suspending five general licenses issued pursuant to the Iranian Transactions and Sanctions Regulations to align with changes in the foreign policy of the United States towards Iran.",
       "tags": [
         "Federal Register"
       ],
       "priority": "high",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17354/establishment-of-four-customs-enforcement-areas"
+      "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17426/iranian-transactions-and-sanctions-regulations"
     },
     {
-      "id": "a9440fce7cae",
+      "id": "988bf41e8fc3",
       "category": "LEGIS",
-      "date": "2026-08-25",
-      "title": "Final Waiver and Extension of the Project Period With Funding-Elementary and Secondary Education Act of 1965, as Amended, Title VI, Part B, Native Hawaiian Education",
-      "summary": "The Secretary waives the requirements in the Education Department General Administrative Regulations (EDGAR) that generally prohibit project period extensions involving the obligation of additional Federal funds. The final waiver and extension would allow 21 projects under Assistance Listing Number (ALN) 84.362A to receive funding for up to one additional 12-month period, not to exceed September 30, 2027.",
+      "date": "2026-08-26",
+      "title": "Notice of Public Meeting of the Oregon Advisory Committee to the U.S. Commission on Civil Rights",
+      "summary": "Notice is hereby given, pursuant to the provisions of the rules and regulations of the U.S. Commission on Civil Rights (Commission), and the Federal Advisory Committee Act (FACA), that a business meeting of the Oregon Advisory Committee to the U.S. Commission on Civil Rights will hold a business meeting via Zoom. The purpose of the meeting is to plan briefings on their topic \"Religious Freedom within Correctional Ins",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17353/final-waiver-and-extension-of-the-project-period-with-funding-elementary-and-secondary-education-act"
+      "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17425/notice-of-public-meeting-of-the-oregon-advisory-committee-to-the-us-commission-on-civil-rights"
     },
     {
-      "id": "46b1d1958953",
+      "id": "612ea29052af",
       "category": "LEGIS",
-      "date": "2026-08-25",
-      "title": "Name of Information Collection: JSC Form 1830 Report of Medical Examination",
-      "summary": "NASA, as part of its continuing effort to reduce paperwork and respondent burden, under the Paperwork Reduction Act (PRA), invites the general public and other Federal agencies to take this opportunity to comment on proposed and/or continuing information collections.",
+      "date": "2026-08-26",
+      "title": "Notice of Public Meeting of the New York Advisory Committee to the U.S. Commission on Civil Rights",
+      "summary": "Notice is hereby given, pursuant to the provisions of the rules and regulations of the U.S. Commission on Civil Rights (Commission), and the Federal Advisory Committee Act (FACA), that the New York Advisory Committee to the Commission will hold a public meeting via Zoom. The purpose of the meeting is to discuss the committee's project, Discrimination Against Jews on College and University Campuses Since October 7, 20",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17424/notice-of-public-meeting-of-the-new-york-advisory-committee-to-the-us-commission-on-civil-rights"
+    },
+    {
+      "id": "f4ea56606442",
+      "category": "LEGIS",
+      "date": "2026-08-26",
+      "title": "Agency Information Collection Activities; Notice and Request for Comment; Title of Collection: Driver Monitoring System (DMS)-Applied Research To Develop Test Procedure for Drowsiness",
+      "summary": "NHTSA invites public comments about our intention to request approval from the Office of Management and Budget (OMB) for a new information collection. Before a Federal agency can collect certain information from the public, it must receive approval from OMB. Under procedures established by the Paperwork Reduction Act of 1995, before seeking OMB approval, Federal agencies must solicit public comment on proposed collec",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17343/name-of-information-collection-jsc-form-1830-report-of-medical-examination"
+      "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17423/agency-information-collection-activities-notice-and-request-for-comment-title-of-collection-driver"
     },
     {
-      "id": "2e6b72904eb1",
+      "id": "98caa4454a44",
       "category": "LEGIS",
-      "date": "2026-08-25",
-      "title": "Beautifying Transportation Infrastructure Council; Public Meeting",
-      "summary": "The Office of the Secretary of Transportation (OST) announces the next public meeting of the Beautifying Transportation Infrastructure Council (Council) on September 30, 2026. This notice announces the date, time, and location of the virtual meeting, which will be open to the public. The purpose of the Council is to advise the Secretary of Transportation on enhancing the aesthetic value of our Nation's transportation",
+      "date": "2026-08-26",
+      "title": "ARK Venture Fund and ARK Investment Management LLC",
+      "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17342/beautifying-transportation-infrastructure-council-public-meeting"
+      "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17422/ark-venture-fund-and-ark-investment-management-llc"
     },
     {
-      "id": "c753bb20202e",
+      "id": "66cda2cc57e8",
       "category": "LEGIS",
-      "date": "2026-08-25",
-      "title": "Agency Information Collection Activities; Renewal of an Approved Information Collection: Emergency Exemptions Under 49 CFR 390.25",
-      "summary": "In accordance with the Paperwork Reduction Act of 1995, FMCSA announces its plan to submit the Information Collection Request (ICR) described below to the Office of Management and Budget (OMB) for review and approval and invites public comment. This notice invites comments on the renewal of an approved information collection titled \"Emergency Exemptions Under 49 CFR 390.25,\" (OMB Control No. 2126-007) which is curren",
+      "date": "2026-08-26",
+      "title": "Order Making Fiscal Year 2027 Annual Adjustments to Registration Fee Rates",
+      "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17341/agency-information-collection-activities-renewal-of-an-approved-information-collection-emergency"
+      "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17421/order-making-fiscal-year-2027-annual-adjustments-to-registration-fee-rates"
     },
     {
-      "id": "04442af6a758",
+      "id": "a26d48d9a655",
       "category": "LEGIS",
-      "date": "2026-08-25",
-      "title": "Agency Information Collection Activities; Renewal of an Approved Information Collection: Non-Insulin-Treated Diabetes Mellitus Assessment Form, MCSA-5872",
-      "summary": "In accordance with the Paperwork Reduction Act of 1995, FMCSA announces its plan to submit the Information Collection Request (ICR) described below to the Office of Management and Budget (OMB) for review and approval and invites public comment. FMCSA requests approval to renew an ICR titled, \"Non-Insulin-Treated Diabetes Mellitus Assessment Form, MCSA-5872.\" This information collection (IC) is voluntary and may be ut",
+      "date": "2026-08-26",
+      "title": "Mid-Atlantic Fishery Management Council (MAFMC); Public Meeting",
+      "summary": "The Scientific and Statistical Committee (SSC) of the Mid- Atlantic Fishery Management Council (Council) will hold a meeting.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17340/agency-information-collection-activities-renewal-of-an-approved-information-collection"
+      "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17420/mid-atlantic-fishery-management-council-mafmc-public-meeting"
     },
     {
-      "id": "279151ebdc37",
+      "id": "2987374a17bb",
       "category": "LEGIS",
-      "date": "2026-08-25",
-      "title": "Amendment of Restricted Areas R-2505, R-2524, R-2508, and R-2515 in California",
-      "summary": "This action amends multiple coordinates used to describe restricted areas R-2505, R-2524, R-2508, and R-2515 in California. The amendments are administrative in nature and do not expand any outer boundaries, altitudes, times of designation, or activities conducted within the restricted areas.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17339/amendment-of-restricted-areas-r-2505-r-2524-r-2508-and-r-2515-in-california"
-    },
-    {
-      "id": "2ff07a0fcc04",
-      "category": "LEGIS",
-      "date": "2026-08-25",
-      "title": "Reduction in Force Appeals; Correction",
-      "summary": "The Office of Personnel Management (OPM) published a final rule in the Federal Register on August 3, 2026, concerning reduction in force appeals. That document contained typographical and citation errors in the regulatory text. This document corrects the final rule.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "high",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17338/reduction-in-force-appeals-correction"
-    },
-    {
-      "id": "ee7412bc3f94",
-      "category": "LEGIS",
-      "date": "2026-08-25",
-      "title": "Suitability Action Appeals; Correction",
-      "summary": "The Office of Personnel Management (OPM) published a final rule in the Federal Register on August 3, 2026, concerning suitability action appeals. That document contained typographical and structural errors in the regulatory text. This document corrects the final rule.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "high",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17337/suitability-action-appeals-correction"
-    },
-    {
-      "id": "e3692e0a9d5f",
-      "category": "LEGIS",
-      "date": "2026-08-25",
-      "title": "Streamlining Probationary and Trial Period Appeals; Correction and Technical Amendment",
-      "summary": "The Office of Personnel Management (OPM) published a final rule in the Federal Register on August 3, 2026, streamlining probationary and trial period appeals. That document contained typographical and clerical errors in the regulatory text. This document corrects the final rule. This document also makes a technical amendment to OPM regulations to conform its appeal-rights reference to the final rule.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "high",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17336/streamlining-probationary-and-trial-period-appeals-correction-and-technical-amendment"
-    },
-    {
-      "id": "520726b56e72",
-      "category": "LEGIS",
-      "date": "2026-08-25",
-      "title": "Reduction in Force; Correction",
-      "summary": "The Office of Personnel Management (OPM) published a final rule in the Federal Register on August 3, 2026, concerning reduction in force. That document contained typographical and clerical errors in amendatory instructions and in the regulatory text. This document corrects the final rule.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "high",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17335/reduction-in-force-correction"
-    },
-    {
-      "id": "70ec2453ec92",
-      "category": "LEGIS",
-      "date": "2026-08-25",
-      "title": "Improving Performance, Accountability and Responsiveness in the Civil Service, and Recruitment and Relocation Incentive Waivers; Correcting Amendments",
-      "summary": "The Office of Personnel Management (OPM) is correcting technical and conforming errors arising from two recent final rules: \"Improving Performance, Accountability and Responsiveness in the Civil Service,\" published February 6, 2026 and effective March 9, 2026, and \"Recruitment and Relocation Incentive Waivers,\" published December 15, 2025 and effective February 13, 2026. The corrections make no substantive change to ",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "high",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17334/improving-performance-accountability-and-responsiveness-in-the-civil-service-and-recruitment-and"
-    },
-    {
-      "id": "6a757dadf82a",
-      "category": "LEGIS",
-      "date": "2026-08-25",
-      "title": "Montana Regulatory Program",
-      "summary": "We, the Office of Surface Mining Reclamation and Enforcement (OSM), are denying an amendment to the Montana regulatory program under the Surface Mining Control and Reclamation Act of 1977 (SMCRA). Montana submitted this proposed amendment to OSM on its own initiative in response to a State law passed by the Montana Legislature (Senate Bill (SB) 392). The proposed amendment would have added a provision requiring equal",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "high",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17333/montana-regulatory-program"
-    },
-    {
-      "id": "6a408114be9b",
-      "category": "LEGIS",
-      "date": "2026-08-25",
-      "title": "Notice of OFAC Sanctions Action",
-      "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing the names of one or more persons that have been placed on OFAC's Specially Designated Nationals and Blocked Persons List (SDN List) based on OFAC's determination that one or more applicable legal criteria were satisfied. All property and interests in property subject to U.S. jurisdiction of these persons are blocked, and U.S. ",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17332/notice-of-ofac-sanctions-action"
-    },
-    {
-      "id": "57063e7db094",
-      "category": "LEGIS",
-      "date": "2026-08-25",
-      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension",
-      "summary": "In accordance with the Paperwork Reduction Act of 1995 (PRA), the Federal Trade Commission (FTC or Commission) is seeking public comment on its proposal to extend for an additional three years the information collection requirements contained in the agency's rule governing Standards for Safeguarding Customer Information (the Safeguards Rule). The current clearance expires on December 31, 2026.",
+      "date": "2026-08-26",
+      "title": "Anchorage Regulation; San Juan Bay, San Juan, PR",
+      "summary": "The Coast Guard is proposing to amend the special anchorage regulation in the Bah[iacute]a de San Juan, PR, known as Anchorage D, by revising the anchorage boundaries. The current boundaries of Anchorage D overlap with deep draft commercial vessel traffic routes within the San Antonio Channel, causing a hazard to navigation. The proposed amendment to the special anchorage regulation is necessary to protect personnel,",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17331/agency-information-collection-activities-proposed-collection-comment-request-extension"
-    },
-    {
-      "id": "5bb426234cf2",
-      "category": "LEGIS",
-      "date": "2026-08-25",
-      "title": "30-Day Notice of Intent To Seek Extension of Approval: Report of Fuel Cost, Consumption, and Surcharge Revenue",
-      "summary": "As required by the Paperwork Reduction Act of 1995 (PRA), the Surface Transportation Board (STB or Board) gives notice of its intent to seek approval from the Office of Management and Budget (OMB) for an extension of the collection of the Report of Fuel Cost, Consumption, and Surcharge Revenue, as described below.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17330/30-day-notice-of-intent-to-seek-extension-of-approval-report-of-fuel-cost-consumption-and-surcharge"
-    },
-    {
-      "id": "63e74cd8b4dd",
-      "category": "LEGIS",
-      "date": "2026-08-25",
-      "title": "30-Day Notice of Intent To Seek Extension of Approval of Collection: Recordations (Rail and Water Carrier Liens), Water Carrier Tariffs, and Agricultural Contract Summaries",
-      "summary": "As required by the Paperwork Reduction Act of 1995 (PRA), the Surface Transportation Board (STB or Board) gives notice of its intent to seek approval from the Office of Management and Budget (OMB) for the extension (without change) of the collections required by statute for rail or water carrier equipment liens (recordations), water carrier tariffs, and rail agricultural contract summaries, as described in more detai",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17329/30-day-notice-of-intent-to-seek-extension-of-approval-of-collection-recordations-rail-and-water"
-    },
-    {
-      "id": "6ced74339a69",
-      "category": "LEGIS",
-      "date": "2026-08-25",
-      "title": "30-Day Notice of Intent To Seek Extension of Approval of Collection: Arbitration “Opt-In” Notices",
-      "summary": "As required by the Paperwork Reduction Act of 1995 (PRA), the Surface Transportation Board (STB or Board) gives notice of its intent to seek approval from the Office of Management and Budget (OMB) for an extension of the collection of Arbitration \"Opt-in\" Notices, described below.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17328/30-day-notice-of-intent-to-seek-extension-of-approval-of-collection-arbitration-opt-in-notices"
+      "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17419/anchorage-regulation-san-juan-bay-san-juan-pr"
     }
   ]
 }
