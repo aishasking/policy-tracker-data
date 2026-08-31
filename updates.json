@@ -1,4 +1,265 @@
 {
-  "generated_at": "2026-08-30T16:38:10.268Z",
-  "updates": []
+  "generated_at": "2026-08-31T19:06:47.620Z",
+  "updates": [
+    {
+      "id": "7ef32d913b53",
+      "category": "LEGIS",
+      "date": "2026-08-31",
+      "title": "Affirmative Asylum Referrals Without Interview",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/C3-2026-15190/affirmative-asylum-referrals-without-interview"
+    },
+    {
+      "id": "645feb2ff320",
+      "category": "LEGIS",
+      "date": "2026-08-31",
+      "title": "Declaring a National Emergency To Secure the United States Bulk-Power System",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17843/declaring-a-national-emergency-to-secure-the-united-states-bulk-power-system"
+    },
+    {
+      "id": "2dffe7a89c78",
+      "category": "LEGIS",
+      "date": "2026-08-31",
+      "title": "Further Ensuring Affordable Beef for the American Consumer",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17842/further-ensuring-affordable-beef-for-the-american-consumer"
+    },
+    {
+      "id": "d6ca1c0719b7",
+      "category": "LEGIS",
+      "date": "2026-08-31",
+      "title": "Fifth Anniversary of the Attack at Abbey Gate",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17841/fifth-anniversary-of-the-attack-at-abbey-gate"
+    },
+    {
+      "id": "b29b58a92f20",
+      "category": "LEGIS",
+      "date": "2026-08-31",
+      "title": "Petition for Exemption and Other Relief",
+      "summary": "On July 23, 2026, JetBlue Airways Corporation (JetBlue) and Spirit Airlines, LLC (Spirit) (together, the carriers) petitioned the Department of Transportation (the Department) and Federal Aviation Administration (FAA) for an exemption from the prohibition on selling or purchasing Operating Authorizations (slots) at New York LaGuardia Airport (LGA). The carriers requested the exemption to allow them to consummate a tr",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17800/petition-for-exemption-and-other-relief"
+    },
+    {
+      "id": "10a9c5c857e1",
+      "category": "LEGIS",
+      "date": "2026-08-31",
+      "title": "Permitting Use of Computer-Based, Three-Dimensional Simulation for Periodic Refresher Training on Brake Systems",
+      "summary": "This rule permits railroads to use a simulation that is instructor-led, computer-based, and three-dimensional (3D) to satisfy the hands-on portion of periodic refresher training under FRA's brake system training requirements, consistent with waivers FRA has granted to date. This computer-based 3D simulation training can provide employees with randomized scenarios that may not be readily available for hands-on trainin",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17792/permitting-use-of-computer-based-three-dimensional-simulation-for-periodic-refresher-training-on"
+    },
+    {
+      "id": "1858d7c74c30",
+      "category": "LEGIS",
+      "date": "2026-08-31",
+      "title": "Miscellaneous Amendments to FRA's Accident Reporting Regulations",
+      "summary": "This rule makes miscellaneous amendments to FRA's accident reporting regulations. Specifically, these amendments promote submitting documents to FRA electronically, eliminate redundant regulations, and allow railroads with additional time to complete certain forms.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17791/miscellaneous-amendments-to-fras-accident-reporting-regulations"
+    },
+    {
+      "id": "4b216f06d32c",
+      "category": "LEGIS",
+      "date": "2026-08-31",
+      "title": "Retiring Form FRA F 6180.107 and Form FRA F 6180.150",
+      "summary": "This rule retires Form FRA F 6180.107, \"Alternative Record for Illnesses Claimed to be Work-Related\" (Form 6180.107), and Form FRA F 6180.150, \"Highway User Injury Inquiry Form\" (Form 6180.150). This rule also changes the record retention period required under FRA's accident reporting regulations and makes other technical corrections.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17790/retiring-form-fra-f-6180107-and-form-fra-f-6180150"
+    },
+    {
+      "id": "3d1832a2c1a9",
+      "category": "LEGIS",
+      "date": "2026-08-31",
+      "title": "Repealing Outdated Railroad Workplace Safety Requirements and Making Other Improvements",
+      "summary": "This rule repeals several roadway workplace safety requirements that have become obsolete. In addition, FRA establishes a new special approval procedure to enable regulated entities, after public notice and FRA approval, to utilize an alternative approach to bridge worker safety that provides for an equivalent or better level of safety. Also, this rule clarifies that the required training for operators of roadway mai",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17789/repealing-outdated-railroad-workplace-safety-requirements-and-making-other-improvements"
+    },
+    {
+      "id": "d155cace3cdd",
+      "category": "LEGIS",
+      "date": "2026-08-31",
+      "title": "Expanding Certain Locomotive Wheel Set Diameter Variations",
+      "summary": "This rule amends FRA's locomotive safety regulations to expand the maximum permitted variation in diameter for locomotive wheel sets using alternating current technology, in response to a Class I railroad's May 2019 petition for rulemaking and innovations in traction motor control.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17788/expanding-certain-locomotive-wheel-set-diameter-variations"
+    },
+    {
+      "id": "c27c77c9b89f",
+      "category": "LEGIS",
+      "date": "2026-08-31",
+      "title": "Repealing Special Approval Requirement for Freight Cars More Than 50 Years Old",
+      "summary": "This rule amends FRA's freight car safety regulations to repeal the requirement for special approval to place or to continue a freight car in service if it is more than 50 years old or equipped with any design or type component listed in appendix A to part 215. This final rule allows railroads to continue or to place such cars in service with notice to FRA, providing certain information that has previously been requi",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17787/repealing-special-approval-requirement-for-freight-cars-more-than-50-years-old"
+    },
+    {
+      "id": "7e52bf5194f2",
+      "category": "LEGIS",
+      "date": "2026-08-31",
+      "title": "Enhancing Railroad Discretion in Sounding Locomotive Horns at Passenger Stations",
+      "summary": "This final rule amends safety standards related to the use of the locomotive horn to clarify that no Federal regulation requires a railroad to sound a locomotive horn because of the presence of a passenger station. The final rule clarifies that a railroad has discretion to determine policies for sounding a locomotive horn at a passenger station through railroad operating rules. The final rule also provides that if a ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17786/enhancing-railroad-discretion-in-sounding-locomotive-horns-at-passenger-stations"
+    },
+    {
+      "id": "b65b7060f574",
+      "category": "LEGIS",
+      "date": "2026-08-31",
+      "title": "Amendments to Brake System Maintenance and Inspection Requirements",
+      "summary": "This rule amends mechanical equipment safety standards related to brake inspections for passenger and freight rail equipment and incorporates longstanding waivers for locomotive brake system maintenance and inspection requirements. The amendments are consistent with the mandates of the Infrastructure Investment and Jobs Act (IIJA), which require FRA to review and analyze certain longstanding waivers to determine whet",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17784/amendments-to-brake-system-maintenance-and-inspection-requirements"
+    },
+    {
+      "id": "5d2055c2b0df",
+      "category": "LEGIS",
+      "date": "2026-08-31",
+      "title": "Regulatory Relief From Locomotive Horn Sounding Pattern at Public Highway-Rail Grade Crossings",
+      "summary": "This final rule amends safety standards related to use of the locomotive horn to provide regulatory relief from the required pattern of sounding the locomotive horn in two long blasts, one short blast, and one long blast for locomotive engineers operating trains, locomotive consists, or individual locomotives that have stopped in close proximity to a public highway-rail grade crossing. This final rule allows locomoti",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17783/regulatory-relief-from-locomotive-horn-sounding-pattern-at-public-highway-rail-grade-crossings"
+    },
+    {
+      "id": "d99a9c55cbc0",
+      "category": "LEGIS",
+      "date": "2026-08-31",
+      "title": "Regulatory Relief for End of Car Cushioning Units",
+      "summary": "This rule amends freight car draft arrangement and end-of-car cushioning unit (EOCC) regulations to make permanent relief currently provided by waiver. The amendments will allow a freight car to remain in service if the EOCC is operative and equipped with a unit condition indicator (UCI) that indicates a non-discharged EOCC. This change will permit such EOCCs to remain in service despite the presence of clearly forme",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17782/regulatory-relief-for-end-of-car-cushioning-units"
+    },
+    {
+      "id": "b59664148661",
+      "category": "LEGIS",
+      "date": "2026-08-31",
+      "title": "Consumer and Governmental Affairs Bureau Seeks To Dismiss Twenty-Four Mooted or Outdated Petitions",
+      "summary": "In this document, the Federal Communications Commission (Commission) seeks to assess the continuing interest in certain petitions that were filed between 2003 and 2023. The Commission plans to dismiss the petitions with prejudice unless a petitioner or other interested party files a letter in the relevant docket specifying that it objects to the dismissal of the petition and the reason for such objection.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17774/consumer-and-governmental-affairs-bureau-seeks-to-dismiss-twenty-four-mooted-or-outdated-petitions"
+    },
+    {
+      "id": "dd08781904d8",
+      "category": "LEGIS",
+      "date": "2026-08-31",
+      "title": "Promoting Telehealth in Rural America",
+      "summary": "In this document, the Federal Communications Commission (Commission) seeks comments on the scope of the similar service and rural area comparability requirements, comments on possible improvements to, or replacements of, our existing cost study method of determining rural telecommunications rates, comments on possible methods of promoting the use of lower-cost technologies intended to provide backup services, comment",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17767/promoting-telehealth-in-rural-america"
+    },
+    {
+      "id": "16c233181f89",
+      "category": "LEGIS",
+      "date": "2026-08-31",
+      "title": "Information Collection Being Reviewed by the Federal Communications Commission Under Delegated Authority",
+      "summary": "As part of its continuing effort to reduce paperwork burdens, and as required by the Paperwork Reduction Act of 1995 (PRA), the Federal Communications Commission (FCC or Commission) invites the general public and other Federal agencies to take this opportunity to comment on the following information collections. Comments are requested concerning: whether the proposed collection of information is necessary for the pro",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17766/information-collection-being-reviewed-by-the-federal-communications-commission-under-delegated"
+    },
+    {
+      "id": "af27743d24fa",
+      "category": "LEGIS",
+      "date": "2026-08-31",
+      "title": "Information Collection Being Reviewed by the Federal Communications Commission",
+      "summary": "As part of its continuing effort to reduce paperwork burdens, and as required by the Paperwork Reduction Act of 1995 (PRA), the Federal Communications Commission (FCC or Commission) invites the general public and other Federal agencies to take this opportunity to comment on the following information collections. Comments are requested concerning: whether the proposed collection of information is necessary for the pro",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17765/information-collection-being-reviewed-by-the-federal-communications-commission"
+    },
+    {
+      "id": "e9e5643cfdec",
+      "category": "LEGIS",
+      "date": "2026-08-31",
+      "title": "Section 898(c) Transition Rule for Allocating Foreign Taxes and Section 960(d)(4) Foreign Tax Credit Disallowance; Correction",
+      "summary": "This document contains corrections to the proposed regulations (REG-115145-25), published in the Federal Register on August 3, 2026. These proposed regulations relate to allocating foreign taxes of foreign corporations affected by the repeal of the one-month deferral election and to the disallowance of foreign tax credits on certain distributions of previously taxed earnings and profits.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17764/section-898c-transition-rule-for-allocating-foreign-taxes-and-section-960d4-foreign-tax-credit"
+    }
+  ]
 }
