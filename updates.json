@@ -1,265 +1,265 @@
 {
-  "generated_at": "2026-09-01T16:35:16.553Z",
+  "generated_at": "2026-09-02T16:31:16.208Z",
   "updates": [
     {
-      "id": "3de1d4476214",
+      "id": "96bd8a79c073",
       "category": "LEGIS",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
+      "title": "Continuation of the National Emergency With Respect to Foreign Interference in or Undermining Public Confidence in United States Elections",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/02/2026-18046/continuation-of-the-national-emergency-with-respect-to-foreign-interference-in-or-undermining-public"
+    },
+    {
+      "id": "45a9b94a019a",
+      "category": "LEGIS",
+      "date": "2026-09-02",
+      "title": "Honoring the American History of the Great Lakes and Renaming Lake Ontario as Lake America",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/02/2026-18020/honoring-the-american-history-of-the-great-lakes-and-renaming-lake-ontario-as-lake-america"
+    },
+    {
+      "id": "831a3e91b659",
+      "category": "LEGIS",
+      "date": "2026-09-02",
+      "title": "Prospective Grant of an Exclusive Patent License: Development and Commercialization of Mifepristone and Analogues To Treat Hypercortisolism-Related Insulin Resistance Disorders",
+      "summary": "The National Institute of Diabetes and Digestive and Kidney Diseases, an institute of the National Institutes of Health, Department of Health and Human Services, is contemplating the grant of an Exclusive Patent License to practice the invention embodied in the patents and patent applications listed in the Supplementary Information section of this notice to Nulyn Science (\"Nulyn\"), a company located in Paris, France.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17991/prospective-grant-of-an-exclusive-patent-license-development-and-commercialization-of-mifepristone"
+    },
+    {
+      "id": "ec52720ac4cc",
+      "category": "LEGIS",
+      "date": "2026-09-02",
+      "title": "Updated Minimum Performance Standards for Commercialization for Firms That Receive Funding Through the Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR) Programs",
+      "summary": "The U.S. Small Business Administration (SBA) is publishing for public comment updated minimum performance standards for commercialization for firms funded through the Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR) Programs. This commercialization benchmark establishes a minimum share of annual revenue that a Small Business Concern (SBC) must derive from sources other than SBIR",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17987/updated-minimum-performance-standards-for-commercialization-for-firms-that-receive-funding-through"
+    },
+    {
+      "id": "ab8c63ff3164",
+      "category": "LEGIS",
+      "date": "2026-09-02",
+      "title": "Notice of August 31, 2026 Decisions on Petitions for Small Refinery Exemptions Under the Renewable Fuel Standard Program",
+      "summary": "The Environmental Protection Agency (EPA) is providing notification of its final action entitled August 31, 2026 Decision on Petitions for RFS Small Refinery Exemptions (\"August 31, 2026 SRE Decisions Action\") in which EPA issued decisions on 34 small refinery exemption (SRE) petitions under the Renewable Fuel Standard (RFS) program for the 2025 compliance year. EPA is also reissuing a decision for 1 petition for the",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17985/notice-of-august-31-2026-decisions-on-petitions-for-small-refinery-exemptions-under-the-renewable"
+    },
+    {
+      "id": "9bdc09657c46",
+      "category": "LEGIS",
+      "date": "2026-09-02",
+      "title": "Arms Sales Notification; Correction",
+      "summary": "The DoD is publishing the corrected unclassified text of an arms sales notification.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17984/arms-sales-notification-correction"
+    },
+    {
+      "id": "e4fca0173ba1",
+      "category": "LEGIS",
+      "date": "2026-09-02",
+      "title": "Takes of Endangered and Threatened Species Incidental to Specified Activities; Notice of Issuance for Incidental Take Permit No. 29887 to Texas Parks and Wildlife Department",
+      "summary": "Notice is hereby given that the Texas Parks and Wildlife Department (TPWD) has been issued an incidental take permit (ITP) for the incidental take of Endangered Species Act (ESA) listed sea turtles associated with the otherwise lawful fisheries-independent gill net survey activities within Texas bays and estuaries.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17983/takes-of-endangered-and-threatened-species-incidental-to-specified-activities-notice-of-issuance-for"
+    },
+    {
+      "id": "b7eef9535fe4",
+      "category": "LEGIS",
+      "date": "2026-09-02",
+      "title": "Submission for Office of Management and Budget Review; TANF Contingency Fund Application",
+      "summary": "The Office of Family Assistance, Administration for Children and Families (ACF), U.S. Department of Health and Human Services, is proposing to collect data for state requests of Temporary Assistance for Needy Families (TANF) Contingency Fund provisional payments through the TANF Contingency Fund Application.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17982/submission-for-office-of-management-and-budget-review-tanf-contingency-fund-application"
+    },
+    {
+      "id": "6a68ccbb9315",
+      "category": "LEGIS",
+      "date": "2026-09-02",
+      "title": "Polyethylene Terephthalate Resin From the Sultanate of Oman: Amended Final Results of Antidumping Duty Administrative Review; 2023-2024",
+      "summary": "The U.S. Department of Commerce (Commerce) is amending the final results of the administrative review of the antidumping duty (AD) order on polyethylene terephthalate resin (PET resin) from the Sultanate of Oman (Oman) to correct a ministerial error. The period of review (POR) is May 1, 2023, through April 30, 2024. The review covers one producer and exporter of subject merchandise, OCTAL SAOC FZC (OCTAL).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17981/polyethylene-terephthalate-resin-from-the-sultanate-of-oman-amended-final-results-of-antidumping"
+    },
+    {
+      "id": "61ac8195f913",
+      "category": "LEGIS",
+      "date": "2026-09-02",
+      "title": "Arms Sales Notification",
+      "summary": "The DoD is publishing the unclassified text of an arms sales notification.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17980/arms-sales-notification"
+    },
+    {
+      "id": "bc840c80e3ec",
+      "category": "LEGIS",
+      "date": "2026-09-02",
+      "title": "Repeal of Fossil Fuel Restrictions for New Federal Buildings and Major Renovations of Federal Buildings",
+      "summary": "The Department of Energy (DOE) is reviewing its recent guidance related to the implementation of newly adopted provisions regarding Clean Energy for New Federal Buildings and Major Renovations of Federal Buildings (CER). While DOE reviews the CER implementation guidance, DOE is staying the compliance date for the newly adopted provisions in the Code of Federal Regulations (CFR).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17979/repeal-of-fossil-fuel-restrictions-for-new-federal-buildings-and-major-renovations-of-federal"
+    },
+    {
+      "id": "5186cd5f1fc2",
+      "category": "LEGIS",
+      "date": "2026-09-02",
+      "title": "Safety Zone; Bay Bridge Paddle; Chesapeake Bay, Annapolis, MD",
+      "summary": "The Coast Guard is establishing a temporary safety zone for navigable waters of the Chesapeake Bay, adjacent to the shoreline at Sandy Point State Park and between and adjacent to the spans of the William P. Lane Jr. Memorial Bridges, near Annapolis, MD. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards associated with a kayak race. Entry of vessels or persons ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17978/safety-zone-bay-bridge-paddle-chesapeake-bay-annapolis-md"
+    },
+    {
+      "id": "d6125605dccc",
+      "category": "LEGIS",
+      "date": "2026-09-02",
+      "title": "North Pacific Fishery Management Council; Public Meeting",
+      "summary": "The North Pacific Fishery Management Council (Council) Charter Halibut Management Committee will meet September 30, 2026.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17976/north-pacific-fishery-management-council-public-meeting"
+    },
+    {
+      "id": "470c7deb167d",
+      "category": "LEGIS",
+      "date": "2026-09-02",
       "title": "Privacy Act of 1974; System of Records",
-      "summary": "The United States Postal Service (USPS) is responding to public comments regarding the creation of a new General Privacy Act System of Records (SOR) USPS 820.225, Federal Ballot Mail. The new SOR coincides with the Postal Service's publication of the Final Rule amending the Mailing Standards of the United States Postal Service, Domestic Mail Manual (DMM), regarding the transmission of mail-in or absentee ballots for ",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "high",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17986/privacy-act-of-1974-system-of-records"
-    },
-    {
-      "id": "c227a00e3be5",
-      "category": "LEGIS",
-      "date": "2026-09-01",
-      "title": "National Environmental Policy Act Regulations",
-      "summary": "FHWA, FRA, and FTA (collectively referred to as the \"Agencies\") are finalizing the interim final rule (IFR) published on July 3, 2025, which revised the Agencies' National Environmental Policy Act (NEPA) of 1969 implementing regulations in light of the removal of the Council on Environmental Quality (CEQ) regulations, the amendments to NEPA included in the section of the Fiscal Responsibility Act (FR Act) of 2023, kn",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "high",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17904/national-environmental-policy-act-regulations"
-    },
-    {
-      "id": "9e06d43b432a",
-      "category": "LEGIS",
-      "date": "2026-09-01",
-      "title": "Conformance of Cost Accounting Standards to Generally Accepted Accounting Principles for CAS 407 Use of Standard Costs for Direct Material and Direct Labor",
-      "summary": "The Office of Management and Budget (OMB), Cost Accounting Standards Board (the Board), is publishing a final rule rescinding Cost Accounting Standard (CAS) 407 to conform it with Generally Accepted Accounting Principles (GAAP). One definition is transferred to a different location within chapter 99 of title 48, Code of Federal Regulations. This final rule follows issuance of a Notice of Proposed Rulemaking (NPRM) (9",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "high",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17903/conformance-of-cost-accounting-standards-to-generally-accepted-accounting-principles-for-cas-407-use"
-    },
-    {
-      "id": "717ae97577f7",
-      "category": "LEGIS",
-      "date": "2026-09-01",
-      "title": "Bicycle Use in Park Areas",
-      "summary": "The National Park Service (NPS) proposes to modify the procedural requirements in existing NPS regulations for the designation of roads and trails for bicycle use within park areas. The changes would align NPS regulations with applicable Federal law and policy, remove unnecessary requirements, and ensure public involvement when needed. The changes in this rule would allow the NPS to manage its resources and allocate ",
+      "summary": "The former Bureau of Economic and Business Affairs Contact List, State-03 which is being rescinded, contained contact information from business, labor, agricultural and non-government organizations, and others working in the international economic arena as well as individuals who were interested in or requested information about economic issues. The information was used for inviting individuals to Department briefing",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17902/bicycle-use-in-park-areas"
+      "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17975/privacy-act-of-1974-system-of-records"
     },
     {
-      "id": "ccb2aae48ec2",
+      "id": "5f77f317b069",
       "category": "LEGIS",
-      "date": "2026-09-01",
-      "title": "Increase of Monetary Thresholds and Other Matters Related to Cost Accounting Standards Program Requirements",
-      "summary": "The Office of Management and Budget (OMB), Cost Accounting Standards Board (Board), is publishing a final rule to increase the Cost Accounting Standards (CAS) thresholds and agency waiver authority, and issue clarifications on application of the CAS thresholds and exemptions to indefinite delivery contracts (IDCs).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "high",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17901/increase-of-monetary-thresholds-and-other-matters-related-to-cost-accounting-standards-program"
-    },
-    {
-      "id": "ecfc00ab1b73",
-      "category": "LEGIS",
-      "date": "2026-09-01",
-      "title": "National Institute on Alcohol Abuse and Alcoholism; Notice of Closed Meeting",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17897/national-institute-on-alcohol-abuse-and-alcoholism-notice-of-closed-meeting"
-    },
-    {
-      "id": "5e8b6708d2ae",
-      "category": "LEGIS",
-      "date": "2026-09-01",
-      "title": "Center for Scientific Review; Notice of Closed Meetings",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17896/center-for-scientific-review-notice-of-closed-meetings"
-    },
-    {
-      "id": "b082f1f0b440",
-      "category": "LEGIS",
-      "date": "2026-09-01",
-      "title": "National Wildlife Refuge System; 2026-2027 Station-Specific Hunting and Sport Fishing Regulations",
-      "summary": "We, the U.S. Fish and Wildlife Service (FWS or Service), open or expand hunting opportunities on 111 field stations, including 107 units of the National Wildlife Refuges System (Refuge System or NWRS) and 4 units of the National Fish Hatchery System (Hatchery System or NFHS). This includes opening hunting or sport fishing opportunities for the first time on 14 National Wildlife Refuges (NWR) and 3 National Fish Hatch",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17895/national-wildlife-refuge-system-2026-2027-station-specific-hunting-and-sport-fishing-regulations"
-    },
-    {
-      "id": "5dcb24c55de5",
-      "category": "LEGIS",
-      "date": "2026-09-01",
-      "title": "Revision of Agency Information Collection Activity Under OMB Review: Cybersecurity Measures for Surface Modes",
-      "summary": "This notice announces that the Transportation Security Administration (TSA) has forwarded the Information Collection Request (ICR), Office of Management and Budget (OMB) control number 1652-0074, abstracted below, to OMB for a revision of the currently approved collection under the Paperwork Reduction Act (PRA). The ICR describes the nature of the information collection and its expected burden. The collection involve",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17894/revision-of-agency-information-collection-activity-under-omb-review-cybersecurity-measures-for"
-    },
-    {
-      "id": "12c114b93570",
-      "category": "LEGIS",
-      "date": "2026-09-01",
-      "title": "Fees for the Unified Carrier Registration Plan and Agreement",
-      "summary": "FMCSA amends the regulations governing the annual Unified Carrier Registration (UCR) Plan and Agreement registration fees that participating States collect from motor carriers, motor private carriers of property, brokers, freight forwarders, and leasing companies. On September 18, 2025, the UCR Board recommended a fee increase for the 2027 registration year and subsequent registration years. This recommended increase",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17893/fees-for-the-unified-carrier-registration-plan-and-agreement"
-    },
-    {
-      "id": "58f886f754b0",
-      "category": "LEGIS",
-      "date": "2026-09-01",
-      "title": "Deregistration Under Section 8(f) of the Investment Company Act of 1940",
-      "summary": "Applicant, a closed-end investment company, seeks an order declaring that it has ceased to be an investment company. The applicant has transferred its assets to First Trust Active Global Quality Income ETF, a series of First Trust Exchange-Traded Fund VIII, and on November 11, 2023 made a final distribution to its shareholders based on net asset value. Expenses of $509,897.68 incurred in connection with the reorganiz",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17892/deregistration-under-section-8f-of-the-investment-company-act-of-1940"
-    },
-    {
-      "id": "fb862cc8b99a",
-      "category": "LEGIS",
-      "date": "2026-09-01",
-      "title": "Fair Market Rents for the Housing Choice Voucher Program, Moderate Rehabilitation Single Room Occupancy Program, and Other Programs, Fiscal Year 2027",
-      "summary": "HUD is required to publish FMRs not less than annually, adjusted to be effective on October 1 of each year. This notice describes the methods used to calculate the FY 2027 FMRs and lists the procedures for public housing agencies (PHAs) to request reevaluations of their FMRs as required by the Housing Opportunity Through Modernization Act of 2016 (HOTMA).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17891/fair-market-rents-for-the-housing-choice-voucher-program-moderate-rehabilitation-single-room"
-    },
-    {
-      "id": "657a28bae955",
-      "category": "LEGIS",
-      "date": "2026-09-01",
-      "title": "Pipeline Safety: Joint Meeting of the Gas and Liquid Pipeline Advisory Committees",
-      "summary": "On July 17, 2026, PHMSA published a Federal Register notice titled: \"Pipeline Safety: Joint Meeting of the Gas and Liquid Pipeline Advisory Committees,\" which provided an opportunity for public comment by August 31, 2026, on the proceedings of the Gas and Liquid Pipeline Advisory Committees meeting related to 13 notices of proposed rulemakings (NPRM). These proposed rules covered topics such as special permit conditi",
+      "date": "2026-09-02",
+      "title": "30-Day Notice for the “Arts Basic Survey”; Proposed Collection; Comment Request",
+      "summary": "The National Endowment for the Arts (NEA), as part of its continuing effort to reduce paperwork and respondent burden, conducts a preclearance consultation program to provide the general public and Federal agencies with an opportunity to comment on proposed and/or continuing collections of information in accordance with the Paperwork Reduction Act of 1995. This program helps to ensure that requested data can be provi",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17890/pipeline-safety-joint-meeting-of-the-gas-and-liquid-pipeline-advisory-committees"
+      "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17974/30-day-notice-for-the-arts-basic-survey-proposed-collection-comment-request"
     },
     {
-      "id": "63a22fc27a4f",
+      "id": "6a18057b0b0e",
       "category": "LEGIS",
-      "date": "2026-09-01",
-      "title": "30-Day Notice of Proposed Information Collection: The Resident Opportunities and Self-Sufficiency (ROSS) Program",
-      "summary": "HUD is seeking approval from the Office of Management and Budget (OMB) for the information collection described below. In accordance with the Paperwork Reduction Act, HUD is requesting comments from all interested parties on the proposed collection of information. The purpose of this notice is to allow for 30 days of public comment.",
+      "date": "2026-09-02",
+      "title": "Administrative Disaster Declaration of a Rural Area for the State of Missouri",
+      "summary": "This is notice of an Administrative disaster declaration of a rural area for the state of Missouri dated August 28, 2026. Incident: Severe Storms, Tornadoes, and Flooding.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17973/administrative-disaster-declaration-of-a-rural-area-for-the-state-of-missouri"
+    },
+    {
+      "id": "0c64c2a12124",
+      "category": "LEGIS",
+      "date": "2026-09-02",
+      "title": "Submission for OMB Review; Comment Request",
+      "summary": "The DoD has submitted to the Office of Management and Budget (OMB) for clearance the following proposal for collection of information under the provisions of the Paperwork Reduction Act.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17972/submission-for-omb-review-comment-request"
+    },
+    {
+      "id": "41f3a6d2abe8",
+      "category": "LEGIS",
+      "date": "2026-09-02",
+      "title": "Safety Zone; Lake St. Clair, Grosse Pointe Farms, MI",
+      "summary": "The Coast Guard is establishing a temporary safety zone for the navigable waters of Lake St. Clair for a fireworks display. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards associated with an over water fireworks display. Entry of vessels or people into this zone is prohibited unless specifically authorized by the Captain of the Port Detroit (COTP) or their de",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17971/safety-zone-lake-st-clair-grosse-pointe-farms-mi"
+    },
+    {
+      "id": "17d4d77f7792",
+      "category": "CMS",
+      "date": "2026-09-02",
+      "title": "Agency Information Collection Activities: Submission for OMB Review; Comment Request",
+      "summary": "The Centers for Medicare & Medicaid Services (CMS) is announcing an opportunity for the public to comment on CMS' intention to collect information from the public. Under the Paperwork Reduction Act of 1995 (PRA), federal agencies are required to publish notice in the Federal Register concerning each proposed collection of information, including each proposed extension or reinstatement of an existing collection of inf",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17889/30-day-notice-of-proposed-information-collection-the-resident-opportunities-and-self-sufficiency"
+      "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17970/agency-information-collection-activities-submission-for-omb-review-comment-request"
     },
     {
-      "id": "8056dbe3adfd",
+      "id": "013a377537b3",
       "category": "LEGIS",
-      "date": "2026-09-01",
-      "title": "Welded Line Pipe From the Republic of Türkiye: Final Results of the Expedited Second Sunset Review of the Countervailing Duty Order",
-      "summary": "The U.S. Department of Commerce (Commerce) finds that revocation of the countervailing duty (CVD) order on welded line pipe from the Republic of T[uuml]rkiye (T[uuml]rkiye) would be likely to lead to continuation or recurrence of countervailable subsidies at the levels indicated in the \"Final Results of Sunset Review\" section of this notice.",
+      "date": "2026-09-02",
+      "title": "Notice of Final Federal Agency Actions on Proposed Transportation Project in Massachusetts",
+      "summary": "This notice announces action taken by FHWA that are final. The actions relate to the proposed Cape Cod Bridges Project which includes replacement of the Sagamore Bridge carrying U.S. Route 6 and replacement of the Bourne Bridge carrying State Route 28 as it travels across the Cape Cod Canal and their respective approaches in the town of Bourne in Barnstable County Massachusetts. Those actions grant licenses, permits,",
       "tags": [
         "Federal Register"
       ],
-      "priority": "low",
+      "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17888/welded-line-pipe-from-the-republic-of-trkiye-final-results-of-the-expedited-second-sunset-review-of"
-    },
-    {
-      "id": "c7f5bc8ebd02",
-      "category": "LEGIS",
-      "date": "2026-09-01",
-      "title": "Certain Steel Grating From the People's Republic of China: Final Results of the Expedited Third Sunset Review of the Antidumping Duty Order",
-      "summary": "The U.S. Department of Commerce (Commerce) finds that revocation of the antidumping duty (AD) order on certain steel grating (steel grating) from the People's Republic of China (China) would be likely to lead to continuation or recurrence of dumping, at the levels indicated in the \"Final Results of Sunset Review\" section of this notice.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17885/certain-steel-grating-from-the-peoples-republic-of-china-final-results-of-the-expedited-third-sunset"
-    },
-    {
-      "id": "f45698eaf598",
-      "category": "LEGIS",
-      "date": "2026-09-01",
-      "title": "Free Matter for the Blind and Other Physically Handicapped Persons",
-      "summary": "The Postal Service is revising Mailing Standards of the United States Postal Service, Domestic Mail Manual (DMM[supreg]) to clarify the applicability of the Hazmat Handling Fee, and to require a parcel barcode, on parcels mailed as Free Matter for the Blind and Other Physically Handicapped Persons (Free Matter).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17884/free-matter-for-the-blind-and-other-physically-handicapped-persons"
-    },
-    {
-      "id": "6451bc2c04b6",
-      "category": "LEGIS",
-      "date": "2026-09-01",
-      "title": "Petition for Exemption; Summary of Petition Received; Texas Woman's University",
-      "summary": "This notice contains a summary of a petition seeking relief from specified requirements of Federal Aviation Regulations. The purpose of this notice is to improve the public's awareness of, and participation in, the FAA's exemption process. Neither publication of this notice nor the inclusion nor omission of information in the summary is intended to affect the legal status of the petition or its final disposition.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17883/petition-for-exemption-summary-of-petition-received-texas-womans-university"
-    },
-    {
-      "id": "6d99d9147430",
-      "category": "LEGIS",
-      "date": "2026-09-01",
-      "title": "Tribal Intergovernmental Advisory Committee Request for Member Nominations",
-      "summary": "This notice seeks nominations for HUD's Tribal Intergovernmental Advisory Committee (TIAC).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17881/tribal-intergovernmental-advisory-committee-request-for-member-nominations"
-    },
-    {
-      "id": "be5c685bfeda",
-      "category": "LEGIS",
-      "date": "2026-09-01",
-      "title": "Petition for Exemption; Summary of Petition Received; Wichita State University Campus of Applied Sciences and Technology",
-      "summary": "This notice contains a summary of a petition seeking relief from specified requirements of Federal Aviation Regulations. The purpose of this notice is to improve the public's awareness of, and participation in, the FAA's exemption process. Neither publication of this notice nor the inclusion nor omission of information in the summary is intended to affect the legal status of the petition or its final disposition.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17880/petition-for-exemption-summary-of-petition-received-wichita-state-university-campus-of-applied"
+      "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17969/notice-of-final-federal-agency-actions-on-proposed-transportation-project-in-massachusetts"
     }
   ]
 }
