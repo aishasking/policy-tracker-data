@@ -1,4 +1,265 @@
 {
-  "generated_at": "2026-09-07T17:43:52.651Z",
-  "updates": []
+  "generated_at": "2026-09-08T16:35:08.414Z",
+  "updates": [
+    {
+      "id": "557d33ac8cab",
+      "category": "FDA",
+      "date": "2026-09-08",
+      "title": "Unleashing Unlicensed Spectrum for Direct-to-Device",
+      "summary": "The Federal Communications Commission (Commission or FCC) issues a Notice of Proposed Rulemaking proposes to expand opportunities for direct-to-device (D2D) communications by permitting certain unlicensed devices to communicate with satellites on a non-interference basis. Building on recent market growth and new industry investment in D2D technologies, the NPRM explores adding satellite allocations in specific unlice",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/08/2026-18282/unleashing-unlicensed-spectrum-for-direct-to-device"
+    },
+    {
+      "id": "7cfbf9a78730",
+      "category": "LEGIS",
+      "date": "2026-09-08",
+      "title": "Safety Zone; Laguna Madre, South Padre Island, TX",
+      "summary": "The Coast Guard is establishing a temporary safety zone for navigable waters on the Laguna Madre. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards associated with an over water fireworks display. Entry of vessels or persons into this zone is prohibited unless specifically authorized by the Captain of the Port, Sector Corpus Christi, or their designated represe",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/08/2026-18279/safety-zone-laguna-madre-south-padre-island-tx"
+    },
+    {
+      "id": "acc78a41918e",
+      "category": "LEGIS",
+      "date": "2026-09-08",
+      "title": "Sunshine Act Meetings",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/08/2026-18262/sunshine-act-meetings"
+    },
+    {
+      "id": "d818ad4abc5e",
+      "category": "LEGIS",
+      "date": "2026-09-08",
+      "title": "National Petroleum Reserve in Alaska Production Site Development",
+      "summary": "The Bureau of Land Management (BLM) is proposing to streamline its decision-making process for authorizing the construction and operation of qualifying oil and gas production sites and their associated rights-of-way (ROWs) in the National Petroleum Reserve in Alaska (the Petroleum Reserve or NPR-A). This proposed rule would establish pre-defined criteria for defined and repeatable common activities with similar envir",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/08/2026-18261/national-petroleum-reserve-in-alaska-production-site-development"
+    },
+    {
+      "id": "b89869f41a61",
+      "category": "FDA",
+      "date": "2026-09-08",
+      "title": "Certain Foreign-Fabricated Semiconductor Devices, Products Containing the Same, and Components Thereof; Notice of a Commission Determination Not To Review an Initial Determination Granting a Joint Motion To Terminate the Investigation",
+      "summary": "Notice is hereby given that the U.S. International Trade Commission has determined not to review an initial determination (\"ID\") (Order No. 77) of the presiding administrative law judge (\"ALJ\") granting a joint motion to terminate the investigation in its entirety based on settlement and to limit service of the settlement agreement.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/08/2026-18260/certain-foreign-fabricated-semiconductor-devices-products-containing-the-same-and-components-thereof"
+    },
+    {
+      "id": "651224228993",
+      "category": "LEGIS",
+      "date": "2026-09-08",
+      "title": "Agency Information Collection Activities: Information Collection Renewal; Submission for OMB Review; Supervisory Guidance: Supervisory Review Process of Capital Adequacy (Pillar 2) Related to the Implementation of the Basel II Advanced Capital Framework",
+      "summary": "The OCC, as part of its continuing effort to reduce paperwork and respondent burden, invites comment on a continuing information collection, as required by the Paperwork Reduction Act of 1995 (PRA). In accordance with the requirements of the PRA, the OCC may not conduct or sponsor, and the respondent is not required to respond to, an information collection unless it displays a currently valid Office of Management and",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/08/2026-18259/agency-information-collection-activities-information-collection-renewal-submission-for-omb-review"
+    },
+    {
+      "id": "cf8a0a9006e9",
+      "category": "LEGIS",
+      "date": "2026-09-08",
+      "title": "Agency Information Collection Activities: Proposed Collection Renewal; Comment Request",
+      "summary": "The FDIC, as part of its obligations under the Paperwork Reduction Act of 1995, invites the general public and other Federal agencies to take this opportunity to comment on the request to renew the existing information collections described below (OMB Control No. 3064-0140; -0176). The notices of proposed renewal for these information collections were previously published in the Federal Register on July 2, 2026, allo",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/08/2026-18258/agency-information-collection-activities-proposed-collection-renewal-comment-request"
+    },
+    {
+      "id": "09d3d81827bc",
+      "category": "LEGIS",
+      "date": "2026-09-08",
+      "title": "Sunshine Act Meetings",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/08/2026-18257/sunshine-act-meetings"
+    },
+    {
+      "id": "b08cb956788b",
+      "category": "LEGIS",
+      "date": "2026-09-08",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 173",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/08/2026-18256/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-173"
+    },
+    {
+      "id": "d19412205eda",
+      "category": "LEGIS",
+      "date": "2026-09-08",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 11a-2",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/08/2026-18255/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-11a-2"
+    },
+    {
+      "id": "4c0dcdb0b934",
+      "category": "LEGIS",
+      "date": "2026-09-08",
+      "title": "Management Track Assessment for American Plaice and Gulf of Maine Haddock; Public Meeting",
+      "summary": "NMFS will convene the Management Track Assessment Peer Review Meeting for the purpose of reviewing American plaice and Gulf of Maine haddock stocks. The Management Track Assessment Peer Review is a formal scientific peer-review process for evaluating and presenting stock assessment results to managers for fish stocks in the offshore U.S. waters of the northwest Atlantic. Assessments are prepared by the lead stock ass",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/08/2026-18254/management-track-assessment-for-american-plaice-and-gulf-of-maine-haddock-public-meeting"
+    },
+    {
+      "id": "1e12e58e0929",
+      "category": "LEGIS",
+      "date": "2026-09-08",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Revision: Ombudsman Matter Management System (OMMS) Submission Form",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/08/2026-18253/agency-information-collection-activities-proposed-collection-comment-request-revision-ombudsman"
+    },
+    {
+      "id": "c7ada03a3bf8",
+      "category": "LEGIS",
+      "date": "2026-09-08",
+      "title": "Agency Information Collection Activities; Terrestrial Analogs Survey Submission to the Office of Management and Budget for Review and Approval; Terrestrial Analogs Survey",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995 (PRA), the U.S. Geological Survey (USGS) is proposing to renew an information collection with revisions.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/08/2026-18252/agency-information-collection-activities-terrestrial-analogs-survey-submission-to-the-office-of"
+    },
+    {
+      "id": "ac5c43d55759",
+      "category": "LEGIS",
+      "date": "2026-09-08",
+      "title": "Mark Allen, D.D.S.; Rescission of Final Agency Action and Withdrawal of Order To Show Cause",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/08/2026-18251/mark-allen-dds-rescission-of-final-agency-action-and-withdrawal-of-order-to-show-cause"
+    },
+    {
+      "id": "c7c7c0cd00a2",
+      "category": "LEGIS",
+      "date": "2026-09-08",
+      "title": "Cedar Creek and Belle Grove National Historical Park Advisory Commission; Notice of Public Meeting",
+      "summary": "In accordance with the Federal Advisory Committee Act of 1972, as amended, the National Park Service is hereby giving notice that the Cedar Creek and Belle Grove National Historical Park Advisory Commission (Commission) will meet as indicated below.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/08/2026-18250/cedar-creek-and-belle-grove-national-historical-park-advisory-commission-notice-of-public-meeting"
+    },
+    {
+      "id": "16a65ad99075",
+      "category": "LEGIS",
+      "date": "2026-09-08",
+      "title": "Certain Walk-Behind Lawn Mowers and Parts Thereof From the People's Republic of China and the Socialist Republic of Vietnam: Final Results of Sunset Review and Revocation of Orders",
+      "summary": "On June 1, 2026, the U.S. Department of Commerce (Commerce) initiated the first sunset review of antidumping duty (AD) and countervailing duty (CVD) orders on certain walk-behind lawn mowers and parts thereof (lawn mowers) from the People's Republic of China (China) and the AD order on lawn mowers from the Socialist Republic of Vietnam (Vietnam). Because no domestic party responded to the sunset review notice of init",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/08/2026-18249/certain-walk-behind-lawn-mowers-and-parts-thereof-from-the-peoples-republic-of-china-and-the"
+    },
+    {
+      "id": "bd99b0c7527a",
+      "category": "LEGIS",
+      "date": "2026-09-08",
+      "title": "Brass Rod From Brazil: Preliminary Results of Antidumping Duty Administrative Review; 2023-2025",
+      "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that Termomecanica Sao Paulo S.A. (Termomecanica), a producer/exporter subject to this administrative review, made sales of brass rod at less than normal value (NV) during the period of review (POR), December 1, 2023, through May 31, 2025. Interested parties are invited to comment on these preliminary results.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/08/2026-18248/brass-rod-from-brazil-preliminary-results-of-antidumping-duty-administrative-review-2023-2025"
+    },
+    {
+      "id": "0dd672a8780d",
+      "category": "LEGIS",
+      "date": "2026-09-08",
+      "title": "Proposed Recreation Fee Sites",
+      "summary": "The Grand Mesa, Uncompahgre, and Gunnison National Forests are proposing to establish two special recreation permits. Proposed recreation fees collected at the proposed recreation fee sites and for the proposed special recreation permit would be used for operation, maintenance, and improvement of the sites and the special recreation use covered by the proposed special recreation permit. An analysis of nearby recreati",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/08/2026-18247/proposed-recreation-fee-sites"
+    },
+    {
+      "id": "cfb3efd7a4a8",
+      "category": "LEGIS",
+      "date": "2026-09-08",
+      "title": "Proposed Recreation Fee Sites",
+      "summary": "The Ashley National Forest is proposing to establish two recreation fee sites. Proposed recreation fees collected at the proposed recreation fee sites and for the proposed special recreation permit would be used for operation, maintenance, and improvement of the sites and the special recreation use covered by the proposed special recreation permit. An analysis of nearby recreation fee sites and special recreation use",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/08/2026-18246/proposed-recreation-fee-sites"
+    },
+    {
+      "id": "d4cffdf857e1",
+      "category": "LEGIS",
+      "date": "2026-09-08",
+      "title": "Proposed Recreation Fee Sites",
+      "summary": "The Manti-La Sal National Forest is proposing to establish several recreation fee sites. Proposed recreation fees collected at the proposed recreation fee sites and for the proposed special recreation permit would be used for operation, maintenance, and improvement of the sites and the special recreation use covered by the proposed special recreation permit. An analysis of nearby recreation fee sites and special recr",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/08/2026-18245/proposed-recreation-fee-sites"
+    }
+  ]
 }
