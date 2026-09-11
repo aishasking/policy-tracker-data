@@ -1,265 +1,265 @@
 {
-  "generated_at": "2026-09-10T16:20:59.239Z",
+  "generated_at": "2026-09-11T16:24:53.753Z",
   "updates": [
     {
-      "id": "11c8405d0e51",
+      "id": "3c514780dbff",
       "category": "LEGIS",
-      "date": "2026-09-10",
-      "title": "Fee for Certain H-1B Petitions",
+      "date": "2026-09-11",
+      "title": "Adjusting Certain Delegations Under the Defense Production Act",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/10/C1-2026-17324/fee-for-certain-h-1b-petitions"
+      "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18739/adjusting-certain-delegations-under-the-defense-production-act"
     },
     {
-      "id": "41562f275b6b",
+      "id": "cc32b41f99bb",
       "category": "LEGIS",
-      "date": "2026-09-10",
-      "title": "Continuation of the National Emergency With Respect to Certain Terrorist Attacks",
+      "date": "2026-09-11",
+      "title": "Accelerating Access to Veterans' Benefits and Employment Opportunities",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18589/continuation-of-the-national-emergency-with-respect-to-certain-terrorist-attacks"
+      "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18738/accelerating-access-to-veterans-benefits-and-employment-opportunities"
     },
     {
-      "id": "1e00811f6b03",
+      "id": "66813dd03ba1",
       "category": "LEGIS",
-      "date": "2026-09-10",
-      "title": "Labor Day, 2026",
+      "date": "2026-09-11",
+      "title": "Special Local Regulations; Marine Events Within the Sector Columbia River Captain of the Port Zone, Portland, OR",
+      "summary": "The Coast Guard will enforce special local regulations at one location in the Sector Columbia River Captain of the Port Zone in Portland, OR from September 12, 2026, to September 13, 2026. This action is necessary to provide for the safety of life and property on these navigable waters during marine events. During the enforcement periods, the operator of any vessel in the regulated area must comply with the direction",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18670/special-local-regulations-marine-events-within-the-sector-columbia-river-captain-of-the-port-zone"
+    },
+    {
+      "id": "520a8bdfdb81",
+      "category": "LEGIS",
+      "date": "2026-09-11",
+      "title": "Special Areas; Roadless Area Conservation",
+      "summary": "The U.S. Department of Agriculture (USDA or Department) is extending the public comment period for the proposed rule titled Special Areas; Roadless Area Conservation, published in the Federal Register on August 20, 2026 (91 FR 53827). The notice of proposed rulemaking invited public comment on the proposed rule, the associated draft environmental impact statement, and cost benefit analysis, which were published simul",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18648/special-areas-roadless-area-conservation"
+    },
+    {
+      "id": "33b1efebd19e",
+      "category": "LEGIS",
+      "date": "2026-09-11",
+      "title": "Allocation and Apportionment of Deductions to Foreign Source Section 951A Category Income and Deduction Eligible Income",
+      "summary": "This document contains proposed regulations related to the allocation and apportionment of deductions to foreign source section 951A category income for foreign tax credit limitation purposes and for purposes of calculating deduction eligible income. The proposed regulations would affect taxpayers that operate in foreign countries through foreign corporations and domestic corporations that claim the deduction for for",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18645/allocation-and-apportionment-of-deductions-to-foreign-source-section-951a-category-income-and"
+    },
+    {
+      "id": "ecba18644837",
+      "category": "LEGIS",
+      "date": "2026-09-11",
+      "title": "Eliminating the Discretionary 60-Day Grace Period",
+      "summary": "The Department of Homeland Security (DHS) proposes to remove regulations at 8 CFR 214.1(l)(2) to restore its previous and long- standing policy of not providing aliens in certain nonimmigrant classifications (and their dependents) with an up to 60-day grace period upon cessation of employment prior to the expiration of the alien's authorized period of stay. This proposal restores a direct relationship between an alie",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18631/eliminating-the-discretionary-60-day-grace-period"
+    },
+    {
+      "id": "53672f36f7e9",
+      "category": "LEGIS",
+      "date": "2026-09-11",
+      "title": "Amendment to the International Traffic in Arms Regulations: Prohibited Exports, Imports, and Sales to or From Certain Countries-Cyprus",
+      "summary": "The Department of State is amending the International Traffic in Arms Regulations to reflect current defense trade policy toward Cyprus.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18630/amendment-to-the-international-traffic-in-arms-regulations-prohibited-exports-imports-and-sales-to"
+    },
+    {
+      "id": "f5094f624e88",
+      "category": "LEGIS",
+      "date": "2026-09-11",
+      "title": "Notice of Debarment; Federal E-Rate Program",
+      "summary": "The Enforcement Bureau (the \"Bureau\") debars Kenneth Collura from the schools and libraries universal service support mechanism (or E-Rate Program) and all federal universal service support mechanisms for three years.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18625/notice-of-debarment-federal-e-rate-program"
+    },
+    {
+      "id": "8294bb0fb34f",
+      "category": "LEGIS",
+      "date": "2026-09-11",
+      "title": "Notice of Intent To Request Revision and Extension of a Currently Approved Information Collection",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, this notice announces the intention of the National Agricultural Statistics Service (NASS) to request approval to revise and extend a currently approved information collection to gather data related to water usage for North Carolina agricultural operations that likely use between 10,000 and 1,000,000 gallons per day. A revision to the burden hours will be necess",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18624/notice-of-intent-to-request-revision-and-extension-of-a-currently-approved-information-collection"
+    },
+    {
+      "id": "030b7f1bc3db",
+      "category": "LEGIS",
+      "date": "2026-09-11",
+      "title": "Fisheries of the Northeastern United States; Atlantic Bluefish Fishery; Quota Transfer From New Jersey to North Carolina",
+      "summary": "NMFS announces that the State of New Jersey is transferring a portion of their 2026 commercial bluefish quota to the State of North Carolina. This quota adjustment is necessary to comply with the Atlantic Bluefish Fishery Management Plan (FMP) quota transfer provisions. This announcement informs the public of the revised 2026 commercial bluefish quotas for New Jersey and North Carolina.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18623/fisheries-of-the-northeastern-united-states-atlantic-bluefish-fishery-quota-transfer-from-new-jersey"
+    },
+    {
+      "id": "86cf5e02ea9c",
+      "category": "LEGIS",
+      "date": "2026-09-11",
+      "title": "Agency Information Collection Activities; Proposed Collection eComments Requested; Revision and Extension of a Previously Approved Collection; Certification and Release of Records (Form EOIR-59)",
+      "summary": "The Executive Office for Immigration Review (EOIR) at the Department of Justice (DOJ) will be submitting the following information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18622/agency-information-collection-activities-proposed-collection-ecomments-requested-revision-and"
+    },
+    {
+      "id": "1c39adf5aa21",
+      "category": "LEGIS",
+      "date": "2026-09-11",
+      "title": "Marine Mammals and Endangered Species",
+      "summary": "Notice is hereby given that permits have been issued under the Marine Mammal Protection Act (MMPA) and the Endangered Species Act (ESA), as applicable.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18621/marine-mammals-and-endangered-species"
+    },
+    {
+      "id": "fa86cac28b5c",
+      "category": "LEGIS",
+      "date": "2026-09-11",
+      "title": "Codex Alimentarius Commission: Meeting of the Codex Committee on Nutrition and Foods for Special Dietary Uses",
+      "summary": "The U.S Codex Office is sponsoring a public meeting on October 5, 2026. The objective of the public meeting is to provide information and receive public comments on agenda items and draft U.S. positions to be discussed at the 45th Session of the Codex Committee on Nutrition and Foods for Special Dietary Uses (CCNFSDU45) of the Codex Alimentarius Commission (CAC). CCNFSDU45 will be held in Nuremberg, Germany, from Nov",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18620/codex-alimentarius-commission-meeting-of-the-codex-committee-on-nutrition-and-foods-for-special"
+    },
+    {
+      "id": "aa37029af1b1",
+      "category": "LEGIS",
+      "date": "2026-09-11",
+      "title": "Endangered Species; File No. 29126; Correction",
+      "summary": "On July 1, 2026, a notice was published in the Federal Register announcing that NMFS had received an application for a permit (File No. 29126) from the Florida Sea Grant, P.O. Box 7640, St. Thomas, VI 00801 [Responsible Party: Logan Williams]. Due to a change in the applicant, that document doesn't reflect the current applicant and address. This document corrects this error. All other information is unchanged.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18619/endangered-species-file-no-29126-correction"
+    },
+    {
+      "id": "d7a7c2139eb9",
+      "category": "LEGIS",
+      "date": "2026-09-11",
+      "title": "Notice of Intent To Request Revision and Extension of a Currently Approved Information Collection.",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, this notice announces the intention of the National Agricultural Statistics Service (NASS) to request revision and extension of a currently approved information collection, the Agricultural Prices Surveys. Revision to burden hours may be needed due to changes in the size of the target population, sampling design, and/or questionnaire length.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18618/notice-of-intent-to-request-revision-and-extension-of-a-currently-approved-information-collection"
+    },
+    {
+      "id": "928a4d90179a",
+      "category": "LEGIS",
+      "date": "2026-09-11",
+      "title": "Federal Management Regulation (FMR); Rescinding and Removing FMR Bulletin B-51",
+      "summary": "GSA is rescinding and removing Federal Management Regulation (FMR) Bulletin B-51, Annual Executive Agency Reports on Exchange/Sale and Personal Property Furnished to Non-Federal Recipients, due to the bulletin being outdated. GSA has published annual reporting information for executive agencies in guidance on gsa.gov.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18617/federal-management-regulation-fmr-rescinding-and-removing-fmr-bulletin-b-51"
+    },
+    {
+      "id": "2a81a3968dd6",
+      "category": "LEGIS",
+      "date": "2026-09-11",
+      "title": "Domestic Quarantine: Quarantined Areas and Regulated Articles",
+      "summary": "We are advising the public of the changes made to our lists of domestic quarantined areas in 2025. These changes may be viewed on the relevant plant pest programs' websites.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18616/domestic-quarantine-quarantined-areas-and-regulated-articles"
+    },
+    {
+      "id": "e637788fa471",
+      "category": "LEGIS",
+      "date": "2026-09-11",
+      "title": "National Heart, Lung, and Blood Institute; Notice of Meeting",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18573/labor-day-2026"
+      "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18615/national-heart-lung-and-blood-institute-notice-of-meeting"
     },
     {
-      "id": "5ea66c90f645",
+      "id": "9822a5446dcf",
       "category": "LEGIS",
-      "date": "2026-09-10",
-      "title": "Supporting America's Ranchers",
-      "summary": "Federal Register document (no abstract provided).",
+      "date": "2026-09-11",
+      "title": "Senior Executive Service Performance Review Board Membership",
+      "summary": "The Treasury Office of Inspector General (TOIG) announces the appointment of persons to serve as members of its Performance Review Board (PRB). The purpose of the PRB is to provide fair and impartial review of annual SES performance appraisals; to make recommendations to appointing officials regarding acceptance or modification of performance ratings; and to make recommendations for performance-based awards and perfo",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18571/supporting-americas-ranchers"
+      "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18614/senior-executive-service-performance-review-board-membership"
     },
     {
-      "id": "b2ad57d7023c",
+      "id": "437993a0cf69",
       "category": "LEGIS",
-      "date": "2026-09-10",
-      "title": "Promoting Fair Competition in Livestock Markets and Expanding Market Access for American Meat Producers",
-      "summary": "Federal Register document (no abstract provided).",
+      "date": "2026-09-11",
+      "title": "Taking and Importing Marine Mammals; Taking Marine Mammals Incidental to Northeast Fisheries Science Center Fisheries and Ecosystem Research",
+      "summary": "NMFS has received a request from the Northeast Fisheries Science Center (NEFSC) for authorization to take small numbers of marine mammals incidental to fisheries and ecosystem research in the Atlantic Ocean over the course of 5-years from the date of issuance. Pursuant to regulations implementing the Marine Mammal Protection Act (MMPA), NMFS is announcing receipt of the NEFSC's request for the development and impleme",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18567/promoting-fair-competition-in-livestock-markets-and-expanding-market-access-for-american-meat"
-    },
-    {
-      "id": "419869f586cb",
-      "category": "LEGIS",
-      "date": "2026-09-10",
-      "title": "Airworthiness Directives; Bell Textron Canada Limited Helicopters",
-      "summary": "The FAA proposes to adopt a new airworthiness directive (AD) for all Bell Textron Canada Limited (Bell) Model 206L, 206L-1, 206L-3, and 206L-4 helicopters with FAA Supplemental Type Certificate (STC) SR02684LA installed. This proposed AD was prompted by an event where a Bell Model 206L helicopter with FAA STC SR02684LA installed experienced moderate to severe vertical vibration, which resulted in damage to the tail b",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18522/airworthiness-directives-bell-textron-canada-limited-helicopters"
-    },
-    {
-      "id": "e2206cd4d604",
-      "category": "LEGIS",
-      "date": "2026-09-10",
-      "title": "Airworthiness Directives; Dassault Aviation Airplanes",
-      "summary": "The FAA proposes to adopt a new airworthiness directive (AD) for all Dassault Aviation Model FALCON 7X, MYSTERE-FALCON 900, FALCON 900EX, FALCON 2000, and FALCON 2000EX airplanes. This proposed AD was prompted by reported occurrences of seats sliding without passenger input. The cabin seat track locking mechanism was found to jam in isolated conditions during taxi, take-off, and landing (TTOL). This proposed AD would",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18520/airworthiness-directives-dassault-aviation-airplanes"
-    },
-    {
-      "id": "9831b5ed95b2",
-      "category": "LEGIS",
-      "date": "2026-09-10",
-      "title": "Notice of Funding Opportunity for the Agriculture Innovation Center Demonstration (AIC) Program 2026",
-      "summary": "The Rural Business Cooperative Service (RBCS or the Agency), a Rural Development (RD) agency of the United States Department of Agriculture (USDA) is announcing the acceptance of Applications for the Agriculture Innovation Center Demonstration (AIC) Program for fiscal year (FY) 2026. In future years this funding opportunity will only be announced on the Agency website and grants.gov, without a Federal Register notice",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18511/notice-of-funding-opportunity-for-the-agriculture-innovation-center-demonstration-aic-program-2026"
-    },
-    {
-      "id": "094907321f18",
-      "category": "LEGIS",
-      "date": "2026-09-10",
-      "title": "Renewal of Charter of Advisory Committee on Actuarial Examinations",
-      "summary": "The Joint Board for the Enrollment of Actuaries announces the renewal of the charter of the Advisory Committee on Actuarial Examinations.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18510/renewal-of-charter-of-advisory-committee-on-actuarial-examinations"
-    },
-    {
-      "id": "519e7a87590c",
-      "category": "LEGIS",
-      "date": "2026-09-10",
-      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Form CB-Tender Offer/Rights Offering Notification Form",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18509/agency-information-collection-activities-proposed-collection-comment-request-extension-form"
-    },
-    {
-      "id": "0523ba5518d1",
-      "category": "LEGIS",
-      "date": "2026-09-10",
-      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 425",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18508/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-425"
-    },
-    {
-      "id": "f7c98902f204",
-      "category": "LEGIS",
-      "date": "2026-09-10",
-      "title": "Prestressed Concrete Steel Wire Strand From Ukraine: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025",
-      "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that PJSC Stalkanat (Stalkanat) did not make sales of subject merchandise at less than normal value (NV) during the period of review (POR), June 1, 2024, through May 31, 2025. Interested parties are invited to comment on these preliminary results of review.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18507/prestressed-concrete-steel-wire-strand-from-ukraine-preliminary-results-of-antidumping-duty"
-    },
-    {
-      "id": "99481a9cb51a",
-      "category": "LEGIS",
-      "date": "2026-09-10",
-      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Requests To Approve Conformed Wage Classifications and Unconventional Fringe Benefit Plans Under the Davis-Bacon and Related Acts and Contract Work Hours and Safety Standards Act",
-      "summary": "The Department of Labor (DOL) is submitting this Wage and Hour Division (WHD)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18506/agency-information-collection-activities-submission-for-omb-review-comment-request-requests-to"
-    },
-    {
-      "id": "34f625a7af46",
-      "category": "LEGIS",
-      "date": "2026-09-10",
-      "title": "Horseracing Integrity And Safety Authority Proposed 2027 Budget",
-      "summary": "The Federal Trade Commission publishes the 2027 proposed budget of the Horseracing Integrity and Safety Authority and seeks public comment on whether the Commission should approve, disapprove, or modify the proposed budget.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18505/horseracing-integrity-and-safety-authority-proposed-2027-budget"
-    },
-    {
-      "id": "e2d44b4e79f4",
-      "category": "LEGIS",
-      "date": "2026-09-10",
-      "title": "In Situ Recovery Monitoring and Decommissioning Timeliness",
-      "summary": "The U.S. Nuclear Regulatory Commission (NRC) proposes to amend its regulations that govern the licensing of uranium mills and the disposition of tailings and waste that arise from the extraction and milling of uranium by issuing risk-informed requirements for groundwater protection at uranium in situ recovery (ISR) facilities. The NRC's current regulations are focused on conventional uranium milling and do not expres",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18504/in-situ-recovery-monitoring-and-decommissioning-timeliness"
-    },
-    {
-      "id": "b8d8f842757d",
-      "category": "LEGIS",
-      "date": "2026-09-10",
-      "title": "Proposed Revision of Information Collection: Rehabilitation Plan and Award.",
-      "summary": "The Department of Labor, as part of its continuing effort to reduce paperwork and respondent burden, conducts a pre-clearance request for comment to provide the general public and Federal agencies with an opportunity to comment on proposed collections of information in accordance with the Paperwork Reduction Act of 1995. This request helps to ensure that: requested data can be provided in the desired format; reportin",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18503/proposed-revision-of-information-collection-rehabilitation-plan-and-award"
-    },
-    {
-      "id": "aba072b4993d",
-      "category": "LEGIS",
-      "date": "2026-09-10",
-      "title": "Proposed Information Collection; NEON Provider Organization",
-      "summary": "The Department of Labor, as part of its continuing effort to reduce paperwork and respondent burden, conducts a pre-clearance request for comment to provide the general public and Federal agencies with an opportunity to comment on proposed collections of information in accordance with the Paperwork Reduction Act of 1995. This request helps to ensure that: requested data can be provided in the desired format; reportin",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18502/proposed-information-collection-neon-provider-organization"
-    },
-    {
-      "id": "8360bffb8ff3",
-      "category": "LEGIS",
-      "date": "2026-09-10",
-      "title": "Hazardous Materials: California's Reusability Mandate for Propane Cylinders",
-      "summary": "The Federal Hazardous Materials Transportation Act (HMTA), 49 U.S.C. 5101 et seq., preempts California's reusability mandate for propane cylinders in California Public Resources Code, Sections 42395- 42395.2. The reusability mandate imposes localized design and manufacturing requirements on a container that is represented, marked, certified, or sold as qualified for use in the transportation of a hazardous material--",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18501/hazardous-materials-californias-reusability-mandate-for-propane-cylinders"
-    },
-    {
-      "id": "9322dcdcdb2a",
-      "category": "LEGIS",
-      "date": "2026-09-10",
-      "title": "Senior Executive Service; Appointment of Members to the Performance Review Board",
-      "summary": "Title 5 U.S.C. 4314(c)(4) provides that Notice of the Appointment of the individual to serve as a member of the Performance Review Board of the Senior Executive Service shall be published in the Federal Register.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18500/senior-executive-service-appointment-of-members-to-the-performance-review-board"
-    },
-    {
-      "id": "5eb753e01355",
-      "category": "LEGIS",
-      "date": "2026-09-10",
-      "title": "Agency Information Collection Activities; Comment Request; Migrant and Seasonal Farmworker Monitoring Report and Complaint/Apparent Violation Form",
-      "summary": "The Department of Labor's (DOL) Employment and Training Administration (ETA) is soliciting comments concerning a proposed revision for the authority to conduct the information collection request (ICR) titled, \"Migrant and Seasonal Farmworker (MSFW) Monitoring Report and Complaint/Apparent Violation Form.\" This comment request is part of continuing Departmental efforts to reduce paperwork and respondent burden in acco",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18499/agency-information-collection-activities-comment-request-migrant-and-seasonal-farmworker-monitoring"
+      "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18613/taking-and-importing-marine-mammals-taking-marine-mammals-incidental-to-northeast-fisheries-science"
     }
   ]
 }
