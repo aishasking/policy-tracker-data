@@ -1,265 +1,265 @@
 {
-  "generated_at": "2026-09-16T16:49:28.541Z",
+  "generated_at": "2026-09-17T16:56:21.863Z",
   "updates": [
     {
-      "id": "8575373c81ea",
+      "id": "f98693d09db3",
       "category": "LEGIS",
-      "date": "2026-09-16",
-      "title": "Revised Medical Criteria for Evaluating Cardiovascular Disorders",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/16/C1-2026-13420/revised-medical-criteria-for-evaluating-cardiovascular-disorders"
-    },
-    {
-      "id": "780b159334fc",
-      "category": "LEGIS",
-      "date": "2026-09-16",
-      "title": "Continuation of the National Emergency With Respect to Persons Who Commit, Threaten To Commit, or Support Terrorism",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/16/2026-19053/continuation-of-the-national-emergency-with-respect-to-persons-who-commit-threaten-to-commit-or"
-    },
-    {
-      "id": "39033b41ef53",
-      "category": "LEGIS",
-      "date": "2026-09-16",
-      "title": "Indiana: Approval of State Coal Combustion Residuals Permit Program",
-      "summary": "The Environmental Protection Agency (EPA or the Agency) is proposing to approve Indiana's Coal Combustion Residuals (CCR) partial permit program under the Resource Conservation and Recovery Act (RCRA). After reviewing the CCR permit program application submitted by the Indiana Department of Environmental Management (IDEM), EPA has preliminarily determined that Indiana's CCR permit program meets the standard for parti",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/16/2026-19027/indiana-approval-of-state-coal-combustion-residuals-permit-program"
-    },
-    {
-      "id": "098e9ac278e9",
-      "category": "LEGIS",
-      "date": "2026-09-16",
-      "title": "Native American Graves Protection and Repatriation Review Committee; Notice of Public Meeting",
-      "summary": "The National Park Service is hereby giving notice that the Native American Graves Protection and Repatriation Review Committee (Committee) will hold a virtual meeting, in accordance with the Federal Advisory Committee Act, as amended.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/16/2026-19017/native-american-graves-protection-and-repatriation-review-committee-notice-of-public-meeting"
-    },
-    {
-      "id": "cccbed506d00",
-      "category": "CMS",
-      "date": "2026-09-16",
-      "title": "Medicare Program; Medicare Appeals; Adjustment to the Amount in Controversy Threshold Amounts for Calendar Year 2027",
-      "summary": "This notice announces the annual adjustment in the amount in controversy (AIC) threshold amounts for Administrative Law Judge (ALJ) hearings and judicial review under the Medicare appeals process. The adjustment to the AIC threshold amounts will be effective for requests for ALJ hearings and judicial review filed on or after January 1, 2027. The calendar year 2027 AIC threshold amounts are $200 for ALJ hearings and $",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/16/2026-19016/medicare-program-medicare-appeals-adjustment-to-the-amount-in-controversy-threshold-amounts-for"
-    },
-    {
-      "id": "2f212e4b4e02",
-      "category": "FDA",
-      "date": "2026-09-16",
-      "title": "Medicare Program; Public Meeting for New Revisions to the Healthcare Common Procedure Coding System (HCPCS) Level II Coding",
-      "summary": "This notice announces the second biannual Healthcare Common Procedure Coding System (HCPCS) Level II public meeting of 2026 to discuss the CMS preliminary coding, Medicare benefit category, and Medicare payment determinations, if applicable, for new revisions to the HCPCS Level II code set for non-drug and non-biological items and services, as well as how to register for the meeting.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/16/2026-19015/medicare-program-public-meeting-for-new-revisions-to-the-healthcare-common-procedure-coding-system"
-    },
-    {
-      "id": "9ee3ac9b4c16",
-      "category": "LEGIS",
-      "date": "2026-09-16",
-      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; EIB 00-02, Annual Competitiveness Report Survey of Exporters and Lenders",
-      "summary": "The Export-Import Bank of the United States (EXIM), invites the general public and other Federal Agencies to comment on the proposed information collection, as required by the Paperwork Reduction Act of 1995.",
+      "date": "2026-09-17",
+      "title": "Airworthiness Directives; Pratt & Whitney Engines",
+      "summary": "The FAA proposes to adopt a new airworthiness directive (AD) for all Pratt & Whitney (PW) Model PW1519G, PW1521G, PW1521GA, PW1521G- 3, PW1524G, PW1524G-3, PW1525G, PW1525G-3, PW1919G, PW1919G-RC, PW1921G, PW1921G-RC, PW1922G, PW1923G, and PW1923G-A engines with a certain high-pressure compressor (HPC) module installed. This proposed AD was prompted by six reports of clashing found on either the HPC 2nd stage rotor o",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/16/2026-19014/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for"
+      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19094/airworthiness-directives-pratt-and-whitney-engines"
     },
     {
-      "id": "20e5acf2992b",
+      "id": "eaa33b688362",
       "category": "LEGIS",
-      "date": "2026-09-16",
-      "title": "Racial Nondiscrimination in Private Schools; Hearing",
-      "summary": "This document provides a notice of public hearing on the notice of proposed rulemaking (REG-119986-25) published in the Federal Register on September 4, 2026. The proposed regulations would update existing regulations to provide that a private school is not described as an organization exempt from Federal income tax if it discriminates on the basis of race, color, or national or ethnic origin in administration of its",
+      "date": "2026-09-17",
+      "title": "Notice of Determinations; Culturally Significant Objects Being Imported for Exhibition-Determinations: “Masterpieces of Printmaking: 1460-Now” Exhibition",
+      "summary": "Notice is hereby given of the following determinations: I hereby determine that certain objects being imported from abroad pursuant to an agreement with their foreign owner or custodian for temporary display in the exhibition \"Masterpieces of Printmaking: 1460--Now\" at the Bowers Museum, Santa Ana, California, and at possible additional exhibitions or venues yet to be determined, are of cultural significance, and, fu",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19093/notice-of-determinations-culturally-significant-objects-being-imported-for-exhibition-determinations"
+    },
+    {
+      "id": "a3e2bff22aea",
+      "category": "LEGIS",
+      "date": "2026-09-17",
+      "title": "Science and Technology Reinvention Laboratory (STRL) Personnel Demonstration Project (PDP); Defense Health Agency (DHA) Research and Development (R&D) Activity, Fort Detrick, Frederick, Maryland",
+      "summary": "This serves as notice of the adoption of a STRL PDP plan and additional flexibilities by the DHA R&D, a DoD (referred to herein as \"DoW\") STRL. The DHA R&D is an STRL composed of medical research organizations that were formerly components of the U.S. Army Medical Research and Development Command (USAMRDC), a successor to the U.S. Army Medical Research and Materiel Command (USAMRMC). The DHA R&D will adopt the PDP pl",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19092/science-and-technology-reinvention-laboratory-strl-personnel-demonstration-project-pdp-defense"
+    },
+    {
+      "id": "7fe777217b3a",
+      "category": "LEGIS",
+      "date": "2026-09-17",
+      "title": "Oil Country Tubular Goods From the Socialist Republic of Vietnam: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+      "summary": "The U.S. Department of Commerce (Commerce) determines that SeAH Steel VINA Corporation (SeAH VINA) made sales of oil country tubular goods (OCTG) from the Socialist Republic of Vietnam (Vietnam) at less than normal value (NV) during the period of review (POR) September 1, 2023, through August 31, 2024.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19091/oil-country-tubular-goods-from-the-socialist-republic-of-vietnam-final-results-of-antidumping-duty"
+    },
+    {
+      "id": "2c996813c5a8",
+      "category": "LEGIS",
+      "date": "2026-09-17",
+      "title": "Airworthiness Directives; Airbus SAS Airplanes",
+      "summary": "The FAA proposes to adopt a new airworthiness directive (AD) for all Airbus SAS Model A300 B4-600, B4-600R, and F4-600R series airplanes; and Model A300 C4-605R Variant F airplanes (collectively called Model A300-600 series airplanes). This proposed AD was prompted by a determination that new or more restrictive airworthiness limitations are necessary. This proposed AD would require revising the existing maintenance ",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/16/2026-19013/racial-nondiscrimination-in-private-schools-hearing"
+      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19090/airworthiness-directives-airbus-sas-airplanes"
     },
     {
-      "id": "5714bb1531a0",
+      "id": "0f87ab92f277",
       "category": "LEGIS",
-      "date": "2026-09-16",
-      "title": "Notice Pursuant to the National Cooperative Research and Production Act of 1993-1EdTech Consortium, Inc. (F/K/A IMS Global Learning Consortium, Inc.)",
+      "date": "2026-09-17",
+      "title": "Airworthiness Directives; ATR-GIE Avions de Transport Régional Airplanes",
+      "summary": "The FAA proposes to adopt a new airworthiness directive (AD) for all ATR-GIE Avions de Transport R[eacute]gional Model ATR42 and ATR72 airplanes. This proposed AD was prompted by reports of uncommanded nose landing gear (NLG) retraction. This proposed AD would require a leakage test of certain landing gear selector valves (LGSVs) and replacement, as applicable. This proposed AD would also limit the installation of af",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19089/airworthiness-directives-atr-gie-avions-de-transport-rgional-airplanes"
+    },
+    {
+      "id": "d5133301dc69",
+      "category": "LEGIS",
+      "date": "2026-09-17",
+      "title": "Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; iEdison System",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/16/2026-19012/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-1edtech-consortium"
+      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19088/information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for-review"
     },
     {
-      "id": "0cd0420598aa",
+      "id": "d9f3e55e53e6",
       "category": "LEGIS",
-      "date": "2026-09-16",
-      "title": "Commission Information Collection Activities (Ferc-555); Comment Request; Extension",
-      "summary": "In compliance with the requirements of the Paperwork Reduction Act of 1995, the Federal Energy Regulatory Commission (Commission or FERC) is soliciting public comment on the currently approved information collection, FERC-555: Preservation of Records for Public Utilities and Licensees, Natural Gas and Oil Pipeline Companies (OMB Control No. 1902-0098) which will be submitted to the Office of Management and Budget (OM",
+      "date": "2026-09-17",
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Current Population Survey, Annual Social and Economic Supplement",
+      "summary": "The Department of Commerce, in accordance with the Paperwork Reduction Act (PRA) of 1995, invites the general public and other Federal agencies to comment on proposed and continuing information collections. These comments help us assess the impact of our information collection requirements and minimize the public's reporting burden. The purpose of this notice is to allow for 60 days of public comment on the proposed ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19087/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+    },
+    {
+      "id": "85e58df26a22",
+      "category": "LEGIS",
+      "date": "2026-09-17",
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Analysis of and Review of Ocean Exploration Video Products",
+      "summary": "The Department of Commerce, in accordance with the Paperwork Reduction Act of 1995 (PRA), invites the general public and other Federal agencies to comment on proposed, and continuing information collections, which helps us assess the impact of our information collection requirements and minimize the public's reporting burden. The purpose of this notice is to allow for 60 days of public comment preceding submission of",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19086/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+    },
+    {
+      "id": "8d8b5f23404c",
+      "category": "LEGIS",
+      "date": "2026-09-17",
+      "title": "Notice of Final Federal Agency Actions on Proposed Highway Projects in Texas",
+      "summary": "The FHWA, on behalf of the Texas Department of Transportation (TxDOT), is issuing this notice to announce actions taken by TxDOT and other Federal agencies that are final agency actions. The actions relate to various proposed highway projects in the State of Texas. These actions grant licenses, permits, and approvals for the projects.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19085/notice-of-final-federal-agency-actions-on-proposed-highway-projects-in-texas"
+    },
+    {
+      "id": "6b585413f9af",
+      "category": "LEGIS",
+      "date": "2026-09-17",
+      "title": "Airworthiness Directives; Airbus SAS Airplanes",
+      "summary": "The FAA is adopting a new airworthiness directive (AD) for all Airbus SAS Model A330-243, A330-243F, A330-341, A330-342, and A330-343 airplanes. This AD was prompted by reports of cracked and broken restraint brackets of the anti-ice piccolo tube found during maintenance on certain nacelle inlet cowls. This AD requires, for certain affected parts, modification of the affected part, and for certain other affected part",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/16/2026-19011/commission-information-collection-activities-ferc-555-comment-request-extension"
+      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19084/airworthiness-directives-airbus-sas-airplanes"
     },
     {
-      "id": "8cc87115677d",
+      "id": "1464ccc18b36",
       "category": "LEGIS",
-      "date": "2026-09-16",
-      "title": "Notice Pursuant to the National Cooperative Research and Production Act of 1993-Mobile Satellite Services Association",
-      "summary": "Federal Register document (no abstract provided).",
+      "date": "2026-09-17",
+      "title": "Airworthiness Directives; The Boeing Company Airplanes",
+      "summary": "The FAA is adopting a new airworthiness directive (AD) for certain The Boeing Company Model 767-300F series airplanes. This AD was prompted by a report of a supplier notice of escapement documenting that some titanium cargo track crown fittings had suspect material certifications. This AD requires an X-ray fluorescence (XRF) spectrometer inspection to identify the material composition of the cargo track crown fitting",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/16/2026-19010/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-mobile-satellite"
+      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19083/airworthiness-directives-the-boeing-company-airplanes"
     },
     {
-      "id": "42ce96008cb0",
+      "id": "1421e2f690c7",
       "category": "LEGIS",
-      "date": "2026-09-16",
-      "title": "Agency Information Collection Activities: Submission for OMB Review, Comment Request; National Fire Department Registry",
-      "summary": "The Federal Emergency Management Agency (FEMA) will submit the information collection abstracted below to the Office of Management and Budget for review and clearance in accordance with the requirements of the Paperwork Reduction Act of 1995. FEMA invites the general public to take this opportunity to comment on an extension of a currently approved information collection. In accordance with the requirements of the Pa",
+      "date": "2026-09-17",
+      "title": "Airworthiness Directives; The Boeing Company Airplanes",
+      "summary": "The FAA is adopting a new airworthiness directive (AD) for certain The Boeing Company Model 737-8, 737-9, and 737-8200 airplanes. This AD was prompted by reports indicating cracks in the bear strap and stub frame at the forward galley door cutout. This AD requires inspections for existing repairs; an inspection for any crack of the fuselage skin, bear strap, and stub frame; repetitive inspections for any crack of the",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/16/2026-19009/agency-information-collection-activities-submission-for-omb-review-comment-request-national-fire"
+      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19082/airworthiness-directives-the-boeing-company-airplanes"
     },
     {
-      "id": "64aafd335112",
+      "id": "9570b6e32c32",
       "category": "LEGIS",
-      "date": "2026-09-16",
-      "title": "Advisory Committee for Integrative Activities; Committee Reestablishment",
-      "summary": "The National Science Foundation (NSF) is reestablishing the Advisory Committee for Integrative Activities.",
+      "date": "2026-09-17",
+      "title": "Notice of Determinations; Culturally Significant Objects Being Imported for Exhibition-Determinations: “Rembrandt's Lions: Art and Exile in the Dutch Republic” Exhibition",
+      "summary": "Notice is hereby given of the following determinations: I hereby determine that certain objects being imported from abroad pursuant to agreements with their foreign owners or custodians for temporary display in the exhibition \"Rembrandt's Lions: Art and Exile in the Dutch Republic\" at The Morgan Library & Museum, New York, New York, and at possible additional exhibitions or venues yet to be determined, are of cultura",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/16/2026-19008/advisory-committee-for-integrative-activities-committee-reestablishment"
+      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19081/notice-of-determinations-culturally-significant-objects-being-imported-for-exhibition-determinations"
     },
     {
-      "id": "54eccdd72a79",
-      "category": "LEGIS",
-      "date": "2026-09-16",
-      "title": "Notice Pursuant to the National Cooperative Research and Production Act of 1993-Z-Wave Alliance, Inc.",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/16/2026-19007/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-z-wave-alliance-inc"
-    },
-    {
-      "id": "89544a6d6617",
-      "category": "LEGIS",
-      "date": "2026-09-16",
-      "title": "Whistleblower Award Determination",
-      "summary": "The Commodity Futures Trading Commission (\"Commission\" or \"CFTC\") is amending its rules implementing section 23 of the Commodity Exchange Act (\"CEA\"). Section 23 of the CEA and the Commission's implementing regulations provide for the payment of awards, subject to certain limitations and conditions, to whistleblowers who provide the Commission with information that aids in successful enforcement efforts. The Commissi",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "high",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/16/2026-19006/whistleblower-award-determination"
-    },
-    {
-      "id": "b0a8a42efa82",
-      "category": "LEGIS",
-      "date": "2026-09-16",
-      "title": "Notice Pursuant to the National Cooperative Research and Production Act of 1993-Medical CBRN Defense Consortium",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/16/2026-19005/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-medical-cbrn-defense"
-    },
-    {
-      "id": "674e15044fe4",
+      "id": "2b99ae0e954b",
       "category": "FDA",
-      "date": "2026-09-16",
-      "title": "Notice Pursuant to the National Cooperative Research and Production Act of 1993-Subcutaneous Drug Development & Delivery Consortium, Inc.",
+      "date": "2026-09-17",
+      "title": "Recommendations for the Development of Blood Collection, Processing, and Storage Systems for the Manufacture of Blood Components Using the Buffy Coat Method; Guidance for Industry; Availability",
+      "summary": "The Food and Drug Administration (FDA or Agency) is announcing the availability of a final guidance titled \"Recommendations for the Development of Blood Collection, Processing, and Storage Systems for the Manufacture of Blood Components Using the Buffy Coat Method.\" The guidance document provides recommendations on the development of blood collection, processing, and storage systems (e.g., blood bags with anticoagula",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19080/recommendations-for-the-development-of-blood-collection-processing-and-storage-systems-for-the"
+    },
+    {
+      "id": "747d1ba59b4c",
+      "category": "LEGIS",
+      "date": "2026-09-17",
+      "title": "Agency Information Collection Activities: Proposed Collection; Comment Request",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19079/agency-information-collection-activities-proposed-collection-comment-request"
+    },
+    {
+      "id": "409c49f05df7",
+      "category": "LEGIS",
+      "date": "2026-09-17",
+      "title": "Notice of Determinations; Culturally Significant Objects Being Imported for Exhibition-Determinations: “Dead Sea Scrolls: The Exhibition” Exhibition",
+      "summary": "Notice is hereby given of the following determinations: I hereby determine that certain objects being imported from abroad pursuant to an agreement with their foreign owner or custodian for temporary display in the exhibition \"Dead Sea Scrolls: The Exhibition\" at the Houston Museum of Natural Science, Houston, Texas, and at possible additional exhibitions or venues yet to be determined, are of cultural significance, ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19078/notice-of-determinations-culturally-significant-objects-being-imported-for-exhibition-determinations"
+    },
+    {
+      "id": "62873d27a581",
+      "category": "LEGIS",
+      "date": "2026-09-17",
+      "title": "Exemption Involving the Abiomed Retirement Savings Plan Located in Danvers, MA",
+      "summary": "This exemption allows the Abiomed Retirement Savings Plan (the Plan) to acquire and hold certain \"contingent value rights\" and to receive payments in connection with that acquisition and holding. Absent an exemption, these transactions would violate the prohibited transaction provisions of the Employee Retirement Income Security Act of 1974 (ERISA) and/or the Internal Revenue Code of 1986 (the Code).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19077/exemption-involving-the-abiomed-retirement-savings-plan-located-in-danvers-ma"
+    },
+    {
+      "id": "7f9fb5be2ea5",
+      "category": "LEGIS",
+      "date": "2026-09-17",
+      "title": "Sunshine Act Meetings: Notice of Meeting To Be Held With Less Than Seven Days' Advance Notice",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/16/2026-19004/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-subcutaneous-drug"
+      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19075/sunshine-act-meetings-notice-of-meeting-to-be-held-with-less-than-seven-days-advance-notice"
     },
     {
-      "id": "d67b1c539f9f",
-      "category": "LEGIS",
-      "date": "2026-09-16",
-      "title": "Notice Pursuant to the National Cooperative Research and Production Act of 1993-The Institute of Electrical and Electronics Engineers, Inc.",
-      "summary": "Federal Register document (no abstract provided).",
+      "id": "839517de7613",
+      "category": "FDA",
+      "date": "2026-09-17",
+      "title": "Medical Devices; Exemption From Premarket Notification: Radiology Computer-Aided Detection and/or Diagnosis Devices and Computer-Aided Triage and Notification Devices",
+      "summary": "The Food and Drug Administration (FDA) is publishing an order setting forth its final determination regarding a partial exemption from the premarket notification requirements for radiology computer- aided detection and/or diagnosis devices and computer-aided triage and notification devices that was the subject of a notice published in the Federal Register of December 29, 2025. That notice announced FDA's receipt of a",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/16/2026-19003/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-the-institute-of"
-    },
-    {
-      "id": "678daba42283",
-      "category": "LEGIS",
-      "date": "2026-09-16",
-      "title": "National Park Service Alaska Region Subsistence Resource Commission Program; Notice of Public Meetings",
-      "summary": "In accordance with the Federal Advisory Committee Act (FACA), as amended, the National Park Service (NPS) is hereby giving notice that the Aniakchak National Monument Subsistence Resource Commission (SRC), the Cape Krusenstern National Monument SRC, the Denali National Park SRC, the Gates of the Arctic National Park SRC, the Kobuk Valley National Park SRC, the Lake Clark National Park SRC, and the Wrangell- St. Elias",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/16/2026-19002/national-park-service-alaska-region-subsistence-resource-commission-program-notice-of-public"
-    },
-    {
-      "id": "65063ea48b7d",
-      "category": "LEGIS",
-      "date": "2026-09-16",
-      "title": "Center for Scientific Review; Notice of Closed Meetings",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/16/2026-19001/center-for-scientific-review-notice-of-closed-meetings"
+      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19074/medical-devices-exemption-from-premarket-notification-radiology-computer-aided-detection-andor"
     }
   ]
 }
