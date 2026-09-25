@@ -1,101 +1,153 @@
 {
-  "generated_at": "2026-09-24T17:06:15.807Z",
+  "generated_at": "2026-09-25T17:06:17.580Z",
   "updates": [
     {
-      "id": "a95676c9b665",
+      "id": "b5b18586c58f",
       "category": "LEGIS",
-      "date": "2026-09-24",
-      "title": "Agency Information Collection Activities; Comment Request on Tax Return Preparer Complaint Process and Fraud or Misconduct Affidavit",
-      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19602/agency-information-collection-activities-comment-request-on-tax-return-preparer-complaint-process"
-    },
-    {
-      "id": "674b65b8b913",
-      "category": "LEGIS",
-      "date": "2026-09-24",
-      "title": "Presidential Declaration of a Major Disaster for Public Assistance Only for the Commonwealth of Kentucky",
-      "summary": "This is notice of the Presidential declaration of a major disaster for Public Assistance Only for the commonwealth of Kentucky (FEMA-4937-DR), dated September 1, 2026. Incident: Severe Storms, Straight-line Winds, Flooding, Landslides, and Mudslides.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19601/presidential-declaration-of-a-major-disaster-for-public-assistance-only-for-the-commonwealth-of"
-    },
-    {
-      "id": "4cb3deb4fb51",
-      "category": "LEGIS",
-      "date": "2026-09-24",
-      "title": "Civil Monetary Penalty Amounts for 2026",
-      "summary": "This notice informs the public that inflation adjustments of civil monetary penalty amounts required by the Federal Civil Penalties Inflation Adjustment Act of 1990, as amended by the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015 (the 2015 Act) are not being made for 2026.",
+      "date": "2026-09-25",
+      "title": "National Wildlife Refuge System; 2026-2027 Station-Specific Hunting and Sport Fishing Regulations; Correction",
+      "summary": "We, the U.S. Fish and Wildlife Service (FWS or Service), are correcting a final rule that appeared in the Federal Register on September 1, 2026. The rule opened or expanded hunting opportunities on 111 field stations, including 107 units of the National Wildlife Refuges System (Refuge System or NWRS) and 4 units of the National Fish Hatchery System (Hatchery System or NFHS).",
       "tags": [
         "Federal Register"
       ],
       "priority": "high",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19600/civil-monetary-penalty-amounts-for-2026"
+      "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19723/national-wildlife-refuge-system-2026-2027-station-specific-hunting-and-sport-fishing-regulations"
     },
     {
-      "id": "af460458a94e",
+      "id": "63ddad0a0e08",
       "category": "LEGIS",
-      "date": "2026-09-24",
-      "title": "Privacy Act of 1974; Matching Program",
-      "summary": "In accordance with the Privacy Act of 1974, as amended, and Office of Management and Budget (OMB) guidance on computer matching, the U.S. Small Business Administration (SBA) published a document in the Federal Register of September 11, 2026, concerning request for comments on a Privacy Act notice for a modified matching program. Pursuant to the Payment Integrity Information Act of 2019, SBA is modifying a matching pr",
+      "date": "2026-09-25",
+      "title": "IFR Altitudes; Miscellaneous Amendments",
+      "summary": "This amendment adopts miscellaneous amendments to the required IFR (instrument flight rules) altitudes and changeover points for certain Federal airways, jet routes, or direct routes for which a minimum or maximum en-route authorized IFR altitude is prescribed. This regulatory action is needed because of changes occurring in the National Airspace System. These changes are designed to provide for the safe and efficien",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19599/privacy-act-of-1974-matching-program"
+      "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19722/ifr-altitudes-miscellaneous-amendments"
     },
     {
-      "id": "f709fa4e95f7",
+      "id": "401335649e03",
       "category": "LEGIS",
-      "date": "2026-09-24",
-      "title": "Rules of Practice",
-      "summary": "The Federal Trade Commission (\"Commission\" or \"FTC\") is amending its rules of practice in order to eliminate the agency's post- employment clearance rule.",
+      "date": "2026-09-25",
+      "title": "National Environmental Policy Act Implementing Procedures",
+      "summary": "The United States Postal Service (USPS) is publishing this interim final rule with request for comments to partially rescind and update its remaining National Environmental Policy Act (NEPA) implementing procedures, which were promulgated to implement the now- rescinded Council on Environmental Quality (CEQ) regulations.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19720/national-environmental-policy-act-implementing-procedures"
+    },
+    {
+      "id": "7f4c76130de7",
+      "category": "LEGIS",
+      "date": "2026-09-25",
+      "title": "Sunshine Act Meetings",
+      "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19598/rules-of-practice"
+      "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19715/sunshine-act-meetings"
     },
     {
-      "id": "e65d641a2603",
+      "id": "70a8199d8b4e",
       "category": "LEGIS",
-      "date": "2026-09-24",
-      "title": "Rules of Practice",
-      "summary": "The Federal Trade Commission (\"Commission\" or \"FTC\") is amending its rules of practice to revise the description of the FTC's EEO Office and Regional Offices and to update the list of current control numbers assigned by the Director of the Office of Management and Budget (\"OMB\") to the Commission's information collection requirements. The Commission is also amending its rules of practice to clarify that FTC staff may",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19597/rules-of-practice"
-    },
-    {
-      "id": "1e4804df00ea",
-      "category": "LEGIS",
-      "date": "2026-09-24",
-      "title": "Agency Information Collection Activities: Proposed Collection Renewal; Comment Request",
-      "summary": "The FDIC, as part of its obligations under the Paperwork Reduction Act of 1995, invites the general public and other Federal agencies to take this opportunity to comment on the request to renew the existing information collections described below (OMB Control No. 3064-0061). The notices of proposed renewal for these information collections were previously published in the Federal Register on July 22, 2026, allowing f",
+      "date": "2026-09-25",
+      "title": "Modernization of Regulations Under 9 CFR Parts 101-118 and 123-124; Extension of Comment Period",
+      "summary": "The U.S. Department of Agriculture (USDA) is extending the public comment period by 20 days on its Request for Information (RFI) to solicit the public's input on regulatory considerations related to 9 CFR parts 101-118, 123-124.",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19596/agency-information-collection-activities-proposed-collection-renewal-comment-request"
+      "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19710/modernization-of-regulations-under-9-cfr-parts-101-118-and-123-124-extension-of-comment-period"
     },
     {
-      "id": "f38edc320e1d",
+      "id": "fc0d317889e2",
       "category": "LEGIS",
-      "date": "2026-09-24",
+      "date": "2026-09-25",
+      "title": "Amendment of Class E Airspace; Del Rio, TX",
+      "summary": "This action proposes to amend the Class E airspace at Del Rio, TX. The FAA is proposing this action as the result of a biennial review of the airspace associated with Laughlin Air Force Base (AFB), Del Rio, TX. This proposal would also update the name and geographic coordinates of Laughlin AFB to coincide with the FAA's aeronautical database. This action would bring the airspace into compliance with FAA orders and su",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19708/amendment-of-class-e-airspace-del-rio-tx"
+    },
+    {
+      "id": "fb759f391cf4",
+      "category": "CMS",
+      "date": "2026-09-25",
+      "title": "Medicaid and Children's Health Insurance Program (CHIP) Generic Information Collection Activities: Proposed Collection; Comment Request",
+      "summary": "On May 28, 2010, the Office of Management and Budget (OMB) issued Paperwork Reduction Act (PRA) guidance related to the \"generic\" clearance process. Generally, this is an expedited process by which agencies may obtain OMB's approval of collection of information requests that are \"usually voluntary, low- burden, and uncontroversial collections,\" do not raise any substantive or policy issues, and do not require policy ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19707/medicaid-and-childrens-health-insurance-program-chip-generic-information-collection-activities"
+    },
+    {
+      "id": "cba4cd09d454",
+      "category": "LEGIS",
+      "date": "2026-09-25",
+      "title": "Draft NIH Policy on Sharing Summary Level Study Results With Clinical Research Participants",
+      "summary": "NIH seeks public input on its proposed NIH Policy on Sharing Summary Level Study Results with Clinical Research Participants, including ways to promote and enable the research community to share summary level study results with clinical research participants.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19706/draft-nih-policy-on-sharing-summary-level-study-results-with-clinical-research-participants"
+    },
+    {
+      "id": "5e2d219c3714",
+      "category": "FDA",
+      "date": "2026-09-25",
+      "title": "Robotically-Assisted Surgical Devices-Premarket Submissions; Draft Guidance for Industry and Food and Drug Administration Staff; Availability",
+      "summary": "The Food and Drug Administration (FDA or Agency) is announcing the availability of the draft guidance titled \"Robotically-Assisted Surgical Devices--Premarket Submissions.\" This draft guidance provides draft recommendations for premarket submissions for robotically- assisted surgical devices (RASDs). This draft guidance is not final nor is it for implementation at this time.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19704/robotically-assisted-surgical-devices-premarket-submissions-draft-guidance-for-industry-and-food-and"
+    },
+    {
+      "id": "058379f1e4c0",
+      "category": "LEGIS",
+      "date": "2026-09-25",
+      "title": "Intent to Request an Revision From OMB of One Current Public Collection of Information: Law Enforcement Officers (LEOs) Flying Armed",
+      "summary": "The Transportation Security Administration (TSA) invites public comment on one currently-approved Information Collection Request (ICR), Office of Management and Budget (OMB) control number 1652-0072, that we will submit to OMB for a revision in compliance with the Paperwork Reduction Act (PRA). The ICR describes the nature of the information collection and its expected burden. The collection involves gathering inform",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19703/intent-to-request-an-revision-from-omb-of-one-current-public-collection-of-information-law"
+    },
+    {
+      "id": "2cb1e53ab05c",
+      "category": "LEGIS",
+      "date": "2026-09-25",
+      "title": "Notice of Proposals to Engage in or To Acquire Companies Engaged in Permissible Nonbanking Activities",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19702/notice-of-proposals-to-engage-in-or-to-acquire-companies-engaged-in-permissible-nonbanking"
+    },
+    {
+      "id": "2850f3956ea8",
+      "category": "LEGIS",
+      "date": "2026-09-25",
       "title": "Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
@@ -103,163 +155,111 @@
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19595/change-in-bank-control-notices-acquisitions-of-shares-of-a-bank-or-bank-holding-company"
+      "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19701/change-in-bank-control-notices-acquisitions-of-shares-of-a-bank-or-bank-holding-company"
     },
     {
-      "id": "b90fac1a71a5",
-      "category": "LEGIS",
-      "date": "2026-09-24",
-      "title": "Qualification of Drivers; Exemption Applications; Hearing",
-      "summary": "FMCSA announces its decision to renew exemptions for 12 individuals from the hearing requirement in the Federal Motor Carrier Safety Regulations (FMCSRs) for interstate commercial motor vehicle (CMV) drivers. The exemptions enable these hard of hearing and deaf individuals to continue to operate CMVs in interstate commerce.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19594/qualification-of-drivers-exemption-applications-hearing"
-    },
-    {
-      "id": "ef22dcaef9dd",
-      "category": "LEGIS",
-      "date": "2026-09-24",
-      "title": "Foreign-Trade Zone 57; Approval of Subzone Status; AUMOVIO Systems, Inc.; Morganton, North Carolina",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19593/foreign-trade-zone-57-approval-of-subzone-status-aumovio-systems-inc-morganton-north-carolina"
-    },
-    {
-      "id": "a2bd75bcc846",
-      "category": "LEGIS",
-      "date": "2026-09-24",
-      "title": "Foreign-Trade Zone 57, Notification of Proposed Production Activity; AUMOVIO Systems, Inc.; (Electronic Braking, Suspension, Hydraulic, Pneumatic, and Related Automotive Components and Systems); Morganton, North Carolina",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19592/foreign-trade-zone-57-notification-of-proposed-production-activity-aumovio-systems-inc-electronic"
-    },
-    {
-      "id": "e2e5a351e6d8",
+      "id": "c86748eb90d1",
       "category": "FDA",
-      "date": "2026-09-24",
-      "title": "Foreign-Trade Zone (FTZ) 272, Notification of Proposed Production Activity; Infinera Corporation; (Telecommunications Devices); Allentown, Pennsylvania",
-      "summary": "Federal Register document (no abstract provided).",
+      "date": "2026-09-25",
+      "title": "Dermatologic and Ophthalmic Drugs Advisory Committee; Notice of Meeting; Establishment of a Public Docket; Request for Comments-New Drug Application (NDA) 219694 for Atropine Sulfate Ophthalmic Solution, 0.01%",
+      "summary": "The Food and Drug Administration (FDA) announces a forthcoming public advisory committee meeting of the Dermatologic and Ophthalmic Drugs Advisory Committee (the Committee). The general function of the Committee is to provide advice and recommendations to FDA on regulatory issues. The meeting will be open to the public. FDA is establishing a docket for public comment on this document.",
       "tags": [
         "Federal Register"
       ],
-      "priority": "medium",
+      "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19591/foreign-trade-zone-ftz-272-notification-of-proposed-production-activity-infinera-corporation"
+      "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19700/dermatologic-and-ophthalmic-drugs-advisory-committee-notice-of-meeting-establishment-of-a-public"
     },
     {
-      "id": "ce033ff1e524",
+      "id": "6f1085f5003a",
       "category": "FDA",
-      "date": "2026-09-24",
-      "title": "Foreign-Trade Zone (FTZ) 49, Notification of Proposed Production Activity; Merck, Sharp & Dohme LLC; (Drug Products and Intermediates); Rahway, New Jersey",
+      "date": "2026-09-25",
+      "title": "Foreign-Trade Zone (FTZ) 57, Notification of Proposed Production Activity; Eli Lilly and Company; (Drug Products); Concord, North Carolina",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19590/foreign-trade-zone-ftz-49-notification-of-proposed-production-activity-merck-sharp-and-dohme-llc"
+      "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19699/foreign-trade-zone-ftz-57-notification-of-proposed-production-activity-eli-lilly-and-company-drug"
     },
     {
-      "id": "82d211713560",
-      "category": "LEGIS",
-      "date": "2026-09-24",
-      "title": "Foreign-Trade Zone (FTZ) 40, Notification of Proposed Production Activity; Olon USA LLC; (Active Pharmaceutical Ingredients); Concord, Ohio",
+      "id": "50e5b06384b0",
+      "category": "FDA",
+      "date": "2026-09-25",
+      "title": "Foreign-Trade Zone (FTZ) 93, Notification of Proposed Production Activity; Eli Lilly and Company; (Drug Products); Durham, North Carolina",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19589/foreign-trade-zone-ftz-40-notification-of-proposed-production-activity-olon-usa-llc-active"
+      "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19698/foreign-trade-zone-ftz-93-notification-of-proposed-production-activity-eli-lilly-and-company-drug"
     },
     {
-      "id": "b91be3486657",
-      "category": "LEGIS",
-      "date": "2026-09-24",
-      "title": "Foreign-Trade Zone 38; Application for Subzone; Magna Mirrors of America Inc.; Duncan, South Carolina",
-      "summary": "Federal Register document (no abstract provided).",
+      "id": "02f63435138e",
+      "category": "FDA",
+      "date": "2026-09-25",
+      "title": "Certain Dynamic Random Access Memory (DRAM) Devices, Products Containing the Same, and Components Thereof (III); Notice of Institution of Investigation",
+      "summary": "Notice is hereby given that a complaint was filed with the U.S. International Trade Commission on August 11, 2026, under section 337 of the Tariff Act of 1930, as amended, on behalf of Netlist, Inc. of Irvine, California. A supplement to the complaint was filed on August 25, 2026. The complaint, as supplemented, alleges violations of section 337 based upon the importation into the United States, the sale for importat",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19588/foreign-trade-zone-38-application-for-subzone-magna-mirrors-of-america-inc-duncan-south-carolina"
+      "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19697/certain-dynamic-random-access-memory-dram-devices-products-containing-the-same-and-components"
     },
     {
-      "id": "f241713665db",
+      "id": "33a3c2af0dc7",
       "category": "LEGIS",
-      "date": "2026-09-24",
-      "title": "Foreign-Trade Zone 183; Withdrawal of Application for Subzone; Applied Materials, Inc.; Austin and Pflugerville, Texas",
-      "summary": "Federal Register document (no abstract provided).",
+      "date": "2026-09-25",
+      "title": "Driving Efficiency in Farm Loan Delivery; Correction",
+      "summary": "The Farm Service Agency (FSA) is issuing a correction to a final rule published in the Federal Register on September 4, 2026, which will be effective October 1, 2026. The final rule amended FSA's Farm Loan Program (FLP) regulations to permanently implement the Application Fast Track (AFT) process and to make other regulatory changes intended to improve program efficiency and support IT modernization efforts. This doc",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19696/driving-efficiency-in-farm-loan-delivery-correction"
+    },
+    {
+      "id": "da96663df056",
+      "category": "LEGIS",
+      "date": "2026-09-25",
+      "title": "Marine Mammals; File No. 29859",
+      "summary": "Notice is hereby given that Seth Newsome, Ph.D., Department of Biology, MSC03-2020, 1 University of New Mexico, Albuquerque, New Mexico 87131-0001, has applied in due form for a permit to import, export, and receive marine mammal parts for scientific research.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19587/foreign-trade-zone-183-withdrawal-of-application-for-subzone-applied-materials-inc-austin-and"
+      "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19695/marine-mammals-file-no-29859"
     },
     {
-      "id": "335523ea58a6",
+      "id": "cbb80b6fd3e9",
       "category": "LEGIS",
-      "date": "2026-09-24",
-      "title": "Certain Wearable Breast Pumps, Associated Milk Storage Containers, and Components Thereof; Notice of Institution of Investigation",
-      "summary": "Notice is hereby given that a complaint was filed with the U.S. International Trade Commission on August 20, 2026, under section 337 of the Tariff Act of 1930, as amended, on behalf of Willow Innovations, Inc. of Mountain View, California and Willow Blossom HoldCo Ltd. of the United Kingdom. The complaint alleges violations of section 337 based upon the importation into the United States, the sale for importation, an",
+      "date": "2026-09-25",
+      "title": "Annual Notices on Explosive Materials Storage Facilities to Local Fire Authority",
+      "summary": "The Bureau of Alcohol, Tobacco, Firearms, and Explosives (\"ATF\") is amending Department of Justice (\"Department\") regulations on reporting explosive materials storage. Currently, any person who stores explosive materials subject to ATF's explosives regulations must notify the authority having jurisdiction for fire safety in that locality when they begin storing explosives at that site. This rule adds a requirement to",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19586/certain-wearable-breast-pumps-associated-milk-storage-containers-and-components-thereof-notice-of"
+      "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19694/annual-notices-on-explosive-materials-storage-facilities-to-local-fire-authority"
     },
     {
-      "id": "495cd66ad89a",
+      "id": "ce545f69072e",
       "category": "LEGIS",
-      "date": "2026-09-24",
-      "title": "New Postal Products",
-      "summary": "The Commission is noticing a recent Postal Service filing for the Commission's consideration concerning a negotiated service agreement. This notice informs the public of the filing, invites public comment, and takes other administrative steps.",
+      "date": "2026-09-25",
+      "title": "Implementing the Safe Explosives Act",
+      "summary": "The Bureau of Alcohol, Tobacco, Firearms, and Explosives (\"ATF\") is finalizing two Department of Justice (\"Department\") interim final rules (\"IFRs\") implementing the Safe Explosives Act. This rule formally ends those rules' interim status, responds to public comments from 2003 on the IFRs, rescinds ATF Ruling 2003-5 issued in response to IFR comments, and makes certain revisions to IFR provisions in response to the c",
       "tags": [
         "Federal Register"
       ],
-      "priority": "low",
+      "priority": "high",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19585/new-postal-products"
-    },
-    {
-      "id": "7814ab993fb2",
-      "category": "LEGIS",
-      "date": "2026-09-24",
-      "title": "Flight Operations: Pilot requirements; Use of oxygen",
-      "summary": "FAA proposes to raise the altitudes at which a pilot is required to don an oxygen mask for commuter and on demand operations, as directed by the FAA Reauthorization Act of 2024, and revise the pilot oxygen mask requirements applicable to general aviation operations in pressurized aircraft. The proposed amendments would allow the operation of airplanes at higher altitudes without requiring at least one pilot at the co",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19584/flight-operations-pilot-requirements-use-of-oxygen"
-    },
-    {
-      "id": "f19404e43500",
-      "category": "LEGIS",
-      "date": "2026-09-24",
-      "title": "GR Catalyst One, LLC; Notice of Application Accepted for Filing and Soliciting Motions To Intervene and Protests",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19583/gr-catalyst-one-llc-notice-of-application-accepted-for-filing-and-soliciting-motions-to-intervene"
+      "url": "https://www.federalregister.gov/documents/2026/09/25/2026-19693/implementing-the-safe-explosives-act"
     }
   ]
 }
