@@ -1,265 +1,265 @@
 {
-  "generated_at": "2026-10-01T18:23:50.910Z",
+  "generated_at": "2026-10-02T17:50:32.441Z",
   "updates": [
     {
-      "id": "0db7a63f061d",
+      "id": "5b61b7698089",
       "category": "LEGIS",
-      "date": "2026-10-01",
-      "title": "[WC Docket Nos. 25-208, 25-209; FCC 26-19; FR ID 370342] Reducing Barriers to Network Improvements and Service Changes, Accelerating Network Modernization",
-      "summary": "In this document, the Wireline Competition Bureau (Bureau) announces that the Office of Management and Budget (OMB) has approved the information collection associated with the Commission's revised network change disclosure and service discontinuance rules in a Report and Order, which stated that the revised rules would not become effective until OMB completed its review of any information collection requirements unde",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20192/wc-docket-nos-25-208-25-209-fcc-26-19-fr-id-370342-reducing-barriers-to-network-improvements-and"
-    },
-    {
-      "id": "de0a525ae482",
-      "category": "LEGIS",
-      "date": "2026-10-01",
-      "title": "Administration of Cross-State Air Pollution Rule Trading Program Assurance Provisions for 2025 Control Period",
-      "summary": "The U.S. Environmental Protection Agency (EPA) is providing notice of the availability of data on the administration of the assurance provisions of the Cross-State Air Pollution Rule (CSAPR) trading program for the 2025 control period. Virginia units participating in the CSAPR NO X Ozone Season Group 2E Trading Program during the 2025 control period reported total nitrogen oxides (NO X ) emissions that exceeded the S",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20191/administration-of-cross-state-air-pollution-rule-trading-program-assurance-provisions-for-2025"
-    },
-    {
-      "id": "93bbec6d403f",
-      "category": "LEGIS",
-      "date": "2026-10-01",
-      "title": "Fiscal Year 2027 Inflation Adjustment to H.R. 1 Immigration Fees",
-      "summary": "U.S. Citizenship and Immigration Services (USCIS), a component of the Department of Homeland Security (DHS), is announcing inflationary adjustments to immigration-related fees administered by USCIS under the One Big Beautiful Bill Act (H.R. 1) for Fiscal Year (FY) 2027. H.R. 1 mandates that USCIS adjust the H.R. 1 fees annually. This notice outlines the adjusted fees and their effective date.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20187/fiscal-year-2027-inflation-adjustment-to-hr-1-immigration-fees"
-    },
-    {
-      "id": "fbf0b374e740",
-      "category": "LEGIS",
-      "date": "2026-10-01",
-      "title": "Certain DHS Immigration-Related Fees Required by HR-1: Fiscal Year 2027 Adjustments for Inflation",
-      "summary": "The Department of Homeland Security (DHS) is announcing Fiscal Year (FY) 2027 inflationary adjustments for two of the immigration enforcement-related fees established by the One Big Beautiful Bill Act (HR-1). HR-1 requires that DHS annually adjust certain immigration enforcement-related fees for inflation. The adjusted fee amounts for FY 2027 for aliens ordered removed in absentia who are subsequently arrested and in",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "high",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20186/certain-dhs-immigration-related-fees-required-by-hr-1-fiscal-year-2027-adjustments-for-inflation"
-    },
-    {
-      "id": "ae6375cb0c98",
-      "category": "LEGIS",
-      "date": "2026-10-01",
-      "title": "Certain DHS Immigration-Related Fees Required by HR-1: Fiscal Year 2027 Adjustments for Inflation",
-      "summary": "The Department of Homeland Security (DHS) is announcing Fiscal Year (FY) 2027 inflation adjustments to certain immigration-related fees required by the One Big Beautiful Bill Act (HR-1). HR-1 requires that DHS annually adjust certain immigration-related fees for inflation. This notice sets the inflation-adjusted FY 2027 fee amounts for the following immigration fees required by HR-1: the fee for parole of an alien in",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20185/certain-dhs-immigration-related-fees-required-by-hr-1-fiscal-year-2027-adjustments-for-inflation"
-    },
-    {
-      "id": "4350e3a2ea94",
-      "category": "LEGIS",
-      "date": "2026-10-01",
-      "title": "Notice of Availability of Proposed Policy Guidance for the Capital Investment Grants Program",
-      "summary": "This notice requests comment on FTA's revised policy guidance for the Capital Investment Grants (CIG) program. The CIG Policy Guidance provides an overview of CIG project types and the CIG process from project initiation to construction grant award. The proposed revisions are intended to streamline the CIG process, improve accountability of CIG project sponsors, and improve overall readability of the policy guidance.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20179/notice-of-availability-of-proposed-policy-guidance-for-the-capital-investment-grants-program"
-    },
-    {
-      "id": "15db228d9a89",
-      "category": "LEGIS",
-      "date": "2026-10-01",
-      "title": "Unleashing American Energy and Economic Prosperity; Rural Energy for America Program (REAP)",
-      "summary": "The Rural Business-Cooperative Service (RBCS or the Agency), an agency of the Rural Development (RD) mission area within the U.S. Department of Agriculture (USDA) is issuing a final rule with comment period. Implementation of this action will simplify and streamline requirements and processes in the Rural Energy for America Program (REAP). Under the new REAP structure, projects must already be fully built and operati",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "high",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20178/unleashing-american-energy-and-economic-prosperity-rural-energy-for-america-program-reap"
-    },
-    {
-      "id": "20c7cf653ce6",
-      "category": "LEGIS",
-      "date": "2026-10-01",
-      "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Exchange of Flatfish in the Bering Sea and Aleutian Islands Management Area",
-      "summary": "NMFS is exchanging unused yellowfin sole and flathead sole Community Development Quota (CDQ) for rock sole CDQ acceptable biological catch (ABC) reserves in the Bering Sea and Aleutian Islands (BSAI) management area. This action is necessary to allow the CDQ fishery to optimize their total rock sole harvest in the BSAI.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20177/fisheries-of-the-exclusive-economic-zone-off-alaska-exchange-of-flatfish-in-the-bering-sea-and"
-    },
-    {
-      "id": "c6fd361ca666",
-      "category": "LEGIS",
-      "date": "2026-10-01",
-      "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement; Covered Defense Telecommunications Equipment or Services",
-      "summary": "The Defense Acquisition Regulations System has submitted to OMB for clearance the following proposal for collection of information under the provisions of the Paperwork Reduction Act.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20176/information-collection-requirement-defense-federal-acquisition-regulation-supplement-covered-defense"
-    },
-    {
-      "id": "928c9c39dba1",
-      "category": "LEGIS",
-      "date": "2026-10-01",
-      "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement (DFARS) Part 219, Small Business Programs",
-      "summary": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estima",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20175/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars-part-219"
-    },
-    {
-      "id": "c588f093399c",
-      "category": "LEGIS",
-      "date": "2026-10-01",
-      "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement (DFARS) Part 237, Service Contracting, and Related Clauses and Forms",
-      "summary": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estima",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20174/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars-part-237"
-    },
-    {
-      "id": "7132b56eff16",
-      "category": "LEGIS",
-      "date": "2026-10-01",
-      "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement (DFARS) Part 245, Government Property, Related Clauses and Forms",
-      "summary": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of DoD's estima",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20173/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars-part-245"
-    },
-    {
-      "id": "8ba567b692db",
-      "category": "LEGIS",
-      "date": "2026-10-01",
-      "title": "Information Collection Requirement; Defense Federal Acquisition Regulation Supplement (DFARS) Part 247, Transportation and Related Clauses",
-      "summary": "In compliance with the Paperwork Reduction Act of 1995, DoD announces the proposed revision and extension of a public information collection requirement and seeks public comment on the provisions thereof. DoD invites comments on: whether the proposed collection of information is necessary for the proper performance of the functions of DoD, including whether the information will have practical utility; the accuracy of",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20172/information-collection-requirement-defense-federal-acquisition-regulation-supplement-dfars-part-247"
-    },
-    {
-      "id": "1767ee1256bb",
-      "category": "LEGIS",
-      "date": "2026-10-01",
-      "title": "Agency Information Collection Activities; Revision; Entry Summary",
-      "summary": "The Department of Homeland Security, U.S. Customs and Border Protection (CBP) will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). The information collection is published in the Federal Register to obtain comments from the public and affected agencies.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20171/agency-information-collection-activities-revision-entry-summary"
-    },
-    {
-      "id": "8ed666e5f5f0",
-      "category": "LEGIS",
-      "date": "2026-10-01",
-      "title": "Agency Information Collection Activities; Revision; Entry",
-      "summary": "The Department of Homeland Security, U.S. Customs and Border Protection (CBP) will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). The information collection is published in the Federal Register to obtain comments from the public and affected agencies.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20170/agency-information-collection-activities-revision-entry"
-    },
-    {
-      "id": "ad7391887b85",
-      "category": "LEGIS",
-      "date": "2026-10-01",
-      "title": "Petition for Rulemaking; Notification of Petition for Rulemaking; Invalid Specimen Determinations",
-      "summary": "This document announces receipt of a petition for rulemaking received by DOT on February 27, 2026, to initiate a rulemaking to amend 49 CFR part 40. The petitioner's proposed amendments seek to incorporate structured medical verification standards when an employee asserts a plausible medical explanation for abnormal specimen validity findings, including abnormal pH values. Specifically, the petitioner proposes: a def",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20169/petition-for-rulemaking-notification-of-petition-for-rulemaking-invalid-specimen-determinations"
-    },
-    {
-      "id": "ceda6e34e638",
-      "category": "LEGIS",
-      "date": "2026-10-01",
-      "title": "Codex Alimentarius Commission: Meeting of the Codex Committee on Food Hygiene",
-      "summary": "The U.S Codex Office is sponsoring a public meeting on October 29, 2026. The objective of the public meeting is to provide information and receive public comments on agenda items to be discussed at the 56th Session of the Codex Committee on Food Hygiene (CCFH) of the Codex Alimentarius Commission (CAC). CCFH56 will be held in Scottsdale, Arizona, from November 16-20, 2026. The U.S. Executive Director for Codex Alimen",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20168/codex-alimentarius-commission-meeting-of-the-codex-committee-on-food-hygiene"
-    },
-    {
-      "id": "4766f065c0e2",
-      "category": "LEGIS",
-      "date": "2026-10-01",
-      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; DOC-Census Workforce Development Collection",
+      "date": "2026-10-02",
+      "title": "Continuation of the National Emergency With Respect to the Situation in and in Relation to Syria",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20167/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+      "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20322/continuation-of-the-national-emergency-with-respect-to-the-situation-in-and-in-relation-to-syria"
     },
     {
-      "id": "f7aef79f0f0d",
+      "id": "e433f0cdff1b",
       "category": "LEGIS",
-      "date": "2026-10-01",
-      "title": "Stationary and Portable Air Compressors From Malaysia: Preliminary Affirmative Countervailing Duty Determination and Alignment of Final Determination With Final Antidumping Duty Determination",
-      "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that countervailable subsidies are being provided to producers and exporters of stationary and portable air compressors (air compressors) from Malaysia. The period of investigation is January 1, 2025, through December 31, 2025. Interested parties are invited to comment on this preliminary determination.",
+      "date": "2026-10-02",
+      "title": "Inaugurating the Era of Super Intelligence",
+      "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20166/stationary-and-portable-air-compressors-from-malaysia-preliminary-affirmative-countervailing-duty"
+      "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20321/inaugurating-the-era-of-super-intelligence"
     },
     {
-      "id": "2ce3125fb334",
+      "id": "8490026a1301",
       "category": "LEGIS",
-      "date": "2026-10-01",
-      "title": "Stationary and Portable Air Compressors From the People's Republic of China: Preliminary Affirmative Countervailing Duty Determination and Alignment of Final Determination With Final Antidumping Duty Determination",
-      "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that countervailable subsidies are being provided to producers and exporters of stationary and portable air compressors (air compressors) from the People's Republic of China (China). The period of investigation is January 1, 2025, through December 31, 2025. Interested parties are invited to comment on this preliminary determination.",
+      "date": "2026-10-02",
+      "title": "Eliminating Disease-Carrying Pests and Restoring Enjoyment of the Great Outdoors",
+      "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20165/stationary-and-portable-air-compressors-from-the-peoples-republic-of-china-preliminary-affirmative"
+      "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20320/eliminating-disease-carrying-pests-and-restoring-enjoyment-of-the-great-outdoors"
+    },
+    {
+      "id": "f9ad5ca255c0",
+      "category": "LEGIS",
+      "date": "2026-10-02",
+      "title": "Streamlining Access to Government Services Through America.gov",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20319/streamlining-access-to-government-services-through-americagov"
+    },
+    {
+      "id": "2cd0976cddd0",
+      "category": "LEGIS",
+      "date": "2026-10-02",
+      "title": "Presidential Determination on Refugee Admissions for Fiscal Year 2027",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20318/presidential-determination-on-refugee-admissions-for-fiscal-year-2027"
+    },
+    {
+      "id": "25f9210bbc67",
+      "category": "LEGIS",
+      "date": "2026-10-02",
+      "title": "Sunshine Act Meetings",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20285/sunshine-act-meetings"
+    },
+    {
+      "id": "7e343707de98",
+      "category": "FDA",
+      "date": "2026-10-02",
+      "title": "Global Benchmark for Efficient Drug Pricing (GLOBE) Model",
+      "summary": "This final rule implements the Global Benchmark for Efficient Drug Pricing Model (GLOBE Model), a new mandatory Medicare payment model under section 1115A of the Social Security Act. The GLOBE Model will test whether a payment model that uses an alternative method for calculating Medicare Part B drug inflation rebate amounts for certain separately payable Medicare Part B drugs and biological products reduces costs fo",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20281/global-benchmark-for-efficient-drug-pricing-globe-model"
+    },
+    {
+      "id": "2891585ebcb0",
+      "category": "LEGIS",
+      "date": "2026-10-02",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 498",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20280/agency-information-collection-activities-proposed-collection-comment-request-extension-rule-498"
+    },
+    {
+      "id": "ed009d505374",
+      "category": "LEGIS",
+      "date": "2026-10-02",
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Eligible Career Pathway Program",
+      "summary": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing an extension without change of a currently approved information collection request (ICR).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20279/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for"
+    },
+    {
+      "id": "e171d7fdf196",
+      "category": "LEGIS",
+      "date": "2026-10-02",
+      "title": "Submission for OMB Review; Comment Request",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20278/submission-for-omb-review-comment-request"
+    },
+    {
+      "id": "7f3f2dab685f",
+      "category": "LEGIS",
+      "date": "2026-10-02",
+      "title": "Federal Scholarship Tax Credit",
+      "summary": "This document contains proposed regulations regarding the nonrefundable Federal tax credit for qualified contributions to scholarship granting organizations to fund qualified elementary and secondary school education scholarships. The proposed regulations would affect taxpayers who make such qualified contributions, States that elect to participate by certifying organizations as scholarship granting organizations, an",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20277/federal-scholarship-tax-credit"
+    },
+    {
+      "id": "3241454ef17e",
+      "category": "LEGIS",
+      "date": "2026-10-02",
+      "title": "State of Indiana: Discontinuance of Certain Commission Regulatory Authority Within the State, Notice of Agreement Between the Nuclear Regulatory Commission and the State of Indiana",
+      "summary": "This notice is announcing that on September 24, 2026, Ho K. Nieh, Chairman of the U.S. Nuclear Regulatory Commission (NRC or Commission), and Governor Michael Braun of the State of Indiana, signed an Agreement as authorized by Section 274b. of the Atomic Energy Act of 1954, as amended (the Act or AEA). Under the Agreement, the Commission discontinues its regulatory authority, and the State of Indiana assumes regulato",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20276/state-of-indiana-discontinuance-of-certain-commission-regulatory-authority-within-the-state-notice"
+    },
+    {
+      "id": "5806a75027f9",
+      "category": "LEGIS",
+      "date": "2026-10-02",
+      "title": "Sunshine Act Meetings",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20274/sunshine-act-meetings"
+    },
+    {
+      "id": "3a421ffcbf90",
+      "category": "LEGIS",
+      "date": "2026-10-02",
+      "title": "Polyethylene Terephthalate Film, Sheet, and Strip From Taiwan: Preliminary Results and Preliminary Intent To Rescind, In Part, of Antidumping Duty Administrative Review; 2024-2025",
+      "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that Nan Ya Plastics Corporation (Nan Ya) made sales of polyethylene terephthalate film, sheet, and strip (PET film) from Taiwan at less than normal value (NV) during the period of review (POR) July 1, 2024, through June 30, 2025. Further, we preliminarily find that Shinkong Materials Technology Corporation (SMTC) and Shinkong Synthetic Fiber Corpora",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20273/polyethylene-terephthalate-film-sheet-and-strip-from-taiwan-preliminary-results-and-preliminary"
+    },
+    {
+      "id": "95cd18b4fbf9",
+      "category": "LEGIS",
+      "date": "2026-10-02",
+      "title": "Certain Aluminum Foil From the Republic of Türkiye: Final Results of Countervailing Duty Administrative Review; 2023",
+      "summary": "The U.S. Department of Commerce (Commerce) determines that countervailable subsidies were provided to producers and exporters of certain aluminum foil (aluminum foil) from the Republic of T[uuml]rkiye (T[uuml]rkiye), during the period of review (POR) January 1, 2023, through December 31, 2023.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20272/certain-aluminum-foil-from-the-republic-of-trkiye-final-results-of-countervailing-duty"
+    },
+    {
+      "id": "88e03ccb664a",
+      "category": "LEGIS",
+      "date": "2026-10-02",
+      "title": "Information Collection; Federal Acquisition Regulation Part 11 Requirements",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995 and OMB regulations, OFPP, DoD, GSA, and NASA invite the public to comment on an extension concerning certain Federal Acquisition Regulation (FAR) part 11 requirements. OFPP, DoD, GSA, and NASA invite comments on: whether the proposed collection of information is necessary for the proper performance of the functions of Federal Government acquisitions, including w",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20271/information-collection-federal-acquisition-regulation-part-11-requirements"
+    },
+    {
+      "id": "b9b9b5c56f3d",
+      "category": "LEGIS",
+      "date": "2026-10-02",
+      "title": "Information Collection; Presolicitation Notice and Response",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995 and OMB regulations, OFPP, DoD, GSA, and NASA invite the public to comment on an extension concerning presolicitation notice and response. OFPP, DoD, GSA, and NASA invite comments on: whether the proposed collection of information is necessary for the proper performance of the functions of Federal Government acquisitions, including whether the information will ha",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20270/information-collection-presolicitation-notice-and-response"
+    },
+    {
+      "id": "7b88ffa6706e",
+      "category": "LEGIS",
+      "date": "2026-10-02",
+      "title": "Antidumping or Countervailing Duty Order, Finding, or Suspended Investigation; Opportunity To Request Administrative Review and Join Annual Inquiry Service List; Note Regarding Format of Review Requests",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20269/antidumping-or-countervailing-duty-order-finding-or-suspended-investigation-opportunity-to-request"
+    },
+    {
+      "id": "64356a5a6b83",
+      "category": "LEGIS",
+      "date": "2026-10-02",
+      "title": "New England Fishery Management Council; Public Meeting",
+      "summary": "The New England Fishery Management Council (Council) is scheduling a public meeting of its United States/Canada Steering Committee to consider actions affecting New England fisheries in the exclusive economic zone (EEZ). Recommendations from this group will be brought to the full Council for formal consideration and action, if appropriate.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20268/new-england-fishery-management-council-public-meeting"
+    },
+    {
+      "id": "2653c1cbf9b1",
+      "category": "LEGIS",
+      "date": "2026-10-02",
+      "title": "Submission for OMB Review; Comment Request",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20267/submission-for-omb-review-comment-request"
     }
   ]
 }
