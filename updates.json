@@ -1,265 +1,265 @@
 {
-  "generated_at": "2026-10-07T18:54:39.913Z",
+  "generated_at": "2026-10-08T18:49:10.837Z",
   "updates": [
     {
-      "id": "bb2d3df896e0",
+      "id": "2ec40f1680ca",
       "category": "LEGIS",
-      "date": "2026-10-07",
-      "title": "National Manufacturing Day, 2026",
+      "date": "2026-10-08",
+      "title": "Biweekly Notice; Applications and Amendments to Facility Operating Licenses and Combined Licenses Involving No Significant Hazards Considerations",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20629/national-manufacturing-day-2026"
+      "url": "https://www.federalregister.gov/documents/2026/10/08/C1-2026-19812/biweekly-notice-applications-and-amendments-to-facility-operating-licenses-and-combined-licenses"
     },
     {
-      "id": "6406d2415a16",
+      "id": "d9df7a09cf10",
       "category": "LEGIS",
-      "date": "2026-10-07",
-      "title": "Approval and Promulgation of State Air Quality Plans for Designated Facilities and Pollutants; West Virginia; Negative Declarations for Existing Large Municipal Waste Combustors and Other Solid Waste Incinerators",
-      "summary": "The Environmental Protection Agency (EPA) is proposing to approve the negative declarations submitted by the West Virginia Department of Environmental Protection (WVDEP) on July 13, 2026. The negative declarations submitted by WVDEP certify that there are no existing large municipal waste combustors (LMWC) or other solid waste incinerators (OSWI) subject to sections 111(d) and 129 of the Clean Air Act (CAA) within th",
+      "date": "2026-10-08",
+      "title": "Airworthiness Directives; Airbus SAS Airplanes",
+      "summary": "The FAA proposes to adopt a new airworthiness directive (AD) for all Airbus SAS Model A350-941 and -1041 airplanes. This proposed AD was prompted by a girt bar fitting safety hook on an airplane in the production line was found stuck in the upward position due to excessive sealant applied between the girt bar fitting and door mat. This proposed AD would require a detailed inspection of each affected part and applicab",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20701/airworthiness-directives-airbus-sas-airplanes"
+    },
+    {
+      "id": "e9e94437fd52",
+      "category": "LEGIS",
+      "date": "2026-10-08",
+      "title": "Airworthiness Directives; Airbus SAS Airplanes",
+      "summary": "The FAA proposes to adopt a new airworthiness directive (AD) for all Airbus SAS Model A318, A319, A320, and A321 series airplanes. This proposed AD was prompted by a finding that severe corrosion could occur on affected slotted nuts located at the wing thrust spigots. This proposed AD would require repetitive inspections of the affected slotted nuts and applicable corrective actions. This proposed AD would also prohi",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20700/airworthiness-directives-airbus-sas-airplanes"
+    },
+    {
+      "id": "f0eda23922ae",
+      "category": "LEGIS",
+      "date": "2026-10-08",
+      "title": "Certain Corrosion-Resistant Steel Products From the Republic of Korea: Preliminary Results and Recission, In Part, of Countervailing Duty Administrative Review; 2024",
+      "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that countervailable subsidies were provided to producers and exporters of certain corrosion-resistant steel products (CORE) from the Republic of Korea (Korea), during the period of review (POR) January 1, 2024, through December 31, 2024. In addition, Commerce is rescinding this review with respect to Dongkuk Coated Metal Co., Ltd (Dongkuk CM). Inter",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20611/approval-and-promulgation-of-state-air-quality-plans-for-designated-facilities-and-pollutants-west"
+      "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20699/certain-corrosion-resistant-steel-products-from-the-republic-of-korea-preliminary-results-and"
     },
     {
-      "id": "91847762ac9b",
+      "id": "68518d97b425",
       "category": "LEGIS",
-      "date": "2026-10-07",
-      "title": "Agency Information Collection Activities; Comment Request; Teacher Education Assistance for College and Higher Education Grant Program (TEACH Grant Program) Service Obligation Certification and Suspension Request Forms",
-      "summary": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing an extension without change of a currently approved information collection request (ICR).",
+      "date": "2026-10-08",
+      "title": "Certain Corrosion-Resistant Steel Products From the Republic of Korea: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2024-2025",
+      "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that producers/exporters subject to this review made sales of subject merchandise at less than normal value (NV) during the period of review (POR), July 1, 2024, through June 30, 2025. Interested parties are invited to comment on these preliminary results of review.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20565/agency-information-collection-activities-comment-request-teacher-education-assistance-for-college"
+      "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20698/certain-corrosion-resistant-steel-products-from-the-republic-of-korea-preliminary-results-and"
     },
     {
-      "id": "a77589cba682",
+      "id": "81b4aba6654b",
       "category": "LEGIS",
-      "date": "2026-10-07",
-      "title": "Agency Information Collection Activities; Comment Request; Teacher Education Assistance for College and Higher Education Grant Eligibility Regulations",
-      "summary": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing an extension without change of a currently approved information collection request (ICR).",
+      "date": "2026-10-08",
+      "title": "Chromium Trioxide From the Republic of Türkiye: Final Affirmative Determination of Sales at Less Than Fair Value",
+      "summary": "The U.S. Department of Commerce (Commerce) determines that chromium trioxide from the Republic of T[uuml]rkiye (T[uuml]rkiye) is being, or is likely to be, sold in the United States at less than fair value (LTFV). The period of investigation (POI) is July 1, 2024, through June 30, 2025.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20564/agency-information-collection-activities-comment-request-teacher-education-assistance-for-college"
+      "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20697/chromium-trioxide-from-the-republic-of-trkiye-final-affirmative-determination-of-sales-at-less-than"
     },
     {
-      "id": "a14fdb7c1885",
+      "id": "95b2e6000669",
       "category": "LEGIS",
-      "date": "2026-10-07",
-      "title": "Agency Information Collection Activities; Comment Request; Teacher Education Assistance for College and Higher Education Grant Program (TEACH Grant) Agreement To Serve or Repay",
-      "summary": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing an extension without change of a currently approved information collection request (ICR).",
+      "date": "2026-10-08",
+      "title": "Chromium Trioxide From India: Final Affirmative Countervailing Duty Determination",
+      "summary": "The U.S. Department of Commerce (Commerce) determines that countervailable subsidies are being provided to producers and exporters of chromium trioxide from India during the period of investigation (POI), January 1, 2024, through December 31, 2024.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20563/agency-information-collection-activities-comment-request-teacher-education-assistance-for-college"
+      "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20696/chromium-trioxide-from-india-final-affirmative-countervailing-duty-determination"
     },
     {
-      "id": "21a478349378",
+      "id": "1f0360bf2531",
       "category": "LEGIS",
-      "date": "2026-10-07",
-      "title": "Center for Scientific Review; Notice of Closed Meetings",
-      "summary": "Federal Register document (no abstract provided).",
+      "date": "2026-10-08",
+      "title": "Chromium Trioxide From India: Final Affirmative Determination of Sales at Less Than Fair Value",
+      "summary": "The U.S. Department of Commerce (Commerce) determines that chromium trioxide from India is being, or is likely to be, sold in the United States at less than fair value (LTFV). The period of investigation (POI) is July 1, 2024, through June 30, 2025.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20562/center-for-scientific-review-notice-of-closed-meetings"
+      "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20695/chromium-trioxide-from-india-final-affirmative-determination-of-sales-at-less-than-fair-value"
     },
     {
-      "id": "ed3d57299272",
+      "id": "ba761135a0a8",
       "category": "LEGIS",
-      "date": "2026-10-07",
-      "title": "Center for Scientific Review; Notice of Closed Meetings",
-      "summary": "Federal Register document (no abstract provided).",
+      "date": "2026-10-08",
+      "title": "Certain Steel Nails From the Republic of Korea: Preliminary Results and Rescission, in Part of Antidumping Duty Administrative Review; 2024-2025",
+      "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that producers/exporters subject to this review made sales of subject merchandise at less than normal value (NV) during the period of review (POR), July 1, 2024, through June 30, 2025. In addition, we are rescinding the review with respect to three companies. Interested parties are invited to comment on these preliminary results of review.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20561/center-for-scientific-review-notice-of-closed-meetings"
+      "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20694/certain-steel-nails-from-the-republic-of-korea-preliminary-results-and-rescission-in-part-of"
     },
     {
-      "id": "4f4203a1bb9d",
+      "id": "210cd71c4fd1",
       "category": "LEGIS",
-      "date": "2026-10-07",
-      "title": "Statement of Organization and Functions",
-      "summary": "The Federal Mediation and Conciliation Service (FMCS) is issuing this notice to revise the Statement of Organization and Functions for the Agency. Issuance of this Statement of Organization rescinds all prior Statements of Organization.",
+      "date": "2026-10-08",
+      "title": "Notice of Scope Ruling Applications Filed in Antidumping and Countervailing Duty Proceedings",
+      "summary": "The U.S. Department of Commerce (Commerce) received scope ruling applications, requesting that scope inquiries be conducted to determine whether identified products are covered by the scope of antidumping duty (AD) and/or countervailing duty (CVD) orders and that Commerce issue scope rulings pursuant to those inquiries. In accordance with Commerce's regulations, we are notifying the public of the filing of the scope ",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20560/statement-of-organization-and-functions"
+      "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20693/notice-of-scope-ruling-applications-filed-in-antidumping-and-countervailing-duty-proceedings"
     },
     {
-      "id": "61b5a5d890b6",
+      "id": "fbe365ff6f8b",
       "category": "LEGIS",
-      "date": "2026-10-07",
-      "title": "Center for Scientific Review; Notice of Closed Meetings",
-      "summary": "Federal Register document (no abstract provided).",
+      "date": "2026-10-08",
+      "title": "N-Cyclohexylbenzothiazole-2-Sulfenamide From the People's Republic of China: Preliminary Affirmative Countervailing Duty Determination, Preliminary Affirmative Critical Circumstances Determination, and Alignment of Final Determination With Final Antidumping Duty Determination",
+      "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that countervailable subsidies are being provided to producers and exporters of N-Cyclohexylbenzothiazole-2-Sulfenamide (CBS) from the People's Republic of China (China). The period of investigation is January 1, 2025, through December 31, 2025. Interested parties are invited to comment on this preliminary determination.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20558/center-for-scientific-review-notice-of-closed-meetings"
+      "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20692/n-cyclohexylbenzothiazole-2-sulfenamide-from-the-peoples-republic-of-china-preliminary-affirmative"
     },
     {
-      "id": "93bebf417ef7",
+      "id": "50d38d297434",
       "category": "LEGIS",
-      "date": "2026-10-07",
-      "title": "Clinical Center; Notice of Closed Meeting",
-      "summary": "Federal Register document (no abstract provided).",
+      "date": "2026-10-08",
+      "title": "Certain Paper Shopping Bags From Taiwan: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2024-2025",
+      "summary": "The U.S. Department of Commerce (Commerce) is conducting an administrative review of the antidumping duty (AD) order on certain paper shopping bags (paper bags) from Taiwan for the period of review (POR) January 3, 2024, through June 30, 2025. Commerce preliminarily finds that Haur Tyi Paper Bag Co., Ltd (Haurtyi) did not make sales of subject merchandise at prices below normal value (NV) during the POR. Additionally",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20557/clinical-center-notice-of-closed-meeting"
+      "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20691/certain-paper-shopping-bags-from-taiwan-preliminary-results-and-rescission-in-part-of-antidumping"
     },
     {
-      "id": "5d33d0f29723",
+      "id": "4c1cf0d12e48",
       "category": "LEGIS",
-      "date": "2026-10-07",
-      "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of and Reinstatement of Previously Approved Collection; Comments Requested. Title-Electronic Applications for the Attorney Student Loan Repayment Program",
+      "date": "2026-10-08",
+      "title": "Oleoresin Paprika From India: Antidumping Duty Order and Countervailing Duty Order",
+      "summary": "Based on affirmative final determinations by the U.S. Department of Commerce (Commerce) and the U.S. International Trade Commission (ITC), Commerce is issuing antidumping duty (AD) and countervailing duty (CVD) orders on oleoresin paprika from India.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20690/oleoresin-paprika-from-india-antidumping-duty-order-and-countervailing-duty-order"
+    },
+    {
+      "id": "95d07e2247ab",
+      "category": "LEGIS",
+      "date": "2026-10-08",
+      "title": "Forged Steel Fluid End Blocks From Germany: Final Results of the Antidumping Duty Administrative Review; 2024",
+      "summary": "The U.S. Department of Commerce (Commerce) determines that BGH Edelstahl Siegen GmbH did not make sales of certain forged steel fluid end blocks (fluid end blocks) from Germany at less than normal value during the period of review (POR), January 1, 2024, through December 31, 2024.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20689/forged-steel-fluid-end-blocks-from-germany-final-results-of-the-antidumping-duty-administrative"
+    },
+    {
+      "id": "95fd9e345c68",
+      "category": "LEGIS",
+      "date": "2026-10-08",
+      "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revision of and Reinstatement of Previously Approved Collection; Comments Requested; Title-Electronic Applications for the Attorney Student Loan Repayment Program",
       "summary": "The Office of Adjudication, Recruitment and Management, Department of Justice (DOJ), will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995.",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20556/agency-information-collection-activities-proposed-ecollection-ecomments-requested-revision-of-and"
+      "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20688/agency-information-collection-activities-proposed-ecollection-ecomments-requested-revision-of-and"
     },
     {
-      "id": "8b94b8e88707",
+      "id": "265c1e7f1d6f",
       "category": "LEGIS",
-      "date": "2026-10-07",
-      "title": "Hunting and Shooting Sports Conservation and Access Council; Request for Nominations",
-      "summary": "The U.S. Department of the Interior (DOI) is seeking member nominations to the Hunting and Shooting Sports Conservation and Access Council (Council). Individuals who submitted a cover letter and resume in response to the April 21, 2026, request for nominations do not need to resubmit for this request. The Council will provide recommendations to the Federal Government, through the Secretary of the Interior and the Sec",
+      "date": "2026-10-08",
+      "title": "Impact Aid Programs",
+      "summary": "The U.S. Department of Education (Department) amends the regulations that govern Impact Aid Programs (IAP) to make technical changes, to include correcting grammatical, spelling, and typographical errors; correcting or updating statutory authority citations and regulatory cross-references; and updating mailing and delivery methods. The technical amendments described in this document do not add or change any regulator",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20555/hunting-and-shooting-sports-conservation-and-access-council-request-for-nominations"
+      "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20687/impact-aid-programs"
     },
     {
-      "id": "aea157cd2fa5",
+      "id": "45db3f64cf6c",
       "category": "LEGIS",
-      "date": "2026-10-07",
-      "title": "Senior Executive Service Performance Board",
-      "summary": "The Office of Special Counsel (OSC) publishes the names of the members selected to serve on its Senior Executive Service (SES) Performance Review Board (PRB). This notice supersedes all previous notices of the PRB membership.",
+      "date": "2026-10-08",
+      "title": "Office of Science Advisory Committee",
+      "summary": "This notice announces an open meeting of the Department of Energy (DOE) Office of Science Advisory Committee (SCAC). The Federal Advisory Committee Act requires that public notice of these meetings be announced in the Federal Register.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20554/senior-executive-service-performance-board"
+      "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20686/office-of-science-advisory-committee"
     },
     {
-      "id": "a879d2c5fd02",
+      "id": "01680a5cb8a0",
       "category": "LEGIS",
-      "date": "2026-10-07",
-      "title": "Decision and Order: Medpharm Research, LLC",
-      "summary": "Federal Register document (no abstract provided).",
+      "date": "2026-10-08",
+      "title": "Removal of Obsolete Portion of Regulation Relating to Care and Treatment of Ineligible Individuals",
+      "summary": "The Indian Health Service (IHS) of the Department of Health and Human Services (HHS or \"the Department\") is issuing this final rule to remove obsolete language appearing in the Code of Federal Regulations (CFR). The language refers to an outdated process for determining what the IHS will charge for care to non-IHS-beneficiaries. Eliminating this obsolete language will not change IHS's existing practices or authoritie",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20685/removal-of-obsolete-portion-of-regulation-relating-to-care-and-treatment-of-ineligible-individuals"
+    },
+    {
+      "id": "48caf3b395d7",
+      "category": "LEGIS",
+      "date": "2026-10-08",
+      "title": "Removal of Obsolete/Suspended Regulations",
+      "summary": "The Indian Health Service (IHS) of the Department of Health and Human Services (HHS or \"the Department\") is issuing this final rule to remove regulations appearing in the Code of Federal Regulations (CFR). The regulations duplicate other regulations in the CFR, and have never been implemented by the IHS, and were referred to as \"suspended\" in a 1999 Federal Register Notice. Removing these regulations will not change ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20684/removal-of-obsoletesuspended-regulations"
+    },
+    {
+      "id": "e4278c3650a3",
+      "category": "LEGIS",
+      "date": "2026-10-08",
+      "title": "Notice of OFAC Sanctions Actions",
+      "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing the names of one or more persons whose property and interests in property have been unblocked and who have been removed from the Specially Designated Nationals and Blocked Persons List (SDN List). OFAC is also publishing updates to the identifying information of one or more persons or property currently included on the SDN Lis",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20553/decision-and-order-medpharm-research-llc"
-    },
-    {
-      "id": "6bc6587ddd16",
-      "category": "LEGIS",
-      "date": "2026-10-07",
-      "title": "Wellwise Pharmacy Inc.; Decision and Order",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20552/wellwise-pharmacy-inc-decision-and-order"
-    },
-    {
-      "id": "5a4ef9eee25a",
-      "category": "LEGIS",
-      "date": "2026-10-07",
-      "title": "Certain Paper Shopping Bags From Colombia: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025",
-      "summary": "The U.S. Department of Commerce (Commerce) preliminarily finds that Ditar S.A. (Ditar) made sales of certain paper shopping bags (paper shopping bags) from Colombia at less than normal value (NV) during the period of review (POR), January 3, 2024, through June 30, 2025. We invite interested parties to comment on these preliminary results.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20551/certain-paper-shopping-bags-from-colombia-preliminary-results-of-antidumping-duty-administrative"
-    },
-    {
-      "id": "d05d50e14013",
-      "category": "LEGIS",
-      "date": "2026-10-07",
-      "title": "Title: Determinations Pursuant to Section 2(b)(2) of the Migration and Refugee Assistance Act of 1962",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20550/title-determinations-pursuant-to-section-2b2-of-the-migration-and-refugee-assistance-act-of-1962"
-    },
-    {
-      "id": "331886f99fe4",
-      "category": "LEGIS",
-      "date": "2026-10-07",
-      "title": "Certain Paper Shopping Bags From Malaysia: Preliminary Results, Preliminary Determination of No Shipments and Rescission, in Part, of Antidumping Duty Administrative Review; 2024-2025",
-      "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that Hexachase Packaging Sdn. Bhd. (Hexachase) made sales of subject merchandise at less than normal value (NV) during the period of review (POR), January 3, 2024, through June 30, 2025. Commerce also preliminarily determines that Sin Boon Beng Printing Sdn. Bhd. (SBBP), made no shipments during the POR. Finally, we are rescinding the review with res",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20549/certain-paper-shopping-bags-from-malaysia-preliminary-results-preliminary-determination-of-no"
-    },
-    {
-      "id": "cf7686a9a786",
-      "category": "LEGIS",
-      "date": "2026-10-07",
-      "title": "Administrative Disaster Declaration of a Rural Area for the State of Missouri",
-      "summary": "This is notice of an Administrative disaster declaration of a rural area for the state of Missouri dated October 05,2026. Incident: Severe Storms, Straight-line Winds, and Flooding.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20548/administrative-disaster-declaration-of-a-rural-area-for-the-state-of-missouri"
-    },
-    {
-      "id": "f6db930c2034",
-      "category": "LEGIS",
-      "date": "2026-10-07",
-      "title": "Certain Paper Shopping Bags From India: Preliminary Results and Rescission, in Part of Antidumping Duty Administrative Review; 2024-2025",
-      "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that Ckaari Packaging Private Limited (Ckaari) and Velvin Packaging Solution Private Limited, Velvin Paper Products, and the Velvin Group (collectively, Velvin) made sales of certain paper shopping bags (paper bags) from India at less than normal value (NV) during the period of review (POR), January 3, 2024, through June 30, 2025. In addition, we are",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20547/certain-paper-shopping-bags-from-india-preliminary-results-and-rescission-in-part-of-antidumping"
+      "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20683/notice-of-ofac-sanctions-actions"
     }
   ]
 }
