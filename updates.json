@@ -1,4 +1,265 @@
 {
-  "generated_at": "2026-10-18T15:48:22.471Z",
-  "updates": []
+  "generated_at": "2026-10-19T18:41:38.455Z",
+  "updates": [
+    {
+      "id": "87c9617c00cb",
+      "category": "LEGIS",
+      "date": "2026-10-19",
+      "title": "Fee Schedules; Fee Recovery for Fiscal Year 2026",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/19/C1-2026-12067/fee-schedules-fee-recovery-for-fiscal-year-2026"
+    },
+    {
+      "id": "9ab18f3cfc89",
+      "category": "LEGIS",
+      "date": "2026-10-19",
+      "title": "Continuation of the National Emergency With Respect to the Democratic Republic of the Congo",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21432/continuation-of-the-national-emergency-with-respect-to-the-democratic-republic-of-the-congo"
+    },
+    {
+      "id": "91da44aec917",
+      "category": "LEGIS",
+      "date": "2026-10-19",
+      "title": "Continuation of the National Emergency With Respect to Sudan",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21431/continuation-of-the-national-emergency-with-respect-to-sudan"
+    },
+    {
+      "id": "d1931364e798",
+      "category": "LEGIS",
+      "date": "2026-10-19",
+      "title": "Continuation of the National Emergency With Respect to Significant Narcotics Traffickers Centered in Colombia",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21430/continuation-of-the-national-emergency-with-respect-to-significant-narcotics-traffickers-centered-in"
+    },
+    {
+      "id": "3b999d8e0cc7",
+      "category": "LEGIS",
+      "date": "2026-10-19",
+      "title": "Sunshine Act Meetings",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21399/sunshine-act-meetings"
+    },
+    {
+      "id": "e97f3e0c846f",
+      "category": "LEGIS",
+      "date": "2026-10-19",
+      "title": "Airworthiness Directives; Airbus Helicopters",
+      "summary": "The FAA proposes to adopt a new airworthiness directive (AD) for all Airbus Helicopters Model AS350B3, AS355F, AS355F1, AS355F2, AS355N, AS355NP, EC130B4, and EC130T2 helicopters. This proposed AD was prompted by a report of the loss of the tightening torque between the upper ball bearing end and a main rotor (MR) servo-control. This proposed AD would require an inspection of the nut tightening torque of the upper ba",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21387/airworthiness-directives-airbus-helicopters"
+    },
+    {
+      "id": "8a204efd6900",
+      "category": "LEGIS",
+      "date": "2026-10-19",
+      "title": "Sunshine Act Meeting",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21384/sunshine-act-meeting"
+    },
+    {
+      "id": "49b45190f813",
+      "category": "LEGIS",
+      "date": "2026-10-19",
+      "title": "New Source Performance Standards and National Emission Standards for Hazardous Air Pollutants; Delegation of Authority to Northwest Clean Air Agency, Washington State",
+      "summary": "The Northwest Clean Air Agency (NWCAA), located in Washington State, submitted updated regulations for receiving delegation and approval of its program for the implementation and enforcement of newly issued or revised New Source Performance Standards (NSPS) and National Emission Standards for Hazardous Air Pollutants (NESHAP), as provided for under previously approved delegation mechanisms. The updated regulations in",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21383/new-source-performance-standards-and-national-emission-standards-for-hazardous-air-pollutants"
+    },
+    {
+      "id": "e116edf48b53",
+      "category": "LEGIS",
+      "date": "2026-10-19",
+      "title": "Privacy Act of 1974; System of Records",
+      "summary": "The Federal Communications Commission (FCC, Commission, or Agency) is modifying an existing system of records, FCC/WCB-1, Lifeline Program, subject to the Privacy Act of 1974, as amended. This action is necessary to meet the requirements of the Privacy Act to publish in the Federal Register notice of the existence and character of records maintained by the agency. The Lifeline Program (or \"Lifeline\") provides discoun",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21381/privacy-act-of-1974-system-of-records"
+    },
+    {
+      "id": "fbca5bcb67e6",
+      "category": "LEGIS",
+      "date": "2026-10-19",
+      "title": "Agency Information Collection Request: FEHB Protection Act Portal, OMB Control Number (3206-NEW)",
+      "summary": "The Office of Personnel Management (OPM) offers the general public and other Federal agencies the opportunity to comment on a new information collection request (ICR): FEHB Protection Act Portal (FPA Portal).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21380/agency-information-collection-request-fehb-protection-act-portal-omb-control-number-3206-new"
+    },
+    {
+      "id": "aedd823a7bf3",
+      "category": "LEGIS",
+      "date": "2026-10-19",
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; South Pacific Tuna Act",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21379/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+    },
+    {
+      "id": "67980e57efec",
+      "category": "LEGIS",
+      "date": "2026-10-19",
+      "title": "Agency Information Collection Request: 3206-NEW, Annuitant Verification Form, RI 20-129",
+      "summary": "Retirement Services offers the general public and other Federal agencies the opportunity to comment on a new information collection request (ICR), Annuitant Verification Form, RI 20-129.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21378/agency-information-collection-request-3206-new-annuitant-verification-form-ri-20-129"
+    },
+    {
+      "id": "d99d313e6768",
+      "category": "LEGIS",
+      "date": "2026-10-19",
+      "title": "Further Definition of “Swap”-Inclusions",
+      "summary": "Consistent with its jurisdiction over swaps, the Commodity Futures Trading Commission (\"Commission\" or \"CFTC\") is proposing to further define the term \"swap\" to explicitly include event contracts, including those based on sports-, politics-, cultural-, and weather- related events (the \"Proposal\").",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21377/further-definition-of-swap-inclusions"
+    },
+    {
+      "id": "6217614d331a",
+      "category": "LEGIS",
+      "date": "2026-10-19",
+      "title": "Further Definition of “Swap” To Exclude Casino-Style Gambling Products",
+      "summary": "The Commodity Futures Trading Commission (\"Commission\" or \"CFTC\") is adopting an interim final rule (\"Interim Final Rule\") to codify its longstanding position that casino-style gambling products, including wagers placed on sportsbooks and casino games, are excluded from the \"swap\" definition.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21376/further-definition-of-swap-to-exclude-casino-style-gambling-products"
+    },
+    {
+      "id": "c155bf34f7b3",
+      "category": "LEGIS",
+      "date": "2026-10-19",
+      "title": "Agency Information Collection Request: Tribal Federal Employees Health Benefits (FEHB) Program Tribal Employer Application (3206-NEW)",
+      "summary": "The Office of Personnel Management (OPM) offers the general public the opportunity to comment on an information collection request (ICR): Tribal Federal Employee Health Benefits (FEHB) Program Tribal Employer Application, OMB Control Number (3206-NEW). As required by the Paperwork Reduction Act, OPM is soliciting comments for this collection.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21375/agency-information-collection-request-tribal-federal-employees-health-benefits-fehb-program-tribal"
+    },
+    {
+      "id": "c922d8cfa0d8",
+      "category": "LEGIS",
+      "date": "2026-10-19",
+      "title": "Agency Information Collection Request: 3206-0218, Death Benefit Payment Rollover, RI 94-7",
+      "summary": "Retirement Services offers the general public and other Federal agencies the opportunity to comment on the reinstatement of an expired information collection request (ICR), Death Benefit Payment Rollover, RI 94-7.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21374/agency-information-collection-request-3206-0218-death-benefit-payment-rollover-ri-94-7"
+    },
+    {
+      "id": "b594883444db",
+      "category": "LEGIS",
+      "date": "2026-10-19",
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Section 45J Credit for Production of Electricity From Advanced Nuclear Power Facilities",
+      "summary": "The Department of the Treasury will submit the following information collection requests to the Office of Management and Budget (OMB) for review and clearance in accordance with the Paperwork Reduction Act of 1995, on or after the date of publication of this notice. The public is invited to submit comments on these requests.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21373/agency-information-collection-activities-submission-for-omb-review-comment-request-section-45j"
+    },
+    {
+      "id": "ab3ecea215f4",
+      "category": "LEGIS",
+      "date": "2026-10-19",
+      "title": "President's Military Spouse Commission; Notice of Federal Advisory Committee Meeting",
+      "summary": "The DoD (referred to herein as \"Department of War\") is publishing this notice to announce that the following Federal Advisory Committee meeting of the President's Military Spouse Commission will take place.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21372/presidents-military-spouse-commission-notice-of-federal-advisory-committee-meeting"
+    },
+    {
+      "id": "71d3f2126074",
+      "category": "LEGIS",
+      "date": "2026-10-19",
+      "title": "Marine Mammals; Incidental Take of Polar Bears and Pacific Walruses in the Beaufort Sea and North Slope of Alaska",
+      "summary": "We, the U.S. Fish and Wildlife Service (FWS), in response to a request under the Marine Mammal Protection Act (MMPA) of 1972 from the Alaska Oil and Gas Association (AOGA), finalize regulations facilitating the authorization of incidental, unintentional take of small numbers of polar bears (Ursus maritimus) and Pacific walruses (Odobenus rosmarus divergens) during year-round oil and gas industry activities in the Bea",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21371/marine-mammals-incidental-take-of-polar-bears-and-pacific-walruses-in-the-beaufort-sea-and-north"
+    },
+    {
+      "id": "ad786148f4b4",
+      "category": "FDA",
+      "date": "2026-10-19",
+      "title": "Importer of Controlled Substances Application: Organic Standards Solutions International, LLC",
+      "summary": "Organic Standards Solutions International, LLC has applied to be registered as an importer of basic class(es) of controlled substance(s). Refer to Supplementary Information listed below for further drug information.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21370/importer-of-controlled-substances-application-organic-standards-solutions-international-llc"
+    }
+  ]
 }
