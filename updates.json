@@ -1,265 +1,265 @@
 {
-  "generated_at": "2026-10-20T16:57:33.075Z",
+  "generated_at": "2026-10-21T17:06:53.090Z",
   "updates": [
     {
-      "id": "13bdbd994ff9",
+      "id": "2da9df5055fd",
       "category": "LEGIS",
-      "date": "2026-10-20",
-      "title": "Interval Fund Modernization; Expansion of Multiple Share Class to Registered Closed-End Management Investment Companies and Business Development Companies",
+      "date": "2026-10-21",
+      "title": "Potential Designation of Chartered Financial Analyst Designation as Qualifying Natural Persons for Accredited Investor Status",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/20/C1-2026-20360/interval-fund-modernization-expansion-of-multiple-share-class-to-registered-closed-end-management"
+      "url": "https://www.federalregister.gov/documents/2026/10/21/C1-2026-20311/potential-designation-of-chartered-financial-analyst-designation-as-qualifying-natural-persons-for"
     },
     {
-      "id": "76531fb79dd8",
+      "id": "bdc53716f6b5",
       "category": "LEGIS",
-      "date": "2026-10-20",
-      "title": "Civil Penalties Inflation Adjustments; Annual Adjustments",
-      "summary": "This rule provides for annual adjustments to the level of civil monetary penalties contained in Bureau of Indian Affairs (Bureau) regulations to account for inflation under the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015 and Office of Management and Budget (OMB) guidance.",
+      "date": "2026-10-21",
+      "title": "Hardwood and Decorative Plywood From the Socialist Republic of Vietnam: Final Affirmative Determination of Sales at Less Than Fair Value and Final Negative Determination of Critical Circumstances",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/21/C1-2026-14614/hardwood-and-decorative-plywood-from-the-socialist-republic-of-vietnam-final-affirmative"
+    },
+    {
+      "id": "b3483cfcf9da",
+      "category": "LEGIS",
+      "date": "2026-10-21",
+      "title": "Implementing the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21599/implementing-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026"
+    },
+    {
+      "id": "588d2316ce50",
+      "category": "FDA",
+      "date": "2026-10-21",
+      "title": "Guidance Under Section 355 Concerning Device and Active Trade or Business; Partial Withdrawal",
+      "summary": "This document partially withdraws a notice of proposed rulemaking containing proposed regulations regarding the application of the device prohibition and the active trade or business requirement for distributions of controlled corporation stock (or stock and securities) by a distributing corporation without income, gain, or loss. The proposed regulations would affect corporations and their shareholders and security h",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21568/guidance-under-section-355-concerning-device-and-active-trade-or-business-partial-withdrawal"
+    },
+    {
+      "id": "6a3d3ff4c5a4",
+      "category": "LEGIS",
+      "date": "2026-10-21",
+      "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Reallocation of Pacific Cod in the Western Regulatory Area of the Gulf of Alaska",
+      "summary": "NMFS is reallocating the projected unused amounts of Pacific cod from catcher vessels using trawl gear to catcher vessels using pot gear in the Western Regulatory Area of the Gulf of Alaska (GOA). This action is necessary to allow the 2026 total allowable catch (TAC) of Pacific cod to be harvested in the Western Regulatory Area of the GOA.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21556/fisheries-of-the-exclusive-economic-zone-off-alaska-reallocation-of-pacific-cod-in-the-western"
+    },
+    {
+      "id": "7d95f6ca017f",
+      "category": "LEGIS",
+      "date": "2026-10-21",
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; The Ocean Enterprise: A Study of US Business Activity in Ocean Measurement, Observation and Forecasting",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21529/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+    },
+    {
+      "id": "54ddbd135aac",
+      "category": "LEGIS",
+      "date": "2026-10-21",
+      "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Revisions of Previously Approved Collection",
+      "summary": "The Department of Justice (DOJ), Office of the Pardon Attorney, is submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21528/agency-information-collection-activities-proposed-ecollection-ecomments-requested-revisions-of"
+    },
+    {
+      "id": "1a79759da31e",
+      "category": "LEGIS",
+      "date": "2026-10-21",
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21527/center-for-scientific-review-notice-of-closed-meetings"
+    },
+    {
+      "id": "65959327241c",
+      "category": "LEGIS",
+      "date": "2026-10-21",
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21526/center-for-scientific-review-notice-of-closed-meetings"
+    },
+    {
+      "id": "7da367c66613",
+      "category": "LEGIS",
+      "date": "2026-10-21",
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21525/center-for-scientific-review-notice-of-closed-meetings"
+    },
+    {
+      "id": "d067fd380c93",
+      "category": "LEGIS",
+      "date": "2026-10-21",
+      "title": "No Adjustment to HHS Civil Monetary Penalty Amounts for 2026",
+      "summary": "The Department of Health and Human Services (HHS or the Department) is notifying the public that there will be no Civil Monetary Penalty (CMP) inflation adjustment for 2026 in accordance with the April 17, 2026, guidance from the Office of Management and Budget (OMB). HHS will continue to use the 2025 civil monetary penalty levels because there will be no cost-of-living adjustment for 2026.",
       "tags": [
         "Federal Register"
       ],
       "priority": "high",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21474/civil-penalties-inflation-adjustments-annual-adjustments"
+      "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21524/no-adjustment-to-hhs-civil-monetary-penalty-amounts-for-2026"
     },
     {
-      "id": "64be7844c5c0",
+      "id": "5cc31cd52066",
       "category": "LEGIS",
-      "date": "2026-10-20",
-      "title": "Presidential Declaration of a Major Disaster for Public Assistance Only for the State of Utah",
-      "summary": "This is notice of the Presidential declaration of a major disaster for Public Assistance Only for the state of Utah (FEMA-4948- DR), dated October 7, 2026. Incident: Cottonwood Fire, Flooding, and Mudslides.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21469/presidential-declaration-of-a-major-disaster-for-public-assistance-only-for-the-state-of-utah"
-    },
-    {
-      "id": "861379b6af3e",
-      "category": "LEGIS",
-      "date": "2026-10-20",
-      "title": "Agency Information Collection Activity: State Veterans Homes Construction & Acquisition Grant Program (SVHCGP)",
-      "summary": "Veterans Health Administration (VHA), Department of Veterans Affairs (VA), is announcing an opportunity for public comment on the proposed collection of certain information by the agency. Under the Paperwork Reduction Act (PRA) of 1995, Federal agencies are required to publish a notice in the Federal Register concerning each proposed collection of information, including each proposed extension of a currently approved",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21468/agency-information-collection-activity-state-veterans-homes-construction-and-acquisition-grant"
-    },
-    {
-      "id": "8cdee700e8f3",
-      "category": "LEGIS",
-      "date": "2026-10-20",
-      "title": "Presidential Declaration of a Major Disaster for Public Assistance Only for the State of New Hampshire",
-      "summary": "This is notice of the Presidential declaration of a major disaster for Public Assistance Only for the state of New Hampshire (FEMA-4947-DR), dated October 7, 2026. Incident: Severe Storm and Flooding.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21467/presidential-declaration-of-a-major-disaster-for-public-assistance-only-for-the-state-of-new"
-    },
-    {
-      "id": "f78b974e531f",
-      "category": "LEGIS",
-      "date": "2026-10-20",
-      "title": "Agency Information Collection Activities: Comment Request",
-      "summary": "The National Science Foundation (NSF) is announcing plans to establish this collection. In accordance with the requirements of the Paperwork Reduction Act of 1995, we are providing opportunity for public to comment on this action. After obtaining and considering public comments, NSF will prepare the submission requesting Office of Management and Budget (OMB) clearance of this collection for no longer than 3 years.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21466/agency-information-collection-activities-comment-request"
-    },
-    {
-      "id": "aa2c4c7528de",
-      "category": "LEGIS",
-      "date": "2026-10-20",
-      "title": "Submission for OMB Review; Comment Request",
-      "summary": "The DoD (referred to herein as \"the Department\", \"Department of War\" or \"DoW\") has submitted to the Office of Management and Budget (OMB) for clearance the following proposal for collection of information under the provisions of the Paperwork Reduction Act.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21465/submission-for-omb-review-comment-request"
-    },
-    {
-      "id": "fb28e1c23783",
-      "category": "LEGIS",
-      "date": "2026-10-20",
-      "title": "Proposed Collection; Comment Request",
-      "summary": "In compliance with the Paperwork Reduction Act of 1995, the OUSD(A&S), DoD (referred to herein as \"the Department\", \"Department of War\" or \"DoW\") announces proposed public information collection and seeks public comment on the provisions thereof. Comments are invited on: whether the proposed collection of information is necessary for the proper performance of the functions of the agency, including whether the informa",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21464/proposed-collection-comment-request"
-    },
-    {
-      "id": "c082a4010508",
-      "category": "LEGIS",
-      "date": "2026-10-20",
-      "title": "Certificate of Alternate Compliance for USS PATRICK GALLAGHER (DDG 127)",
-      "summary": "The U.S. Navy hereby announces that a Certificate of Alternate Compliance has been issued for USS PATRICK GALLAGHER (DDG 127). Due to the special construction and purpose of this vessel, the Admiralty Counsel of the Navy has determined it is a vessel of the Navy which, due to its special construction and purpose, cannot comply fully with the navigation lights provisions of the International Regulations for Preventing",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21463/certificate-of-alternate-compliance-for-uss-patrick-gallagher-ddg-127"
-    },
-    {
-      "id": "f7537f83eeeb",
-      "category": "LEGIS",
-      "date": "2026-10-20",
-      "title": "American Samoa Outer Continental Shelf Pacific Mineral Lease Sale 1",
-      "summary": "The Marine Minerals Administration (MMA) will conduct an auction for lease areas offered in the American Samoa Outer Continental Shelf (OCS) Pacific Mineral Lease Sale 1 (Lease Sale PACM-1), in accordance with the Outer Continental Shelf Lands Act (OCSLA), as amended, and its implementing regulations. The Final Leasing Notice (FLN) package for this lease sale contains information essential to potential bidders, inclu",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21462/american-samoa-outer-continental-shelf-pacific-mineral-lease-sale-1"
-    },
-    {
-      "id": "7ac7d4724f25",
-      "category": "LEGIS",
-      "date": "2026-10-20",
-      "title": "Agency Information Collection Activities: Comment Request; Grantee Reporting Requirements for the U.S. National Science Foundation Regional Innovation Engines (NSF Engines) Program",
-      "summary": "The National Science Foundation (NSF) is announcing plans to renew this collection. In accordance with the requirements of the Paperwork Reduction Act of 1995, we are providing an opportunity for public comment on this action. After obtaining and considering public comment, NSF will prepare the submission requesting Office of Management and Budget (OMB) clearance of this collection for no longer than 3 years.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21461/agency-information-collection-activities-comment-request-grantee-reporting-requirements-for-the-us"
-    },
-    {
-      "id": "1bd3643bc7a0",
-      "category": "LEGIS",
-      "date": "2026-10-20",
-      "title": "60-Day Notice of Proposed Information Collection: National Contact Point Web Page",
-      "summary": "The Department of State is seeking Office of Management and Budget (OMB) approval for the information collection described below. In accordance with the Paperwork Reduction Act of 1995, we are requesting comments on this collection from all interested individuals and organizations. The purpose of this notice is to allow 60 days for public comment preceding submission of the collection to OMB.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21460/60-day-notice-of-proposed-information-collection-national-contact-point-web-page"
-    },
-    {
-      "id": "b58306b58926",
-      "category": "LEGIS",
-      "date": "2026-10-20",
-      "title": "Small Vertical Shaft Engines From China; Determinations",
+      "date": "2026-10-21",
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21459/small-vertical-shaft-engines-from-china-determinations"
+      "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21523/center-for-scientific-review-notice-of-closed-meetings"
     },
     {
-      "id": "614d36cdf5ce",
+      "id": "ff493fd921e7",
       "category": "LEGIS",
-      "date": "2026-10-20",
-      "title": "Seamless Carbon and Alloy Steel Standard, Line, and Pressure Pipe From Georgia and India; Institution of Antidumping and Countervailing Duty Investigations and Scheduling of Preliminary Phase Investigations",
-      "summary": "The Commission hereby gives notice of the institution of investigations and commencement of preliminary phase antidumping and countervailing duty investigation Nos. 701-TA-810 and 731-TA-1811-1812 (Preliminary) pursuant to the Tariff Act of 1930 to determine whether there is a reasonable indication that an industry in the United States is materially injured or threatened with material injury, or the establishment of ",
+      "date": "2026-10-21",
+      "title": "Magnuson-Stevens Act Provisions; General Provisions for Domestic Fisheries; Atlantic Coastal Fisheries Cooperative Management Act Provisions; Application for Exempted Fishing Permits",
+      "summary": "The Assistant Regional Administrator for Sustainable Fisheries, Greater Atlantic Region, NMFS, has made a preliminary determination that an Exempted Fishing Permit (EFP) application contains all of the required information and warrants further consideration. The EFP would allow federally permitted fishing vessels to fish outside fishery regulations in support of exempted fishing activities proposed by the Maine Depar",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21522/magnuson-stevens-act-provisions-general-provisions-for-domestic-fisheries-atlantic-coastal-fisheries"
+    },
+    {
+      "id": "20111436bba1",
+      "category": "LEGIS",
+      "date": "2026-10-21",
+      "title": "Fisheries of the South Atlantic; South Atlantic Fishery Management Council-Public Meetings",
+      "summary": "Meeting of the South Atlantic Fishery Management Council's (Council) Citizen Science Operations Advisory Panel (AP) via webinar November 19, 2026.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21458/seamless-carbon-and-alloy-steel-standard-line-and-pressure-pipe-from-georgia-and-india-institution"
+      "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21521/fisheries-of-the-south-atlantic-south-atlantic-fishery-management-council-public-meetings"
     },
     {
-      "id": "955a58c69071",
+      "id": "e42f4c9ffb15",
       "category": "LEGIS",
-      "date": "2026-10-20",
-      "title": "Dioctyl Terephthalate From Malaysia, Poland, Taiwan, and the Republic of Türkiye: Antidumping Duty Orders; Correction",
-      "summary": "The U.S. Department of Commerce (Commerce) published notice in the Federal Register of May 22, 2025, in which Commerce issued the antidumping duty (AD) orders on dioctyl terephthalate (DOTP) from Malaysia, Poland, Taiwan, and the Republic of T[uuml]rkiye (T[uuml]rkiye). The notice incorrectly stated the dates of the ending of provisional measures and the termination of suspension of liquidation due to the expiration ",
+      "date": "2026-10-21",
+      "title": "Mid-Atlantic Fishery Management Council (MAFMC); Public Meeting",
+      "summary": "The Mid-Atlantic Fishery Management Council (Council) will hold a public meeting, jointly with the Atlantic States Marine Fisheries Commission's (Commission's) Policy Board.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21457/dioctyl-terephthalate-from-malaysia-poland-taiwan-and-the-republic-of-trkiye-antidumping-duty-orders"
+      "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21520/mid-atlantic-fishery-management-council-mafmc-public-meeting"
     },
     {
-      "id": "f1b19cef1aad",
+      "id": "a87ce49b5286",
       "category": "LEGIS",
-      "date": "2026-10-20",
-      "title": "Certificate of Alternate Compliance for USS Harrisburg (LPD 30)",
-      "summary": "The U.S. Navy hereby announces that a Certificate of Alternate Compliance has been issued for USS HARRISBURG (LPD 30). Due to the special construction and purpose of this vessel, the Admiralty Counsel of the Navy has determined it is a vessel of the Navy which, due to its special construction and purpose, cannot comply fully with the navigation lights provisions of the International Regulations for Preventing Collisi",
+      "date": "2026-10-21",
+      "title": "Agency Information Collection Activities: Submission to OMB for Review and Approval; Public Comment Request; Information Collection Request Title: Title V Maternal and Child Health Services Block Grant to States Program: Guidance and Forms for the Title V Application/Annual Report, OMB No. 0915-0172-Revision",
+      "summary": "In compliance with the Paperwork Reduction Act of 1995, HRSA submitted an Information Collection Request (ICR) to the Office of Management and Budget (OMB) for review and approval. Comments submitted during the first public review of this ICR will be provided to OMB. OMB will accept further comments from the public during the review and approval period. OMB may act on HRSA's ICR only after the 30-day comment period f",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21456/certificate-of-alternate-compliance-for-uss-harrisburg-lpd-30"
+      "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21519/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment"
     },
     {
-      "id": "b5ce932d59ab",
+      "id": "8dd6d2285385",
       "category": "LEGIS",
-      "date": "2026-10-20",
-      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; New Markets Tax Credit Program (NMTC Program) Allocation and Qualified Equity Investment Tracking System (AQEI)",
-      "summary": "The Department of the Treasury will submit the following information collection requests to the Office of Management and Budget (OMB) for review and clearance in accordance with the Paperwork Reduction Act of 1995, on or after the date of publication of this notice. The public is invited to submit comments on these requests.",
+      "date": "2026-10-21",
+      "title": "Agency Information Collection Activities: Submission to OMB for Review and Approval; Public Comment Request; Maternal and Child Health Bureau Performance Measures for Discretionary Grant Information System, OMB No. 0915-0298-Revision",
+      "summary": "In compliance with the Paperwork Reduction Act of 1995, HRSA submitted an Information Collection Request (ICR) to the Office of Management and Budget (OMB) for review and approval. Comments submitted during the first public review of this ICR will be provided to OMB. OMB will accept further comments from the public during the review and approval period. OMB may act on HRSA's ICR only after the 30-day comment period f",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21455/agency-information-collection-activities-submission-for-omb-review-comment-request-new-markets-tax"
+      "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21518/agency-information-collection-activities-submission-to-omb-for-review-and-approval-public-comment"
     },
     {
-      "id": "aaa709324299",
+      "id": "fb5d2ba756e9",
       "category": "LEGIS",
-      "date": "2026-10-20",
-      "title": "Agency Information Collection Activity: Application for Assumption Approval and/or Release From Personal Liability to the Government on a Home Loan",
-      "summary": "In compliance with the Paperwork Reduction Act (PRA) of 1995, this notice announces that the Veterans Benefits Administration, Department of Veterans Affairs, will submit the collection of information abstracted below to the Office of Management and Budget (OMB) for review and comment. The PRA submission describes the nature of the information collection and its expected cost and burden and it includes the actual dat",
+      "date": "2026-10-21",
+      "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; New Information Collection; Title: USAO-PR COMMUNITY OUTREACH REQUEST FORM Feedback Form Package",
+      "summary": "The Office of Justice Programs, Department of Justice (DOJ), will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995.",
       "tags": [
         "Federal Register"
       ],
-      "priority": "low",
+      "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21454/agency-information-collection-activity-application-for-assumption-approval-andor-release-from"
+      "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21517/agency-information-collection-activities-proposed-ecollection-ecomments-requested-new-information"
     },
     {
-      "id": "e6439cdc7b78",
+      "id": "df54034814cc",
       "category": "FDA",
-      "date": "2026-10-20",
-      "title": "New Dietary Ingredient (NDI) Notifications and Related Issues; Identity and Safety Information About the NDI: Guidance for Industry; Availability",
-      "summary": "The Food and Drug Administration (FDA or we) is announcing the availability of a final guidance for industry entitled \"New Dietary Ingredient (NDI) Notifications and Related Issues; Identity and Safety Information About the NDI: Guidance for Industry.\" The guidance focuses on frequently asked questions about the new dietary ingredient notification (NDIN) submissions. This guidance is intended to help provide recommen",
+      "date": "2026-10-21",
+      "title": "Regulatory Considerations for Prescription Drug Use-Related Software; Guidance for Industry; Availability",
+      "summary": "The Food and Drug Administration (FDA or Agency) is announcing the availability of a final guidance for industry titled \"Regulatory Considerations for Prescription Drug Use-Related Software.\" This final guidance describes FDA's application of its drug labeling authorities to certain software outputs that are disseminated by or on behalf of a drug sponsor for use with a prescription drug product or a prescription drug",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21453/new-dietary-ingredient-ndi-notifications-and-related-issues-identity-and-safety-information-about"
+      "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21516/regulatory-considerations-for-prescription-drug-use-related-software-guidance-for-industry"
     },
     {
-      "id": "9a7e2f9ef300",
+      "id": "a3fab04fd01f",
       "category": "LEGIS",
-      "date": "2026-10-20",
-      "title": "Certain Linear Hydraulic Cylinders and Parts Thereof From the People's Republic of China, India, and Mexico: Postponement of Preliminary Determinations in the Countervailing Duty Investigations",
-      "summary": "Federal Register document (no abstract provided).",
+      "date": "2026-10-21",
+      "title": "Petition for Waiver of Compliance and Notice of Public Hearing",
+      "summary": "On July 3, 2025, FRA published notice that Canadian Pacific Kansas City Limited (CPKC) petitioned FRA for relief from certain regulations concerning air brake testing. In this notice, FRA is announcing a public hearing to allow interested persons the opportunity to provide comments on the petition. FRA is also reopening the comment period to allow time for interested parties to submit comments on the petition or in r",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21452/certain-linear-hydraulic-cylinders-and-parts-thereof-from-the-peoples-republic-of-china-india-and"
+      "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21515/petition-for-waiver-of-compliance-and-notice-of-public-hearing"
     }
   ]
 }
