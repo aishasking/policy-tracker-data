@@ -1,140 +1,114 @@
 {
-  "generated_at": "2026-10-26T18:38:59.006Z",
+  "generated_at": "2026-10-27T17:56:57.588Z",
   "updates": [
     {
-      "id": "35d97427cd17",
+      "id": "4ec804ab1fba",
       "category": "LEGIS",
-      "date": "2026-10-26",
-      "title": "Self-Regulatory Organizations; MIAX PEARL, LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend the MIAX Pearl Equities Fee Schedule",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21837/self-regulatory-organizations-miax-pearl-llc-notice-of-filing-and-immediate-effectiveness-of-a"
-    },
-    {
-      "id": "aa4e1a789511",
-      "category": "LEGIS",
-      "date": "2026-10-26",
-      "title": "Wyoming Regulatory Program",
-      "summary": "The Office of Surface Mining Reclamation and Enforcement (OSM), are approving an amendment to the Wyoming regulatory program (Wyoming program) under the Surface Mining Control and Reclamation Act of 1977 (SMCRA or the Act). The Wyoming Land Quality Division (WLQD) submitted this proposed amendment in response to our January 19, 2024 partial approval of an amendment to WLQD's regulations for coal exploration by drilli",
+      "date": "2026-10-27",
+      "title": "Implementation of HAVANA Act of 2021",
+      "summary": "On April 19, 2024, the Department of Justice published an interim final rule to implement the HAVANA Act of 2021. No comments were received on the interim final rule. The HAVANA Act authorizes agency heads to provide payments to certain individuals who have incurred qualifying injuries to the brain. This final rule adopts the interim final rule with minor, non-substantive changes to the titles of certain officials in",
       "tags": [
         "Federal Register"
       ],
       "priority": "high",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21835/wyoming-regulatory-program"
+      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21923/implementation-of-havana-act-of-2021"
     },
     {
-      "id": "ffba044176a6",
+      "id": "566f2e995f04",
       "category": "LEGIS",
-      "date": "2026-10-26",
-      "title": "Sunshine Act Meetings",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21825/sunshine-act-meetings"
-    },
-    {
-      "id": "7f9fe6e92700",
-      "category": "LEGIS",
-      "date": "2026-10-26",
-      "title": "Senior Executive Service (SES) Performance Review Board; Notice of Membership",
-      "summary": "This notice announces the appointment of members to the Performance Review Board (PRB) for the National Endowment for the Arts (NEA). The PRB is responsible for reviewing the performance appraisals of Senior Executive Service (SES) members and making recommendations regarding performance ratings, pay adjustments, and bonuses to ensure consistency, fairness, and adherence to Office of Personnel Management (OPM) regula",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21823/senior-executive-service-ses-performance-review-board-notice-of-membership"
-    },
-    {
-      "id": "63df3e93a213",
-      "category": "LEGIS",
-      "date": "2026-10-26",
-      "title": "Submission for OMB Review; Comment Request",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21822/submission-for-omb-review-comment-request"
-    },
-    {
-      "id": "5c1c531f75a1",
-      "category": "LEGIS",
-      "date": "2026-10-26",
-      "title": "Enhancing the Ability of Consumers To Control the Robocalls",
-      "summary": "In this document, the Federal Communications Commission (Commission) modifies rules to ensure that consumers can revoke consent for robocalls they no longer wish to receive while continuing to receive those they still want. We also modernize our rules to ensure that consumers have clear, simple, and automated ways to revoke consent while streamlining callers' ability to process revocations. Specifically, we allow cal",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21821/enhancing-the-ability-of-consumers-to-control-the-robocalls"
-    },
-    {
-      "id": "8181cb77c93a",
-      "category": "LEGIS",
-      "date": "2026-10-26",
-      "title": "Modernizing the Ability of Consumers To Control Robocalls",
-      "summary": "In this document, the Commission seeks comment on measures to ensure that the Telephone Consumer Protection Act (TCPA) rules that govern robocalls continue to evolve with changes in technology and industry practices. Specifically, we seek comment on reducing the timeframe callers must honor revocation requests, requirements for two- way texting functionality, requiring a revoke all method, and the treatment of affili",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21820/modernizing-the-ability-of-consumers-to-control-robocalls"
-    },
-    {
-      "id": "d50fb4d5bab1",
-      "category": "LEGIS",
-      "date": "2026-10-26",
-      "title": "Certain Small Vertical Shaft Engines Between 99cc and up to 225cc, and Parts Thereof From the People's Republic of China: Continuation of Antidumping and Countervailing Duty Orders",
-      "summary": "As a result of the determinations by the U.S. Department of Commerce (Commerce) and the U.S. International Trade Commission (ITC) that revocation of the antidumping duty (AD) and countervailing duty (CVD) orders on certain small vertical shaft engines between 99cc and 225cc, and parts thereof (small vertical engines) from the People's Republic of China (China) would likely lead to the continuation or recurrence of du",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21819/certain-small-vertical-shaft-engines-between-99cc-and-up-to-225cc-and-parts-thereof-from-the-peoples"
-    },
-    {
-      "id": "e8cc2ba2d864",
-      "category": "LEGIS",
-      "date": "2026-10-26",
-      "title": "Space Modernization for the 21st Century",
-      "summary": "In this document, the Federal Communications Commission (Commission or we) adopts a Further Notice of Proposed Rulemaking (FNPRM) that seeks comment on and/or proposes additional reforms.",
+      "date": "2026-10-27",
+      "title": "Hazardous Materials: Harmonization With International Standards",
+      "summary": "PHMSA proposes to update the Hazardous Materials Regulations to adopt certain international regulations and standards related to proper shipping names, hazard classes, packing groups, special provisions, packaging authorizations, air transport quantity limitations, and vessel stowage requirements. These proposed amendments are intended to maintain consistency with the latest international regulations and standards, t",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21818/space-modernization-for-the-21st-century"
+      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21922/hazardous-materials-harmonization-with-international-standards"
     },
     {
-      "id": "0440bf0f71da",
+      "id": "b1ceaedca392",
       "category": "LEGIS",
-      "date": "2026-10-26",
-      "title": "Establishment of Class E Airspace; Canton, IL",
-      "summary": "This action establishes Class E airspace at Graham Hospital Heliport, Canton, IL. This action supports new instrument procedures and instrument flight rule (IFR) operations.",
+      "date": "2026-10-27",
+      "title": "Bipartisan Safer Communities Act of 2022-Criteria for National Instant Criminal Background Check System (“NICS”) Background Checks of Firearm Handlers",
+      "summary": "The United States Department of Justice (\"Department\") is amending several of its regulations pertaining to the National Instant Criminal Background Check System (\"NICS\" or \"system\") of the Federal Bureau of Investigation (\"FBI\") to authorize Federal Firearm Licensees (\"FFLs\" or \"licensees\") to use NICS for purposes of voluntarily conducting employment background checks relating to certain current or prospective FFL ",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21817/establishment-of-class-e-airspace-canton-il"
+      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21920/bipartisan-safer-communities-act-of-2022-criteria-for-national-instant-criminal-background-check"
     },
     {
-      "id": "19e01ccd603a",
+      "id": "4c5958e2804e",
       "category": "LEGIS",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
+      "title": "Safety Zone; Southern California Annual Firework Events for the Los Angeles-Long Beach Captain of the Port Zone",
+      "summary": "The Coast Guard is proposing to amend the Southern California Firework Events for Los Angeles-Long Beach Captain of the Port Zone Annual Safety Zones. The Coast Guard proposes eight new events to be added, thirteen events to be updated, and two events removed. The safety zones are needed to protect waterways users and keep them clear of potentially harmful debris within the fallout zone. This proposed rulemaking woul",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21918/safety-zone-southern-california-annual-firework-events-for-the-los-angeles-long-beach-captain-of-the"
+    },
+    {
+      "id": "7aa3e0bc6886",
+      "category": "LEGIS",
+      "date": "2026-10-27",
+      "title": "Special Conditions: Embraer S.A. Model ERJ 190-400 Airplane; Embraer Enhanced Takeoff System",
+      "summary": "This action proposes special conditions for the Embraer S.A. (Embraer) Model ERJ 190-400 series airplane. This airplane will have a novel or unusual design feature when compared to the state of technology envisioned in the airworthiness standards for transport category airplanes. This design feature is a functionality known as the Embraer Enhanced Takeoff System (E\\2\\TS). The applicable airworthiness regulations do n",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21907/special-conditions-embraer-sa-model-erj-190-400-airplane-embraer-enhanced-takeoff-system"
+    },
+    {
+      "id": "b68bc0a8b897",
+      "category": "LEGIS",
+      "date": "2026-10-27",
+      "title": "Commercial Driver's License: PAM Transport, Inc.; Application for Exemption",
+      "summary": "FMCSA requests public comment on PAM Transport Inc.'s (PAM) application for an exemption from the requirement that a holder of a commercial learner's permit (CLP) who has successfully passed the commercial driver's license (CDL) skills test but not yet been issued CDL credentials be accompanied by a CDL holder in the front seat, while the commercial motor vehicle (CMV) is driven by the CLP holder. PAM states that the",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21906/commercial-drivers-license-pam-transport-inc-application-for-exemption"
+    },
+    {
+      "id": "cd438775a7df",
+      "category": "LEGIS",
+      "date": "2026-10-27",
+      "title": "Government-Owned Inventions; Availability for Licensing",
+      "summary": "The invention listed below is owned by an agency of the U.S. Government and is available for licensing to achieve expeditious commercialization of results of federally-funded research and development. Foreign patent applications are filed on selected inventions to extend market coverage for companies and may also be available for licensing.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21905/government-owned-inventions-availability-for-licensing"
+    },
+    {
+      "id": "c1fa57fae5af",
+      "category": "LEGIS",
+      "date": "2026-10-27",
+      "title": "Submission for OMB Review; 30-Day Comment Request; The Impact of Clinical Research Training and Medical Education at the Clinical Center on Physician Careers in Academia and Clinical Research",
+      "summary": "In compliance with the Paperwork Reduction Act of 1995, the National Institutes of Health (NIH) has submitted to the Office of Management and Budget (OMB) a request for review and approval of the information collection listed below.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21904/submission-for-omb-review-30-day-comment-request-the-impact-of-clinical-research-training-and"
+    },
+    {
+      "id": "8247454d6896",
+      "category": "LEGIS",
+      "date": "2026-10-27",
       "title": "Center for Scientific Review; Notice of Closed Meetings",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
@@ -142,124 +116,150 @@
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21816/center-for-scientific-review-notice-of-closed-meetings"
+      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21903/center-for-scientific-review-notice-of-closed-meetings"
     },
     {
-      "id": "d5d49a39560b",
+      "id": "6c4a44725660",
       "category": "LEGIS",
-      "date": "2026-10-26",
-      "title": "Eunice Kennedy Shriver National Institute of Child Health & Human Development; Notice of Meeting",
-      "summary": "Federal Register document (no abstract provided).",
+      "date": "2026-10-27",
+      "title": "Airworthiness Directives; Ontic Engineering and Manufacturing, Inc. (Type Certificate Previously Held by Swearingen, Fairchild Aircraft, and M7 Aerospace) Airplanes",
+      "summary": "The FAA is adopting a new airworthiness directive (AD) for certain Ontic Engineering and Manufacturing, Inc. Model SA226-T, SA226- AT, SA226-T(B), SA226-TC, SA227-AC (C-26A), SA227-AT, SA227-BC (C-26A), SA227-PC, SA227-CC, SA227-DC (C-26B), and SA227-TT (300) airplanes. This AD was prompted by reports of in-flight pitch trim actuator failures. This AD requires repetitively inspecting the pitch trim actuator for crack",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21815/eunice-kennedy-shriver-national-institute-of-child-health-and-human-development-notice-of-meeting"
+      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21902/airworthiness-directives-ontic-engineering-and-manufacturing-inc-type-certificate-previously-held-by"
     },
     {
-      "id": "7d5bebecd09e",
+      "id": "b0ad7af0ceca",
       "category": "LEGIS",
-      "date": "2026-10-26",
-      "title": "Fogarty International Center; Notice of Meeting",
-      "summary": "Federal Register document (no abstract provided).",
+      "date": "2026-10-27",
+      "title": "Establishment of Federal Advisory Committees-Advisory Council on Health and Human Performance Optimization",
+      "summary": "The DoD (referred to herein as \"the Department of War\" or \"DoW\") is publishing this notice to announce it is establishing the Advisory Council on Health and Human Performance Optimization (\"the Council\") as a discretionary Federal advisory committee.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21814/fogarty-international-center-notice-of-meeting"
+      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21900/establishment-of-federal-advisory-committees-advisory-council-on-health-and-human-performance"
     },
     {
-      "id": "641b93fbd2f0",
+      "id": "a8dbe7446ffd",
       "category": "LEGIS",
-      "date": "2026-10-26",
-      "title": "Astronomy and Astrophysics Advisory Committee; Notice of Meeting",
-      "summary": "Federal Register document (no abstract provided).",
+      "date": "2026-10-27",
+      "title": "Agency Information Collection Activities: Comment Request: Survey of Earned Doctorates",
+      "summary": "The National Center for Science and Engineering Statistics within the National Science Foundation (NSF) is announcing plans to request renewal of the Survey of Earned Doctorates (OMB Control Number 3145-0019) . In accordance with the requirements of the Paperwork Reduction Act of 1995, we are providing opportunity for public comment on this action. After obtaining and considering public comments, NCSES will prepare t",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21813/astronomy-and-astrophysics-advisory-committee-notice-of-meeting"
+      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21898/agency-information-collection-activities-comment-request-survey-of-earned-doctorates"
     },
     {
-      "id": "e2c346da0acf",
+      "id": "1702ba92222d",
       "category": "FDA",
-      "date": "2026-10-26",
-      "title": "Parts and Accessories Necessary for Safe Operation; Application for an Exemption From R.B. Stewart Petroleum Products, Inc., USDOT # 1290158",
-      "summary": "FMCSA requests public comment on an application from R.B. Stewart Petroleum Products, Inc., USDOT No. 1290158, (R.B. Stewart) for an exemption from the requirement that lighting devices be steady burning. The exemption would allow the company to operate commercial motor vehicles (CMVs) equipped with a module manufactured by Intellistop, Inc. (Intellistop) which pulses the rear clearance, identification, and brake lam",
+      "date": "2026-10-27",
+      "title": "Determination That PEPCID RPD (Famotidine) Orally Disintegrating Tablets, 20 Milligrams and 40 Milligrams Were Not Withdrawn From Sale for Reasons of Safety or Effectiveness",
+      "summary": "The Food and Drug Administration (FDA, Agency, or we) has determined that PEPCID RPD (famotidine) orally disintegrating tablets, 20 milligrams (mg) and 40 mg, were not withdrawn from sale for reasons of safety or effectiveness. This determination will allow FDA to approve abbreviated new drug applications (ANDAs) for famotidine) orally disintegrating tablets, 20 mg and 40 mg, if all other legal and regulatory require",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21812/parts-and-accessories-necessary-for-safe-operation-application-for-an-exemption-from-rb-stewart"
+      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21897/determination-that-pepcid-rpd-famotidine-orally-disintegrating-tablets-20-milligrams-and-40"
     },
     {
-      "id": "aced181fb35f",
+      "id": "98516a9cc3ee",
       "category": "LEGIS",
-      "date": "2026-10-26",
-      "title": "Information Collection Being Reviewed by the Federal Communications Commission",
-      "summary": "As part of its continuing effort to reduce paperwork burdens, and as required by the Paperwork Reduction Act of 1995 (PRA), the Federal Communications Commission (FCC or Commission) invites the general public and other Federal agencies to take this opportunity to comment on the following information collections. Comments are requested concerning: whether the proposed collection of information is necessary for the pro",
+      "date": "2026-10-27",
+      "title": "Notice of Publication of U.S. Resources Management Industry Listing and Opportunity To Apply for the Listing",
+      "summary": "The International Trade Administration (ITA) announces the launch of the U.S. Resources Management Industry Listing (RMIL), or \"industry listing.\" The RMIL is intended to identify U.S. companies operating in water and wastewater treatment; waste management and recycling, including critical minerals recycling; air quality measuring, monitoring and control; monitoring and instrumentation; weather and forecasting; and o",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21896/notice-of-publication-of-us-resources-management-industry-listing-and-opportunity-to-apply-for-the"
+    },
+    {
+      "id": "0145c88a14c5",
+      "category": "LEGIS",
+      "date": "2026-10-27",
+      "title": "Notice of Agreements Filed",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21895/notice-of-agreements-filed"
+    },
+    {
+      "id": "68e8633c0188",
+      "category": "LEGIS",
+      "date": "2026-10-27",
+      "title": "Formations of, Acquisitions by, and Mergers of Bank Holding Companies",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21894/formations-of-acquisitions-by-and-mergers-of-bank-holding-companies"
+    },
+    {
+      "id": "9a821447ef69",
+      "category": "LEGIS",
+      "date": "2026-10-27",
+      "title": "Agency Information Collection Activities: Requests for Comments; Clearance of a Renewed Approval of Information Collection: Aviation Research Grants Program",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, FAA invites public comments about our intention to request the Office of Management and Budget (OMB) approval to renew an information collection. The Federal Register Notice with a 60-day comment period soliciting comments on the following collection of information was published on August 26. 2026. The collection involves information to be used to and/or is nece",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21893/agency-information-collection-activities-requests-for-comments-clearance-of-a-renewed-approval-of"
+    },
+    {
+      "id": "e715f8982bac",
+      "category": "LEGIS",
+      "date": "2026-10-27",
+      "title": "Petition for Exemption; Summary of Petition Received; Placer Mosquito and Vector Control District",
+      "summary": "This notice contains a summary of a petition seeking relief from specified requirements of Federal Aviation Regulations. The purpose of this notice is to improve the public's awareness of, and participation in, the FAA's exemption process. Neither publication of this notice nor the inclusion nor omission of information in the summary is intended to affect the legal status of the petition or its final disposition.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21892/petition-for-exemption-summary-of-petition-received-placer-mosquito-and-vector-control-district"
+    },
+    {
+      "id": "972e429e2835",
+      "category": "LEGIS",
+      "date": "2026-10-27",
+      "title": "Patient Protection and Affordable Care Act, Exchange Pre-Eligibility Verification",
+      "summary": "This proposed rule would implement new requirements specified under the Working Families Tax Cut (WFTC) legislation related to Exchange eligibility and verification. This proposed rule contains related updates to provisions affecting inconsistency periods, inconsistency verification procedures, annual eligibility redeterminations and eligibility redeterminations during the plan year, as well as expanding enrollment m",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21811/information-collection-being-reviewed-by-the-federal-communications-commission"
+      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21891/patient-protection-and-affordable-care-act-exchange-pre-eligibility-verification"
     },
     {
-      "id": "6c7e0651f6a4",
+      "id": "00d297e37464",
       "category": "LEGIS",
-      "date": "2026-10-26",
-      "title": "Petition for Reconsideration of Action in Rulemaking Proceeding",
-      "summary": "Petition for Reconsideration (Petition) has been filed in the Commission's proceeding by Harold Feld on behalf of Public Knowledge and others.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21810/petition-for-reconsideration-of-action-in-rulemaking-proceeding"
-    },
-    {
-      "id": "8d812e89f5d3",
-      "category": "LEGIS",
-      "date": "2026-10-26",
-      "title": "Information Collection Being Submitted for Review and Approval to Office of Management and Budget",
-      "summary": "As part of its continuing effort to reduce paperwork burdens, as required by the Paperwork Reduction Act (PRA) of 1995, the Federal Communications Commission (FCC or the Commission) invites the general public and other Federal Agencies to take this opportunity to comment on the following information collection. Pursuant to the Small Business Paperwork Relief Act of 2002, the FCC seeks specific comment on how it can f",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21809/information-collection-being-submitted-for-review-and-approval-to-office-of-management-and-budget"
-    },
-    {
-      "id": "c6d853fac159",
-      "category": "LEGIS",
-      "date": "2026-10-26",
-      "title": "Closed Captioning of Video Programming",
-      "summary": "In this document, the Federal Communications Commission (Commission) exempts video programmers for public, educational, and governmental access (PEG) channels from the requirement to register with the Commission and to certify captioning compliance if the PEG video programmers provide video programming exclusively to PEG channels that are exempt from closed captioning requirements. Additionally, providers of PEG prog",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21808/closed-captioning-of-video-programming"
-    },
-    {
-      "id": "36098d910f4f",
-      "category": "LEGIS",
-      "date": "2026-10-26",
-      "title": "Ohio Regulatory Program",
-      "summary": "The Office of Surface Mining Reclamation and Enforcement (OSM) is approving an amendment to the Ohio regulatory program (Ohio program) under the Surface Mining Control and Reclamation Act of 1977 (SMCRA or the Act). OSM is approving Ohio's proposal to add, rescind, or modify 39 rules under the Ohio Administrative Code that relate to, among other things: permit applications, hydrologic map and cross-sections, general ",
+      "date": "2026-10-27",
+      "title": "Notice of Intent To Establish a Negotiated Rulemaking Advisory Committee for Tire Safety; Request for Comments and Solicitation of Nominations for Membership",
+      "summary": "NHTSA announces its intent to form a Negotiated Rulemaking Advisory Committee for Tire Safety. The committee will advise the Secretary on tire safety matters through a negotiated rulemaking process. The committee will terminate when its stated objectives have been accomplished (i.e., the committee submits its recommendations to the Secretary) or upon the expiration of a period not to exceed two years, unless the char",
       "tags": [
         "Federal Register"
       ],
       "priority": "high",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21807/ohio-regulatory-program"
+      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21889/notice-of-intent-to-establish-a-negotiated-rulemaking-advisory-committee-for-tire-safety-request-for"
     }
   ]
 }
