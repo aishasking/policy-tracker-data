@@ -1,265 +1,265 @@
 {
-  "generated_at": "2026-10-27T17:56:57.588Z",
+  "generated_at": "2026-10-28T18:19:04.878Z",
   "updates": [
     {
-      "id": "4ec804ab1fba",
+      "id": "4aad78b2182a",
       "category": "LEGIS",
-      "date": "2026-10-27",
-      "title": "Implementation of HAVANA Act of 2021",
-      "summary": "On April 19, 2024, the Department of Justice published an interim final rule to implement the HAVANA Act of 2021. No comments were received on the interim final rule. The HAVANA Act authorizes agency heads to provide payments to certain individuals who have incurred qualifying injuries to the brain. This final rule adopts the interim final rule with minor, non-substantive changes to the titles of certain officials in",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "high",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21923/implementation-of-havana-act-of-2021"
-    },
-    {
-      "id": "566f2e995f04",
-      "category": "LEGIS",
-      "date": "2026-10-27",
-      "title": "Hazardous Materials: Harmonization With International Standards",
-      "summary": "PHMSA proposes to update the Hazardous Materials Regulations to adopt certain international regulations and standards related to proper shipping names, hazard classes, packing groups, special provisions, packaging authorizations, air transport quantity limitations, and vessel stowage requirements. These proposed amendments are intended to maintain consistency with the latest international regulations and standards, t",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21922/hazardous-materials-harmonization-with-international-standards"
-    },
-    {
-      "id": "b1ceaedca392",
-      "category": "LEGIS",
-      "date": "2026-10-27",
-      "title": "Bipartisan Safer Communities Act of 2022-Criteria for National Instant Criminal Background Check System (“NICS”) Background Checks of Firearm Handlers",
-      "summary": "The United States Department of Justice (\"Department\") is amending several of its regulations pertaining to the National Instant Criminal Background Check System (\"NICS\" or \"system\") of the Federal Bureau of Investigation (\"FBI\") to authorize Federal Firearm Licensees (\"FFLs\" or \"licensees\") to use NICS for purposes of voluntarily conducting employment background checks relating to certain current or prospective FFL ",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21920/bipartisan-safer-communities-act-of-2022-criteria-for-national-instant-criminal-background-check"
-    },
-    {
-      "id": "4c5958e2804e",
-      "category": "LEGIS",
-      "date": "2026-10-27",
-      "title": "Safety Zone; Southern California Annual Firework Events for the Los Angeles-Long Beach Captain of the Port Zone",
-      "summary": "The Coast Guard is proposing to amend the Southern California Firework Events for Los Angeles-Long Beach Captain of the Port Zone Annual Safety Zones. The Coast Guard proposes eight new events to be added, thirteen events to be updated, and two events removed. The safety zones are needed to protect waterways users and keep them clear of potentially harmful debris within the fallout zone. This proposed rulemaking woul",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21918/safety-zone-southern-california-annual-firework-events-for-the-los-angeles-long-beach-captain-of-the"
-    },
-    {
-      "id": "7aa3e0bc6886",
-      "category": "LEGIS",
-      "date": "2026-10-27",
-      "title": "Special Conditions: Embraer S.A. Model ERJ 190-400 Airplane; Embraer Enhanced Takeoff System",
-      "summary": "This action proposes special conditions for the Embraer S.A. (Embraer) Model ERJ 190-400 series airplane. This airplane will have a novel or unusual design feature when compared to the state of technology envisioned in the airworthiness standards for transport category airplanes. This design feature is a functionality known as the Embraer Enhanced Takeoff System (E\\2\\TS). The applicable airworthiness regulations do n",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21907/special-conditions-embraer-sa-model-erj-190-400-airplane-embraer-enhanced-takeoff-system"
-    },
-    {
-      "id": "b68bc0a8b897",
-      "category": "LEGIS",
-      "date": "2026-10-27",
-      "title": "Commercial Driver's License: PAM Transport, Inc.; Application for Exemption",
-      "summary": "FMCSA requests public comment on PAM Transport Inc.'s (PAM) application for an exemption from the requirement that a holder of a commercial learner's permit (CLP) who has successfully passed the commercial driver's license (CDL) skills test but not yet been issued CDL credentials be accompanied by a CDL holder in the front seat, while the commercial motor vehicle (CMV) is driven by the CLP holder. PAM states that the",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21906/commercial-drivers-license-pam-transport-inc-application-for-exemption"
-    },
-    {
-      "id": "cd438775a7df",
-      "category": "LEGIS",
-      "date": "2026-10-27",
-      "title": "Government-Owned Inventions; Availability for Licensing",
-      "summary": "The invention listed below is owned by an agency of the U.S. Government and is available for licensing to achieve expeditious commercialization of results of federally-funded research and development. Foreign patent applications are filed on selected inventions to extend market coverage for companies and may also be available for licensing.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21905/government-owned-inventions-availability-for-licensing"
-    },
-    {
-      "id": "c1fa57fae5af",
-      "category": "LEGIS",
-      "date": "2026-10-27",
-      "title": "Submission for OMB Review; 30-Day Comment Request; The Impact of Clinical Research Training and Medical Education at the Clinical Center on Physician Careers in Academia and Clinical Research",
-      "summary": "In compliance with the Paperwork Reduction Act of 1995, the National Institutes of Health (NIH) has submitted to the Office of Management and Budget (OMB) a request for review and approval of the information collection listed below.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21904/submission-for-omb-review-30-day-comment-request-the-impact-of-clinical-research-training-and"
-    },
-    {
-      "id": "8247454d6896",
-      "category": "LEGIS",
-      "date": "2026-10-27",
-      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "date": "2026-10-28",
+      "title": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Domestic Petroleum Production, Refining, and Logistics Capacity",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21903/center-for-scientific-review-notice-of-closed-meetings"
+      "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22052/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended"
     },
     {
-      "id": "6c4a44725660",
+      "id": "9e7f11820407",
       "category": "LEGIS",
-      "date": "2026-10-27",
-      "title": "Airworthiness Directives; Ontic Engineering and Manufacturing, Inc. (Type Certificate Previously Held by Swearingen, Fairchild Aircraft, and M7 Aerospace) Airplanes",
-      "summary": "The FAA is adopting a new airworthiness directive (AD) for certain Ontic Engineering and Manufacturing, Inc. Model SA226-T, SA226- AT, SA226-T(B), SA226-TC, SA227-AC (C-26A), SA227-AT, SA227-BC (C-26A), SA227-PC, SA227-CC, SA227-DC (C-26B), and SA227-TT (300) airplanes. This AD was prompted by reports of in-flight pitch trim actuator failures. This AD requires repetitively inspecting the pitch trim actuator for crack",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21902/airworthiness-directives-ontic-engineering-and-manufacturing-inc-type-certificate-previously-held-by"
-    },
-    {
-      "id": "b0ad7af0ceca",
-      "category": "LEGIS",
-      "date": "2026-10-27",
-      "title": "Establishment of Federal Advisory Committees-Advisory Council on Health and Human Performance Optimization",
-      "summary": "The DoD (referred to herein as \"the Department of War\" or \"DoW\") is publishing this notice to announce it is establishing the Advisory Council on Health and Human Performance Optimization (\"the Council\") as a discretionary Federal advisory committee.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21900/establishment-of-federal-advisory-committees-advisory-council-on-health-and-human-performance"
-    },
-    {
-      "id": "a8dbe7446ffd",
-      "category": "LEGIS",
-      "date": "2026-10-27",
-      "title": "Agency Information Collection Activities: Comment Request: Survey of Earned Doctorates",
-      "summary": "The National Center for Science and Engineering Statistics within the National Science Foundation (NSF) is announcing plans to request renewal of the Survey of Earned Doctorates (OMB Control Number 3145-0019) . In accordance with the requirements of the Paperwork Reduction Act of 1995, we are providing opportunity for public comment on this action. After obtaining and considering public comments, NCSES will prepare t",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21898/agency-information-collection-activities-comment-request-survey-of-earned-doctorates"
-    },
-    {
-      "id": "1702ba92222d",
-      "category": "FDA",
-      "date": "2026-10-27",
-      "title": "Determination That PEPCID RPD (Famotidine) Orally Disintegrating Tablets, 20 Milligrams and 40 Milligrams Were Not Withdrawn From Sale for Reasons of Safety or Effectiveness",
-      "summary": "The Food and Drug Administration (FDA, Agency, or we) has determined that PEPCID RPD (famotidine) orally disintegrating tablets, 20 milligrams (mg) and 40 mg, were not withdrawn from sale for reasons of safety or effectiveness. This determination will allow FDA to approve abbreviated new drug applications (ANDAs) for famotidine) orally disintegrating tablets, 20 mg and 40 mg, if all other legal and regulatory require",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21897/determination-that-pepcid-rpd-famotidine-orally-disintegrating-tablets-20-milligrams-and-40"
-    },
-    {
-      "id": "98516a9cc3ee",
-      "category": "LEGIS",
-      "date": "2026-10-27",
-      "title": "Notice of Publication of U.S. Resources Management Industry Listing and Opportunity To Apply for the Listing",
-      "summary": "The International Trade Administration (ITA) announces the launch of the U.S. Resources Management Industry Listing (RMIL), or \"industry listing.\" The RMIL is intended to identify U.S. companies operating in water and wastewater treatment; waste management and recycling, including critical minerals recycling; air quality measuring, monitoring and control; monitoring and instrumentation; weather and forecasting; and o",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21896/notice-of-publication-of-us-resources-management-industry-listing-and-opportunity-to-apply-for-the"
-    },
-    {
-      "id": "0145c88a14c5",
-      "category": "LEGIS",
-      "date": "2026-10-27",
-      "title": "Notice of Agreements Filed",
+      "date": "2026-10-28",
+      "title": "Decreasing Housing Costs for the American People",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21895/notice-of-agreements-filed"
+      "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22051/decreasing-housing-costs-for-the-american-people"
     },
     {
-      "id": "68e8633c0188",
+      "id": "c58db193956c",
       "category": "LEGIS",
-      "date": "2026-10-27",
-      "title": "Formations of, Acquisitions by, and Mergers of Bank Holding Companies",
+      "date": "2026-10-28",
+      "title": "National Seafood Month, 2026",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21894/formations-of-acquisitions-by-and-mergers-of-bank-holding-companies"
+      "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22050/national-seafood-month-2026"
     },
     {
-      "id": "9a821447ef69",
+      "id": "6afad92ca215",
       "category": "LEGIS",
-      "date": "2026-10-27",
-      "title": "Agency Information Collection Activities: Requests for Comments; Clearance of a Renewed Approval of Information Collection: Aviation Research Grants Program",
-      "summary": "In accordance with the Paperwork Reduction Act of 1995, FAA invites public comments about our intention to request the Office of Management and Budget (OMB) approval to renew an information collection. The Federal Register Notice with a 60-day comment period soliciting comments on the following collection of information was published on August 26. 2026. The collection involves information to be used to and/or is nece",
+      "date": "2026-10-28",
+      "title": "Adjusting Imports of Wind Turbines and Their Parts and Components Into the United States",
+      "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21893/agency-information-collection-activities-requests-for-comments-clearance-of-a-renewed-approval-of"
+      "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22049/adjusting-imports-of-wind-turbines-and-their-parts-and-components-into-the-united-states"
     },
     {
-      "id": "e715f8982bac",
+      "id": "88febcacbfd4",
       "category": "LEGIS",
-      "date": "2026-10-27",
-      "title": "Petition for Exemption; Summary of Petition Received; Placer Mosquito and Vector Control District",
-      "summary": "This notice contains a summary of a petition seeking relief from specified requirements of Federal Aviation Regulations. The purpose of this notice is to improve the public's awareness of, and participation in, the FAA's exemption process. Neither publication of this notice nor the inclusion nor omission of information in the summary is intended to affect the legal status of the petition or its final disposition.",
+      "date": "2026-10-28",
+      "title": "Television Broadcasting Services Elko, Nevada",
+      "summary": "This document amends the Table of TV Allotments (table) of the Federal Communications Commission's (Commission) rules by substituting VHF channel 10 for UHF channel 20 at Elko, Nevada in response to a petition for rulemaking filed by Reno (KENV-TV) Licensee, Inc. (Licensee), the licensee of full power television station KENV-DT (KENV-DT or Station), Elko, Nevada. The Media Bureau (Bureau) previously granted a petitio",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21892/petition-for-exemption-summary-of-petition-received-placer-mosquito-and-vector-control-district"
+      "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22034/television-broadcasting-services-elko-nevada"
     },
     {
-      "id": "972e429e2835",
+      "id": "4326d98e5bb1",
       "category": "LEGIS",
-      "date": "2026-10-27",
-      "title": "Patient Protection and Affordable Care Act, Exchange Pre-Eligibility Verification",
-      "summary": "This proposed rule would implement new requirements specified under the Working Families Tax Cut (WFTC) legislation related to Exchange eligibility and verification. This proposed rule contains related updates to provisions affecting inconsistency periods, inconsistency verification procedures, annual eligibility redeterminations and eligibility redeterminations during the plan year, as well as expanding enrollment m",
+      "date": "2026-10-28",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comments Requested; Revising a Previously Approved Collection; Title-Explosives Licensee/Permittee Inventories",
+      "summary": "The Department of Justice (DOJ), Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF), will be submitting the following information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995.",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21891/patient-protection-and-affordable-care-act-exchange-pre-eligibility-verification"
+      "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22013/agency-information-collection-activities-proposed-collection-comments-requested-revising-a"
     },
     {
-      "id": "00d297e37464",
+      "id": "351d84563913",
       "category": "LEGIS",
-      "date": "2026-10-27",
-      "title": "Notice of Intent To Establish a Negotiated Rulemaking Advisory Committee for Tire Safety; Request for Comments and Solicitation of Nominations for Membership",
-      "summary": "NHTSA announces its intent to form a Negotiated Rulemaking Advisory Committee for Tire Safety. The committee will advise the Secretary on tire safety matters through a negotiated rulemaking process. The committee will terminate when its stated objectives have been accomplished (i.e., the committee submits its recommendations to the Secretary) or upon the expiration of a period not to exceed two years, unless the char",
+      "date": "2026-10-28",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comments Requested; Revising a Previously Approved Collection Title-Prevent All Cigarette Trafficking (PACT) Act Registration Form-ATF Form 5070.1",
+      "summary": "The Department of Justice (DOJ), Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF), will be submitting the following information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995.",
       "tags": [
         "Federal Register"
       ],
-      "priority": "high",
+      "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21889/notice-of-intent-to-establish-a-negotiated-rulemaking-advisory-committee-for-tire-safety-request-for"
+      "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22012/agency-information-collection-activities-proposed-collection-comments-requested-revising-a"
+    },
+    {
+      "id": "7595dd4bf98d",
+      "category": "LEGIS",
+      "date": "2026-10-28",
+      "title": "Valued Advisers Trust and Long Short Advisors, LLC",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22011/valued-advisers-trust-and-long-short-advisors-llc"
+    },
+    {
+      "id": "8f6daa6ad381",
+      "category": "LEGIS",
+      "date": "2026-10-28",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comments Requested; Revising a Previously Approved Collection; Explosives Responsible Person Questionnaire (RPQ)-ATF Form 5400.27",
+      "summary": "The Department of Justice (DOJ), Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF), will be submitting the following information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22010/agency-information-collection-activities-proposed-collection-comments-requested-revising-a"
+    },
+    {
+      "id": "2fd19b2479a3",
+      "category": "LEGIS",
+      "date": "2026-10-28",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comments Requested; Revising a Previously Approved Collection; Title-Application for Explosives License/Permit-ATF Form 5400.13",
+      "summary": "The Department of Justice (DOJ), Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF), will be submitting the following information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22009/agency-information-collection-activities-proposed-collection-comments-requested-revising-a"
+    },
+    {
+      "id": "5e5a7ae5325b",
+      "category": "LEGIS",
+      "date": "2026-10-28",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comments Requested; Revising a Previously Approved Collection Explosives Employee Possessor Questionnaire (EPQ)-ATF Form 5400.28",
+      "summary": "The Department of Justice (DOJ), Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF), will be submitting the following information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22008/agency-information-collection-activities-proposed-collection-comments-requested-revising-a"
+    },
+    {
+      "id": "17193d3ee3c8",
+      "category": "LEGIS",
+      "date": "2026-10-28",
+      "title": "Fisheries of the Northeastern United States; Atlantic Bluefish Fishery; Quota Transfer From New York to North Carolina",
+      "summary": "NMFS announces that the State of New York is transferring a portion of their 2026 commercial bluefish quota to the State of North Carolina. This quota adjustment is necessary to comply with the Atlantic Bluefish Fishery Management Plan (FMP) quota transfer provisions. This announcement informs the public of the revised 2026 commercial bluefish quotas for New York and North Carolina.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22007/fisheries-of-the-northeastern-united-states-atlantic-bluefish-fishery-quota-transfer-from-new-york"
+    },
+    {
+      "id": "a4b0253ca080",
+      "category": "LEGIS",
+      "date": "2026-10-28",
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Employee Polygraph Protection Act",
+      "summary": "The Department of Labor (DOL) is submitting this Wage and Hour Division (WHD)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22006/agency-information-collection-activities-submission-for-omb-review-comment-request-employee"
+    },
+    {
+      "id": "f09022ab6f55",
+      "category": "LEGIS",
+      "date": "2026-10-28",
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 163",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22005/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule"
+    },
+    {
+      "id": "c1077d7a0d9c",
+      "category": "LEGIS",
+      "date": "2026-10-28",
+      "title": "Notice of Termination of Environmental Impact Statement for the Orange and Rockland Utilities Transmission Line Upgrade Project, West Point, New York",
+      "summary": "The Department of the Army (Army) is terminating the preparation of an EIS addressing the Orange and Rockland Utilities Transmission Line Upgrade project at West Point, New York.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22004/notice-of-termination-of-environmental-impact-statement-for-the-orange-and-rockland-utilities"
+    },
+    {
+      "id": "a95b6bd8ad9f",
+      "category": "LEGIS",
+      "date": "2026-10-28",
+      "title": "Fisheries of the Northeastern United States; Summer Flounder Fishery; Quota Transfer From Virginia to New Jersey",
+      "summary": "NMFS announces that the Commonwealth of Virginia is transferring a portion of its 2026 commercial summer flounder quota to the State of New Jersey. This adjustment to the 2026 fishing year quota is necessary to comply with the Summer Flounder, Scup, and Black Sea Bass Fishery Management Plan (FMP) quota transfer provisions. This announcement informs the public of the revised 2026 commercial quotas for Virginia and Ne",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22003/fisheries-of-the-northeastern-united-states-summer-flounder-fishery-quota-transfer-from-virginia-to"
+    },
+    {
+      "id": "4c62b943a5b3",
+      "category": "LEGIS",
+      "date": "2026-10-28",
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Form N-54A",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22002/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-form"
+    },
+    {
+      "id": "52fd490dd9c6",
+      "category": "LEGIS",
+      "date": "2026-10-28",
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 17f-1",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22001/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule"
+    },
+    {
+      "id": "b2c213d085a8",
+      "category": "LEGIS",
+      "date": "2026-10-28",
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 433",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22000/agency-information-collection-activities-submission-for-omb-review-comment-request-extension-rule"
+    },
+    {
+      "id": "c7815eca9f48",
+      "category": "LEGIS",
+      "date": "2026-10-28",
+      "title": "Fisheries of the Caribbean, Gulf of America, and South Atlantic; Reef Fish Fishery of the Gulf and Coastal Migratory Pelagic Fishery of the Gulf and Atlantic Region; Request for an Exempted Fishing Permit",
+      "summary": "NMFS announces the receipt of an application for an exempted fishing permit (EFP) to support cooperative research activities funded by the NOAA RESTORE Science Program to verify, characterize, monitor, and model multi-species fish spawning aggregations in Federal waters of the Gulf of America (Gulf). This notice gives the public an opportunity to review the application and provide comments to NMFS regarding the reque",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/28/2026-21999/fisheries-of-the-caribbean-gulf-of-america-and-south-atlantic-reef-fish-fishery-of-the-gulf-and"
     }
   ]
 }
