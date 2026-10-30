@@ -1,265 +1,265 @@
 {
-  "generated_at": "2026-10-29T18:25:38.046Z",
+  "generated_at": "2026-10-30T17:59:05.745Z",
   "updates": [
     {
-      "id": "5b133bcadb5e",
+      "id": "f8086398d260",
       "category": "LEGIS",
-      "date": "2026-10-29",
-      "title": "Reducing Bureaucracy and Burden for Block Grants",
-      "summary": "ACF proposes to amend its block grant regulations to modernize requirements, reduce administrative burden on States and Tribal grantees, and improve the clarity and efficiency of program administration. The current regulations include outdated provisions and procedural requirements that no longer reflect statutory authority or agency practice. The proposed revisions are intended to streamline grantee obligations, eli",
+      "date": "2026-10-30",
+      "title": "Further Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Motor Vehicles",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22292/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset"
+    },
+    {
+      "id": "7e4f5a8c9253",
+      "category": "LEGIS",
+      "date": "2026-10-30",
+      "title": "Safety Zone; M/T KALAHARI, Gulf of America, Pascagoula, MS",
+      "summary": "The Coast Guard is establishing a temporary safety zone for navigable waters of the Gulf of America. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards associated with the M/T KALAHARI that will be conducting repairs at anchorage due to both auxiliary boilers being out of service rendering the inert gas system inoperable. Entry of vessels or persons into this zo",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22269/safety-zone-mt-kalahari-gulf-of-america-pascagoula-ms"
+    },
+    {
+      "id": "ff94407b00b3",
+      "category": "LEGIS",
+      "date": "2026-10-30",
+      "title": "Privacy Act of 1974; System of Records",
+      "summary": "Pursuant to the Privacy Act of 1974, notice is hereby given that the VA is modifying the system of records entitled, \"Individuals Submitting Invoices--Vouchers for Payment and Accounting Transactional Data--VA\" (13VA047). This system is used for payment processing, general accounting, benefit payment authorization for the benefit of veterans and their families, and government and commercial service providers for cont",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22254/privacy-act-of-1974-system-of-records"
+    },
+    {
+      "id": "dffc4ea30cd7",
+      "category": "LEGIS",
+      "date": "2026-10-30",
+      "title": "Notice of Public Hearing and Business Meeting November 4, 2026 and December 3, 2026",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22253/notice-of-public-hearing-and-business-meeting-november-4-2026-and-december-3-2026"
+    },
+    {
+      "id": "9fe94f9af733",
+      "category": "LEGIS",
+      "date": "2026-10-30",
+      "title": "Determination Pursuant to Section 451 of the Foreign Assistance Act of 1961",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22252/determination-pursuant-to-section-451-of-the-foreign-assistance-act-of-1961"
+    },
+    {
+      "id": "e9c764a52c66",
+      "category": "LEGIS",
+      "date": "2026-10-30",
+      "title": "Safety Zone; S.S. UNITED STATES Dead Ship Tow, Sector Mobile Captain of the Port Zone, Mobile, AL",
+      "summary": "The Coast Guard is establishing a temporary moving safety zone around the S.S. UNITED STATES and all vessels involved in its towage through the Mobile River Channel, Mobile Bay, and the Gulf of America. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards created by the dead ship tow. Entry of persons and vessels into this zone is prohibited unless specifically au",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22249/safety-zone-ss-united-states-dead-ship-tow-sector-mobile-captain-of-the-port-zone-mobile-al"
+    },
+    {
+      "id": "4e4e5f6148a5",
+      "category": "LEGIS",
+      "date": "2026-10-30",
+      "title": "Utility Scale Wind Towers From Malaysia: Final Results of the Expedited First Sunset Review of the Countervailing Duty Order",
+      "summary": "The U.S. Department of Commerce (Commerce) finds that revocation of the countervailing duty (CVD) order on utility scale wind towers (wind towers) from Malaysia would be likely to lead to continuation or recurrence of countervailable subsidies at the levels indicated in the \"Final Results of Sunset Review\" section of this notice.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22245/utility-scale-wind-towers-from-malaysia-final-results-of-the-expedited-first-sunset-review-of-the"
+    },
+    {
+      "id": "673c29556441",
+      "category": "LEGIS",
+      "date": "2026-10-30",
+      "title": "Diamond Sawblades and Parts Thereof From China; Determination",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22244/diamond-sawblades-and-parts-thereof-from-china-determination"
+    },
+    {
+      "id": "f7f4b1f7d6c8",
+      "category": "LEGIS",
+      "date": "2026-10-30",
+      "title": "Notification of Citizens Coinage Advisory Committee Public Meeting",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22243/notification-of-citizens-coinage-advisory-committee-public-meeting"
+    },
+    {
+      "id": "24f270d97dd3",
+      "category": "LEGIS",
+      "date": "2026-10-30",
+      "title": "Notice of Meeting of the National Parks Overflights Advisory Group",
+      "summary": "The Federal Aviation Administration (FAA) and the National Park Service (NPS), in accordance with the National Parks Air Tour Management Act of 2000 (NPATMA), announce the next meeting of the National Parks Overflights Advisory Group (NPOAG). This notification provides the date, location, and agenda for the meeting.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22242/notice-of-meeting-of-the-national-parks-overflights-advisory-group"
+    },
+    {
+      "id": "89d93dfd642a",
+      "category": "LEGIS",
+      "date": "2026-10-30",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; CDFI Program and NACA Program Financial Assistance and Technical Assistance Applications",
+      "summary": "The U.S. Department of the Treasury, as part of its continuing effort to reduce paperwork and respondent burden, invites the general public and other Federal agencies to comment on proposed and/or continuing information collections, as required by the Paperwork Reduction Act of 1995. Currently, the Community Development Financial Institutions Fund (CDFI Fund), U.S. Department of the Treasury, is soliciting comments c",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22123/reducing-bureaucracy-and-burden-for-block-grants"
+      "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22241/agency-information-collection-activities-proposed-collection-comment-request-cdfi-program-and-naca"
     },
     {
-      "id": "2664d596be8c",
-      "category": "FDA",
-      "date": "2026-10-29",
-      "title": "Mandatory Guidelines for Federal Workplace Drug Testing Programs Using Urine (UrMG)",
-      "summary": "The Department of Health and Human Services (\"HHS\" or \"Department\") is proposing to revise the Mandatory Guidelines for Federal Workplace Drug Testing Programs using Urine (UrMG), published in the Federal Register on October 12, 2023).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22122/mandatory-guidelines-for-federal-workplace-drug-testing-programs-using-urine-urmg"
-    },
-    {
-      "id": "6de7d1277294",
-      "category": "FDA",
-      "date": "2026-10-29",
-      "title": "Mandatory Guidelines for Federal Workplace Drug Testing Programs Using Oral Fluid (OFMG)",
-      "summary": "The Department of Health and Human Services (\"HHS\" or \"Department\") is proposing to revise the Mandatory Guidelines for Federal Workplace Drug Testing Programs using Oral Fluid (OFMG) published on October 12, 2023.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22121/mandatory-guidelines-for-federal-workplace-drug-testing-programs-using-oral-fluid-ofmg"
-    },
-    {
-      "id": "a6c465292f34",
+      "id": "dc693b718d19",
       "category": "LEGIS",
-      "date": "2026-10-29",
-      "title": "Office of the Director, National Institutes of Health; Notice of Meeting",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22120/office-of-the-director-national-institutes-of-health-notice-of-meeting"
-    },
-    {
-      "id": "cb63f17b1cd2",
-      "category": "LEGIS",
-      "date": "2026-10-29",
-      "title": "Office of the Director, National Institutes of Health; Notice of Meeting",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22119/office-of-the-director-national-institutes-of-health-notice-of-meeting"
-    },
-    {
-      "id": "0854447ee459",
-      "category": "LEGIS",
-      "date": "2026-10-29",
-      "title": "Office of the Director, National Institutes of Health; Notice of Meeting",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22118/office-of-the-director-national-institutes-of-health-notice-of-meeting"
-    },
-    {
-      "id": "75c66b1b335b",
-      "category": "LEGIS",
-      "date": "2026-10-29",
-      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Generic Clearance for Conducting Research Into Company Alternative Reporting Options",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22117/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
-    },
-    {
-      "id": "2f2052d9efee",
-      "category": "LEGIS",
-      "date": "2026-10-29",
-      "title": "Reducing Bureaucracy and Burden for Child Support Enforcement Programs",
-      "summary": "This final rule amends the Child Support regulations that were unnecessary or obsolete in the following sections: State Plan Approval and Grant Procedures, State Plan Requirements, Standards for Program Operations, Federal Financial Participation, Program Performance Measures, Standards, Financial Incentives, and Penalties, Computerized Support Enforcement Systems, Annual State Self-Assessment Review and Report, Trib",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "high",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22116/reducing-bureaucracy-and-burden-for-child-support-enforcement-programs"
-    },
-    {
-      "id": "3f62aa905642",
-      "category": "LEGIS",
-      "date": "2026-10-29",
-      "title": "Eunice Kennedy Shriver National Institute of Child Health & Human Development; Notice of Meeting",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22115/eunice-kennedy-shriver-national-institute-of-child-health-and-human-development-notice-of-meeting"
-    },
-    {
-      "id": "5ccf6199f5f6",
-      "category": "LEGIS",
-      "date": "2026-10-29",
-      "title": "Fogarty International Center; Notice of Meeting",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22114/fogarty-international-center-notice-of-meeting"
-    },
-    {
-      "id": "0ca4b56029ad",
-      "category": "LEGIS",
-      "date": "2026-10-29",
-      "title": "National Institute of Biomedical Imaging and Bioengineering; Notice of Meeting",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22113/national-institute-of-biomedical-imaging-and-bioengineering-notice-of-meeting"
-    },
-    {
-      "id": "7ccf7b3a85fc",
-      "category": "LEGIS",
-      "date": "2026-10-29",
-      "title": "Eunice Kennedy Shriver National Institute of Child Health & Human Development; Notice of Meeting",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22112/eunice-kennedy-shriver-national-institute-of-child-health-and-human-development-notice-of-meeting"
-    },
-    {
-      "id": "b370f2a6c297",
-      "category": "LEGIS",
-      "date": "2026-10-29",
-      "title": "Eunice Kennedy Shriver National Institute of Child Health & Human Development; Notice of Meeting",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22111/eunice-kennedy-shriver-national-institute-of-child-health-and-human-development-notice-of-meeting"
-    },
-    {
-      "id": "fd3d9150ed55",
-      "category": "LEGIS",
-      "date": "2026-10-29",
-      "title": "Fogarty International Center; Notice of Meeting",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22110/fogarty-international-center-notice-of-meeting"
-    },
-    {
-      "id": "0cc44e592bb3",
-      "category": "LEGIS",
-      "date": "2026-10-29",
-      "title": "National Institute on Aging; Notice of Meeting",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22109/national-institute-on-aging-notice-of-meeting"
-    },
-    {
-      "id": "2f6307f72555",
-      "category": "LEGIS",
-      "date": "2026-10-29",
-      "title": "National Institute on Aging; Notice of Meeting",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22108/national-institute-on-aging-notice-of-meeting"
-    },
-    {
-      "id": "29eb24e204ea",
-      "category": "LEGIS",
-      "date": "2026-10-29",
-      "title": "New England Fishery Management Council; Public Meeting",
-      "summary": "The New England Fishery Management Council (Council) is scheduling a public meeting of its Groundfish Recreational Advisory Panel via webinar to consider actions affecting New England fisheries in the exclusive economic zone (EEZ). Recommendations from this group will be brought to the full Council for formal consideration and action, if appropriate.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22107/new-england-fishery-management-council-public-meeting"
-    },
-    {
-      "id": "398c35ec9b0a",
-      "category": "CMS",
-      "date": "2026-10-29",
-      "title": "Agency Information Collection Activities: Submission for OMB Review; Comment Request",
-      "summary": "The Centers for Medicare & Medicaid Services (CMS) is announcing an opportunity for the public to comment on CMS' intention to collect information from the public. Under the Paperwork Reduction Act of 1995 (PRA), federal agencies are required to publish notice in the Federal Register concerning each proposed collection of information, including each proposed extension or reinstatement of an existing collection of inf",
+      "date": "2026-10-30",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; New Markets Tax Credit Program Community Development Entity (CDE) Certification Application",
+      "summary": "The Department of the Treasury, as part of its continuing effort to reduce paperwork and respondent burden, invites the general public and other Federal agencies to take this opportunity to comment on proposed and/or continuing information collections, as required by the Paperwork Reduction Act of 1995. Currently, the Community Development Financial Institutions Fund (CDFI Fund), Department of the Treasury, is solici",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22106/agency-information-collection-activities-submission-for-omb-review-comment-request"
+      "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22240/agency-information-collection-activities-proposed-collection-comment-request-new-markets-tax-credit"
     },
     {
-      "id": "12adeaccb8f9",
+      "id": "9c1a8be6d7c8",
       "category": "LEGIS",
-      "date": "2026-10-29",
-      "title": "National Institute of Biomedical Imaging and Bioengineering; Notice of Meeting",
+      "date": "2026-10-30",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Performance Progress Report and Financial Statement Audit Report Form",
+      "summary": "The U.S. Department of the Treasury, as part of its continuing effort to reduce paperwork and respondent burden, invites the public and other Federal agencies to take this opportunity to comment on proposed information collections, as required by the Paperwork Reduction Act of 1995, Public Law 104-13 (44 U.S.C. 3506(c)(2)(A)). Currently, the Community Development Financial Institutions Fund (CDFI Fund), the Departmen",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22239/agency-information-collection-activities-proposed-collection-comment-request-performance-progress"
+    },
+    {
+      "id": "580c9ffc970c",
+      "category": "LEGIS",
+      "date": "2026-10-30",
+      "title": "Foreign-Trade Zone (FTZ) 40, Notification of Proposed Production Activity; Atlantic Veal & Lamb, LLC; (Meatpacking and Processing); Creston and Sterling, Ohio",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22238/foreign-trade-zone-ftz-40-notification-of-proposed-production-activity-atlantic-veal-and-lamb-llc"
+    },
+    {
+      "id": "8c4023d6a37e",
+      "category": "LEGIS",
+      "date": "2026-10-30",
+      "title": "Foreign-Trade Zone (FTZ) 83; Authorization of Production Activity; Adtran, Inc.; (Telecommunications Equipment); Huntsville, Alabama",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22105/national-institute-of-biomedical-imaging-and-bioengineering-notice-of-meeting"
+      "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22237/foreign-trade-zone-ftz-83-authorization-of-production-activity-adtran-inc-telecommunications"
     },
     {
-      "id": "7d6f34b576cc",
+      "id": "8dbbde6808e9",
       "category": "LEGIS",
-      "date": "2026-10-29",
-      "title": "Agency Information Collection Activities: Proposed Collection; Comment Request-The FNA User Access Request Form FNA-674",
-      "summary": "In accordance with the Paperwork Reduction Act of 1995, this notice invites the general public and other public agencies to comment on the proposed information collection. This is a revision of a currently approved collection. The purpose of this information collection request is to continue the use of the electronic form FNA-674, titled \"The FNA User Access Request Form.\" This form will continue to allow access to c",
+      "date": "2026-10-30",
+      "title": "Production Activity Not Authorized; Foreign-Trade Zone (FTZ) 116; Valero Energy Corporation on Behalf of The Premcor Refining Group, Inc.; (Renewable Fuels); Port Arthur, Texas",
+      "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
-      "priority": "medium",
+      "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/10/29/2026-22104/agency-information-collection-activities-proposed-collection-comment-request-the-fna-user-access"
+      "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22236/production-activity-not-authorized-foreign-trade-zone-ftz-116-valero-energy-corporation-on-behalf-of"
+    },
+    {
+      "id": "d988fdc36902",
+      "category": "LEGIS",
+      "date": "2026-10-30",
+      "title": "Foreign-Trade Zone (FTZ) 46; Authorization of Production Activity; Patheon API, Inc.; (Pharmaceutical Products); Cincinnati, Ohio",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22235/foreign-trade-zone-ftz-46-authorization-of-production-activity-patheon-api-inc-pharmaceutical"
+    },
+    {
+      "id": "06269e97d977",
+      "category": "LEGIS",
+      "date": "2026-10-30",
+      "title": "Production Activity Not Authorized; Foreign-Trade Zone (FTZ) 214; Aprinnova LLC; (Cosmetic Products); Leland, North Carolina",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22234/production-activity-not-authorized-foreign-trade-zone-ftz-214-aprinnova-llc-cosmetic-products-leland"
+    },
+    {
+      "id": "7b4c97720cfd",
+      "category": "LEGIS",
+      "date": "2026-10-30",
+      "title": "Strontium Chromate From France: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+      "summary": "The U.S. Department of Commerce (Commerce) determines that Soci[eacute]t[eacute] Nouvelle des Couleurs Zinciques (SNCZ) did not make sales of strontium chromate from France in the United States at less than normal value (NV) during the period of review (POR) November 1, 2023, through October 31, 2024.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22233/strontium-chromate-from-france-final-results-of-antidumping-duty-administrative-review-2023-2024"
+    },
+    {
+      "id": "cd93c188cfc3",
+      "category": "LEGIS",
+      "date": "2026-10-30",
+      "title": "Release of Waybill Data",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22232/release-of-waybill-data"
     }
   ]
 }
